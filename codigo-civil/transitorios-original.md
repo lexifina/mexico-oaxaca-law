@@ -20,3 +20,4 @@ Y lo comunico a usted, para su conocimiento y fines consiguientes.
 SUFRAGIO EFECTIVO. NO REELECCION.
 Oaxaca de Juárez, a once de diciembre de mil novecientos cuarenta y tres.
 El Secretario General del Despacho, Lic. RAYMUNDO MANZANO TROVAMALA.
+N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.
