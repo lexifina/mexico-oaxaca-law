@@ -1093,6 +1093,8 @@ Amenazas.
 264.- Se aplicarán de tres meses a tres años de prisión y multa de trescientos a mil pesos:
 I.- Al que de cualquier modo amenace a otro con causarle un mal en su persona, en sus bienes, en su honor o en sus derechos; o en la persona, honor, bienes o derechos de alguien con quien esté ligado con algún vínculo;
 II.- Al que por medio de amenazas de cualquier género trate de impedir que otro ejecute lo que tiene derecho de hacer.
+(ADICIONADO, P.O. 12 DE ABRIL DE 2004)
+Este delito se perseguirá a petición de parte ofendida.
 265.- Se exigirá caución de no ofender:
 I.- Si los daños con que se amenaza son leves y evitables;
 II.- Si las amenazas son por medio de emblemas o señas, jeroglíficos o frases de doble sentido;
