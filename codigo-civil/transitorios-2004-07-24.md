@@ -1,0 +1,3 @@
+P.O. 24 DE JULIO DE 2004.
+PRIMERO.- Este Decreto entrará en vigor en la fecha de su publicación en el Periódico Oficial del Gobierno del Estado, del Reglamento Interior Reformado de la Dirección del Registro Civil. Publíquese el presente Decreto en el Periódico Oficial del Estado.
+SEGUNDO.- Se concede al Titular del Poder Ejecutivo el plazo de ciento veinte días naturales para reformar el Reglamento Interior de la Dirección del Registro Civil, en el que deberá establecer los lineamientos legales y técnicos para otorgar plena certidumbre a los actos validados por la firma facsimilar digitalizada.
