@@ -409,6 +409,8 @@ Ataques a las vías de comunicación.
 166.- Las disposiciones de este Capítulo tendrán aplicación siempre y cuando se trate de actos u omisiones que no deban sancionarse por los Tribunales Federales en razón de quedar comprendidos en los diversos ordenamientos de la Ley de Vías Generales de Comunicación.
 167.- Se llaman caminos públicos las vías de Tránsito habitual, destinadas al uso público, sea quien fuere el propietario, o cualquiera que sea el medio de locomoción que se permita y las dimensiones que tuviere; excluyendo los tramos que se hallen dentro de los límites de las poblaciones.
 168.- Al que quite, corte o destruya las ataderas que detiene una embarcación, u otro vehículo, o quite el obstáculo que impida o modere su movimiento, se le aplicará prisión de quince días a seis meses, si no resultare daño alguno; si se causare, se aplicará además la sanción correspondiente por el delito que resulte.
+(ADICIONADO, P.O. 30 DE OCTUBRE DE 1982)
+168 Bis.- Al que se apodere de uno o varios vehículos de motor destinados al servicio público o interrumpa o lesione el servicio a que están destinados, sin intención de apropiarse de ellos, se le aplicará sanción de uno a seis años de prisión y multa de mil a cinco mil pesos.
 169.- Se impondrán de tres días a cuatro años de prisión y multa de cincuenta a quinientos pesos:
 I.- Por el sólo hecho de quitar o modificar sin la debida autorización: uno o más durmientes, rieles, clavos, tornillos, planchas y demás objetos similares que los sujeten, o un cambia-vías de ferrocarril;
 II.- Por el simple hecho de romper o separar alambres, alguna de las piezas de máquinas, aparatos, transformadores, postes o aisladores empleados en el servicio telefónico o de fuerza motriz;
