@@ -18,3 +18,4 @@ SUFRAGIO EFECTIVO. NO REELECCION.
 Oaxaca de Juárez, a veintinueve de mayo de mil novecientos cuarenta y cuatro.
 El Secretario General del Despacho, Lic. Raymundo Manzano Trovamala.
 Al C..
+N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.
