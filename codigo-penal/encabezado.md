@@ -140,8 +140,8 @@ XVIII.- Prohibición de abandonar una demarcación geográfica sin autorización
 Las penas y medidas de seguridad no trascienden de la persona y bienes del sujeto activo, salvo lo dispuesto en los artículos 32, 33 y 44 de este código.
 CAPITULO II.
 Prisión.
-(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)
-18.- La prisión por un solo delito, podrá ser de tres días a cuarenta años. En caso de concurso de delitos, se estará a lo dispuesto por los artículos 68 y 69 de este Código.
+(REFORMADO, P.O. 20 DE DICIEMBRE DE 2003)
+18.- La prisión por un solo delito, podrá ser de tres días a setenta años. En caso de concurso de delitos, se estará a lo dispuesto por los artículos 68 y 69 de este Código.
 (REFORMADO, P.O. 3 DE OCTUBRE DE 1998)
 19.- La privación de la libertad corporal definitiva, se compurgará en los reclusorios o centros de readaptación social, en los términos de la Ley de Ejecución de Sanciones Privativas y Medidas Restrictivas de Libertad para el Estado de Oaxaca.
 Los procesados sujetos a prisión preventiva y los infractores políticos, serán recluidos en establecimientos o departamentos especiales.
@@ -367,6 +367,8 @@ b).- Cuando las acciones u omisiones constituyen un delito continuado.
 (REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)
 69.- En caso de concurso ideal, se aplicará la pena correspondiente al delito que merezca la mayor, la cual podrá aumentarse con los mínimos de las penas correspondientes a cada uno de los demás delitos sin que la suma exceda de los máximos señalados en el Título Tercero de este Libro Primero.
 En el caso del párrafo anterior y del artículo 68, el Juez señalará en la sentencia, la sanción correspondiente a cada uno de los delitos por los que se condena al agente.
+(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2003)
+No podrá aumentarse pena alguna en los términos del primer párrafo de este artículo, cuando el responsable que ha causado la lesión de más de un bien jurídico no fue encontrado en estado de ebriedad, o bajo el influjo de alguna droga o el vehículo que conducía no estaba destinado al servicio público de pasajeros ni de transporte escolar.
 (ADICIONADO, P.O. 3 DE OCTUBRE DE 1998)
 CAPITULO IX.
 Reincidencia y habitualidad.
@@ -561,6 +563,8 @@ Las demás sanciones prescriben por el transcurso de un lapso igual al que debí
 131.- Cuando el reo hubiere extinguido ya una parte de su sanción, se necesitará para la prescripción tanto tiempo como el que falte de la condena.
 132.- La prescripción de las sanciones corporales, sólo se interrumpe aprehendiendo al reo, aunque la aprehensión se ejecute por otro delito diverso.
 La prescripción de las pecuniarias sólo se interrumpe por el embargo de bienes para hacerlas efectivas.
+(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2003)
+El Juez de la causa podrá interrumpir la prescripción del delito a petición del Ministerio Público, cuando el inculpado se halle bajo proceso penal en otra entidad federativa.
 133.- La privación de derechos civiles o políticos prescribirá en veinte años.
 134.- Los reos de homicidio intencional o de lesiones o violencia graves, a quienes se hubiere impuesto la prohibición de ir a determinado lugar, y cuya sanción corporal haya prescrito, no podrán residir en el lugar donde vive el ofendido o sus descendientes, ascendientes, cónyuge o hermanos, sino transcurrido después de consumada la prescripción, un tiempo igual al que debiera durar la sanción.
 135.- Para la prescripción de las acciones penales, se tendrá como base el término medio aritmético de las sanciones, según el delito de que se trate.
@@ -631,7 +635,13 @@ CAPITULO IV.
 Asociaciones delictuosas.
 (REFORMADO, P.O. 3 DE JUNIO DE 1995)
 164.- Se impondrán prisión de tres a seis años y multa de cincuenta a cien días de salario, al que tomare participación en una asociación o banda de tres o más personas, organizada para cometer alguno o algunos delitos, por el solo hecho de ser miembro de la asociación e independientemente de la pena que le corresponda por el delito que pudiere cometer o haya cometido. Se presumirá que las organizaciones armadas tienen por objeto delinquir, cuando carezcan de la autorización legal correspondiente.
-165.- (DEROGADO, P.O. 3 DE OCTUBRE DE 1998)
+(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 20 DE DICIEMBRE DE 2003)
+CAPITULO V.
+Preservación de indicios y evidencias en el lugar de los hechos.
+(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2003)
+165.- Al que altere, modifique, cambie, obstruya o destruya, mueva o manipule de cualquier forma los indicios y evidencias que se encuentran en el lugar de los hechos, como resultado de la acción u omisión delictiva, con la finalidad de evitar que se conozca la existencia de un delito o del responsable, se le impondrá de seis meses a tres años de prisión y multa de diez a treinta días multa.
+Si estas conductas las realizara algún servidor público que tenga a su cargo el deber de preservarlas, hasta la conclusión de la pena del reo la sanción se aumentará en una mitad más y se le inhabilitará para ejercer otro cargo público, por un tiempo igual al que dure la pena de prisión impuesta.
+Si con alguna de las conductas previstas en este artículo resulta la comisión de otro ilícito, se aplicarán las reglas del concurso de delitos.
 TITULO TERCERO.
 Delitos en materia de vías de comunicación y correspondencia.
 CAPITULO I.
@@ -721,6 +731,13 @@ Las penas previstas en este artículo se aumentarán hasta en una cuarta parte e
 (ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2000) (F. DE E., P.O. 2 DE DICIEMBRE DE 2000)
 195 Bis.- Comete el delito de pornografía infantil, el que procure, facilite, obligue o induzca por cualquier medio a uno o a más menores de dieciocho años, con o sin su consentimiento, a realizar actos de exhibicionismo corporal, lascivos o sexuales, con la finalidad de video grabarlos, fotografiarlos o exhibirlos mediante anuncios impresos o electrónicos, con o sin el fin de obtener un lucro, se le impondrá de cinco a diez años de prisión y multa de seiscientos a setecientos treinta días de salario mínimo.
 La misma pena se impondrá a quienes con fines de lucro o sin él, fije, grabe, imprima actos de exhibicionismo corporal, lascivos o sexuales en que participen uno o más menores de dieciocho años, o elabore, reproduzca, venda, arriende, exponga, publicite, distribuya, difunda el material a que se refiere las acciones anteriores.
+(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2003)
+195 Bis A.- Es equiparable al delito de corrupción de menores y se aplicarán las siguientes penas, a las personas que:
+I.- Induzcan a un menor de dieciocho años al consumo de narcóticos, la pena será de tres a seis años de prisión y de trescientos a cuatrocientos días multa;
+II.- Induzcan a un menor de dieciocho años al consumo de narcóticos y como consecuencia adquiera farmacodependencia; la pena será de seis a doce años de prisión y de seiscientos a ochocientos días multa;
+III.- Si el delito es cometido contra un menor de dieciséis años de edad y mayor de doce, la pena aumentará hasta en una tercera parte más. Si el delito se comete con menor de doce años de edad, las penas aumentarán hasta una mitad de las sanciones a que se refiere este artículo;
+VI (sic).- La sanción señalada en este artículo, se duplicará cuando el delincuente tenga parentesco por consanguinidad, por afinidad o civil, sea tutor o curador, así como también a quienes habiten en el mismo domicilio de la víctima aunque no tengan parentesco alguno con la misma; y
+V.- Si además de los delitos previstos en este artículo resultase cometido otro, se aplicarán las reglas de la acumulación.
 (REFORMADO PRIMER PARRAFO, P.O. 15 DE SEPTIEMBRE DE 2001)
 196.- Queda prohibido emplear a menores en cantinas, tabernas y centros de vicio. La contravención a esta disposición se castigará con prisión de uno a tres años, multa de cincuenta a doscientos días de salario mínimo y, además, el cierre definitivo del establecimiento.
 Incurrirán en la misma pena los padres o tutores que acepten que sus hijos o pupilos, respectivamente, bajo su guarda, se empleen en los referidos establecimientos.
@@ -815,13 +832,17 @@ XXXIX.- Cuando substraiga un expediente de la oficina en que preste sus servicio
 Los gastos para reponer el expediente o el documento se incluirán en la reparación del daño.
 XL.- Cuando las autoridades de policía o cualesquiera otras, no den al Ministerio Público la intervención oportuna que le corresponde en la persecución de los delitos.
 Los delitos a que se refiere este artículo producen acción popular.
+(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2003)
+XLI.- Cuando teniendo funciones de seguridad pública detente o posea, enajene o trafique con vehículo robado o se dedique al desmantelamiento, comercialización de sus partes, brinde protección a los grupos o bandas dedicadas a la alteración, modificación de los datos o partes de identificación de vehículos o de la documentación que los identifique o acredite su propiedad.
+La posesión y detentación, no será sancionada en las excepciones previstas por la Ley.
 (REFORMADO, P.O. 27 DE NOVIEMBRE DE 1982)
 209.- Se aplicará destitución de empleo e inhabilitación para obtener otro cargo por un término de un año y multa de cinco mil a veinticinco mil pesos, a quienes cometan la violación de que habla la fracción XXII del Artículo anterior.
 Se aplicará prisión de seis meses a tres años, multa de cinco mil a veinticinco mil pesos, destitución de empleo, cargo, o comisión e inhabilitación por un año para ocupar otro, a quienes cometan las infracciones a que se refieren las fracciones III, VI, X, XII, XIII, XV, XVI, XVII, XXV, XXVI, XXVII, XXXII, XXXIV, XXXV, XXXVI y XXXVII, del Artículo que precede.
 Se aplicará prisión de seis meses a seis años, multa de cinco mil a veinticinco mil pesos, destitución de empleo, cargo o comisión, inhabilitación por dos años para ocupar otro, a los que cometan los delitos señalados en las Fracciones I, IV, V, VII, VIII, IX, XIV, XVIII, XIX, XX, XXI, XXVIII, XXIX, XXX y XXXI del Artículo anterior.
 Se aplicará prisión de uno a ocho años, multa de cinco mil a veinticinco mil pesos, destitución de empleo e inhabilitación por tres años para ocupar otro cargo, al que cometa los delitos señalados en las Fracciones II y XXXIII del Artículo anterior.
 Se aplicará prisión de seis meses a nueve años, multa de cinco mil a veinticinco mil pesos, destitución de empleo o cargo e inhabilitación para obtener otro por el término de tres años al que cometa los delitos señalados en las Fracciones XI, XXXIX y XL del Artículo anterior.
-Se aplicará prisión de seis meses a doce años, multa de cinco mil a veinticinco mil pesos, destitución de cargo e inhabilitación por cuatro años, para obtener cualquier otro, quien incurra en el delito previsto en la Fracción XXXVIII del mismo artículo.
+(REFORMADO, P.O. 20 DE DICIEMBRE DE 2003)
+Se aplicará prisión de seis meses a doce años, multa de cinco mil a veinticinco mil pesos, destitución del cargo e inhabilitación por cuatro años, para obtener cualquier otro, quien incurra en el delito previsto en las fracciones XXXVIII y XLI.
 Se aplicará prisión de cuatro a doce años, destitución de empleo, cargo o comisión e inhabilitación por el término de cinco años para obtener cualquier otro y multa de veinticinco mil a treinta mil pesos a los que cometan la violación señalada en la fracción XXIV del referido artículo.
 Se aplicará prisión de dos a siete años al que incurra en los delitos previstos por la Fracción XXIII del Artículo 208 que antecede, destitución de empleo e inhabilitación para obtener otro durante un período de cinco a diez años y multa de cinco mil a veinticinco mil pesos.
 En todos los casos señalados anteriormente si resultare además cometido algún otro delito, se aplicarán las reglas de acumulación.
@@ -885,15 +906,18 @@ TITULO DECIMO.
 Falsedad.
 CAPITULO I.
 Falsificación de sellos, llaves, cuños, troqueles y marcas.
-224.- Se impondrán de cuatro a nueve años de prisión y multa de quinientos a cinco mil pesos, al que falsifique los sellos o marcas oficiales del Estado, de los municipios o de los notarios públicos.
-225.- Se impondrán prisión, de tres meses a cinco años y multa de doscientos a dos mil pesos:
+(REFORMADO, P.O. 20 DE DICIEMBRE DE 2003)
+224.- Se impondrán de cuatro a nueve años de prisión y multa de cuarenta a noventa días multa, al que falsifique los sellos o marcas oficiales del Estado, de los municipios o de los notarios públicos.
+(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 2003)
+225.- Se impondrán prisión de tres meses a cinco años y multa de treinta a cincuenta días multa:
 I.- Al que falsifique llaves, para aplicarlas a cualquier cerradura; el sello de un particular; un sello, estampilla o contraseña de una casa de comercio o de una institución bancaria;
 II.- Al que enajene un sello, punzón o marca falsos, ocultando este vicio;
 III.- Al que procurándose los verdaderos sellos, punsones y marcas, haga uso indebido de ellos;
 IV.- Al que a sabiendas hiciere uso de los sellos o de algún otro de los objetos falsos de que habla el artículo anterior y las fracciones anteriores de éste.
 CAPITULO II.
 Falsificación de documentos en general.
-226.- La falsificación de documentos públicos o privados se sancionará con prisión de seis meses a tres años y multa de trescientos a tres mil pesos.
+(REFORMADO, P.O. 20 DE DICIEMBRE DE 2003)
+226.- La falsificación de documentos públicos o privados se sancionará con prisión de seis meses a tres años y multa de quince a treinta días multa.
 227.- La falsificación de documentos se comete por alguno de los medios siguientes:
 I.- Poniendo una firma o rúbrica falsa, aunque sea imaginaria o alterando una verdadera;
 II.- Aprovechando indebidamente una firma o rúbrica en blanco ajena, extendiendo una obligación, liberación o cualquier otro documento que pueda comprometer los bienes, la honra; la persona o la reputación de otro, o causar un perjuicio a la sociedad, al Estado o a un tercero;
@@ -914,26 +938,30 @@ II.- El Notario o cualquier otro funcionario público que, en ejercicio de sus f
 III.- El que, para eximirse de un servicio debido legalmente o de una obligación impuesta por la Ley, suponga una certificación de enfermedad o impedimento que no tiene, como expedida por un médico cirujano, sea que exista realmente la persona a quien lo atribuye, ya sea ésta imaginaria, o ya tome el nombre de una persona real, atribuyéndole falsamente la calidad de médico o cirujano;
 IV.- El médico que certifique falsamente que una persona tiene una enfermedad u otro impedimento bastante para dispensarla de prestar un servicio que exige la ley, o de cumplir una obligación que ésta impone, o para adquirir algún derecho;
 V.- El que haga uso de una certificación verdadera expedida para otro, como si lo hubiera sido en su favor o altere la que a él se le expidió;
-VI.- El que a sabiendas hiciere uso de un documento falso, sea público o privado.
+(REFORMADA, P.O. 20 DE DICIEMBRE DE 2003)
+VI.- El que a sabiendas gestione, obtenga o haga uso para sí o para otro, de un documento falso, sea público o privado.
 CAPITULO III.
 Falsedad en declaraciones judiciales o en informes dados a una Autoridad.
-230.- Se impondrán de dos meses a dos años de prisión y multa de doscientos a dos mil pesos:
-I.- Al que, interrogado por alguna autoridad pública distinta de la judicial, en ejercicio de sus funciones o con motivo de ellas, faltare a la verdad;
+(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 2003)
+230.- Se impondrán de dos meses a dos años de prisión y multa de diez a veinte días multa:
+(REFORMADA, P.O. 20 DE DICIEMBRE DE 2003)
+I.- Al que proporcione a una autoridad distinta de la judicial en ejercicio de sus funciones o con motivo de ellas, informes o datos falsos;
 II.- Al que examinado por la Autoridad Judicial como testigo, faltare a la verdad sobre el hecho que se trata de averiguar, ya sea negando u ocultando maliciosamente la existencia de alguna circunstancia que pueda servir de prueba de la verdad o falsedad del hecho principal, o que aumente o disminuya su gravedad.
 La sanción podrá ser hasta por quince años de prisión para el testigo falso que fuere examinado en un juicio criminal cuando al reo se le imponga la pena de veinte años de prisión o más y el testimonio falso haya tenido fuerza probatoria; y de quince a veinte años de prisión cuando la pena que en iguales circunstancias se imponga al procesado sea de cuarenta años de prisión;
 III.- Al que soborne a un testigo, a un perito, o a un intérprete para que se conduzca con falsedad en juicio o los obligue o comprometa a ello, intimidándolos o de otro modo;
-IV.- Al que, con arreglo a derecho, con cualquier carácter excepto el de testigo, sea examinado bajo protesta de decir verdad y faltare a ella en perjuicio de otro, negando ser suya la firma con que hubiere suscrito un documento, o afirmando un hecho falso, o alterando o negando uno verdadero, o sus circunstancias substanciales.
-Lo prevenido en esta fracción no comprende los casos en que la parte sea examinada sobre la cantidad en que estime una cosa, o cuando tenga el carácter de acusado.
+IV.- (DEROGADA, P.O. 20 DE DICIEMBRE DE 2003)
 (REFORMADO, P.O. 22 DE DICIEMBRE DE 1987)
 231.- La parte, testigo, perito o intérprete que se retracte espontáneamente de sus falsas declaraciones rendidas en un juicio, antes de que se pronuncie la sentencia en la instancia en que las hubiere rendido, sólo pagará una multa de cinco a cincuenta veces el salario mínimo general; pero si al retractarse de su declaración faltare a la verdad, se le aplicará la pena que corresponda con arreglo a lo prevenido en este Capítulo, considerándolo como reincidente.
 CAPITULO IV.
 Variación del nombre o del domicilio.
-232.- Se impondrá prisión de tres días a seis meses y multa de cincuenta a trescientos pesos:
-I.- Al que oculte su nombre o apellido y tome otro imaginario o el de otra persona, al declarar ante la autoridad judicial;
-II.- Al que para eludir la práctica de una diligencia judicial, o una notificación de cualquiera clase o citatación (sic) de una Autoridad, oculte su domicilio, o designe otro distinto o niegue de cualquier modo el verdadero.
+(REFORMADO, P.O. 20 DE DICIEMBRE DE 2003)
+232.- Se impondrá prisión de tres días a seis meses y multa de cinco a veinte días multa:
+I.- Al que oculte su nombre o apellido y tome otro imaginario o el de otra persona, al declarar ante cualquier autoridad; y
+II.- Al que para eludir la práctica de una diligencia judicial, o una notificación de cualquier clase o citación de una Autoridad, o para obtener algún documento, oculte su domicilio, o designe otro distinto o niegue de cualquier modo el verdadero.
 CAPITULO V.
 Usurpación de funciones públicas o de profesión y uso indebido de condecoraciones y uniformes.
-233.- Se sancionará con prisión de un mes a cuatro años y multa de trescientos a tres mil pesos:
+(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 2003)
+233.- Se sancionará con prisión de un mes a cuatro años y multa de seis a treinta y cinco días multa:
 I.- Al que, sin ser funcionario público, se atribuya ese carácter y ejerza algunas de las funciones de tal;
 II.- Al que se atribuye el carácter de profesionista sin tener titulo legal y ejerza los actos propios de la profesión;
 III.- Al que usare uniforme, insignia, distintivo o condecoración a que no tenga derecho.
@@ -941,6 +969,8 @@ CAPITULO VI.
 Disposiciones comunes a los capítulos precedentes.
 234.- Si el falsario hiciere uso de los documentos u objetos falsos que se detallan en este título, se acumularán la falsificación y el delito que por medio de ellos hubiere cometido el delincuente.
 235.- Las disposiciones contenidas en este título solo se aplicarán en lo que no estuviere previsto en las leyes especiales o no se opusiera a lo establecido en ellas.
+(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2003)
+235 Bis.- Cuando los delitos a que se refiere este título se cometan por extranjeros o servidores públicos, cualquiera que sea la finalidad que se trate de obtener o se obtenga, la pena aplicable será de tres años seis meses a seis años y de quinientos a mil días multa. A los servidores públicos se les destituirá de sus empleos y se les inhabilitará por un tiempo igual a la sanción corporal a la que haya sido condenado.
 TITULO DECIMOPRIMERO.
 Delitos contra la economía pública.
 CAPITULO I.
@@ -1080,7 +1110,8 @@ Asalto.
 268.- Al que sin motivo justificado haga uso de la violencia sobre una persona, se le aplicará prisión de uno a tres años.
 Si la violencia se ejerce en despoblado o en paraje solitario se aplicara prisión de tres a seis años.
 (DEROGADO TERCER PARRAFO, P.O. 28 DE NOVIEMBRE DE 1998)
-269.- Si los salteadores, atacaren una población, se aplicarán de veinte a treinta años de prisión a los cabecillas o jefes y de diez a quince años a los demás, siempre que no se cometa alguno de los delitos señalados en el artículo anterior, pues entonces se aplicará la pena de treinta a cuarenta años.
+(REFORMADO, P.O. 20 DE DICIEMBRE DE 2003)
+269.- Si los salteadores, atacaren una población, se aplicarán de cuarenta a setenta años de prisión a los cabecillas o jefes y de quince a veinte años a los demás, siempre que no se comentan alguno de los delitos señalados en el artículo anterior, pues entonces se aplicará la pena de cuarenta a sesenta años de prisión.
 (REFORMADO, P.O. 3 DE OCTUBRE DE 1998)
 270.- Se aplicará prisión de diez a treinta años al que en caminos o carreteras haga uso de la violencia en contra de los ocupantes de un vehículo particular o de transporte público.
 TITULO DECIMOSEXTO.
@@ -1134,8 +1165,9 @@ III.- Que fué a causa de la constitución física de la víctima o de las circu
 292.- (DEROGADO, P.O. 3 DE JUNIO DE 1995)
 CAPITULO IV.
 Reglas comunes para lesiones y homicidio.
-(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2001)
-293.- Se impondrán de tres a ocho años de prisión al que, sorprendiendo a su cónyuge, concubino o concubina en acto carnal o próximo a su consumación, mate o lesione a cualquiera de los culpables o a ambos; salvo el caso de que el activo haya contribuido a la corrupción de su cónyuge. En este último caso, se impondrán al culpable de ocho a quince años de prisión.
+(REFORMADO, P.O. 20 DE DICIEMBRE DE 2003)
+293.- Se impondrán de las dos terceras partes del mínimo a las dos terceras partes del máximo de la sanción que corresponda a un homicidio simple intencional al que, sorprendiendo a su cónyuge, concubino o concubina en acto carnal o próximo a su consumación lo prive de la vida a él o a su acompañante o a ambos.
+Si sólo se causaron lesiones, se aplicará la sanción que corresponda a la clase de lesiones causadas en la proporción aquí establecida.
 294.- Se impondrán de tres días a tres años de prisión al ascendiente que mate o lesione al corruptor de su hija o de su nieta que estén bajo de su potestad, si lo hiciere en el momento de hallarlos en el acto carnal o en uno próximo a él; pero si lo hiciere después, sufrirá de cuatro a seis años de prisión, no mediando alevosía, ventaja o traición, en cuyo caso se le impondrá la pena correspondiente.
 295.- (DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2001)
 296.- Al que prestare auxilio o indujere a otro para que se suicide, se le aplicará prisión de uno a cinco años; si se lo prestare hasta el punto de ejecutar él mismo la muerte, la prisión será de cuatro a doce años. Si el occiso o suicida fuera menor de edad o padeciera alguna de las formas de enajenación mental, se aplicarán al homicida o instigador las penas señaladas al homicidio calificado o a las lesiones calificadas.
@@ -1288,7 +1320,8 @@ CAPITULO II.
 Secuestro.
 (REFORMADO Y REUBICADO, P.O. 1 DE ABRIL DE 2002)
 348.- Comete el delito de secuestro quien ilegalmente detenga o prive de su libertad a otro, para obtener un rescate en dinero o en especie o para causarle un daño o perjuicio, o cuando se trate de causar molestias graves a personas distintas del secuestrado, pero relacionadas con éste.
-Al responsable de este delito se le impondrá de quince a treinta y cinco años de prisión y multa de quinientos a setecientos treinta salarios mínimos.
+(REFORMADO, P.O. 20 DE DICIEMBRE DE 2003)
+Al responsable de este delito se le impondrá de cuarenta a sesenta y cinco años de prisión y multa de quinientos a setecientos treinta días de multa.
 (ADICIONADO, P.O. 1 DE ABRIL DE 2002)
 348 Bis.- Comete el delito de secuestro exprés el que prive de la libertad a otra persona, con el objeto de obtener un lucro mediante el uso de cualesquiera de los siguientes medios: Tarjetas de crédito, tarjetas de débito, título de crédito, medios electrónicos, informáticos, mecánicos, en especie o efectivo.
 Al que cometa el delito señalado en el párrafo anterior, se le impondrá la pena de diez a quince años de prisión y multa de quinientos a setecientos treinta días de salario.
@@ -1309,7 +1342,8 @@ CAPITULO III.
 Trafico de menores.
 (ADICIONADO, P.O. 1 DE ABRIL DE 2002)
 348 Bis C.- Comete el delito de tráfico de menores de doce años de edad, al que lo prive de la libertad con objeto de obtener un lucro para sí o para un tercero, le extraigan uno a varios de sus órganos; lo integren a otra familia; para prostituirlo o hacerlo intervenir en actividades de pornografía.
-Al que cometa este delito se le impondrá la pena de quince a treinta y cinco años de prisión y multa de quinientos a setecientos treinta salarios mínimos.
+(REFORMADO, P.O. 20 DE DICIEMBRE DE 2003)
+Al que cometa este delito se le impondrá la pena de cuarenta a sesenta y cinco años de prisión y multa de quinientos a setecientos treinta días multa.
 La misma sanción se aplicará al que reciba y actualice en el menor cualesquiera de los supuestos descritos en el primer párrafo.
 (ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE ABRIL DE 2002)
 CAPITULO IV.
@@ -1361,8 +1395,7 @@ II.- Al que enajene o trafique de cualquier forma un vehículo robado;
 III.- Al que desmantele algún vehículo robado o comercialice conjunta o separadamente sus partes.
 (REFORMADO (N. DE E. REPUBLICADO], P.O. 26 DE FEBRERO DE 2000)
 En el caso de que cualquiera de las conductas anteriores se realice sobre dos o más vehículos robados, la pena se incrementará de una tercera parte de la mínima hasta una tercera parte de la máxima aplicable.
-(REFORMADO, P.O. 26 DE FEBRERO DE 2000)
-Si en los actos mencionados participara un servidor público que tenga a su cargo funciones de prevención, investigación, persecución o sanción del delito o de ejecución de penas, además de las sanciones a que se refiere este artículo se le aumentará la pena de prisión hasta en una mitad y se le inhabilitará para desempeñar cualquier empleo, cargos o comisión públicos por un período igual a la pena de prisión impuesta.
+(DEROGADO TERCER PARRAFO, P.O. 20 DE DICIEMBRE DE 2003)
 (REFORMADO, P.O. 26 DE FEBRERO DE 2000)
 Si con alguna de las conductas prevista(sic) en este artículo resulta la comisión de otro ilícito, se aplicarán las reglas del concurso de delitos.
 (REFORMADO, P.O. 3 DE JUNIO DE 1995)
