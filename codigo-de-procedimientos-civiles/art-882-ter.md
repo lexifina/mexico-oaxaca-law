@@ -1,0 +1,12 @@
+(ADICIONADO, P.O. 20 DE JULIO DE 2001)
+Artículo 882-ter.- Cuando todos los herederos fueren mayores de edad, en pleno uso de su capacidad de ejercicio y hubieren sido reconocidos judicialmente con tal carácter en un intestado o en una testamentaría, ésta o aquél podrán seguirse tramitando con intervención de un Notario, de acuerdo con lo que se establece en el artículo anterior. El juez hará saber lo anterior a los herederos, para que en su caso designen al Notario ante el que se seguirá la tramitación sucesoria remitiéndole copia certificada de la documentación que acredite la defunción del autor de la herencia el reconocimiento judicial de herederos y el nombramiento de albacea definitivo y demás documentación relativa.
+Para la adjudicación de bienes hereditarios a los legatarios instituidos en testamento público simplificado, se observará lo siguiente:
+I.- Los legatarios o sus representantes, exhibirán al Notario la copia certificada del acta de defunción del testador y testimonio del testamento simplificado;
+II.- El Notario dará a conocer por medio de una publicación en un diario de los de mayor circulación en la Entidad, que ante él se está tramitando la titulación notarial de la adquisición derivada del testamento público simplificado, los nombres del testador, los legatarios y, en su caso, su parentesco;
+III.- El Notario recabará de la Dirección General de Notarías y de los correspondientes archivos u oficinas similares del último domicilio del autor de la sucesión, las constancias relativas a la existencia o inexistencia del testamento. En el caso de que el testamento público simplificado presentado sea el último otorgado, el Notario podrá continuar con los trámites relativos siempre que no existiere oposición;
+IV.- De ser procedente, el Notario redactará el instrumento en el que se relacionarán los documentos exhibidos, las constancias a que se refiere la fracción anterior, los demás documentos del caso y la conformidad expresa de los legatarios en aceptar el legado, documento que se inscribirá en el Registro Público de la Propiedad del lugar en donde se ubique el inmueble. En su caso, se podrá hacer constar la repudiación expresa; y
+V.- En el instrumento a que se refiere la fracción anterior, los legatarios podrán otorgar, a su vez, un testamento público simplificado en los términos del artículo 1448-bis del Código Civil.
+TITULO DECIMOQUINTO
+De la jurisdicción voluntaria
+CAPITULO I
+Disposiciones generales

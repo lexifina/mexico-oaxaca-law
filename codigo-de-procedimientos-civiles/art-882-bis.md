@@ -1,0 +1,9 @@
+(ADICIONADO, P.O. 20 DE JULIO DE 2001)
+Artículo 882-bis.- Cuando todos los herederos fueren mayores de edad, en pleno uso de su capacidad de ejercicio y no hubiere controversia, la testamentaría podrá ser extrajudicial, con intervención de un Notario, en los términos siguientes:
+I.- El albacea, si lo hubiere, y los herederos exhibiendo la partida de defunción del autor de la herencia y testimonio del testamento, se presentarán ante Notario para hacer constar que aceptan la herencia, se reconocen sus derechos hereditarios y que el albacea acepta y protesta el cargo y va a proceder a formar el inventario y avalúo de los bienes que forman la masa hereditaria;
+II.- El Notario dará a conocer las declaraciones señaladas en la fracción que antecede, por medio de dos publicaciones que se harán de siete en siete días en el Periódico Oficial del Estado y en un diario de mayor circulación en la Entidad;
+III.- El Notario recabará a la Dirección General de Notarías y de los correspondientes archivos u oficinas similares del último domicilio del autor de la sucesión, las constancias relativas a la existencia o inexistencia del testamento;
+IV.- El inventario y avalúo se efectuará en un plazo que no excederá de diez días, contados a partir de la última publicación en el Periódico Oficial del Estado, a la que se refiere la fracción segunda de este mismo artículo;
+V.- Practicado el inventario y avalúo por el albacea y estando conforme con ellos todos los herederos, lo presentarán al Notario para que lo protocolice; y
+VI.- Dentro de los siguientes diez días de aprobado el inventario, el albacea formará con la aprobación de los herederos, el proyecto de partición de la herencia y lo exhibirán al notario quien efectuará la protocolización.
+Siempre que haya oposición de algún aspirante a la herencia o de cualquier acreedor, el Notario suspenderá su intervención.
