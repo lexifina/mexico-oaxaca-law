@@ -1250,18 +1250,28 @@ Delitos contra la Legitimidad de las Elecciones.
 I.- Vote sin tener credencial para votar y no esté inscrito en la lista nominal de electores;
 II.- Vote más de una vez en una misma elección;
 III.- Vote con una credencial de la que no sea titular;
-IV.- Ejerza presión sobre los electores y los induzca a votar por un candidato o partido determinado, en el interior de la casilla o en el lugar donde los propios electores se encuentren formados;
-V.- Se apodere o destruya una o varias urnas de votación, obstaculice o Interfiera el desarrollo normal de las votaciones, del escrutinio o del cómputo;
+(REFORMADA, P.O. 9 DE OCTUBRE DE 1997)
+IV.- Haga proselitismo o presione de cualquier manera a los electores el día de la jornada electoral en el interior de las casillas o en el lugar en que se encuentren formados los votantes, con el fin de orientar el sentido de su voto;
+(REFORMADA, P.O. 9 DE OCTUBRE DE 1997)
+V.- Se apodere o destruya una o varias urnas de votación, obstaculice o Interfiera dolosamente el desarrollo normal de las votaciones, el escrutinio y cómputo, el traslado y entrega de los paquetes y documentación electoral, o el adecuado ejercicio de las tareas de los funcionarios electores;
 VI.- Recoja sin causa prevista por la Ley, una o varias credenciales de elector de los ciudadanos, antes o después de emitir su voto;
-VII.- Solicite votos por paga, dádiva o promesa de dinero u otra recompensa;
+(REFORMADA, P.O. 9 DE OCTUBRE DE 1997)
+VII.- Solicite votos por paga, dádiva, promesa de dinero u otra recompensa durante las campañas electorales o la jornada electoral;
 VIII.- Viole de cualquier manera el secreto del voto;
 IX.- Organice, el día de la elección, la reunión y traslado de electores con el objeto de llevarlos a votar y de violar la libertad y el secreto del voto;
-X.- Introduzca o substraiga de las urnas ilícitamente una o más boletas electorales, destruya o altere boletas o documentos electorales;
+(REFORMADA, P.O. 9 DE OCTUBRE DE 1997)
+X.- Introduzca o sustraiga de las urnas ilícitamente una o más boletas electorales, o se apodere, destruya o altere boletas, documentos o materiales electorales;
 XI.- Se apodere, destruya o deteriore ilegítimamente propaganda o documentación relativa a un partido político o candidato durante el proceso electoral;
-XII.- Obtenga o solicite declaración firmada del elector acerca de su intención o el sentido de su voto, o bien que comprometa el voto mediante amenaza o promesa;
-XIII.- Impida en forma violenta la instalación de una casilla;
+(REFORMADA, P.O. 9 DE OCTUBRE DE 1997)
+XII.- Obtenga o solicite declaración firmada del elector acerca de su intención o el sentido de su voto, o bien que comprometa el voto mediante amenaza o promesa de paga o dádiva;
+(REFORMADA, P.O. 9 DE OCTUBRE DE 1997)
+XIII.- Impida en forma violenta la instalación de una casilla, o asuma dolosamente cualquier conducta que tenga como finalidad impedir la instalación de la casilla;
 XIV.- Por cualquier medio obstaculice o impida la realización de los cómputos electorales posteriores a la jornada electoral; y
 XV.- Se posesione de oficinas de los órganos electorales o retenga una o varias personas, con el fin de obligar a la autoridad electoral, a que realice o deje de realizar un acto de su competencia.
+(ADICIONADA, P.O. 9 DE OCTUBRE DE 1997)
+XVI.- Durante los ocho días previos a la elección y hasta la hora oficial del cierre de las casillas, publique o difunda por cualquier medio los resultados de encuestas o sondeos de opinión que den a conocer las preferencias de los ciudadanos; y
+(ADICIONADA, P.O. 9 DE OCTUBRE DE 1997)
+XVII.- Solicite y retenga durante la campaña electoral una o varias credenciales de elector con motivo no lícito.
 (ADICIONADO, P.O. 15 DE JULIO DE 1995)
 392.- Se impondrá de uno a cinco años de prisión, quien o quienes mediante la violencia provoquen desestabilización o ingobernabilidad en uno o varios municipios del Estado, con la finalidad de alterar el resultado de las elecciones, estén o no agotados los recursos previstos por la ley.
 (ADICIONADO, P.O. 15 DE JULIO DE 1995)
@@ -1281,15 +1291,18 @@ VI.- Impida la instalación, apertura o cierre de una casilla.
 I.- Altere en cualquier forma, sustituya o haga uso indebido de documentos relativos al Registro Federal de Electores que deban utilizarse en las elecciones locales;
 II.- Se abstenga de cumplir sin causa justificada con sus obligaciones electorales en perjuicio del proceso;
 III.- Obstruya el desarrollo normal de la votación sin mediar causa justificada;
-IV.- Altere los resultados electorales, o substraiga, destruya boletas o documentos electorales, sin causa justificada;
-V.- No entregue o impida la entrega oportuna de documentos oficiales, sin mediar causa justificada;
+(REFORMADA, P.O. 9 DE OCTUBRE DE 1997)
+IV.- Altere los resultados electorales, sustraiga o destruya boletas, documentos, o materiales electorales, sin mediar causa justificada;
+(REFORMADA, P.O. 9 DE OCTUBRE DE 1997)
+V.- No entregue o impida la entrega oportuna de documentos o materiales electorales, sin mediar causa justificada;
 VI.- Ejerza presión sobre los electores y los induzca a votar por un candidato o partido determinado, en el interior de la casilla o en el lugar donde los propios electores se encuentren formados;
 VII.- Instale, abra o cierre dolosamente una casilla fuera de los tiempos y formas previstos por la Ley de la materia, o impida su instalación;
 VIII.- Instale una casilla en lugar distinto al señalado por los órganos electorales, sin causa justificada;
 IX.- No haga constar oportunamente las violaciones de que haya tenido conocimiento en el desarrollo del proceso electoral, o se rehuse infundadamente a admitir los recursos que ante él se interpongan;
 X.- No admita la solicitud de inscripción de alguna persona o se niegue a inscribirla, cuando sea procedente, altere oculte o substraiga documentación relativa a los padrones y listas nominales que deban utilizarse en las elecciones locales;
 XI.- No proporcione oportunamente la documentación electoral correspondiente a los presidentes de las mesas directivas de casillas, a no ser que medie causa justificada;
-XII.- Expulse de la casilla electoral sin causa justificada a representante de un partido político o coarte los derechos que la Ley le concede;
+(REFORMADA, P.O. 9 DE OCTUBRE DE 1997)
+XII.- Sin causa prevista por la Ley, expulse u ordene el retiro de la casilla electoral de representantes de un partido político, o coarte los derechos que la ley les concede;
 XIII.- Conociendo la existencia de condiciones o actividades que atenten contra la libertad y el secreto del voto, no tome las medidas conducentes para que cesen;
 XIV.- Permita o tolere que un ciudadano emita su voto, a sabiendas de que no cumple con los requisitos de la ley, o que se introduzcan en las urnas ilícitamente una o más boletas electorales;
 XV.- Retenga o no entregue al organismo electoral correspondiente, el paquete electoral, en los tiempos previstos en la ley o por acuerdo de los órganos electorales, sin causa justificada;
@@ -1298,7 +1311,8 @@ XVII.- Propague dolosamente noticias falsas en torno al desarrollo de la jornada
 (ADICIONADO, P.O. 15 DE JULIO DE 1995)
 397.- Se impondrá prisión de uno a nueve años y multa de doscientos a cuatrocientos días de salario mínimo vigente al servidor público que:
 I.- Obligue a sus subordinados a emitir sus votos a favor de un partido político o candidato.
-II.- Condicione la prestación de un servicio público, el cumplimiento de programas o la realización de obras públicas a la emisión del sufragio en favor de un partido político o candidato;
+(REFORMADA, P.O. 9 DE OCTUBRE DE 1997)
+II.- Condicione la prestación de un servicio público, el cumplimiento de programas o la realización de obras públicas en el ámbito de su competencia, a la emisión del sufragio en favor de un partido político o candidato;
 III.- Prive de la libertad a los candidatos, a los representantes de los partidos políticos o a los funcionarios electorales, bajo pretexto de comisión de delitos o faltas administrativas inexistentes y sin existir orden de detención o de aprehensión para ello; y
 IV.- Impida la realización de una reunión, asamblea, manifestación pública, o cualquier acto legal de propaganda electoral.
 (ADICIONADO, P.O. 15 DE JULIO DE 1995)
@@ -1318,6 +1332,8 @@ I.- Funcionarios electorales: quienes en términos de la legislación local elec
 II.- Funcionarios partidistas: Los dirigentes de los partidos políticos, sus candidatos y los ciudadanos a quienes en el curso de los procesos electorales locales, los propios partidos otorguen representación para actuar en la jornada electoral ante los órganos electorales en los términos de la legislación local electoral;
 III.- Servidores públicos: son los representantes de elección popular, los miembros del Poder Judicial, los funcionarios y empleados y, en general, toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública Estatal o Municipal, en los organismos descentralizados, empresas de participación estatal, sociedades y asociaciones asimiladas a éstas, o en fideicomisos de participación estatal o municipal; y
 IV.- Documentos electorales: boletas para votar, las actas oficiales de la jornada electoral, actas de escrutinio y cómputo de las mesas directivas de casilla y de los cómputos distritales o municipales; en general, los documentos expedidos en el ejercicio de sus funciones por los órganos del Instituto Estatal Electoral.
+(ADICIONADA, P.O. 9 DE OCTUBRE DE 1997)
+V.- Materiales electorales: los elementos físicos, tales como urnas, canceles o elementos modulares para la emisión del voto, marcadores de credencial, líquido indeleble, útiles de escritorio y demás equipamiento autorizado para su utilización en las casillas electorales durante la jornada electoral.
 (ADICIONADO, P.O. 15 DE JULIO DE 1995)
 403.- Las sanciones previstas en los delitos del presente capítulo, se aplicarán sin perjuicio de las demás penas que pudieran corresponder al responsable por el concurso real de delitos.
 ARTICULOS TRANSITORIOS:
