@@ -6,3 +6,4 @@ Oaxaca de Juárez, a 27 de junio de 1962.- Alfonso Huergo Camacho.- El Subsecret
 Y lo comunico a usted para su conocimiento y fines consiguientes.
 Sufragio Efectivo. No Reelección. El Respeto al Derecho Ajeno es la Paz.- Oaxaca de Juárez, a 27 de junio de 1962.- El Subsecretario Enc. del Despacho, Guillermo Martínez León.- Rúbrica.
 Al C..................
+N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
