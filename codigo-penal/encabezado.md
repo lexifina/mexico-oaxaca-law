@@ -802,11 +802,16 @@ Lo mandado en este Artículo se observará sin prejuicio de las medidas y sancio
 (REFORMADA SU DENOMINACION, P.O. 3 DE JUNIO DE 1995)
 TITULO DECIMOSEGUNDO.
 Delitos contra la libertad, la seguridad y el normal desarrollo psicosexual.
+(REFORMADA SU DENOMINACION, P.O. 7 DE FEBRERO DE 1998)
 CAPITULO I.
-Atentados al pudor, estupro y violación.
-(REFORMADO, P.O. 3 DE JUNIO DE 1995)
-241.- Al que sin consentimiento de una persona púber o impúber, o con consentimiento de ésta última, ejecuta en ella un acto erótico sexual, sin el propósito directo e inmediato de llegar a la cópula, se le aplicará una pena de uno a tres años de prisión y multa de quince a cincuenta días de salario.
-Si se hiciere uso de la violencia física o moral, la pena será de dos a seis años de prisión y multa de cincuenta a cien días de salario.
+Abuso y hostigamiento sexual, estupro y violación.
+(REFORMADO, P.O. 7 DE FEBRERO DE 1998)
+241.- El abuso sexual consiste en el acto erótico sexual realizado, sin el propósito de llegar a la cópula, con persona menor de 12 años de edad o que no tenga la capacidad de comprender el significado del hecho, o que por cualquier causa no pueda resistirlo o a quien se obligue a ejecutarlo, aplicándose a quien ejecute tales actos la pena de uno a cuatro años de prisión y multa de 50 a 150 días de salario mínimo general vigente en la zona.
+Cuando el acto erótico sexual a que se refiere el párrafo anterior, se ejecute con cualquiera persona, sin el consentimiento de ésta, la pena será de uno a tres años de prisión y multa de quince a cincuenta días de salario mínimo general vigente en la zona.
+Si se hiciere uso de la violencia física o moral o participaren dos o más personas, la pena será de dos a siete años de prisión y multa de 150 a 300 días de salario mínimo general vigente en la zona.
+(ADICIONADO, P.O. 7 DE FEBRERO DE 1998)
+241 Bis.- Al que con fines lascivos asedie reiteradamente a persona de cualquier sexo, valiéndose de su posición jerárquica, derivada de sus relaciones laborales, docentes, domésticas o cualquiera otra que implique subordinación, se le impondrá pena de uno a tres años de prisión y multa hasta de cuarenta días de salario mínimo general vigente en la zona. Si el hostigador fuese servidor público y utilizase los medios o circunstancias que el cargo le proporcione, se le destituirá de él. Será punible el hostigamiento sexual cuando se cause daño.
+Sólo se procederá contra el hostigador a petición de parte ofendida.
 242.- El atentado contra el pudor solo se castigará cuando se haya consumado.
 (REFORMADO, P.O. 3 DE JUNIO DE 1995)
 243.- A quien tenga cópula con persona casta y honesta, mayor de doce años y menor de dieciocho, obteniendo su consentimiento por medio de la seducción o el engaño, se le impondrán de cuatro meses a cuatro años de prisión y multa de treinta a setenta días de salario.
@@ -817,12 +822,21 @@ Cuando la persona estuprada fuere menor de quince años, se presumirá en todo c
 245.- La reparación del daño, en los casos de estupro, comprenderá el pago de alimentos a los hijos, si los hubiere. Dicho pago se hará en la forma y términos, que la Ley Civil fija para los casos de divorcio.
 (REFORMADO, P.O. 27 DE AGOSTO DE 1994)
 246.- Al que por medio de la violencia física o moral tenga cópula con una persona sin la voluntad de ésta, sea cual fuere su sexo, se le impondrá prisión de ocho a catorce años y multa de ciento cincuenta a quinientas veces el salario.
+(ADICIONADO, P.O. 7 DE FEBRERO DE 1998)
+Para los efectos de este artículo, se entiende por cópula, la introducción del miembro viril en el cuerpo de la víctima por vía vaginal, anal u oral, independientemente de su sexo.
+(ADICIONADO, P.O. 7 DE FEBRERO DE 1998)
+Se sancionará con prisión de tres a ocho años, al que introduzca por vía vaginal o anal cualquier elemento o instrumento distinto del miembro viril, por medio de la violencia física o moral, sea cual fuere el sexo del ofendido.
 (REFORMADO, P.O. 27 DE AGOSTO DE 1994)
 247.- Se equipara a la violación la cópula con persona menor de doce años de edad, aún cuando se hubiere obtenido su consentimiento, sea cual fuere su sexo; con persona privada de razón o sentido, o cuando por enfermedad o cualquiera otra causa no pudiere resistir. En tales casos la pena será de nueve a dieciséis años y multa de ciento setenta y cinco a quinientos salarios.
-(REFORMADO, P.O. 27 DE AGOSTO DE 1994)
-248.- Cuando la violación fuere cometida con intervención directa o indirecta de dos o más personas, la prisión será de diez a veinte años y la multa de doscientas a quinientas veces el salario.
-Además de las sanciones que señalan los artículos que anteceden, se impondrán de dos a cuatro años de prisión, cuando el delito de violación fuere cometido por un ascendiente contra su descendiente, por éste contra aquél, por el tutor en contra de la persona sobre la que ejerza la tutela, o por el padrastro de la persona ofendida o el amasio de la madre de la propia ofendida. En los casos en que el culpable ejerciera la patria potestad o la tutela, las perderá, así como el derecho de heredar del ofendido.
-Cuando el delito de violación sea cometido por quien desempeña un cargo o empleo o ejerza una profesión, utilizando los medios o circunstancias que ellos le proporcionan, será destituido definitivamente del cargo o empleo o suspendido por el término de cinco años en el ejercicio de dicha profesión.
+(REFORMADO, P.O. 7 DE FEBRERO DE 1998)
+248.- Cuando la violación fuere cometida con intervención directa o indirecta de dos o más personas, la prisión será de diez a veinte años y la multa de doscientas a quinientas veces el salario mínimo general vigente en la zona.
+(ADICIONADO, P.O. 7 DE FEBRERO DE 1998)
+248 Bis.- Las penas previstas para los delitos de abuso sexual y violación, se aumentarán hasta en una mitad en su mínimo y máximo cuando:
+I.- El delito fuere cometido por un pariente de la víctima sin limitación de grado en línea recta ascendente o descendente, o hasta el cuarto grado en línea colateral; por el tutor contra su pupilo, por el padrastro o madrastra en contra el hijastro o hijastra, por el amante del padre o de la madre del ofendido o por la persona que vive en concubinato con el padre o la madre del pasivo. En estos casos, además el culpable perderá todos los derechos familiares y hereditarios que le puedan corresponder por su vínculo con la víctima;
+II.- El hecho sea cometido por quien desempeñe un cargo o empleo público o ejerza una profesión utilizando los medios o las circunstancias que ellos le proporcione (sic). Además de la pena de prisión el condenado será destituido del cargo o empleo o suspendido por el término de cinco años en el ejercicio profesional;
+III.- El delito sea cometido por persona que tenga al ofendido bajo su custodia, tutela, guarda o educación, o que aproveche la confianza en él depositada;
+IV.- Tratándose del delito de violación, el hecho sea cometido por el cónyuge, concubina o concubino de la víctima.
+El delito a que se refiere la fracción inmediata anterior, solo se perseguirá por querella de la parte ofendida.
 CAPITULO II.
 Rapto.
 249.- Al que se apodere de una mujer por medio de la violencia física o moral, de la seducción o del engaño, para satisfacer algún deseo erótico sexual, o para casarse, se le aplicarán de seis meses a nueve años de prisión y multa de doscientos a tres mil pesos.
@@ -906,9 +920,11 @@ Lesiones.
 278.- (DEROGADO, P.O. 3 DE JUNIO DE 1995)
 279.- Si las lesiones fueren inferidas en riña, se impondrá al responsable, si se trata del provocado, de la mitad de la mínima a la mitad de la máxima de las sanciones que establecen los artículos 272 al 277 de este Código según la lesión que se haya inferido y si se trata del provocador, de las cinco sextas partes de la mínima a las cinco sextas de la máxima de dichas sanciones, establecidas en los artículos 272 al 277, ya citados, según la lesión que se haya inferido.
 280.- Cuando concurra una sola de las circunstancias a que se refiere el artículo 299 se aumentará en un tercio la sanción que correspondería, si la lesión fuere simple; cuando concurren dos, se aumentará la sanción en una mitad y si concurren más de dos de las circunstancias dichas se aumentará la pena en dos terceras partes.
+(REFORMADO PRIMER PARRAFO, P.O. 7 DE FEBRERO DE 1998)
+281.- Al que en ejercicio de la tutela o estando encargado de la guarda de un menor, por cualquier motivo, lo maltrate, alterando su salud física, mental o emocional, se le impondrá la pena correspondiente a las lesiones que infiera, la que se aumentará hasta tres años de prisión, con privación de la tutela, o derechos derivados de la situación generadora de la guarda del menor. En todo caso, se dictarán las medidas necesarias e inmediatas para el tratamiento psicoterapéutico del sujeto activo del delito debiendo el Juez y Agente del Ministerio Público, proveer lo conducente para que se cumpla con esta medida.
 (REFORMADO, P.O. 19 DE ABRIL DE 1997)
-281.- Al que en ejercicio de la patria potestad, la tutela o estando encargado de la guarda de un menor, lo maltrate alterando su salud física o mental, se le impondrá la pena correspondiente a las lesiones que infiera, la que se aumentará hasta tres años de prisión, con privación temporal o definitiva en el ejercicio de la patria potestad, tutela o derechos derivados de la situación generadora de la guarda del menor. En todo caso, se dictarán las medidas necesarias e inmediatas para el tratamiento psicoterapéutico de la víctima.
 Decretado auto de formal prisión en contra del agresor, se le suspenderá en el ejercicio de la patria potestad, de la tutela o de la guarda del menor.
+(REFORMADO, P.O. 19 DE ABRIL DE 1997)
 En lo aplicable y conducente, se sancionará con las mismas penas al que ejerza la tutela o la guarda de una persona privada de razón o sujeta a estado de interdicción por las lesiones que cause a ésta.
 282.- De las lesiones que a una persona cause algún animal bravío, será responsable el que con esa intención lo azuce, lo suelte o haga ésto último por descuido.
 283.- (DEROGADO, P.O. 19 DE ABRIL DE 1997)
@@ -989,8 +1005,10 @@ III.- Cuando de no provocarse el aborto, la mujer embarazada corra peligro de mu
 IV.- Cuando el aborto se deba a causas eugenésicas graves según el previo dictámen de dos peritos.
 CAPITULO VIII.
 Abandono de personas.
-317.- Al que abandone a un niño o a otra persona cualquiera, incapaz de cuidarse a sí misma, o a una persona enferma, teniendo obligación de cuidarlos, se le aplicarán de un mes a cinco años de prisión, privándolo además de la patria potestad o de la tutela, si el delincuente fuera ascendiente o tutor del ofendido. Si resultare daño alguno se observarán las reglas de acumulación.
-318.- Al que sin motivo justificado abandone a sus hijos o a su cónyuge sin recursos para atender a sus necesidades de subsistencia, se le aplicarán de seis meses a un año de prisión y privación de los derechos de familia.
+(REFORMADO, P.O. 7 DE FEBRERO DE 1998)
+317.- A quien abandone a un menor a otra persona cualquiera, incapaz de cuidarse a si mismo, o a un enfermo, teniendo obligación de cuidarlos, se le aplicarán de dos a seis años de prisión, privándolo, además de la patria potestad o tutela, si el inculpado fuera ascendiente o tutor de la persona ofendida. Si resultara daño alguno, se aplicarán las reglas de la acumulación.
+(REFORMADO, P.O. 7 DE FEBRERO DE 1998)
+318.- A quien sin motivo justificado, abandone a sus acreedores alimentarios sin recursos para atender a sus necesidades de subsistencia, se le aplicará de dos a cuatro años de prisión y se le privará de sus derechos familiares.
 319.- El delito de abandono de hogar sólo se perseguirá a petición del cónyuge ofendido o de los representantes legítimos de los hijos; a falta de representantes de los menores, la acción se iniciará por el Ministerio Público, a reserva de que el Juez de la causa designe un tutor especial para los efectos de este artículo.
 320.- Para que el perdón concedido por el cónyuge ofendido pueda producir la libertad del acusado, deberá éste pagar las cantidades que hubiere dejado de ministrar por concepto de alimentos y dar fianza u otra caución de que en lo sucesivo pagará la cantidad que le corresponda.
 321.- Si del abandono a que se refieren los Artículos anteriores resultare alguna lesión o la muerte, se presumirán éstas como premeditadas, para los efectos de aplicar las sanciones que a estos delitos correspondan.
@@ -1336,4 +1354,17 @@ IV.- Documentos electorales: boletas para votar, las actas oficiales de la jorna
 V.- Materiales electorales: los elementos físicos, tales como urnas, canceles o elementos modulares para la emisión del voto, marcadores de credencial, líquido indeleble, útiles de escritorio y demás equipamiento autorizado para su utilización en las casillas electorales durante la jornada electoral.
 (ADICIONADO, P.O. 15 DE JULIO DE 1995)
 403.- Las sanciones previstas en los delitos del presente capítulo, se aplicarán sin perjuicio de las demás penas que pudieran corresponder al responsable por el concurso real de delitos.
+(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 7 DE FEBRERO DE 1998)
+TITULO VIGESIMO SEGUNDO.
+Delitos contra la familia.
+(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 7 DE FEBRERO DE 1998)
+CAPITULO UNICO.
+Violencia intrafamiliar.
+(ADICIONADO, P.O. 7 DE FEBRERO DE 1998)
+404.- Por violencia intrafamiliar se considera el uso de la fuerza física o moral, así como la omisión grave que de manera reiterada se ejerce en contra de un miembro de la familia, por otro integrante de la misma en contra de su integridad física, psíquica o ambas independientemente de que pueda producir o no otro delito. En su caso se aplicarán las reglas de la acumulación.
+Comete el delito de violencia intrafamiliar el cónyuge, concubina o concubino; pariente consanguíneo en línea recta, ascendente o descendente sin limitación de grado; pariente colateral consanguíneo o afín hasta el cuarto grado, adoptante o adoptado, que habite la misma casa de la víctima.
+(ADICIONADO, P.O. 7 DE FEBRERO DE 1998)
+405.- A quien comete el delito de violencia intrafamiliar, se le impondrá de seis meses a tres años de prisión y en su caso, perderá los derechos hereditarios y de alimentos. Asimismo, se le sujetará a tratamiento psicológico especializado.
+(ADICIONADO, P.O. 7 DE FEBRERO DE 1998)
+406.- Este delito se perseguirá por querella de la parte ofendida, salvo que la víctima sea menor de edad o incapaz, en cuyo caso se perseguirá de oficio.
 ARTICULOS TRANSITORIOS:
