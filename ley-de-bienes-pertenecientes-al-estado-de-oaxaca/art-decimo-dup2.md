@@ -1,0 +1,7 @@
+Artículo Décimo-Primero: Las resoluciones a que se refiere el Artículo Décimo, fracciones I, IV, V y VI podrán ser reclamadas de acuerdo con lo que establezcan las leyes especiales, ya sea ante la autoridad administrativa o ante la judicial. A falta de disposición en dichas leyes se estará a las siguientes reglas:
+I.- Cualquiera que sufra un perjuicio individual podrá oponerse ante la misma Autoridad que haya dictado la providencia.
+II.- La instancia deberá proponerse dentro de los quince días siguientes a la notificación al opositor en la forma legal que determine el Código de Procedimientos Civiles.
+III.- Salvo casos urgentes o de marcado interés público, a juicio de la Autoridad, ésta, interpuesto el recurso, deberá suspender la ejecución de la resolución impugnada, cuidando siempre, sin embargo, de adoptar las providencias adecuadas para la salvaguardia de los derechos del Estado.
+IV.- Propuesto el recurso, se comunicará al tercero interesado si lo hubiere, y se concederá un término prudente, nunca inferior de veinte días para las pruebas. La admisión de éstas se hará en lo posible, conforme al Código de Procedimientos Civiles; pero no procederá la confesional.
+V.- La autoridad podrá mandar practicar de oficio los estudios y diligencias que estime oportunos durante la tramitación del recurso.
+VI.- Desahogadas las pruebas propuestas o concluido en su caso, el plazo a que se refiere la fracción IV, quedará el expediente durante diez días a la vista del opositor y del tercero, si lo hubiere para que aleguen.

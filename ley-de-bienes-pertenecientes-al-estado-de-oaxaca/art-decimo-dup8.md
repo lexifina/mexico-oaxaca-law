@@ -1,0 +1,2 @@
+Artículo Décimo-Séptimo: La posesión, conservación y administración de los bienes pertenecientes al Estado de Oaxaca, así como el conocimiento y resolución de todos los asuntos referentes a contratos de que sean objeto dichos inmuebles, corresponden al Titular del Poder Ejecutivo, quien ejercitará sus atribuciones por conducto del Departamento de Bienes del Estado.
+Los particulares no pueden adquirir por prescripción los inmuebles pertenecientes al patrimonio del Estado de Oaxaca.

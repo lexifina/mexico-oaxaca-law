@@ -1,0 +1,1 @@
+Artículo Décimo-Quinto: Las concesiones sobre bienes de dominio público podrán rescatarse por causa de utilidad pública y mediante indemnización, que se computará atendiendo al monto de las inversiones realizadas. Este derecho no podrá ejercitarse sino cuando el Estado haya adquirido en su caso previamente y conforme a la Ley, la unidad industrial correspondiente.

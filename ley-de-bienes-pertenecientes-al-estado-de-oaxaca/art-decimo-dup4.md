@@ -1,0 +1,1 @@
+Artículo Décimo-Tercero: Las concesiones sobre los bienes de dominio público no crean derechos reales. Otorgan simplemente, frente a la administración y sin perjuicio de terceros, el derecho de realizar las explotaciones o los aprovechamientos que las leyes respectivas regulen, a condición de que su titular cumpla con las obligaciones que se le impongan.

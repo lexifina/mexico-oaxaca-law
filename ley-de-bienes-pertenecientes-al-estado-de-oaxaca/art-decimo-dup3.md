@@ -1,0 +1,1 @@
+Artículo Décimo-Segundo: La resolución se dictará dentro de diez días y se comunicará a los interesados por correo certificado con acuse de recibo. Esta resolución no podrá ya revocarse o anularse administrativamente y tendrá presunción de legalidad en cualquier procedimiento que contra ella se intente.

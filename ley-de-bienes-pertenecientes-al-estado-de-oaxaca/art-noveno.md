@@ -1,0 +1,1 @@
+Artículo Noveno: Los bienes pertenecientes al Estado son también susceptibles de enajenación fuera de subasta pública, cuando así lo determine expresamente una Ley o por tratarse de bienes con valor inferior a mil pesos y lo acordare así el C. Gobernador del Estado.

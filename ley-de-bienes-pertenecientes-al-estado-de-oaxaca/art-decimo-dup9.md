@@ -1,0 +1,1 @@
+Artículo Décimo-Octavo: Los bienes de dominio privado pertenecientes al patrimonio del Estado, pueden ser objeto de todos los contratos que regule el derecho común. Se exceptúan solamente los de comodato y las donaciones a particulares.

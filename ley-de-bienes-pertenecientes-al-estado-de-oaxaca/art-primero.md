@@ -1,0 +1,1 @@
+Artículo Primero: Los bienes pertenecientes al Estado de Oaxaca, se dividen en bienes de dominio público o de uso común; bienes destinados a un servicio público y bienes propios o de dominio privado del Estado.

@@ -1,0 +1,7 @@
+Artículo Décimo: Corresponde al Ejecutivo del Estado:
+I.- Declarar cuando ello sea preciso, que un bien determinado forma parte del dominio público del Estado, por estar comprendido en alguna de las disposiciones de esta Ley.
+II.- Incorporar al dominio público, con autorización de la Legislatura y mediante la expedición del Decreto respectivo, un bien que forme parte del dominio privado del Estado, siempre que su posesión corresponda al mismo.
+III.- Desincorporar del dominio público, en los casos que la Ley lo permita, con autorización de la Legislatura y mediante la expedición del Decreto respectivo, un bien que haya dejado de utilizarse en el fin respectivo.
+IV.- Dictar las reglas a que deberán sujetarse la posesión, vigilancia y aprovechamiento de los bienes del dominio público y tomar las medidas administrativas encaminadas a obtener, mantener o recuperar la posesión de ellas, así como a remover cualquier obstáculo creado natural o artificial para su uso o destino.
+V.- Anular administrativamente los acuerdos, concesiones, permisos o autorizaciones que con violación de un precepto legal, o por error, dolo o violencia, se hayan dictado y que perjudiquen o restrinjan los derechos del Estado sobre los bienes del dominio público o los intereses legítimos de tercero con relación a los mismos bienes.
+VI.- En general, dictar las disposiciones ejecutivas que demande el cumplimiento de esta Ley o de las especiales a que estén sometidos los bienes de dominio público, siempre que no se vulneren los derechos de tercero legítimamente adquiridos.

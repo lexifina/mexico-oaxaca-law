@@ -1,0 +1,1 @@
+Artículo Séptimo: El cambio de destino de los bienes inmuebles por parte del Gobierno del Estado de Oaxaca, podrá hacerse con autorización de la Legislatura mediante la expedición del Decreto respectivo.
