@@ -482,7 +482,8 @@ II.- Al que ejecute o haga ejecutar por otros, exhibiciones obscenas; y
 III.- Al que de modo escandaloso invite a otro al comercio carnal.
 CAPITULO II.
 Corrupción de menores y de incapacitados.
-195.- Se aplicará prisión de seis meses a dos años y multa de cincuenta a mil pesos, al que procure o facilite la corrupción de un menor de dieciocho años o de cualquier otro incapacitado, o los induzca a la mendicidad.
+(REFORMADO, P.O. 27 DE AGOSTO DE 1994)
+195.- Se aplicará prisión de tres a ocho años y multa de cincuenta a ciento cincuenta veces el salario, al que procure y facilite la corrupción de un menor de dieciocho años o de cualquier otro incapacitado, o lo induzca a la mendicidad.
 196.- Queda prohibido emplear a menores de dieciocho años en cantinas, tabernas y centros de vicio. La contravención a esta disposición se castigará con prisión de tres días a un año, multa de doscientos a dos mil pesos y, además, con cierre definitivo del establecimiento en caso de reincidencia.
 Incurrirán en la misma pena los padres o tutores que acepten que sus hijos o pupilos, respectivamente, bajo su guarda, se empleen en los referidos establecimientos.
 Para los efectos de este precepto se considerará como empleado en la cantina, taberna o centro de vicio al menor de dieciocho años que por un salario, por la sola comida, por comisión de cualquier índole, por cualquier otro estipendio, gaje o emolumentos o gratuitamente, preste sus servicios en tal lugar.
@@ -740,10 +741,13 @@ Si se hiciere uso de la violencia física o moral, la pena será de seis meses a
 Cuando la estuprada fuere menor de quince años se presumirá en todo caso la seducción o el engaño.
 244.- No se procederá contra el estuprador, sino por queja de la mujer ofendida o de sus padres; o a falta de éstos, de sus representantes legítimos; pero cuando el infractor se case con la mujer ofendida, cesará toda acción para perseguirlo.
 245.- La reparación del daño, en los casos de estupro, comprenderá el pago de alimentos a la mujer y a los hijos, si los hubiera. Dicho pago se hará en la forma y términos que la Ley Civil fija para los casos de divorcio.
-246.- Al que por medio de la violencia física o moral, tenga cópula con una persona, sin la voluntad de ésta, sea cual fuere su sexo, se le impondrán las sanciones de tres a nueve años de prisión y multa de dos mil a diez mil pesos.
-247.- Se equipara a la violación, la cópula con persona menor de doce años de edad, aún cuando se hubiere obtenido su consentimiento, sea cual fuere su sexo; con persona privada de razón o de sentido, o cuando por enfermedad o cualquiera otra causa no pudiere resistir. En tales casos la pena será de cinco a quince años.
-248.- Cuando la violación fuere cometida con intervención directa o indirecta de dos o más personas, la prisión será de ocho a veinte años y la multa de cinco mil a doce mil pesos.
-Además de las sanciones que señalan los artículos que anteceden, se impondrán de seis meses a dos años de prisión, cuando el delito de violación fuere cometido por un ascendiente contra su descendiente, por éste contra aquél, por el tutor en contra de la persona sobre la que ejerza la tutela, o por el padrastro de la persona ofendida o el amasio de la madre de la propia ofendida. En los casos en que el culpable ejerciera la patria potestad o la tutela, las perderá; así como el derecho de heredar del ofendido.
+(REFORMADO, P.O. 27 DE AGOSTO DE 1994)
+246.- Al que por medio de la violencia física o moral tenga cópula con una persona sin la voluntad de ésta, sea cual fuere su sexo, se le impondrá prisión de ocho a catorce años y multa de ciento cincuenta a quinientas veces el salario.
+(REFORMADO, P.O. 27 DE AGOSTO DE 1994)
+247.- Se equipara a la violación la cópula con persona menor de doce años de edad, aún cuando se hubiere obtenido su consentimiento, sea cual fuere su sexo; con persona privada de razón o sentido, o cuando por enfermedad o cualquiera otra causa no pudiere resistir. En tales casos la pena será de nueve a dieciséis años y multa de ciento setenta y cinco a quinientos salarios.
+(REFORMADO, P.O. 27 DE AGOSTO DE 1994)
+248.- Cuando la violación fuere cometida con intervención directa o indirecta de dos o más personas, la prisión será de diez a veinte años y la multa de doscientas a quinientas veces el salario.
+Además de las sanciones que señalan los artículos que anteceden, se impondrán de dos a cuatro años de prisión, cuando el delito de violación fuere cometido por un ascendiente contra su descendiente, por éste contra aquél, por el tutor en contra de la persona sobre la que ejerza la tutela, o por el padrastro de la persona ofendida o el amasio de la madre de la propia ofendida. En los casos en que el culpable ejerciera la patria potestad o la tutela, las perderá, así como el derecho de heredar del ofendido.
 Cuando el delito de violación sea cometido por quien desempeña un cargo o empleo o ejerza una profesión, utilizando los medios o circunstancias que ellos le proporcionan, será destituido definitivamente del cargo o empleo o suspendido por el término de cinco años en el ejercicio de dicha profesión.
 CAPITULO II.
 Rapto.
@@ -813,6 +817,8 @@ Asalto.
 269.- Si los salteadores, atacaren una población, se aplicarán de veinte a treinta años de prisión a los cabecillas o jefes y de diez a quince años a los demás, siempre que no se cometa alguno de los delitos señalados en el artículo anterior, pues entonces se aplicará la pena de treinta a cuarenta años.
 270.- Al que en despoblado o en paraje solitario haga uso de la violencia sobre una persona con el propósito de causar un mal, obtener un lucro o de exigir su consentimiento para cualquier fin y cualquiera que sean los medios y el grado de violencia que se empleen, e independientemente de cualquier hecho delictuoso que resulte cometido, se le castigará con prisión de tres a seis años.
 Llámase (sic) paraje solitario no sólo al que está en despoblado, sino también al que se halle dentro de una población, si por la hora o por cualquier otra circunstancia, no encuentra el ofendido a quien pedir socorro.
+(ADICIONADO, P.O. 27 DE AGOSTO DE 1994)
+La pena será de diez a treinta años de prisión para el que en caminos o carreteras haga uso de la violencia en contra de los ocupantes de un vehículo, ya sea de transporte público o particular.
 TITULO DECIMOSEXTO.
 Delitos contra la vida y la integridad corporal.
 CAPITULO I.
@@ -1047,22 +1053,21 @@ VII.- Cuando el robo se cometa aprovechándose el delincuente de la consternaci�
 VIII.- Cuando se cometa durante un incendio, terremoto u otra calamidad pública, aprovechándose el culpable del desorden o confusión que esos acontecimientos producen.
 CAPITULO II.
 Abigeato.
-(REFORMADO, P.O. 22 DE DICIEMBRE DE 1987)
-370.- Comete el delito de abigeato el que, en campo abierto, se apodere de una o más cabezas de ganado, sin derecho y sin consentimiento de la persona que pueda disponer de ellas, de acuerdo con la ley.
+(REFORMADO, P.O. 27 DE AGOSTO DE 1994)
+370.- Comete el delito de abigeato el que se apodere de una o más cabezas de ganado sin derecho y sin consentimiento de la persona que pueda disponer de ellas de acuerdo con la ley, tenga o no la calidad de ganadero.
 (REFORMADO, P.O. 22 DE DICIEMBRE DE 1987)
 371.- Para los efectos de este Capítulo, se considerará como ganado mayor: el bovino, el caballar, el mular y el asnar; y, como ganado menor: al cabrío, el lanar y el porcino.
-(REFORMADO, P.O. 22 DE DICIEMBRE DE 1987)
+(REFORMADO, P.O. 27 DE AGOSTO DE 1994)
 372.- El abigeato de ganado mayor se sancionará:
-I.- Con prisión de dos a cuatro años y multa de treinta a cien veces el salario, cuando el apoderamiento no exceda de cinco cabezas;
-II.- Con prisión de cuatro a seis años y multa de cien a doscientas veces el salario, cuando el apoderamiento exceda de cinco cabezas pero no de diez;
-III.- Con prisión de seis a doce años y multa de doscientas a quinientas veces el salario, cuando el apoderamiento exceda de diez cabezas.
-(REFORMADO, P.O. 22 DE DICIEMBRE DE 1987)
+I.- Con prisión de cuatro a siete años y multa de treinta a cien veces el salario, cuando el apoderamiento no exceda de cinco cabezas;
+II.- Con prisión de siete a diez años y multa de cien a doscientas veces el salario, cuando el apoderamiento exceda de cinco cabezas pero no de diez; y
+III.- Con prisión de diez a quince años y multa de doscientas a quinientas veces el salario, cuando el apoderamiento exceda de diez cabezas.
+(REFORMADO, P.O. 27 DE AGOSTO DE 1994)
 373.- El abigeato de ganado menor se sancionará:
-I.- Con prisión de uno a tres años y multa de diez a cien veces el salario, cuando el apoderamiento no exceda de cinco cabezas;
-II.- Con prisión de tres a cinco años y multa de cien a ciento ochenta veces el salario, cuando el apoderamiento exceda de cinco cabezas pero no de quince; o
-III.- Con prisión de cinco a diez años y multa de ciento ochenta a quinientas veces el salario, cuando el apoderamiento exceda de quince cabezas.
-(ADICIONADO, P.O. 22 DE DICIEMBRE DE 1987)
-373 Bis.- Cuando el apoderamiento del ganado no fuese en campo abierto, al infractor se le sancionará con las penas del robo.
+I.- Con prisión de dos a cuatro años y multa de diez a cien veces el salario, cuando el apoderamiento no exceda de cinco cabezas;
+II.- Con prisión de cuatro a seis años y multa de cien a ciento ochenta veces el salario, cuando el apoderamiento exceda de cinco cabezas pero no de quince; y
+III.- Con prisión de siete a diez años y multa de ciento ochenta a quinientas veces el salario, cuando el apoderamiento exceda de quince cabezas.
+373 Bis.- (DEROGADO, P.O. 27 DE AGOSTO DE 1994)
 (REFORMADO PRIMER PARRAFO, P.O. 2 DE JULIO DE 1988)
 374.- Se equipara el Abigeato y se sancionará con prisión de dos a cuatro años y multa de diez a cincuenta salarios mínimos vigente en el momento de cometerse el delito, a quienes:
 I.- Desfiguren o borren las marcas de animales vivos o pieles;
