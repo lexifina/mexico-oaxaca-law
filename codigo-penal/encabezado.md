@@ -734,7 +734,8 @@ La misma pena se impondrá a quienes con fines de lucro o sin él, fije, grabe, 
 (ADICIONADO, P.O. 20 DE DICIEMBRE DE 2003)
 195 Bis A.- Es equiparable al delito de corrupción de menores y se aplicarán las siguientes penas, a las personas que:
 I.- Induzcan a un menor de dieciocho años al consumo de narcóticos, la pena será de tres a seis años de prisión y de trescientos a cuatrocientos días multa;
-II.- Induzcan a un menor de dieciocho años al consumo de narcóticos y como consecuencia adquiera farmacodependencia; la pena será de seis a doce años de prisión y de seiscientos a ochocientos días multa;
+(REFORMADA, P.O. 12 DE JUNIO DE 2004)
+II.- Induzcan a un menor de dieciocho años al consumo de narcóticos y como consecuencia adquiera farmacodependencia; la pena será de seis a doce años de prisión y multa de seiscientos a setecientos treinta salario mínimos;
 III.- Si el delito es cometido contra un menor de dieciséis años de edad y mayor de doce, la pena aumentará hasta en una tercera parte más. Si el delito se comete con menor de doce años de edad, las penas aumentarán hasta una mitad de las sanciones a que se refiere este artículo;
 VI (sic).- La sanción señalada en este artículo, se duplicará cuando el delincuente tenga parentesco por consanguinidad, por afinidad o civil, sea tutor o curador, así como también a quienes habiten en el mismo domicilio de la víctima aunque no tengan parentesco alguno con la misma; y
 V.- Si además de los delitos previstos en este artículo resultase cometido otro, se aplicarán las reglas de la acumulación.
@@ -841,8 +842,8 @@ Se aplicará prisión de seis meses a tres años, multa de cinco mil a veinticin
 Se aplicará prisión de seis meses a seis años, multa de cinco mil a veinticinco mil pesos, destitución de empleo, cargo o comisión, inhabilitación por dos años para ocupar otro, a los que cometan los delitos señalados en las Fracciones I, IV, V, VII, VIII, IX, XIV, XVIII, XIX, XX, XXI, XXVIII, XXIX, XXX y XXXI del Artículo anterior.
 Se aplicará prisión de uno a ocho años, multa de cinco mil a veinticinco mil pesos, destitución de empleo e inhabilitación por tres años para ocupar otro cargo, al que cometa los delitos señalados en las Fracciones II y XXXIII del Artículo anterior.
 Se aplicará prisión de seis meses a nueve años, multa de cinco mil a veinticinco mil pesos, destitución de empleo o cargo e inhabilitación para obtener otro por el término de tres años al que cometa los delitos señalados en las Fracciones XI, XXXIX y XL del Artículo anterior.
-(REFORMADO, P.O. 20 DE DICIEMBRE DE 2003)
-Se aplicará prisión de seis meses a doce años, multa de cinco mil a veinticinco mil pesos, destitución del cargo e inhabilitación por cuatro años, para obtener cualquier otro, quien incurra en el delito previsto en las fracciones XXXVIII y XLI.
+(REFORMADO, P.O. 12 DE JUNIO DE 2004)
+Se aplicará prisión de seis meses a doce años, y multa de ciento treinta y uno a seiscientos cincuenta y siete salarios mínimos, destitución de cargo e inhabilitación por cuatro años, para obtener cualquier otro; quien incurra en el delito previsto en las fracciones XXXVIII y XLI.
 Se aplicará prisión de cuatro a doce años, destitución de empleo, cargo o comisión e inhabilitación por el término de cinco años para obtener cualquier otro y multa de veinticinco mil a treinta mil pesos a los que cometan la violación señalada en la fracción XXIV del referido artículo.
 Se aplicará prisión de dos a siete años al que incurra en los delitos previstos por la Fracción XXIII del Artículo 208 que antecede, destitución de empleo e inhabilitación para obtener otro durante un período de cinco a diez años y multa de cinco mil a veinticinco mil pesos.
 En todos los casos señalados anteriormente si resultare además cometido algún otro delito, se aplicarán las reglas de acumulación.
@@ -969,8 +970,8 @@ CAPITULO VI.
 Disposiciones comunes a los capítulos precedentes.
 234.- Si el falsario hiciere uso de los documentos u objetos falsos que se detallan en este título, se acumularán la falsificación y el delito que por medio de ellos hubiere cometido el delincuente.
 235.- Las disposiciones contenidas en este título solo se aplicarán en lo que no estuviere previsto en las leyes especiales o no se opusiera a lo establecido en ellas.
-(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2003)
-235 Bis.- Cuando los delitos a que se refiere este título se cometan por extranjeros o servidores públicos, cualquiera que sea la finalidad que se trate de obtener o se obtenga, la pena aplicable será de tres años seis meses a seis años y de quinientos a mil días multa. A los servidores públicos se les destituirá de sus empleos y se les inhabilitará por un tiempo igual a la sanción corporal a la que haya sido condenado.
+(REFORMADO, P.O. 12 DE JUNIO DE 2004)
+235 Bis.- Cuando los delitos a que se refiere este Título se cometan por extranjeros o servidores públicos, cualquiera que sea la finalidad que se trate de obtener o se obtenga, la pena aplicable será de tres años seis meses a seis años y multa de quinientos a setecientos treinta salarios mínimos. A los servidores públicos se les destituirá de su empleo y se les inhabilitará por un tiempo igual a la sanción corporal a la que haya sido condenados.
 TITULO DECIMOPRIMERO.
 Delitos contra la economía pública.
 CAPITULO I.
@@ -1311,11 +1312,14 @@ Este delito sólo se perseguirá por querella de la parte ofendida si el menor n
 En este supuesto, si el sujeto activo deja en libertad a la persona ilegalmente retenida, en forma espontánea dentro de las veinticuatro horas siguientes al inicio de la privación de la libertad, el delito se perseguirá por querella y en su caso, la sanción que se aplique será de la tercera parte del mínimo a la tercera parte del máximo; y si desiste de la privación de la libertad, dentro de las setenta y dos horas siguientes de iniciada aquella, la pena será de las dos terceras partes de la mínima, a las dos terceras partes de la máxima.
 SI con la conducta descrita en el primer párrafo de este artículo, concurrieren amenazas de privar a los rehenes de la vida o de causarles un daño de cualquier tipo se agravará la pena de uno a tres años.
 Si resultare otro delito, se atenderá a la pena agravada y a las reglas del concurso de delitos.
+(REFORMADO PRIMER PARRAFO, P.O. 12 DE JUNIO DE 2004)
+347 Bis B.- A quien ilegalmente prive a una persona de su libertad mediante la violencia física o moral, la seducción o el engaño con la intención de realizar un acto erótico sexual o para contraer matrimonio, se le aplicará la pena de dos a ocho años de prisión y multa de veinticinco a trescientos salarios mínimos.
 (ADICIONADO, P.O. 1 DE ABRIL DE 2002)
-347 Bis B.- A quien ilegalmente prive a una persona de su libertad mediante la violencia física o moral, la seducción o el engaño, con la intención de realizar actos tendientes a contraer matrimonio, se le aplicará la pena de dos a ocho años de prisión y multa de veinticinco a trescientos salarios mínimos.
 Si el pasivo es menor de doce años de edad se presumirá el engaño; si es mayor de doce y menor de dieciséis años se presumirá la seducción. En estos supuestos la pena se incrementará de un año dos meses a tres años de prisión.
+(ADICIONADO, P.O. 1 DE ABRIL DE 2002)
 Si el activo del delito realiza algún acto erótico sexual con la víctima, se sancionará de acuerdo a las reglas del concurso de delitos.
-SI el activo de este delito restituye la libertad a la víctima dentro de las setenta y dos horas, voluntariamente o en atención al primer requerimiento que le haga la autoridad, sin que hubiere existido la realización de algún acto erótico sexual, la sanción será de seis meses a dos años de prisión.
+(ADICIONADO, P.O. 1 DE ABRIL DE 2002)
+Si el activo de este delito restituye la libertad a la víctima dentro de las setenta y dos horas, voluntariamente o en atención al primer requerimiento que le haga la autoridad, sin que hubiere existido la realización de algún acto erótico sexual, la sanción será de seis meses a dos años de prisión.
 Este delito sólo se perseguirá por querella de la parte ofendida.
 (ADICIONADO, P.O. 1 DE ABRIL DE 2002)
 CAPITULO II.
