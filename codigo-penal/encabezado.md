@@ -906,10 +906,12 @@ Lesiones.
 278.- (DEROGADO, P.O. 3 DE JUNIO DE 1995)
 279.- Si las lesiones fueren inferidas en riña, se impondrá al responsable, si se trata del provocado, de la mitad de la mínima a la mitad de la máxima de las sanciones que establecen los artículos 272 al 277 de este Código según la lesión que se haya inferido y si se trata del provocador, de las cinco sextas partes de la mínima a las cinco sextas de la máxima de dichas sanciones, establecidas en los artículos 272 al 277, ya citados, según la lesión que se haya inferido.
 280.- Cuando concurra una sola de las circunstancias a que se refiere el artículo 299 se aumentará en un tercio la sanción que correspondería, si la lesión fuere simple; cuando concurren dos, se aumentará la sanción en una mitad y si concurren más de dos de las circunstancias dichas se aumentará la pena en dos terceras partes.
-281.- Si el ofendido fuere ascendiente del autor de una lesión, se aumentará hasta dos años de prisión a la sanción que corresponda, con arreglo a los artículos que preceden.
+(REFORMADO, P.O. 19 DE ABRIL DE 1997)
+281.- Al que en ejercicio de la patria potestad, la tutela o estando encargado de la guarda de un menor, lo maltrate alterando su salud física o mental, se le impondrá la pena correspondiente a las lesiones que infiera, la que se aumentará hasta tres años de prisión, con privación temporal o definitiva en el ejercicio de la patria potestad, tutela o derechos derivados de la situación generadora de la guarda del menor. En todo caso, se dictarán las medidas necesarias e inmediatas para el tratamiento psicoterapéutico de la víctima.
+Decretado auto de formal prisión en contra del agresor, se le suspenderá en el ejercicio de la patria potestad, de la tutela o de la guarda del menor.
+En lo aplicable y conducente, se sancionará con las mismas penas al que ejerza la tutela o la guarda de una persona privada de razón o sujeta a estado de interdicción por las lesiones que cause a ésta.
 282.- De las lesiones que a una persona cause algún animal bravío, será responsable el que con esa intención lo azuce, lo suelte o haga ésto último por descuido.
-283.- Las lesiones inferidas por quienes ejerzan la patria potestad o la tutela, en ejercicio del derecho de corregir, no serán punibles si fueren de las comprendidas en la primera parte del artículo 272 y, además, el autor no abusare de su derecho, corrigiendo con crueldad o con innecesaria frecuencia.
-En cualquier otro caso, se impondrá al infractor la sanción que corresponda con arreglo a las prevenciones anteriores y quedará, además, privado de la potestad en virtud de la cual tenga el derecho de corrección.
+283.- (DEROGADO, P.O. 19 DE ABRIL DE 1997)
 CAPITULO II.
 Disparo de arma de fuego y ataque peligroso.
 284.- Se aplicarán de seis meses a tres años de prisión y multa de cien a mil pesos:
@@ -1008,7 +1010,7 @@ Son simples los golpes o violencias físicas que no causen lesión alguna y solo
 IV.- Los Jueces podrán, además, declarar a los infractores, sujetos a la vigilancia de la autoridad, prohibirles ir a determinado lugar y obligarlos a otorgar caución de no ofender, siempre que lo crean conveniente.
 327.- En los casos de las fracciones I y II del artículo anterior, la prisión podrá ser hasta de tres años, cuando los golpes o las violencias simples se infieran a un ascendiente.
 328.- No se podrá proceder contra el autor de golpes o violencias previstos en este Capítulo, sino por queja del ofendido, salvo cuando el delito se haya cometido en una reunión o lugar público.
-329.- Los golpes y violencias simples inferidos o cometidos en ejercicio del derecho de corregir, no son punibles.
+329.- (DEROGADO, P.O. 19 DE ABRIL DE 1997)
 CAPITULO II.
 Injurias y difamación.
 330.- El delito de injurias se castigará con tres días a un año de prisión o multa de cien a mil pesos, o ambas sanciones, a juicio del Juez.
