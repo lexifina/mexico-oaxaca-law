@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1999)
+ARTICULO 94 B.- Las cuotas que en los términos de esta Ley corresponda cubrir a los particulares beneficiados con las obras de saneamiento, tendrán el carácter de créditos fiscales y constituirán gravámenes reales sobre los inmuebles beneficiados con las obras; por lo tanto, serán pagadas preferentemente con el valor de los inmuebles y en las mismas condiciones de los adeudos provenientes de impuestos.
+La recaudación de las cuotas o derechos por este concepto, corresponderá a la Tesorería Municipal, la cual por los medios legales las hará efectivas y las aplicará a los fines específicos que les corresponda, debiendo llevar en cada caso una cuenta especial.
