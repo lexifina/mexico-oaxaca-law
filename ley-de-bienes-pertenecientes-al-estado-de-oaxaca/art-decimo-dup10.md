@@ -15,7 +15,7 @@ Artículo Vigésimo-Sexto: Cuando la sentencia declare la propiedad de los biene
 Artículo Vigésimo-Séptimo: Los bienes de dominio privado pertenecientes al Estado, estarán sometidos en todo lo no previsto por esta Ley:
 I.- Al Código Civil del Estado de Oaxaca; y
 II.- En las materias que no regule dicho Código, a las disposiciones de carácter general.
-Artículo Vigésimo-Octavo: Se faculta al Ejecutivo del Estado para transigir los pleitos surgidos con motivo del cumplimiento y aplicación de esta Ley, siempre que a su juicio sea conveniente a los intereses del Estado, dando cuenta a la Legislatura del Estado.
+Artículo Vigésimo Octavo: Se faculta al Ejecutivo del Estado para transigir los pleitos surgidos con motivo del cumplimiento y aplicación de esta Ley, siempre que a su juicio sea conveniente a los intereses del Estado, dando cuenta a la Legislatura del Estado.
 CAPITULO CUARTO
 De los Muebles del Dominio Privado.
 Artículo Vigésimo-Noveno: Pertenecen al patrimonio de la Hacienda Pública del Estado, todos los bienes muebles que se encuentran en las diversas dependencias de los Poderes del mismo.
@@ -43,3 +43,10 @@ III.- Cuando se declare la nulidad del título en cuya virtud se haya hecho la i
 IV.- En la cancelación de las inscripciones se asentarán los datos necesarios a fin de que se conozca con toda exactitud, cual es la inscripción que se cancela y la causa de la cancelación.
 Artículo Trigésimo-Séptimo: Un Reglamento determinará las Secciones de que habrá de componerse el registro, los libros que deben llevar y los requisitos de éstos.
 Artículo Trigésimo-Octavo: Para los fines de esta Ley, se crea una oficina que se denominará Departamento de Bienes del Estado, como una Dependencia del Ejecutivo, la cual estará provista del personal necesario, cuyo número y sueldo determinará el Presupuesto de Egresos.
+(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 15 DE MARZO DE 2001)
+CAPITULO SEXTO
+Del Comodato y la Donación.
+(ADICIONADO, P.O. 15 DE MARZO DE 2001)
+Artículo Trigésimo-Noveno.- El Titular del Poder Ejecutivo estará facultado a otorgar en comodato o donar a los particulares, bienes inmuebles del dominio privado cuando el objeto, motivo del comodato o de la donación, sea en beneficio de la colectividad y aprobado mediante Decreto por la Legislatura.
+(ADICIONADO, P.O. 15 DE MARZO DE 2001)
+Artículo Cuadragésimo.- El Ejecutivo hará la solicitud correspondiente a la Legislatura, misma que de aprobarse deberá contar con el voto de las dos terceras partes de los integrantes de la Legislatura.

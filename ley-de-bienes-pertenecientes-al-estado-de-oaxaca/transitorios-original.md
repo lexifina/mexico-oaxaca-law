@@ -9,3 +9,4 @@ Oaxaca de Juárez, a 15 de diciembre de 1951.- Ing. Manuel Mayoral Heredia.- El 
 Y lo comunico a usted para su conocimiento y fines consiguientes.
 Sufragio Efectivo. No Reelección.- El Respeto al Derecho Ajeno es la Paz.- Oaxaca de Juárez, a 15 de diciembre de 1951.- El Secretario Gral. del Despacho, Lic. Guillermo Candiani.- Rúbrica.
 Al C...
+N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
