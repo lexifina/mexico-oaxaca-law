@@ -578,7 +578,7 @@ CAPITULO UNICO.
 204.- Se aplicará prisión de uno a cinco años, multa de doscientos a tres mil pesos y suspensión de profesión, en su caso, de dos meses a un año, al que con perjuicio de alguien y sin consentimiento del que pueda resultar perjudicado, revele algún secreto o comunicación reservada que conoce por virtud de servicios personales o técnicos prestados, o cuando el secreto revelado o publicado sea de carácter industrial.
 (REFORMADA SU DENOMINACION, P.O. 27 DE NOVIEMBRE DE 1982)
 TITULO OCTAVO.
-Delitos cometidos por funcionarios y empleados de la Administración Pública, Estatal y Municipal o escentralizada.
+Delitos cometidos por funcionarios y empleados de la Administración Pública, Estatal y Municipal o Descentralizada.
 (REFORMADA SU DENOMINACION, P.O. 27 DE NOVIEMBRE DE 1982)
 CAPITULO I.
 Ejercicio indebido y abandono de funciones: coalición de funcionarios.
@@ -1195,6 +1195,8 @@ XI.- Al que por sorteos, rifas, loterías, promesas de venta, o por cualquier ot
 XII.- Al fabricante empresario, contratista constructor de una obra cualquiera, que emplee en la construcción de la misma, materiales, en cantidad o calidad inferiores a lo convenido, o mano de obra inferior a la estipulada siempre que haya recibido el precio convenido o parte de él;
 XIII.- Al vendedor de materiales de construcción o cualquiera especie que habiendo recibido el precio de los mismos no los entregare en la cantidad o en la calidad convenida;
 XIV.- Al fiador que enajene o grave los bienes raíces cuyas inscripciones de propiedad estén anotadas, conforme lo dispone el Código Civil, y de la operación resulta la insolvencia del citado fiador.
+(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 1995)
+Asimismo se aplicará de tres a siete años de prisión y de treinta a ciento veinte días de multa al que, teniendo la obligación de cubrir alimentos conforme a la Ley, eluda proporcionarlos a sus ascendientes y descendientes en primer grado, o a su cónyuge, colocándose dolosamente en estado de insolvencia.
 382.- Se impondrá prisión de seis meses a ocho años y multa de cinco mil a diez mil pesos, o sólo la prisión al que, para hacerse de una cantidad de dinero en numerario, en papel moneda o billetes de banco, de un documento que importa obligación, liberación o transmisión de derechos o de cualquiera otra cosa ajena mueble, logre que se le entregue por medio de maquinaciones, engaños o artificios.
 (REFORMADO, P.O. 3 DE JUNIO DE 1995)
 383.- Es aplicable al fraude el artículo 366 de este Código.
