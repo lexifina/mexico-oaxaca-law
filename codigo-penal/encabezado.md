@@ -503,10 +503,12 @@ Revelación de secretos.
 CAPITULO UNICO.
 203.- Se aplicará multa de cien a tres mil pesos o prisión de dos meses a un año, al que sin justa causa, con perjuicio de alguien y sin consentimiento del que pueda resultar perjudicado, revele algún secreto o comunicación reservada, que conoce o ha recibido con motivo de su empleo, cargo o puesto.
 204.- Se aplicará prisión de uno a cinco años, multa de doscientos a tres mil pesos y suspensión de profesión, en su caso, de dos meses a un año, al que con perjuicio de alguien y sin consentimiento del que pueda resultar perjudicado, revele algún secreto o comunicación reservada que conoce por virtud de servicios personales o técnicos prestados, o cuando el secreto revelado o publicado sea de carácter industrial.
+(REFORMADA SU DENOMINACION, P.O. 27 DE NOVIEMBRE DE 1982)
 TITULO OCTAVO.
-Delitos cometidos por funcionarios y empleados públicos, Agentes del Gobierno o sus comisionados.
+Delitos cometidos por funcionarios y empleados de la Administración Pública, Estatal y Municipal o Descentralizada.
+(REFORMADA SU DENOMINACION, P.O. 27 DE NOVIEMBRE DE 1982)
 CAPITULO I.
-Ejercicio indebido y abandono de funciones; coalición de funcionarios.
+Ejercicio indebido y abandono de funciones: coalición de funcionarios.
 205.- Se impondrá de dos meses a dos años de prisión y multa de quinientos a cinco mil pesos, a los funcionarios y empleados públicos, agentes del Gobierno o sus comisionados que incurran en cualesquiera de los delitos siguientes:
 I.- Aceptar un cargo o empleo y tomar posesión de él sin reunir los requisitos que establezcan la Constitución Local o las leyes respectivas;
 II.- Al que ejerza las funciones de un empleo, cargo o comisión sin haber tomado posesión legítima del mismo o sin llenar todos los requisitos legales;
@@ -516,7 +518,8 @@ V.- Al funcionario público o agente del Gobierno que simule tener alguna otra c
 VI.- Al funcionario público o agente del Gobierno que ejerza funciones que no le correspondan, por su empleo, cargo o comisión, o se exceda en el ejercicio de las que le competen;
 VII.- Al que, sin habérsele admitido la renuncia de una comisión, empleo o cargo, y antes de que se presente la persona que ha de reemplazarle, lo abandone sin causa justificada.
 El delito de abandono de empleo se entenderá consumado cuando el infractor se separe por tres días o más sin causa justificada, de la comisión, empleo o cargo que estuviere desempeñando.
-206.- A los que cometan el delito de coalición de funcionarios, se les impondrá de seis meses a tres años de prisión y multa de quinientos a cinco mil pesos.
+(REFORMADO, P.O. 27 DE NOVIEMBRE DE 1982)
+206.- A los que cometan el delito de coalición de funcionarios, se les impondrá de seis meses a tres años de prisión y multa de cinco mil a cincuenta mil pesos.
 207.- Cometen el delito de coalición: Los funcionarios públicos, empleados, agentes o comisionados del Gobierno, que se coaliguen para tomar medidas contrarias a una ley o reglamento, impedir su ejecución, o para hacer dimisión de sus puestos, con el fin de impedir, entorpecer, o suspender la administración pública en cualquiera de sus ramos.
 CAPITULO II.
 Abuso de autoridad y otros delitos oficiales.
@@ -563,18 +566,16 @@ XXXIX.- Cuando substraiga un expediente de la oficina en que preste sus servicio
 Los gastos para reponer el expediente o el documento se incluirán en la reparación del daño.
 XL.- Cuando las autoridades de policía o cualesquiera otras, no den al Ministerio Público la intervención oportuna que le corresponde en la persecución de los delitos.
 Los delitos a que se refiere este artículo producen acción popular.
-209.- Se aplicará destitución de empleo a quienes cometan la violación de que habla la fracción XXII del artículo anterior.
-Se aplicará prisión de tres días a tres meses y multa de dos a cincuenta pesos a quienes cometan la infracción de que hablan las fracciones XXXVI y XXXVII del artículo que antecede.
-Se aplicará prisión de dos meses a dos años y multa de diez a quinientos pesos al que cometa la infracción a que alude la fracción XXXV del propio artículo.
-Se aplicará prisión de tres días a tres años, multa de cinco a doscientos pesos y destitución de empleo, cargo o comisión, a los que cometan los delitos señalados en las fracciones III, VI, X, XII; XIII; XV a XVII inclusive, XXV a XXVII inclusive XXXII y XXXIV del artículo que precede.
-Se aplicará prisión de seis meses a seis años, multa de veinticinco a mil pesos y destitución de empleo, cargo o comisión, a los que cometan los delitos señalados en las fracciones I, II, IV; V; VII a IX inclusive, XIV; XVIII a XXI inclusive y XXVIII a XXXI inclusive del mismo artículo.
-Se aplicará prisión de uno a ocho años, multa de cien a mil pesos y destitución al que cometa el delito señalado en la fracción XXXIII, de la indicada disposición.
-Se aplicará prisión de seis meses a nueve años, multa de veinticinco a mil pesos y destitución al que cometa el delito señalado en las fracciones XI, XXXIX y XL del artículo anterior.
-Se aplicará prisión de seis meses a doce años, multa de cincuenta a dos mil pesos y destitución al que incurra en el delito previsto en la fracción XXXVIII del mismo artículo.
-Se aplicará prisión de cuatro a doce años, destitución de empleo, cargo o comisión e inhabilitación para obtener cualquier otro, de ocho a doce años, a los que cometan la violación señalada en la fracción XXIV del repetido artículo.
-Si además resultare cometido algún otro delito se aplicarán las reglas de acumulación, o la del artículo 71, en su caso.
-Si el infractor prestare sus servicios en el establecimiento, quedará además destituido de su empleo y se le inhabilitará para obtener otro durante un período de ocho a doce años.
-Se aplicará prisión de dos a siete años al que incurra en los delitos previstos por la fracción XXIII del Artículo 208 que antecede y además será destituido de su empleo y se le inhabilitará para obtener otro durante un período de cinco a diez años. Lo anterior con el fin de que el de sin pena. (sic)
+(REFORMADO, P.O. 27 DE NOVIEMBRE DE 1982)
+209.- Se aplicará destitución de empleo e inhabilitación para obtener otro cargo por un término de un año y multa de cinco mil a veinticinco mil pesos, a quienes cometan la violación de que habla la fracción XXII del Artículo anterior.
+Se aplicará prisión de seis meses a tres años, multa de cinco mil a veinticinco mil pesos, destitución de empleo, cargo, o comisión e inhabilitación por un año para ocupar otro, a quienes cometan las infracciones a que se refieren las fracciones III, VI, X, XII, XIII, XV, XVI, XVII, XXV, XXVI, XXVII, XXXII, XXXIV, XXXV, XXXVI y XXXVII, del Artículo que precede.
+Se aplicará prisión de seis meses a seis años, multa de cinco mil a veinticinco mil pesos, destitución de empleo, cargo o comisión, inhabilitación por dos años para ocupar otro, a los que cometan los delitos señalados en las Fracciones I, IV, V, VII, VIII, IX, XIV, XVIII, XIX, XX, XXI, XXVIII, XXIX, XXX y XXXI del Artículo anterior.
+Se aplicará prisión de uno a ocho años, multa de cinco mil a veinticinco mil pesos, destitución de empleo e inhabilitación por tres años para ocupar otro cargo, al que cometa los delitos señalados en las Fracciones II y XXXIII del Artículo anterior.
+Se aplicará prisión de seis meses a nueve años, multa de cinco mil a veinticinco mil pesos, destitución de empleo o cargo e inhabilitación para obtener otro por el término de tres años al que cometa los delitos señalados en las Fracciones XI, XXXIX y XL del Artículo anterior.
+Se aplicará prisión de seis meses a doce años, multa de cinco mil a veinticinco mil pesos, destitución de cargo e inhabilitación por cuatro años, para obtener cualquier otro, quien incurra en el delito previsto en la Fracción XXXVIII del mismo artículo.
+Se aplicará prisión de cuatro a doce años, destitución de empleo, cargo o comisión e inhabilitación por el término de cinco años para obtener cualquier otro y multa de veinticinco mil a treinta mil pesos a los que cometan la violación señalada en la fracción XXIV del referido artículo.
+Se aplicará prisión de dos a siete años al que incurra en los delitos previstos por la Fracción XXIII del Artículo 208 que antecede, destitución de empleo e inhabilitación para obtener otro durante un período de cinco a diez años y multa de cinco mil a veinticinco mil pesos.
+En todos los casos señalados anteriormente si resultare además cometido algún otro delito, se aplicarán las reglas de acumulación.
 CAPITULO III.
 Delitos cometidos en la administración de justicia.
 210.- Se impondrá de dos meses a cinco años de prisión, destitución y multa de doscientos a cinco mil pesos a los funcionarios, empleados o auxiliares de la administración de justicia, que cometan alguno de los delitos siguientes:
@@ -588,19 +589,32 @@ VII.- Aprovechar el poder, el empleo o el cargo para satisfacer indebidamente al
 CAPITULO IV.
 Cohecho.
 211.- Comete el delito de cohecho:
-I.- La persona encargada de un servicio público, que por sí o por interpósita persona, solicite, exija o reciba indebidamente dinero o cualquiera otra dádiva, o acepte una promesa directa o indirectamente, para dejar de hacer algo justo o hacer algo injusto relacionado con sus funciones;
+(REFORMADA, P.O. 27 DE NOVIEMBRE DE 1982)
+(Sic) El funcionario o empleado encargado de un servicio público de la Administración Estatal, Municipal o Descentralizada o el funcionario o empleado de una empresa en que como accionista o asociado participe el Estado, que por sí o por interpósita persona solicite o reciba dinero o cualquiera otra dádiva o acepte una promesa para hacer o dejar de hacer algo justo o hacer algo injusto relacionado con sus funciones;
 II.- El que directa o indirectamente dé u ofrezca dádivas a la persona encargada de un servicio público, sea o no funcionario, para dejar de hacer algo justo o hacer algo injusto relacionado con sus funciones;
-El cohecho ameritará una sanción de seis meses a seis años de prisión y multa de quinientos a cinco mil pesos.
+(REFORMADO, P.O. 27 DE NOVIEMBRE DE 1982)
+El cohecho ameritará una sanción de seis meses a seis años de prisión, y multa hasta de veinticinco mil pesos, destitución de empleo e inhabilitación para obtener otro por un término de tres años.
 CAPITULO V.
 Peculado y concusión.
-212.- Al que cometa peculado, se le aplicarán de uno a quince años de prisión, multa de quinientos a diez mil pesos y destitución del empleo o cargo e inhabilitación de dos a seis años.
+(REFORMADO, P.O. 27 DE NOVIEMBRE DE 1982)
+212.- Al que cometa peculado, se le aplicará de uno a quince años de prisión, multa de mil a cincuenta mil pesos, destitución de empleo o cargo e inhabilitación de dos a seis años para obtener otro.
 213.- Comete el delito de peculado: todo empleado o funcionario encargado de un servicio público, del Estado, municipal o descentralizado, aunque sea en comisión o por tiempo limitado, que para usos propios o ajenos, distraiga de su objeto el dinero, valores, fincas o cualquiera otra perteneciente al Estado, a un Municipio, a un organismo descentralizado o a algún particular, si por razón de su cargo los hubiere recibido en administración, en depósito o por cualquier otra causa.
-214.- La pena será de uno a seis meses de prisión, si dentro de los diez días siguientes a aquél en que se descubrió el delito, devolviere el inculpado lo sustraído.
-Esto se entiende sin perjuicio de la destitución, de la inhabilitación y de la multa correspondiente.
+214.- (DEROGADO, P.O. 27 DE NOVIEMBRE DE 1982)
 215.- Comete el delito de concusión: el encargado de un servicio público que, con el carácter de tal y a título de impuesto o contribución, recargo, renta, rédito, salario o emolumento, exija, por sí o por medio de otro, dinero, valores, servicios o cualquier otra cosa que sepa no sea debida, o en mayor cantidad que la señalada por la ley.
-216.- A los funcionarios y empleados públicos que cometan el delito de concusión, se les aplicará destitución de empleo o inhabilitación para obtener otro por un término de dos a seis años; y pagarán una multa igual al total de la cantidad que hubieren recibido indebidamente.
-Si ésta pasare de quinientos pesos, se les impondrán además, de tres meses a dos años de prisión.
+(REFORMADO, P.O. 27 DE NOVIEMBRE DE 1982)
+216.- A los funcionarios y empleados públicos que cometan el delito de concusión se les aplicará de uno a dos años de prisión, destitución de empleo e inhabilitación para obtener otro por un término de dos a seis años y pagarán una multa igual al duplo de la cantidad que hubieren recibido indebidamente.
 217.- Las penas señaladas en el artículo anterior, se aplicarán también a los encargados o comisionados por un funcionario público que, con aquella investidura, cometan el delito de concusión.
+(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 27 DE NOVIEMBRE DE 1982)
+CAPITULO V BIS.
+Enriquecimiento ilegítimo.
+(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 1982)
+217 Bis A.- Se impondrá una pena de uno a diez años de prisión, destitución e inhabilitación para ocupar empleos o cargos públicos por un término de uno a seis años, al funcionario o empleado de la Administración Pública Estatal o Municipal o Descentralizada, que en ejercicio de sus funciones efectúe compras o ventas, otorgue contratos o concesiones o resuelva asuntos en los que tengan interés sociedades o personas con las que se hubiere asociado, o sin sujetarse a los requisitos o procedimientos establecidos, que produzcan o puedan producir beneficios económicos a él, a su cónyuge, descendientes, ascendientes o parientes por consanguinidad o afinidad hasta el cuarto grado.
+(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 1982)
+217 Bis B.- Se impondrá pena de uno a diez años de prisión, destitución e inhabilitación para ocupar empleos o cargos públicos por el término de uno a seis años, al funcionario o empleado de la Administración Pública Estatal, Municipal o Descentralizada, que por sí o por interpósita persona, o a través de sociedades de las que sea parte, haga inversiones, compras, ventas o cualquier operación que produzcan beneficio económico a él, a su cónyuge, descendientes, ascendientes o parientes por consanguinidad o afinidad hasta el cuarto grado, con apoyo en resoluciones que el mismo funcionario o empleado dicte o valiéndose de la información que posea por razón de su empleo.
+(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 1982)
+217 (sic) C.- Se impondrá sanción de tres meses a dos años de prisión, destitución del cargo e inhabilitación para ocupar puesto público por un término de uno a tres años, el funcionario o empleado de la Administración Pública Estatal o Municipal, o Descentralizada, que por sí o por interpósita persona, haga uso de recursos humanos o materiales, en actividades ajenas a las atenciones o necesidades oficiales.
+(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 1982)
+217 Bis D.- Se impondrá sanción de tres meses a dos años de prisión, destitución e inhabilitación para ocupar empleos o cargos públicos, por un término de uno a tres años, al funcionario o empleado de la Administración Pública Estatal o Municipal, o Descentralizada, que otorgue nombramiento o comisión oficial a una persona cuando ésta no desempeñe el servicio para el que se le nombró, si ésta percibe el sueldo, honorarios o remuneración correspondiente. Al nombrado, se le aplicarán de dos meses a dos años de prisión.
 TITULO NOVENO.
 Responsabilidad Profesional.
 CAPITULO I.
@@ -702,10 +716,15 @@ IV.- Los funcionarios o empleados públicos que autoricen, protejan o asistan a 
 239.- Para los efectos de este capítulo se consideran ilícitos los juegos, prohibidos por el artículo 151 de la Constitución Política Local y los que determinan los reglamentos respectivos expedidos por las Autoridades Administrativas Superiores del Estado.
 CAPITULO III.
 Delitos contra el comercio y la industria.
-240.- Se aplicarán de uno a seis años de prisión y multa de mil a veinticinco mil pesos, además del decomiso de los artículos objeto de la infracción:
+(REFORMADO PRIMER PARRAFO, P.O. 27 DE NOVIEMBRE DE 1982)
+240.- Se aplicarán de uno a diez años de prisión y multa de mil a cincuenta mil pesos, además del decomiso de los artículos objeto de la infracción:
 I.- A quien o quienes acaparen, monopolicen, oculten o retiren del comercio artículos de primera necesidad o de consumo necesario o con el objeto de provocar el alza de precios;
 II.- A quienes celebren acuerdos o combinaciones con productores, industriales, comerciantes o empresarios, para evitar la competencia en el mercado libre, obligando a los consumidores a pagar precios exagerados;
-III.- Al que ejecute actos contrarios a la libre concurrencia en la industria o el comercio.
+III.- Al que ejecute actos contrarios a la libre concurrencia en la industria o el comercio;
+(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 1982)
+IV.- A quienes por cualquier medio alteren las mercancías o productos o reduzcan las propiedades que debieran tener. Si a consecuencia de la alteración o reducción resultaren daños, lesiones u homicidio, se aplicarán, además, las sanciones que por esos delitos correspondan.
+(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 1982)
+Lo mandado en este Artículo se observará sin prejuicio de las medidas y sanciones que pueda tomar o imponer la autoridad administrativa con base en leyes especiales.
 TITULO DECIMOSEGUNDO.
 Delitos sexuales.
 CAPITULO I.
