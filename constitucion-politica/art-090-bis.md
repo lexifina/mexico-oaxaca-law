@@ -1,5 +1,1 @@
-(ADICIONADO, P.O. 29 DE OCTUBRE DE 1990)
-ARTICULO 90 BIS. La Ley organizará una Junta de Conciliación Agraria con funciones exclusivamente conciliatorias que obrará como amigable componedora y en sus laudos, respetará estrictamente las disposiciones federales sobre la materia.
-Es propósito de la Junta de Conciliación Agraria, además, promover que las resoluciones que dicten las autoridades agrarias se apoyen y funden en los acuerdos conciliatorios entre las comunidades, para que estos tengan el valor jurídico de cosa juzgada.
-La Junta de Conciliación Agraria deberá constituir sus agencias de acuerdo a cada región y grupo étnico.
-Sus miembros serán nombrados por el Gobernador.
+ARTICULO 90 BIS. (DEROGADO, P.O. 8 DE DICIEMBRE DE 2000)
