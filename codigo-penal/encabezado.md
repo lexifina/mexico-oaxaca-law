@@ -1063,8 +1063,8 @@ II.- Con prisión de tres a cinco años y multa de cien a ciento ochenta veces e
 III.- Con prisión de cinco a diez años y multa de ciento ochenta a quinientas veces el salario, cuando el apoderamiento exceda de quince cabezas.
 (ADICIONADO, P.O. 22 DE DICIEMBRE DE 1987)
 373 Bis.- Cuando el apoderamiento del ganado no fuese en campo abierto, al infractor se le sancionará con las penas del robo.
-(REFORMADO PRIMER PARRAFO, P.O. 5 DE ENERO DE 1985)
-374.- Se equipará el abigeato y se sancionará con prisión de tres a diez años y multa de cincuenta a cien mil pesos, a quienes:
+(REFORMADO PRIMER PARRAFO, P.O. 2 DE JULIO DE 1988)
+374.- Se equipara el Abigeato y se sancionará con prisión de dos a cuatro años y multa de diez a cincuenta salarios mínimos vigente en el momento de cometerse el delito, a quienes:
 I.- Desfiguren o borren las marcas de animales vivos o pieles;
 II.- Cambien, vendan, o compren animales o cueros que tuvieren borrada la marca;
 III.- Marquen o señalen en campo ajeno, sin consentimiento del que legalmente deba darlo, animales orejanos;
