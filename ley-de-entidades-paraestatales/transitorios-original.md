@@ -17,7 +17,7 @@ DIPUTADO SECRETARIO.
 Por lo tanto, mando que se imprima, publique, circule y se le dé el debido cumplimiento.
 Oaxaca de Juárez, Oax., a 16 de enero de 1998.
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO,
-LIC.DIODORO CARRASCO ALTAMIRANO.
+LIC. DIODORO CARRASCO ALTAMIRANO.
 EL SECRETARIO GENERAL DE GOBIERNO,
 LIC. HECTOR ANUAR MAFUD MAFUD.
 Y lo comunico a usted, para su conocimiento y fines consiguientes.
@@ -27,3 +27,4 @@ Oaxaca de Juárez, Oax., a 16 de enero de 1998.
 EL SECRETARIO GENERAL DE GOBIERNO,
 LIC. HECTOR ANUAR MAFUD MAFUD.
 Al C....
+N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
