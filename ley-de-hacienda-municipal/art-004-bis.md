@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2000)
+ARTICULO 4o. BIS.- Es facultad de los Ayuntamientos de los Municipios del Estado proponer las tasas, cuotas y tarifas aplicables a las bases para la determinación de los impuestos, derechos, contribuciones de mejoras, productos, aprovechamientos y aquellas contribuciones especiales que establezca la Legislatura del Estado en las Leyes de Ingresos Municipales respectivas.

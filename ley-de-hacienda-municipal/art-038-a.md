@@ -1,8 +1,9 @@
-(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 1999)
-CAPITULO IV
-DEL IMPUESTO SOBRE JUEGOS PERMITIDOS, RIFAS, SORTEOS, LOTERIAS Y CONCURSOS
+(REFORMADA SU DENOMINACION, P.O. 30 DE DICIEMBRE DE 2000)
+CAPÍTULO IV
+IMPUESTO SOBRE RIFAS, SORTEOS, LOTERÍAS Y CONCURSOS
 (ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE DICIEMBRE DE 1999)
 DEL OBJETO
-(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1999)
-ARTICULO 38 A.- Es objeto de este impuesto, la celebración de juegos permitidos por la Ley, la enajenación de boletos, billetes y demás comprobantes que permitan presenciar o participar en loterías, rifas, sorteos, juegos con apuestas y concursos sea cual fuera la denominación que pretenda dársele a la enajenación inclusive cooperación o donativos que se realicen dentro de la circunscripción de los Municipios del Estado.
-También se considera como objeto de este impuesto, la obtención de los ingresos dentro de la circunscripción territorial de los Municipios del Estado, derivados de premios por loterías, rifas, sorteos o concursos que celebren los organismos descentralizados de la administración publica federal, cuyo objeto social sea la obtención de recursos para destinarlos a la asistencia pública, no considerándose para los efectos de este impuesto el reintegro correspondiente al billete que permitió participar en loterías.
+(REFORMADO, P.O. 30 DE DICIEMBRE DE 2000)
+ARTICULO 38 A.- Es objeto de este impuesto la obtención de ingresos derivados de rifas, sorteos, loterías y concursos el ingreso que se obtenga en la circunscripción territorial de los Municipios del Estado, por la enajenación de billetes y demás comprobantes que permitan participar en rifas, sorteos, loterías y concursos; así como los ingresos que se obtengan derivados de premios por participar en los eventos.
+Se exceptúa de lo dispuesto en el párrafo anterior, la obtención de ingresos por enajenación de billetes y demás comprobantes que permitan participar en rifas, sorteos, loterías y concursos de toda clase, organizados por organismos públicos descentralizados de la administración pública federal, estatal y municipal, cuyo objeto social sea la obtención de recursos para destinarlos a la asistencia pública y los partidos políticos.
+Asimismo, se exceptúa de lo dispuesto en el primer párrafo de este artículo, la obtención de ingresos derivados de premios por rifas, sorteos, loterías y concursos de toda clase, cuando tales eventos sean organizados por organismos públicos descentralizados de la administración pública federal.
