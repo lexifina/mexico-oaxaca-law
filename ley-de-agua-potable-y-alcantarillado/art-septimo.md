@@ -1,0 +1,1 @@
+ARTÍCULO SÉPTIMO.- Los usuarios del servicio público de agua potable y alcantarillado en el Estado, que estén descargando aguas residuales a sistemas de alcantarillado, como consecuencia de actividades productivas, hecha excepción del uso doméstico, deberán solicitar y tramitar el permiso de descarga a que se refiere la presente ley, durante el año de 1993.

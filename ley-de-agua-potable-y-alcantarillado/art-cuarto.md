@@ -1,0 +1,1 @@
+ARTÍCULO CUARTO.- Los asuntos que con motivo de esta ley deben pasar al Instituto Estatal del Agua o a los organismos operadores, permanecerán en el último trámite que hubieran alcanzado para que las unidades administrativas que los tramiten se incorporen al nuevo organismo, a excepción de los trámites urgentes sujetos a plazos improrrogables.

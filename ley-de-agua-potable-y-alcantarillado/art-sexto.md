@@ -1,0 +1,3 @@
+ARTÍCULO SEXTO.- En un plazo de sesenta días contados a partir de la entrada en vigor de la presente ley, el Director General del Instituto Estatal del Agua, deberá someter a la aprobación del Consejo de Administración, el Reglamento Interior del organismo descentralizado, ajustado a lo que se señala en esta ley, asimismo, cuidará se respeten los derechos que hayan adquirido los usuarios con anterioridad a la vigencia del presente ordenamiento.
+En un plazo de sesenta días contados a partir de su creación, la Junta de Gobierno de los organismos operadores expedirá el Reglamento Interior de dichos organismos.
+Los reglamentos internos del Instituto y de los Organismos Operadores se publicarán en el Periódico Oficial del Gobierno del Estado.
