@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2005)
+ARTÍCULO 55 BIS.- Cuando los propietarios o poseedores o cualquiera otra persona encargada de un bien inmueble, omitan la obligación de manifestar a las autoridades catastrales, la información completa sobre los elementos que caracterizan a sus bienes inmuebles, o las modificaciones que estos sufran, el Instituto Catastral del Estado de Oaxaca practicará las inspecciones y avalúos necesarios para actualizar la información catastral, en cuyo caso los derechos originados serán a costa del contribuyente.
