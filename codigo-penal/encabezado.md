@@ -1168,9 +1168,7 @@ III.- Que fué a causa de la constitución física de la víctima o de las circu
 292.- (DEROGADO, P.O. 3 DE JUNIO DE 1995)
 CAPITULO IV.
 Reglas comunes para lesiones y homicidio.
-(REFORMADO, P.O. 20 DE DICIEMBRE DE 2003)
-293.- Se impondrán de las dos terceras partes del mínimo a las dos terceras partes del máximo de la sanción que corresponda a un homicidio simple intencional al que, sorprendiendo a su cónyuge, concubino o concubina en acto carnal o próximo a su consumación lo prive de la vida a él o a su acompañante o a ambos.
-Si sólo se causaron lesiones, se aplicará la sanción que corresponda a la clase de lesiones causadas en la proporción aquí establecida.
+293.- (DEROGADO, P.O. 18 DE MARZO DE 2006)
 294.- Se impondrán de tres días a tres años de prisión al ascendiente que mate o lesione al corruptor de su hija o de su nieta que estén bajo de su potestad, si lo hiciere en el momento de hallarlos en el acto carnal o en uno próximo a él; pero si lo hiciere después, sufrirá de cuatro a seis años de prisión, no mediando alevosía, ventaja o traición, en cuyo caso se le impondrá la pena correspondiente.
 295.- (DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2001)
 296.- Al que prestare auxilio o indujere a otro para que se suicide, se le aplicará prisión de uno a cinco años; si se lo prestare hasta el punto de ejecutar él mismo la muerte, la prisión será de cuatro a doce años. Si el occiso o suicida fuera menor de edad o padeciera alguna de las formas de enajenación mental, se aplicarán al homicida o instigador las penas señaladas al homicidio calificado o a las lesiones calificadas.
