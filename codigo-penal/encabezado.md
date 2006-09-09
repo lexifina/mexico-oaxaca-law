@@ -14,8 +14,8 @@ De los ámbitos de aplicación.
 I.- Por los delitos de la competencia de los Tribunales Comunes, cometidos en su territorio;
 II.- Por los delitos que se cometan en otra entidad federativa cuando produzcan efectos dentro del territorio oaxaqueño, salvo que por ellos el sujeto activo haya sido sentenciado por tribunales competentes de otro lugar; y
 III.- Por los delitos permanentes y los continuados cometidos en otra entidad federativa y que se sigan cometiendo en el Estado de Oaxaca.
-(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)
-2o.- Este Código se aplicará a todas las personas a partir de los dieciséis años de edad, cualesquiera que sean su residencia o nacionalidad.
+(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2006)
+2o.- Este Código se aplicará a todas las personas a partir de los dieciocho años de edad, cualesquiera que sean su residencia o nacionalidad.
 (REFORMADO, P.O. 3 DE OCTUBRE DE 1998)
 3o.- Es aplicable la ley penal vigente en el tiempo de realización del delito.
 Cuando entre la comisión de un delito y la correspondiente extinción de la pena o medida de seguridad entre en vigor otra ley aplicable al caso, se estará de oficio a lo dispuesto en la ley más favorable al agente.
