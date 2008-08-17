@@ -140,8 +140,8 @@ XVIII.- Prohibición de abandonar una demarcación geográfica sin autorización
 Las penas y medidas de seguridad no trascienden de la persona y bienes del sujeto activo, salvo lo dispuesto en los artículos 32, 33 y 44 de este código.
 CAPITULO II.
 Prisión.
-(REFORMADO, P.O. 20 DE DICIEMBRE DE 2003)
-18.- La prisión por un solo delito, podrá ser de tres días a setenta años. En caso de concurso de delitos, se estará a lo dispuesto por los artículos 68 y 69 de este Código.
+(REFORMADO, P.O. 16 DE AGOSTO DE 2008)
+18.- La prisión por un solo delito, podrá ser de tres días a ciento cinco años. En caso de concurso de delitos, se estará a lo dispuesto por los artículos 68 y 69 de este Código.
 (REFORMADO, P.O. 3 DE OCTUBRE DE 1998)
 19.- La privación de la libertad corporal definitiva, se compurgará en los reclusorios o centros de readaptación social, en los términos de la Ley de Ejecución de Sanciones Privativas y Medidas Restrictivas de Libertad para el Estado de Oaxaca.
 Los procesados sujetos a prisión preventiva y los infractores políticos, serán recluidos en establecimientos o departamentos especiales.
@@ -164,10 +164,13 @@ CAPITULO V.
 Multa.
 (REFORMADO, P.O. 3 DE OCTUBRE DE 1998)
 23.- La multa consiste en el pago de una cantidad de dinero al Estado y se aplicará al Fondo para la Administración de Justicia.
+(REFORMADO PRIMER PARRAFO, P.O. 16 DE AGOSTO DE 2008)
+24.- La multa se fijará por días multa y no podrá exceder de mil quinientos días de salario.
 (REFORMADO, P.O. 3 DE OCTUBRE DE 1998)
-24.- La multa se fijará por días multa y no podrá exceder de setecientos treinta días.
 El día multa equivale al salario mínimo general vigente en el lugar y: en el momento de la consumación, si el delito fuere instantáneo; o en el momento que cesó, si fuere delito permanente; o en el momento consumativo de la última conducta, si fuere delito continuado;
+(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)
 Cuando la ley establezca multa en pesos, se hará la conversión de ésta tomando en cuenta el máximo de la multa fijada por la Ley, con las correspondientes que a continuación se indican: cuando el máximo no sea superior a quinientos pesos, de uno a tres días multa; si excede de esta cantidad pero no de diez mil pesos, entre cuatro y veinte días multa; si es superior a diez mil pesos pero no pasa de cincuenta mil pesos, de veintiuno a doscientos días multa; y si excede de cincuenta mil pesos entre doscientos uno a quinientos días multa.
+(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)
 Cuando en la ejecución de un delito intervienen varias personas, los tribunales fijaran la multa para cada uno de los activos, según su participación y sus condiciones económicas.
 (REFORMADO, P.O. 3 DE OCTUBRE DE 1998)
 25.- La obligación de pagar el importe de la multa, es preferente se cubrirá primero que cualquier otra de las obligaciones contraídas con posterioridad al delito, excepto el pago de la reparación del daño.
@@ -188,8 +191,8 @@ Reparación del daño.
 a).- La restitución de la cosa obtenida por la comisión del delito; si esto no fuera posible, el pago del precio de la misma;
 (REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2001)
 b).- La Indemnización del daño material y moral causado, incluyendo el pago de los tratamientos curativos que, como consecuencia del delito, sean necesarios para la recuperación de la salud de la víctima.
-(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2001)
-En los casos de delitos contra la libertad, la seguridad y, el normal desarrollo psicosexual, de violencia intrafamiliar y otros que así lo requieran, además se comprenderá el pago de los tratamientos psicoterapéuticos que sean necesarios para la víctima; y
+(REFORMADO, P.O. 16 DE AGOSTO DE 2008)
+En los casos de delitos contra la libertad, la seguridad y el normal desarrollo psicosexual, de violencia intrafamiliar y otros que así lo requieran, además se comprenderá el pago de los tratamientos psicoterapéuticos que sean necesarios para la víctima, así como todos los gastos erogados por la víctima del delito, ofendido o su representante legal para el restablecimiento de su salud física o psicológica; y
 c).- El resarcimiento de los perjuicios causados.
 (REFORMADO, P.O. 3 DE OCTUBRE DE 1998)
 28.- El monto de la reparación del daño, será fijado de acuerdo con las pruebas que obran en el proceso, salvo lo dispuesto en el artículo 29.
@@ -409,6 +412,8 @@ V.- (DEROGADA, P.O. 28 DE NOVIEMBRE DE 1998)
 Son aplicables las que se funden en circunstancias objetivas, si los demás sujetos tienen conocimiento de ellas.
 (REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)
 78.- Cuando por haber sufrido el sujeto activo consecuencias graves en su persona o por su senilidad o su precario estado de salud, fuere notoriamente innecesaria e irracional la imposición de una pena privativa o restrictiva de libertad, el juez, de oficio o a petición de parte motivando su resolución, podrá prescindir de ella o substituirla por una medida de seguridad. En los casos de senilidad o precario estado de salud, el juez se apoyará siempre en dictámenes de peritos.
+(ADICIONADO, P.O. 16 DE AGOSTO DE 2008)
+Este beneficio no se concederá para los autores y partícipes tratándose del delito de secuestro.
 (REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)
 79.- El juez deberá tener conocimiento directo del sujeto, de la víctima y de las circunstancias del hecho en la medida requerida para cada caso.
 Cuando la ley permita sustituir la pena o la medida de seguridad por otra de menor gravedad, el juez deberá aplicar ésta de manera preferente; de no aplicarla deberá manifestar en la sentencia las razones que tuvo para no hacerlo.
@@ -609,6 +614,8 @@ Delitos contra la seguridad publica.
 CAPITULO I.
 Evasión de presos.
 153.- Se aplicará de tres meses a siete años de prisión, al que favoreciere la evasión de algún detenido, procesado, o condenado.
+(ADICIONADO, P.O. 16 DE AGOSTO DE 2008)
+Si el evadido fuere un procesado o sentenciado por el delito de secuestro agravado a que se refiere el artículo 348 BIS A y el que favoreciera su evasión fuere un servidor público del sistema penitenciario, de seguridad pública, de procuración o impartición de justicia, se le impondrá de treinta a cincuenta años de prisión y multa de 500 a 1,000 días de salario.
 154.- El artículo anterior no comprende a los ascendientes, descendientes, cónyuge o hermanos del prófugo, ni a sus parientes por afinidad hasta el segundo grado, pues están excentos (sic) de toda sanción, excepto el caso en que hayan proporcionado la fuga por medio de la violencia en las personas o en las cosas.
 155.- Se aplicará prisión de cuatro a quince años al que proporcione al mismo tiempo o en un solo acto, la evasión de varias personas privadas de libertad por la autoridad competente.
 156.- Si la reaprehensión del prófugo se lograre por gestiones del infractor de la evasión, se aplicará a éste de tres días a un año de prisión, según la gravedad del delito imputado al recluído o detenido.
@@ -1030,17 +1037,17 @@ Cuando la persona estuprada fuere menor de quince años, se presumirá en todo c
 244. No se procederá contra el estuprador sino por querella de la persona ofendida, o de sus padres, o a falta de éstos, de sus representantes legítimos.
 (REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2001)
 245.- La reparación del daño en los casos de estupro, además de lo que establece el artículo 27 del presente ordenamiento, comprenderá el pago de alimentos al niño nacido.
-(REFORMADO, P.O. 27 DE AGOSTO DE 1994)
-246.- Al que por medio de la violencia física o moral tenga cópula con una persona sin la voluntad de ésta, sea cual fuere su sexo, se le impondrá prisión de ocho a catorce años y multa de ciento cincuenta a quinientas veces el salario.
+(REFORMADO PRIMER PARRAFO, P.O. 16 DE AGOSTO DE 2008)
+246.- Al que por medio de la violencia física o moral tenga cópula con una persona sin la voluntad de ésta, sea cual fuere su sexo, se le impondrá prisión de doce a dieciocho años y multa de quinientos a mil días de salario.
 (ADICIONADO, P.O. 7 DE FEBRERO DE 1998)
 Para los efectos de este artículo, se entiende por cópula, la introducción del miembro viril en el cuerpo de la víctima por vía vaginal, anal u oral, independientemente de su sexo.
-(DEROGADO ULTIMO PARRAFO, P.O. 15 DE SEPTIEMBRE DE 2001)
-(REFORMADO, P.O. 27 DE AGOSTO DE 1994)
-247.- Se equipara a la violación la cópula con persona menor de doce años de edad, aún cuando se hubiere obtenido su consentimiento, sea cual fuere su sexo; con persona privada de razón o sentido, o cuando por enfermedad o cualquiera otra causa no pudiere resistir. En tales casos la pena será de nueve a dieciséis años y multa de ciento setenta y cinco a quinientos salarios.
+(REFORMADO PRIMER PARRAFO, P.O. 16 DE AGOSTO DE 2008)
+247.- Se equipara a la violación la cópula con persona menor de doce años de edad, aún cuando se hubiere obtenido su consentimiento, sea cual fuere su sexo; con persona privada de razón o sentido, o cuando por enfermedad o cualquiera otra causa no pudiere oponer resistencia. En tales casos, la pena será de trece a veinte años de prisión y multa de setecientos a mil doscientos días de salario.
 (ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2001)
 Se equipara a la violación y se sanciona con la misma pena, al que introduzca por vía vaginal o anal, cualquier elemento o instrumento distinto del miembro viril, por medio de la violencia física o moral, sea cual fuere el sexo del ofendido.
-(REFORMADO, P.O. 7 DE FEBRERO DE 1998)
-248.- Cuando la violación fuere cometida con intervención directa o indirecta de dos o más personas, la prisión será de diez a veinte años y la multa de doscientas a quinientas veces el salario mínimo general vigente en la zona.
+(REFORMADO, P.O. 16 DE AGOSTO DE 2008)
+248.- Cuando la violación fuere cometida con intervención directa o indirecta de dos o más personas, la pena será de quince a veinticinco años de prisión y la multa de setecientos cincuenta a mil quinientos días de salario.
+Se impondrá sanción de dieciocho a treinta años de prisión y multa de mil a mil quinientos días de salario, cuando el sujeto pasivo sea menor de 18 años de edad, mayor de sesenta años, se encuentre privado de razón o sentido, o cuando por enfermedad o por cualquier otra causa no pudiese resistir al delito.
 (ADICIONADO, P.O. 7 DE FEBRERO DE 1998)
 248 Bis.- Las penas previstas para los delitos de abuso sexual y violación, se aumentarán hasta en una mitad en su mínimo y máximo cuando:
 I.- El delito fuere cometido por un pariente de la víctima sin limitación de grado en línea recta ascendente o descendente, o hasta el cuarto grado en línea colateral; por el tutor contra su pupilo, por el padrastro o madrastra en contra el hijastro o hijastra, por el amante del padre o de la madre del ofendido o por la persona que vive en concubinato con el padre o la madre del pasivo. En estos casos, además el culpable perderá todos los derechos familiares y hereditarios que le puedan corresponder por su vínculo con la víctima;
@@ -1165,6 +1172,8 @@ III.- Que fué a causa de la constitución física de la víctima o de las circu
 290.- Si el homicidio se cometiere en riña se aplicará al provocado de cuatro a ocho años de prisión; y de ocho a doce años al provocador.
 (REFORMADO, P.O. 3 DE JUNIO DE 1995)
 291.- A los autores de un homicidio calificado se les aplicará la pena de treinta a cuarenta años de prisión.
+(ADICIONADO, P.O. 16 DE AGOSTO DE 2008)
+Se impondrán de 70 a 105 años de prisión, cuando el sujeto pasivo haya sido servidor público integrante de las corporaciones de seguridad pública o de las instituciones de procuración o impartición de justicia, dentro de los cinco años anteriores a la fecha de la comisión del delito y éste se haya cometido con motivo de sus funciones.
 292.- (DEROGADO, P.O. 3 DE JUNIO DE 1995)
 CAPITULO IV.
 Reglas comunes para lesiones y homicidio.
@@ -1322,22 +1331,31 @@ Este delito sólo se perseguirá por querella de la parte ofendida.
 (ADICIONADO, P.O. 1 DE ABRIL DE 2002)
 CAPITULO II.
 Secuestro.
-(REFORMADO Y REUBICADO, P.O. 1 DE ABRIL DE 2002)
-348.- Comete el delito de secuestro quien ilegalmente detenga o prive de su libertad a otro, para obtener un rescate en dinero o en especie o para causarle un daño o perjuicio, o cuando se trate de causar molestias graves a personas distintas del secuestrado, pero relacionadas con éste.
-(REFORMADO, P.O. 20 DE DICIEMBRE DE 2003)
-Al responsable de este delito se le impondrá de cuarenta a sesenta y cinco años de prisión y multa de quinientos a setecientos treinta días de multa.
+(REFORMADO, P.O. 16 DE AGOSTO DE 2008)
+348.- Comete el delito de secuestro quien prive de su libertad a otro, para obtener un rescate en dinero, en especie o información que la víctima o una persona relacionada con ella pueda tener en razón del empleo o actividad que desempeñe o para causarle un daño o perjuicio al secuestrado o a persona distinta pero relacionada con éste.
+Al responsable de este delito se le impondrá de cuarenta a sesenta y cinco años de prisión y multa de setecientos cincuenta a mil quinientos días de salario.
+La misma pena se impondrá a quien a sabiendas de su ilicitud realice actos de administración, pago, enajenación, traslado, transferencia de bienes o derechos, producto del secuestro.
+A los autores y partícipes de este delito no se les concederá ningún beneficio preliberacional en la ejecución de la sentencia.
 (ADICIONADO, P.O. 1 DE ABRIL DE 2002)
 348 Bis.- Comete el delito de secuestro exprés el que prive de la libertad a otra persona, con el objeto de obtener un lucro mediante el uso de cualesquiera de los siguientes medios: Tarjetas de crédito, tarjetas de débito, título de crédito, medios electrónicos, informáticos, mecánicos, en especie o efectivo.
 Al que cometa el delito señalado en el párrafo anterior, se le impondrá la pena de diez a quince años de prisión y multa de quinientos a setecientos treinta días de salario.
 Si el tiempo de la privación de la libertad excediera de cinco horas se aplicará lo dispuesto en el artículo 348.
+(REFORMADO PRIMER PARRAFO, P.O. 16 DE AGOSTO DE 2008)
+348 Bis A.- Cuando en el secuestro concurran algunas de las siguientes circunstancias:
+I. Cuando la persona secuestrada sea privada de la vida;
+II. El plagiario cause algunas de las lesiones previstas en los artículos 273 a 277 de este Código;
+III. Los plagiarios obren en grupo o banda, compuesta de dos o más personas;
+IV. El secuestrado sea menor de dieciocho años de edad o mayor de sesenta, o cuando presente alguna discapacidad física o mental;
+V. El plagiario pertenezca o haya pertenecido a alguna Institución de Seguridad Pública o privada, de procuración o impartición de justicia, o se ostente como tal sin serlo;
+VI. La secuestrada sea mujer; y
+VII. Cuando el plagiario tenga una relación de parentesco, confianza o lealtad con el secuestrado.
+(ADICIONADO, P.O. 16 DE AGOSTO DE 2008)
+En estos casos, la pena será de 70 a 105 años de prisión para el autor y partícipes del delito y se impondrá multa de setecientos cincuenta hasta mil quinientos salarios.
+(ADICIONADO, P.O. 16 DE AGOSTO DE 2008)
+Además de las penas señaladas en los párrafos anteriores durante la investigación, el Ministerio Público, y en proceso la autoridad judicial a petición fundada de aquel, podrán asegurar parcial o totalmente y en sentencia se decomisarán parcial o totalmente declarándose la extinción del dominio de los bienes respecto de los cuales el sujeto activo haya sido poseedor, propietario o se haya conducido como tal, independientemente de que hubieran sido transferidos a terceros quienes tendrán derecho de audiencia para acreditar su legítima procedencia y buena fe en su adquisición.
+(ADICIONADO, P.O. 16 DE AGOSTO DE 2008)
+El producto de los bienes señalados en el párrafo anterior se aplicará preferentemente al pago de la reparación del daño de la víctima u ofendido del delito, al pago de la multa o en su caso al Estado.
 (ADICIONADO, P.O. 1 DE ABRIL DE 2002)
-348 Bis A.- Además de la pena que le corresponda, conforme a los dos artículos anteriores, se aplicarán al sujeto activo de seis meses a cinco años de prisión:
-I.- Cuando los plagiarios obren en grupo o banda, compuesta de tres o más personas;
-II.- Cuando el secuestrado sea menor de dieciséis años de edad o mayor de sesenta, o cuando presente alguna discapacidad física o mental;
-III.- Cuando el Plagiario cause una mutilación física o extraiga alguno de los órganos de su víctima;
-IV.- Cuando el plagiario pertenezca o haya pertenecido a cualquier Institución de Seguridad Pública o Privada;
-V.- Cuando la secuestrada sea mujer; y
-VI.- Cuando el plagiario tenga una relación de confianza o lealtad con el secuestrado.
 Si resultare otro delito en perjuicio o agravio de la víctima de secuestro, se estará a las reglas del concurso de delitos.
 (ADICIONADO, P.O. 1 DE ABRIL DE 2002)
 348 Bis B.- Al que realice un acto o actos simulados de secuestro tendentes a engañar a la autoridad o para obtener un lucro o causar un daño a un tercero, se le impondrá de dos a cuatro años de prisión y multa de cincuenta a cien salarios mínimos.
@@ -1386,12 +1404,14 @@ III.- Al que, después de la ejecución del robo y sin haber participado en ést
 356.- Para estimar la cuantía del robo, se atenderá únicamente el valor intrínseco de la cosa robada. Si ésta no fuera estimable en dinero, o por su naturaleza no fuere posible fijar su valor o cantidad, se aplicará prisión de seis meses hasta cinco años.
 (REFORMADO, P.O. 3 DE OCTUBRE DE 1998)
 357.- Al que sin derecho y sin consentimiento de quien pueda otorgarlo, se apodere:
-I.- De un vehículo de motor, se le aplicara de seis a doce años de prisión y de doscientos a quinientos días multa.
+(REFORMADO PRIMER PARRAFO, P.O. 16 DE AGOSTO DE 2008)
+I.- De un vehículo de motor, se le aplicara de ocho a catorce años de prisión y multa de quinientos a mil días de salario.
 Se entiende por vehículo de motor, para los efectos de este artículo, los automóviles, camionetas, camiones y tractocamiones de cualquier tipo y autobuses;
 II.- De partes de vehículos automotores o de objetos de que se encuentren en el interior de los mismos, se aplicará de tres a siete años de prisión y de cien a doscientos días multa, salvo que el monto de lo robado exceda de los quinientos salarios, pues entonces la sanción será la prevista en la fracción anterior; y
 III. (DEROGADA, P.O. 28 DE NOVIEMBRE DE 1998)
-(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 1998)
-357 Bis.- Se sancionará con pena de dos a diez años de prisión y multa de doscientos a quinientos días de salario mínimo:
+(REFORMADO PRIMER PARRAFO, P.O. 16 DE AGOSTO DE 2008)
+357 Bis.- Se sancionará con pena de ocho a catorce años de prisión y multa de quinientos a mil días de salario mínimo:
+(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 1998)
 I.- Al que altere, modifique o cambie de cualquier forma los datos o partes de identificación de un vehículo, o de la documentación que lo identifique o acredite su propiedad;
 (REFORMADA, P.O. 26 DE FEBRERO DE 2000)
 II.- Al que enajene o trafique de cualquier forma un vehículo robado;
@@ -1399,9 +1419,10 @@ II.- Al que enajene o trafique de cualquier forma un vehículo robado;
 III.- Al que desmantele algún vehículo robado o comercialice conjunta o separadamente sus partes.
 (REFORMADO (N. DE E. REPUBLICADO], P.O. 26 DE FEBRERO DE 2000)
 En el caso de que cualquiera de las conductas anteriores se realice sobre dos o más vehículos robados, la pena se incrementará de una tercera parte de la mínima hasta una tercera parte de la máxima aplicable.
-(DEROGADO TERCER PARRAFO, P.O. 20 DE DICIEMBRE DE 2003)
-(REFORMADO, P.O. 26 DE FEBRERO DE 2000)
-Si con alguna de las conductas prevista(sic) en este artículo resulta la comisión de otro ilícito, se aplicarán las reglas del concurso de delitos.
+(ADICIONADO, P.O. 16 DE AGOSTO DE 2008)
+Si el sujeto activo de los dos delitos anteriormente descritos perteneció o pertenece a instituciones de seguridad pública o privada, de procuración o impartición de justicia o simule serlo, se aumentará en una mitad del mínimo y máximo de las penas señaladas.
+(REFORMADO, P.O. 16 DE AGOSTO DE 2008)
+Si con alguna de las conductas previstas en este artículo resulta la comisión de otro ilícito, se aplicarán las reglas del concurso de delitos.
 (REFORMADO, P.O. 3 DE JUNIO DE 1995)
 358.- En los casos de tentativa de robo, cuando no fuere posible determinar el monto, se aplicarán de tres meses a tres años de prisión.
 359.- Si el robo se ejecutare con violencia a las personas o las cosas, a la pena que corresponda por el robo simple, se agregarán de seis meses a cinco años de prisión. Si la violencia constituyere otro delito, se aplicarán las reglas de acumulación.
@@ -1523,10 +1544,17 @@ Extorsión.
 (ADICIONADO, P.O. 3 DE JUNIO DE 1995)
 383 Bis.- Comete el delito de extorsión el que sin derecho obligue a otro a dar, hacer, dejar de hacer o tolerar algo obteniendo un lucro para sí o para otro o causando a alguien un perjuicio patrimonial.
 Este delito se sancionará en los siguientes términos:
-I).- Cuando el lucro obtenido o perjuicio patrimonial causado no exceda de cien veces el salario mínimo general, se aplicará prisión de uno a tres años y multa de cinco a cien veces el salario.
+I) Cuando el lucro obtenido o perjuicio patrimonial causado no exceda de cien veces el salario mínimo general, se aplicará prisión de uno a tres años y multa de cinco a cien veces el salario.
 II) Si excede de cien veces el salario mínimo general, pero no de quinientas, la prisión será de tres a seis años y la multa de cien a doscientas cincuenta veces el salario.
 III) Si excede de quinientas veces el salario mínimo general, la prisión será de seis a doce años y la multa de doscientas cincuenta a quinientas veces el salario.
-Las penas anteriores podrán aumentarse hasta un tanto más, si el constreñimiento se realiza por uno o varios integrantes de una asociación delictuosa o por servidor o exservidor público, o por miembro o exmiembro de una corporación policial. En estos casos, también se impondrán la destitución del empleo, cargo o comisión y la inhabilitación de uno a cinco años para desempeñar otro.
+(ADICIONADA, P.O. 16 DE AGOSTO DE 2008)
+IV) Al que cometa una extorsión por vía telefónica o por cualquier medio electrónico se le impondrá de ocho a catorce años de prisión y multa de quinientos a mil salarios mínimos.
+(ADICIONADA, P.O. 16 DE AGOSTO DE 2008)
+V) Si el sujeto activo por extorsión telefónica o por cualquier medio electrónico fuere interno procesado o sentenciado, además de las penas previstas en la fracción anterior, se le aumentará de una tercera parte de los mínimos a una tercera parte de los máximos de las sanciones y no se le concederá beneficio preliberacional alguno.
+(ADICIONADO, P.O. 16 DE AGOSTO DE 2008)
+Además de las penas señaladas durante la investigación, el Ministerio Público, y en proceso la autoridad judicial a petición fundada de aquel, podrán asegurar parcial o totalmente, y en sentencia se decomisarán parcial o totalmente, declarándose la extinción del dominio de los bienes respecto de los cuales el sujeto activo haya sido poseedor, propietario o se haya conducido como tal, independientemente de que hubieran sido transferidos a terceros, quienes tendrán derecho de audiencia para acreditar su legítima procedencia y buena fe en su adquisición.
+(REFORMADO, P.O. 16 DE AGOSTO DE 2008)
+Cuando el sujeto activo en estos supuestos sea o haya sido integrante de alguna corporación de seguridad pública o privada, miembro de las instituciones de procuración o administración de justicia o simule serlo, se aumentará en una mitad los mínimos y máximos de las penas señaladas. También se impondrá la destitución del empleo, cargo o comisión y la inhabilitación en los términos que señalan los artículos 39 y 40 de este Código.
 CAPITULO V.
 Despojo de cosas inmuebles o de aguas.
 (REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 1987) (F. DE E., P.O. 18 DE MAYO DE 1988)
