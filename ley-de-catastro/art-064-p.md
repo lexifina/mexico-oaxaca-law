@@ -1,0 +1,4 @@
+N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.
+(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)
+ARTÍCULO 64 P.- La resolución que dicte el Instituto Catastral del Estado de Oaxaca a los Peritos Valuadores, por la que imponga alguna de las sanciones establecidas en la presente Ley, podrá ser impugnada mediante recurso de revisión, dentro de los quince días hábiles siguientes a aquel en que haya surtido efectos la notificación de la resolución recurrida.
+El escrito de interposición del recurso deberá presentarse ante la Secretaría de Finanzas o ante la Oficina Recaudadora de Rentas correspondiente o por correo certificado con acuse de recibo, siempre que el envío se efectúe en el lugar en que resida el recurrente; en estos casos, se tendrá como fecha de presentación del escrito respectivo, la del día en que se entregue en la oficina recaudadora o de correos.

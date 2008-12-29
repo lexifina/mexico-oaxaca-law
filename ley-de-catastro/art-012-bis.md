@@ -1,8 +1,12 @@
 (ADICIONADO, P.O. 26 DE DICIEMBRE DE 2005)
 ARTÍCULO 12 BIS.- Compete a los Delegados Catastrales:
-I. Realizar las Operaciones Catastrales referentes a la identificación, descripción, delimitación, mensura, inscripción, valuación y revaluación de los bienes inmuebles ubicados dentro de la circunscripción territorial del Distrito Rentístico en estricto apego a las tablas de valores unitarios de suelo y construcciones aprobadas por el Congreso del Estado.
+N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.
+(REFORMADA, P.O. 29 DE DICIEMBRE DE 2008)
+I. Realizar las Operaciones Catastrales referentes a la identificación, descripción, delimitación, mensura, inscripción, valuación y revaluación de los bienes inmuebles ubicados dentro de la circunscripción territorial del Distrito Rentístico en estricto apego a las Tablas de Valores Unitarios de Suelo y Construcciones, Tablas de Valores Inmobiliarios e Instructivo Técnico de Valuación, según corresponda, aprobados por el Congreso del Estado.
 II. Solicitar a los propietarios o poseedores de bienes inmuebles datos y documentos que les permitan ratificar o rectificar la información proporcionada, registrar información veraz, confiable y actualizada en el padrón catastral.
-III. Ordenar, o ejecutar las verificaciones físicas necesarias a fin de determinar la valuación o revaluación catastral de los inmuebles, en estricto apego a las tablas de valores de suelo y construcciones, así como la zonificación catastral aprobadas por el Congreso del Estado.
+N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.
+(REFORMADA, P.O. 29 DE DICIEMBRE DE 2008)
+III. Ordenar o ejecutar las verificaciones físicas necesarias a fin de determinar la valuación o revaluación catastral de los inmuebles, en estricto apego a las Tablas de Valores Unitarios de Suelo y Construcciones, las Tablas de Valores Inmobiliarios e Instructivo Técnico de Valuación según corresponda, así como la zonificación catastral aprobadas por el Congreso del Estado.
 IV. Integrar, conservar y actualizar los registros del padrón inmobiliario y la cartografía catastral.
 V. Remitir al Instituto Catastral del Estado de Oaxaca los reportes de operaciones realizadas con los documentos correspondientes y los archivos digitales para actualizar el padrón estatal inmobiliario.
 VI. Integrar y mantener bancos de datos regionales, relativos a la infraestructura y equipamiento urbano en los municipios, así como el registro de valores de mercado y valores declarados, para proporcionar información sistematizada y la asesoría y asistencia técnica que le soliciten los municipios en la formulación de sus propuestas de zonificación catastral y determinación de las tablas de valores unitarios de suelo y construcciones para la aprobación del Congreso del Estado, y

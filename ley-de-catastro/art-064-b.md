@@ -1,2 +1,9 @@
-(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2005)
-ARTÍCULO 64 B.- El Instituto Catastral del Estado de Oaxaca contará con un registro de peritos valuadores y será el encargado de vigilar la función de los mismos en los términos previstos en el Reglamento de Registro de Peritos Valuadores del Estado de Oaxaca.
+N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.
+(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)
+ARTÍCULO 64 B.- Las solicitudes para obtener la constancia del registro de Perito Valuador deberán presentarse en la forma y horarios que al efecto determine el Instituto Catastral del Estado de Oaxaca, a través de la convocatoria publicada en el Periódico Oficial del Gobierno del Estado y en un diario de mayor circulación en la Entidad, a más tardar los días cinco de marzo y cinco de noviembre de cada año.
+Los solicitantes deberán presentar ante el Instituto Catastral del Estado de Oaxaca, el formato que corresponda debidamente requisitado y firmado, mismo que podrán obtener en las oficinas de dicho Instituto, así como la documentación requerida de acuerdo a lo establecido en el artículo anterior.
+Al momento de presentar la solicitud de inscripción al curso, los aspirantes deberán cubrir los derechos que por este concepto establezca la Ley de Ingresos del Estado de Oaxaca. En ningún caso procederá la devolución de este pago.
+Una vez aprobada la evaluación y antes del otorgamiento de la constancia de perito valuador, deberá otorgar fianza a favor de la Secretaría de Finanzas, por el importe de un mil días de salario mínimo general vigente en el Estado de Oaxaca, para garantizar lo siguiente:
+I. Pago de la reparación del daño en caso de que por sentencia ejecutoriada sea condenado por delito intencional, cometido en ejercicio de sus funciones como Perito Valuador;
+II. Pago por la responsabilidad civil a favor del afectado; y
+III. Pago por responsabilidad solidaria a favor de la hacienda estatal, cuando por la práctica de avalúos catastrales e inmobiliarios, se determinen bases menores de las reales y por consecuencia se dejen de cubrir los derechos correspondientes en cada ejercicio fiscal, independientemente de las sanciones administrativas que se determinen.
