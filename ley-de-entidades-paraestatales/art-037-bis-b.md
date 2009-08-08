@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 7 DE AGOSTO DE 2009)
+ARTICULO 37 Bis B.- Conforme a lo dispuesto en el artículo anterior y para que exista una relación jerárquica entre la Entidad Paraestatal y la Entidad Auxiliar de Colaboración el Titular de esta última, tendrá el nombramiento de Director o equivalente. En caso de Entidades Paraestatales de Servicios Educativos de Nivel Superior, podrán contar con Rectores, de acuerdo con sus instrumentos de creación.
