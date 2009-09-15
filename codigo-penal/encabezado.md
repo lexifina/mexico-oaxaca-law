@@ -1020,6 +1020,14 @@ III.- Al que ejecute actos contrarios a la libre concurrencia en la industria o 
 IV.- A quienes por cualquier medio alteren las mercancías o productos o reduzcan las propiedades que debieran tener. Si a consecuencia de la alteración o reducción resultaren daños, lesiones u homicidio, se aplicarán, además, las sanciones que por esos delitos correspondan.
 (ADICIONADO, P.O. 27 DE NOVIEMBRE DE 1982)
 Lo mandado en este Artículo se observará sin prejuicio de las medidas y sanciones que pueda tomar o imponer la autoridad administrativa con base en leyes especiales.
+(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 14 DE SEPTIEMBRE DE 2009)
+CAPITULO IV.
+Del tráfico de concesiones y permisos del servicio publico de transporte.
+(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2009)
+240 Bis.- Al propietario de vehículo que preste por sí o por interpósita persona el servicio público mixto de pasaje y carga, servicio público de pasajeros urbanos y suburbanos, servicio público de alquiler en su modalidad de taxi, servicio de carretones de tracción animal, servicio público de alquiler de mototaxi, servicio público de carga ligera y servicio público de acarreo de materiales, sin contar con la concesión que otorga el Poder Ejecutivo del Gobierno del Estado de Oaxaca, se le impondrá de dos a seis años de prisión y de cien a quinientos días multa.
+Al servidor público que de cualquier forma intervenga en el otorgamiento de una concesión para la prestación de los servicios públicos antes mencionados u otorgue permisos o placas de circulación que permitan la prestación de los servicios a que se refiere el párrafo anterior, sin cumplir con los requisitos establecidos por las leyes, se le impondrá de dos a diez años de prisión, multa de trescientos a ochocientos días multa, así como la destitución del empleo, cargo o comisión e inhabilitación por cuatro años para ocupar otro cargo.
+Al que gestione u obtenga una concesión, permiso o placas de circulación que permitan la prestación de los servicios públicos establecidos en el primer párrafo de este artículo, sin cumplir con los requisitos establecidos por las leyes, se le impondrá de dos a seis años de prisión y de doscientos a seiscientos días multa.
+Las autoridades competentes, procederán al inmediato aseguramiento de los vehículos que podrían ser materia del decomiso, durante la averiguación o en el proceso.
 (REFORMADA SU DENOMINACION, P.O. 3 DE JUNIO DE 1995)
 TITULO DECIMOSEGUNDO.
 Delitos contra la libertad, la seguridad y el normal desarrollo psicosexual.
