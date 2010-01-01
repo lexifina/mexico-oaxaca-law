@@ -1,4 +1,4 @@
-N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.
 (ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)
 ARTÍCULO 64 U.- Cuando se alegue que la resolución recurrida no fue notificada o que lo fue ilegalmente, se estará a las reglas siguientes:
 I. Si el recurrente afirma conocer la resolución administrativa, la impugnación contra la notificación se hará valer mediante la interposición del recurso de revisión contra dicha resolución, en el que manifestará la fecha en que la conoció.

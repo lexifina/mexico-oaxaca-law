@@ -1,4 +1,4 @@
-N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.
 (ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)
 ARTÍCULO 64 M.- El Instituto Catastral del Estado de Oaxaca procederá a imponer multa equivalente de 80 a 120 veces el salario mínimo, cuando los Peritos Valuadores incurran en lo siguiente:
 I. Presentar el avalúo con datos no reales, que afecten esencialmente el mismo;

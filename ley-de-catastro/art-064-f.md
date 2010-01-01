@@ -1,4 +1,4 @@
-N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.
 (ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)
 ARTÍCULO 64 F.- Para renovar el registro en el Padrón se deberá cumplir con los siguientes requisitos:
 I. Presentar la solicitud que para el caso publique el Instituto Catastral del Estado de Oaxaca;

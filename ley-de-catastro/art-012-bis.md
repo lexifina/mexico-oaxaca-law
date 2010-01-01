@@ -1,10 +1,10 @@
 (ADICIONADO, P.O. 26 DE DICIEMBRE DE 2005)
 ARTÍCULO 12 BIS.- Compete a los Delegados Catastrales:
-N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.
 (REFORMADA, P.O. 29 DE DICIEMBRE DE 2008)
 I. Realizar las Operaciones Catastrales referentes a la identificación, descripción, delimitación, mensura, inscripción, valuación y revaluación de los bienes inmuebles ubicados dentro de la circunscripción territorial del Distrito Rentístico en estricto apego a las Tablas de Valores Unitarios de Suelo y Construcciones, Tablas de Valores Inmobiliarios e Instructivo Técnico de Valuación, según corresponda, aprobados por el Congreso del Estado.
 II. Solicitar a los propietarios o poseedores de bienes inmuebles datos y documentos que les permitan ratificar o rectificar la información proporcionada, registrar información veraz, confiable y actualizada en el padrón catastral.
-N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.
 (REFORMADA, P.O. 29 DE DICIEMBRE DE 2008)
 III. Ordenar o ejecutar las verificaciones físicas necesarias a fin de determinar la valuación o revaluación catastral de los inmuebles, en estricto apego a las Tablas de Valores Unitarios de Suelo y Construcciones, las Tablas de Valores Inmobiliarios e Instructivo Técnico de Valuación según corresponda, así como la zonificación catastral aprobadas por el Congreso del Estado.
 IV. Integrar, conservar y actualizar los registros del padrón inmobiliario y la cartografía catastral.

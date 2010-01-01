@@ -1,4 +1,4 @@
-N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.
 (ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)
 ARTÍCULO 64 Q.- El escrito de interposición del recurso deberá satisfacer los requisitos del artículo 13 de la Ley de Justicia Administrativa para el Estado de Oaxaca, y señalar además:
 I. La resolución recurrida;

@@ -1,4 +1,4 @@
-N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.
 (ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)
 ARTÍCULO 64 O.- La imposición de las sanciones se realizará previa audiencia del Perito Valuador, conforme al siguiente procedimiento:
 I. El oficio de observaciones dará inicio al procedimiento, en el cual se hará constar en forma circunstanciada los hechos y omisiones que se hubiesen conocido y entrañen probable incumplimiento a las disposiciones legales, que deberá ser notificado de manera personal, para que el Perito Valuador dentro de los 15 días siguientes y por escrito, exponga lo que a su derecho convenga y, en su caso aporte las pruebas con que cuente;

@@ -7,12 +7,15 @@ IV. Valuación.
 V. Reevaluación.
 VI. Control, conservación, actualización y archivo de los registros catastrales.
 VII. Inscripción en el Catastro de los bienes inmuebles y sus modificaciones.
-N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.
 (REFORMADA, P.O. 29 DE DICIEMBRE DE 2008)
-VIII. Elaboración de propuestas de Tablas de Valores Unitarios de Suelo y Construcciones, Tablas de Valores Inmobiliarios y el Instructivo Técnico de Valuación;
+VIII. Elaboración de propuestas de Tablas de Valores Unitarios de Suelo y Construcciones, Tablas de Valores Inmobiliarios y el Instructivo Técnico de Valuación.
 IX. Realizar estudios técnicos para la elaboración de las tablas de valores unitarios de suelo y construcciones.
 X. Zonificación catastral.
-XI. Elaboración y determinación de las tipologías constructivas; y
-N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.
+XI. Elaboración y determinación de las tipologías constructivas; y (sic)
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.
 (REFORMADA, P.O. 29 DE DICIEMBRE DE 2008)
 XII. Certificación de los avalúos catastral e inmobiliario.
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.
+(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2009)
+XIII. Cancelación de registro de cuenta catastral en el Sistema de Información Territorial por resolución judicial o por duplicidad de cuentas que amparen el mismo bien inmueble.
