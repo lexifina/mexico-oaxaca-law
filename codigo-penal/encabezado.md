@@ -1036,12 +1036,16 @@ CAPITULO I.
 Abuso y hostigamiento sexual, estupro y violación.
 (REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2001)
 241.- Comete el delito de abuso sexual, quien sin consentimiento de una persona ejecute en ella o la haga ejecutar un acto sexual, que no sea la cópula, o la obligue a observar cualquier acto sexual aun a través de medios electrónicos. Al responsable de tal hecho, se le impondrá de dos a cinco años de prisión y multa de cincuenta a doscientos días de salario mínimo.
+N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL DECRETO NUMERO 1529, PUBLICADO EN EL P.O. DE 23 DE ENERO DE 2010, SE MODIFICO LA ESTRUCTURA DEL PRESENTE PARRAFO, PARA QUEDAR CONFORMADO POR TRES FRACCIONES.
 La pena prevista en esté delito, se aumentará en una mitad en su mínimo y en su máximo cuando:
-I.- El delito fuere cometido contra persona menor de doce años;
-II.- Cuando se realice en persona que no tenga la capacidad de comprender el significado del hecho o por cualquier causa no pueda resistirlo;
-III.- Sea cometido por dos o más personas;
-IV.- Se hiciera uso de violencia física o moral; y
-V.- Se hubiera administrado a la víctima alguna sustancia tóxica.
+(REFORMADA, P.O. 23 DE ENERO DE 2010)
+I.- Sea cometido por dos o más personas;
+(REFORMADA, P.O. 23 DE ENERO DE 2010)
+II.- Se hiciere uso de violencia física o moral; y
+(REFORMADA, P.O. 23 DE ENERO DE 2010)
+III.- Se hubiera administrado a la víctima alguna sustancia tóxica.
+(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE ENERO DE 2010)
+Cuando el delito fuere cometido contra persona menor de doce años o cuando se realice en persona, que no tenga la capacidad de comprender el significado del hecho o por cualquier causa no puede resistirlo, la pena será de cinco a diez años de prisión y multa de doscientos a seiscientos días de salario mínimo. A los autores y partícipes del delito previsto en este párrafo no se les concederá ningún beneficio preliberacional en la ejecución de la sentencia.
 (REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2001)
 241 Bis.- Al que asedie, acose o solicite favores de naturaleza sexual para sí o para un tercero, bien sea entre superior e inferior jerárquico, entre iguales o en cualquier circunstancia que los relacione en el ámbito familiar, doméstico, docente, laboral o cualquier otro, se le impondrá sanción de uno a tres años de prisión.
 Si el hostigador fuese servidor público y utilizase los medios o circunstancias que el encargo le proporcione, además de la pena prevista en el párrafo anterior, se le destituirá de su cargo.
@@ -1066,12 +1070,17 @@ Se equipara a la violación y se sanciona con la misma pena, al que introduzca p
 (REFORMADO, P.O. 16 DE AGOSTO DE 2008)
 248.- Cuando la violación fuere cometida con intervención directa o indirecta de dos o más personas, la pena será de quince a veinticinco años de prisión y la multa de setecientos cincuenta a mil quinientos días de salario.
 Se impondrá sanción de dieciocho a treinta años de prisión y multa de mil a mil quinientos días de salario, cuando el sujeto pasivo sea menor de 18 años de edad, mayor de sesenta años, se encuentre privado de razón o sentido, o cuando por enfermedad o por cualquier otra causa no pudiese resistir al delito.
-(ADICIONADO, P.O. 7 DE FEBRERO DE 1998)
-248 Bis.- Las penas previstas para los delitos de abuso sexual y violación, se aumentarán hasta en una mitad en su mínimo y máximo cuando:
+(REFORMADO PRIMER PARRAFO, P.O. 23 DE ENERO DE 2010)
+248 Bis.- Las penas que corresponden a los delitos de abuso sexual previsto por el artículo 241, violación previsto por el artículo 246, violación equiparada previsto por el artículo 247 y violación tumultuaria previsto por el artículo 248, se aumentarán hasta en una mitad en su mínimo y máximo, cuando:
+(ADICIONADA, P.O. 7 DE FEBRERO DE 1998)
 I.- El delito fuere cometido por un pariente de la víctima sin limitación de grado en línea recta ascendente o descendente, o hasta el cuarto grado en línea colateral; por el tutor contra su pupilo, por el padrastro o madrastra en contra el hijastro o hijastra, por el amante del padre o de la madre del ofendido o por la persona que vive en concubinato con el padre o la madre del pasivo. En estos casos, además el culpable perderá todos los derechos familiares y hereditarios que le puedan corresponder por su vínculo con la víctima;
+(ADICIONADA, P.O. 7 DE FEBRERO DE 1998)
 II.- El hecho sea cometido por quien desempeñe un cargo o empleo público o ejerza una profesión utilizando los medios o las circunstancias que ellos le proporcione (sic). Además de la pena de prisión el condenado será destituido del cargo o empleo o suspendido por el término de cinco años en el ejercicio profesional;
+(ADICIONADA, P.O. 7 DE FEBRERO DE 1998)
 III.- El delito sea cometido por persona que tenga al ofendido bajo su custodia, tutela, guarda o educación, o que aproveche la confianza en él depositada;
+(ADICIONADA, P.O. 7 DE FEBRERO DE 1998)
 IV.- Tratándose del delito de violación, el hecho sea cometido por el cónyuge, concubina o concubino de la víctima.
+(ADICIONADO, P.O. 7 DE FEBRERO DE 1998)
 El delito a que se refiere la fracción inmediata anterior, solo se perseguirá por querella de la parte ofendida.
 CAPITULO II.
 Rapto.
