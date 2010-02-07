@@ -33,7 +33,7 @@ Del delito.
 6o.- El delito puede ser realizado por acción o por omisión.
 Cuando el tipo prevé una acción con resultado material, el autor de la actividad es también autor de tal resultado sólo cuando éste es un efecto necesariamente producido por dicha actividad. No será autor del resultado si éste sobrevino en virtud de un acontecimiento extraño a su propia actividad.
 (REFORMADO, P.O. 3 DE OCTUBRE DE 1998)
-7o.- Quien omita evitar un resultado material descrito en un tipo de acción, será considerado autor del mismo, sólo si: de acuerdo con las circunstancias podía evitarlo, era garante del bien jurídico y su inactividad es, en su eficacia, equivalente a la actividad prohibida en el tipo. Es garante del bien jurídico el que: a) acepto efectivamente su custodia; b) voluntariamente formaba parte de una concreta comunidad que afronta peligros de la naturaleza; c) con una culposa o fortuita actividad precedente generó el peligro para el bien jurídico; o d) se haya en una efectiva y concreta posición de custodia de la vida, salud o integridad corporal de algún miembro de su familia.
+7o.- Quien omita evitar un resultado material descrito en un tipo de acción, será considerado autor del mismo, sólo si: de acuerdo con las circunstancias podía evitarlo, era garante del bien jurídico y su inactividad es, en su eficacia, equivalente a la actividad prohibida en el tipo. Es garante del bien jurídico el que: a) acepto efectivamente su custodia; b) voluntariamente formaba parte de una concreta comunidad que afronta peligros de la naturaleza; c) con una culposa o fortuita actividad precedente generó el peligro para el bien jurídico; o d) se halla en una efectiva y concreta posición de custodia de la vida, salud o integridad corporal de algún miembro de su familia.
 (REFORMADO, P.O. 3 DE OCTUBRE DE 1998)
 8o.- Los delitos sólo pueden cometerse dolosa o culposamente:
 I.- Obra dolosamente el que, conociendo los elementos subjetivos del hecho típico, quiere o acepta su realización; y
@@ -552,6 +552,8 @@ Prescripción.
 121.- La acción penal prescribe en un año, si el delito sólo mereciere multa. Si el delito mereciere, además de esta sanción, la corporal, se atenderá en todo caso a la prescripción de la pena corporal, y lo mismo se observará cuando corresponda alguna otra sanción accesoria.
 122.- La acción penal prescribirá en un plazo igual al tiempo de la sanción corporal que corresponda al delito de que se trata; pero en ningún caso bajará de tres años.
 Si se tratare de delito al que le corresponda según éste Código, la pena de cuarenta años de prisión, la prescripción se consumará en ese plazo.
+(ADICIONADO, P.O. 6 DE FEBRERO DE 2010)
+122 Bis.- Cuando se trate de delitos cometidos en personas menores de edad, previstos en los artículos 194 fracciones II a V, 195, 196, 241, 241 BIS, 246, 247, 248 BIS fracciones I a III, 255, 347 BIS y 348 BIS F, la acción penal será imprescriptible.
 123.- Si el delito solo mereciere destitución, suspensión de derechos o inhabilitación, la prescripción se consumará en el término de dos años.
 124.- La acción penal que nazca de un delito que sólo puede perseguirse por queja de parte, prescribirá en un año, contado desde el día en que la parte ofendida tenga conocimiento del delito y del delincuente, y en tres, independientemente de esta circunstancia.
 Pero si llenado el requisito inicial de la querella ya se hubiere deducido la acción ante los tribunales, se observarán las reglas señaladas por la Ley para los delitos que se persigue de oficio.
@@ -610,7 +612,7 @@ Conspiración, sedición y otros desórdenes públicos.
 151.- Para todos los efectos legales solamente se consideran como de carácter político los delitos consignados en este Título, con excepción de los previstos en los artículos 140 y 144.
 152.- Incurren en asonada o motín, los que, para hacer uso de un derecho, se reúnen tumultuariamente. A este delito se le aplicará la pena de dos meses a dos años y multa de cien a quinientos pesos.
 TITULO SEGUNDO.
-Delitos contra la seguridad publica.
+Delitos contra la seguridad pública.
 CAPITULO I.
 Evasión de presos.
 153.- Se aplicará de tres meses a siete años de prisión, al que favoreciere la evasión de algún detenido, procesado, o condenado.
@@ -696,7 +698,7 @@ Desobediencia y resistencia de particulares.
 181.- Quien debiendo ser examinado en juicio y sin que le aprovechen las excepciones establecidas en este Código o por el de Procedimientos de la materia, se niegue a declarar o a otorgar la protesta de ley, pagará una multa de quinientos a dos mil pesos. En caso de reincidencia, se impondrá prisión de uno a seis meses.
 182.- Cuando la ley autorice el empleo del apremio para hacer efectivas las determinaciones de la autoridad, sólo se consumará el delito de desobediencia cuando se hubieren agotado los medios de apremio.
 CAPITULO II.
-Oposición a que se ejecute alguna obra o trabajo publico.
+Oposición a que se ejecute alguna obra o trabajo público.
 183.- El que procure con actos materiales impedir la ejecución de una obra o trabajos públicos, mandados hacer con los requisitos legales por la autoridad competente, o con su autorización, se le aplicarán de diez días a seis meses de prisión.
 184.- Cuando el delito se cometa por varias personas, de común acuerdo, la pena será de tres meses a un año de prisión, si solo se hiciere una simple oposición material sin violencia a las personas. Habiéndola, podrá aumentarse la pena hasta dos años de prisión.
 A las penas de que trata este artículo y el que precede, se podrá agregar una multa de cien a mil pesos, cuando no hubiere lugar a reparación del daño.
@@ -744,7 +746,7 @@ CAPITULO UNICO.
 194.- Comete el delito de corrupción de personas menores de dieciocho años de edad o personas que no tienen la capacidad para comprender el significado del hecho:
 l.- Al que por cualquier medio induzca, procure, facilite u obligue a una de las personas antes señaladas al consumo reiterado de bebidas embriagantes; al consumo de sustancias tóxicas o narcóticos; a cometer hechos delictuosos; o a formar parte de una asociación delictuosa.
 A quien cometa cualquiera de las conductas descritas se le impondrá de cinco a diez años de prisión y multa de quinientos a setecientos treinta días de salario mínimo.
-II.- Quien por cualquier medio, induzca, facilite, procure u obligue que una persona menor de edad o persona que no tenga la capacidad para comprender el significado del hecho realice, para si o para otras personas y sin fines de lucro o de explotación, actos sexuales o de exhibicionismo corporal de índole sexual. Estas conductas se sancionarán con pena de prisión de siete a doce años y multa de seiscientos a ochocientos cuarenta días de salario mínimo;
+II.- Quien por cualquier medio, induzca, facilite, procure u obligue que una persona menor de edad o persona que no tenga la capacidad para comprender el significado del hecho realice, para sí o para otras personas y sin fines de lucro o de explotación, actos sexuales o de exhibicionismo corporal de índole sexual. Estas conductas se sancionarán con pena de prisión de siete a doce años y multa de seiscientos a ochocientos cuarenta días de salario mínimo;
 III.- Quien permita directa o indirectamente el acceso de una persona menor de dieciocho años de edad o de una persona que no tenga la capacidad de comprender el significado del hecho, a espectáculos o exhibiciones audiovisuales de carácter pornográfico. Estas conductas se sancionarán con prisión de tres a cinco años de prisión y multa de trescientos a trescientos cincuenta días de salario mínimo;
 IV.- Quien ejecute o hiciere ejecutar a otra persona actos de exhibición sexual ante personas menores de dieciocho años de edad o que no tengan la capacidad de comprender el significado del hecho. Estas conductas se sancionarán con prisión de tres a cinco años y multa de trescientos a trescientos cincuenta días de salario mínimo; y
 V.- Al que comercie, distribuya, exponga, haga circular u oferte, a menores de dieciocho años de edad, libros, escritos, grabaciones, filmes, fotografías, anuncios impresos, imágenes u objetos, de carácter pornográficos, reales o simulados, sea de manera física o a través de cualquier medio, se sancionará con prisión de uno a tres años y multa de cien a doscientos días de salario mínimo.
@@ -753,7 +755,7 @@ Las anteriores sanciones se impondrán con independencia de otros delitos que se
 (REFORMADO, P.O. 21 DE NOVIEMBRE DE 2008)
 195.- Comete el delito de pornografía infantil:
 l.- Quien sin fines comerciales o de explotación induzca, procure, facilite u obligue que una persona menor de dieciocho años de edad o una persona que no tenga la capacidad de comprender el significado del hecho, realice actos sexuales o de exhibicionismo corporal de índole sexual con la finalidad de grabarlos, videograbarlos, fotografiarlos, filmarlos o exhibirlos a través de anuncios impresos, transmisión de archivos de datos en red pública o privada de telecomunicaciones, sistemas de cómputo, medios .electrónicos o de cualquier otra naturaleza, Independientemente de que se logre la finalidad;
-II.- Quien sin fines comerciales o de explotación fije, grabe, videograbe, fotografíe o filme de cualquier forma actos sexuales o de exhibicionismo corporal de índole. sexual, explícitos o no, reales o simulados, en que participen una o mas personas menores de dieciocho años o personas que no tengan la capacidad de comprender el significado del hecho;
+II.- Quien sin fines comerciales o de explotación fije, grabe, videograbe, fotografíe o filme de cualquier forma actos sexuales o de exhibicionismo corporal de índole sexual, explícitos o no, reales o simulados, en que participen una o más personas menores de dieciocho años o personas que no tengan la capacidad de comprender el significado del hecho;
 III.- Quien reproduzca, publique, ofrezca, publicite, almacene, distribuya, difunda, exponga, envíe, transmita, importe, exporte o comercialice de cualquier forma imágenes, sonidos o la voz de una persona menor de edad o de una persona que no tenga la capacidad para comprender el significado del hecho, sea en forma directa, informática, audiovisual, virtual o por cualquier otro medio en las que se manifiesten actividades sexuales, explícitas o no, reales o simuladas, o toda representación de los órganos sexuales de la víctima con fines primordialmente sexuales; y
 IV.- Quien financie, dirija, administre o supervise cualquiera de las actividades descritas en las fracciones anteriores, con la finalidad de que se realicen las conductas previstas en las mismas.
 A quien cometa los delitos previstos en este artículo se le impondrá la pena de siete a doce años de prisión y multa de setecientos a novecientos días de salario mínimo.
@@ -766,7 +768,7 @@ Estas penas se aplicarán sin perjuicio de las que correspondan por la comisión
 (REFORMADO, P.O. 21 DE NOVIEMBRE DE 2008)
 197.- Las penas que resulten aplicables por los delitos previstos en este capítulo se aumentarán hasta en una mitad de su mínimo y su máximo, de acuerdo con lo siguiente:
 I.- Si el sujeto activo se valiese de la función pública, la profesión u oficio que desempeña, aprovechándose de los medios o circunstancias que ellos le proporcionan. En este caso, además, se le destituirá del empleo, cargo o comisión públicos e inhabilitará para desempeñar otro, o se le suspenderá del ejercicio de la profesión u oficio por un tiempo igual al de la pena de prisión impuesta, que iniciará una vez haya compurgado la pena privativa de libertad;
-II.- Si el sujeto activo del delito tiene parentesco por consaguinidad o afinidad hasta en el cuarto grado, o parentesco civil, o habite ocasional o permanentemente en el mismo domicilio con la víctima, o tenga una relación sentimental o de confianza con el sujeto pasivo, o sea tutor o curador de la víctima. Además, en su caso, perderá la patria potestad, tutela, guarda y custodia, régimen de visitas y convivencias, el derecho de alimentos que le correspondiere por su relación con la víctima y el derecho que pudiere tener respecto de los bienes de ésta; y
+II.- Si el sujeto activo del delito tiene parentesco por consaguinidad (sic) o afinidad hasta en el cuarto grado, o parentesco civil, o habite ocasional o permanentemente en el mismo domicilio con la víctima, o tenga una relación sentimental o de confianza con el sujeto pasivo, o sea tutor o curador de la víctima. Además, en su caso, perderá la patria potestad, tutela, guarda y custodia, régimen de visitas y convivencias, el derecho de alimentos que le correspondiere por su relación con la víctima y el derecho que pudiere tener respecto de los bienes de ésta; y
 III.- Si el sujeto activo es ministro de un culto religioso.
 (REFORMADO, P.O. 21 DE NOVIEMBRE DE 2008)
 198.- Los sujetos activos de los delitos a que se refiere este capítulo quedarán inhabilitados para ser tutores o curadores.
@@ -789,7 +791,7 @@ Ejercicio indebido y abandono de funciones: coalición de funcionarios.
 205.- Se impondrá de dos meses a dos años de prisión y multa de quinientos a cinco mil pesos, a los funcionarios y empleados públicos, agentes del Gobierno o sus comisionados que incurran en cualesquiera de los delitos siguientes:
 I.- Aceptar un cargo o empleo y tomar posesión de él sin reunir los requisitos que establezcan la Constitución Local o las leyes respectivas;
 II.- Al que ejerza las funciones de un empleo, cargo o comisión sin haber tomado posesión legítima del mismo o sin llenar todos los requisitos legales;
-III.- A todo el que continúe ejerciendo las funciones de un empleo, cargo o comisión, después de saber que se ha revocado su nombramiento o que se le ha suspendido o destituido; salvo el caso de que no haya sido nombrado el substituto, y que éste no se hubiere presentado a tomar posesión de su cargo o empleo, a menos que, en la orden de separación se exprese que ésta se verifique desde luego y la ley no lo prohiba;
+III.- A todo el que continúe ejerciendo las funciones de un empleo, cargo o comisión, después de saber que se ha revocado su nombramiento o que se le ha suspendido o destituido; salvo el caso de que no haya sido nombrado el substituto, y que éste no se hubiere presentado a tomar posesión de su cargo o empleo, a menos que, en la orden de separación se exprese que ésta se verifique desde luego y la ley no lo prohíba;
 IV.- Al nombrado por tiempo limitado, que continúe ejerciendo sus funciones, después de cumplido el término por el cual se le nombró, con la salvedad de la fracción anterior;
 V.- Al funcionario público o agente del Gobierno que simule tener alguna otra comisión, empleo o cargo que el que realmente tuviere;
 VI.- Al funcionario público o agente del Gobierno que ejerza funciones que no le correspondan, por su empleo, cargo o comisión, o se exceda en el ejercicio de las que le competen;
@@ -815,7 +817,7 @@ XI.- Cuando ejecute actos o incurra en omisiones que produzcan daño o concedan 
 XII.- Cuando, en ejercicio de su cargo, trata con ofensa, desprecio o deshonestidad a las personas que asistan a su oficina o deban tratar con él;
 XIII.- Cuando retarde o entorpezca, maliciosamente, o por negligencia o descuido, el despacho de los asuntos de su competencia;
 XIV.- Cuando con perjuicio de alguien y sin consentimiento del que pueda resultar perjudicado, revele algún secreto o comunicación reservada que conozca y haya recibido con motivo de su empleo, cargo o puesto;
-XV.- Cuando desempeñe algún otro empleo oficial, o un puesto o cargo particular, que la ley le prohiba;
+XV.- Cuando desempeñe algún otro empleo oficial, o un puesto o cargo particular, que la ley le prohíba;
 XVI.- Cuando desempeñe por sí o por interpósita persona, la profesión que tenga, si le está vedada su ejercicio por la ley en virtud del desempeño del empleo, cargo o comisión que tenga;
 XVII.- Cuando dirija o aconseje a las personas interesadas en asuntos de que conozca y que deba resolver en ejercicio de sus funciones, o en lo que tenga obligación legal de intervenir;
 XVIII.- Cuando se abstenga de promover por morosidad o por cualesquiera otro motivo la investigación de los delitos de que tuviere conocimiento, si la Ley le impone esa obligación;
@@ -864,7 +866,7 @@ CAPITULO III.
 Delitos cometidos en la administración de justicia.
 210.- Se impondrá de dos meses a cinco años de prisión, destitución y multa de doscientos a cinco mil pesos a los funcionarios, empleados o auxiliares de la administración de justicia, que cometan alguno de los delitos siguientes:
 I.- Conocer de negocios para los cuales tenga impedimento legal o abstenerse de conocer de los que les correspondan sin tener impedimento legal para ello;
-II.- Litigar por sí o por interpósita persona, cuando la Ley les prohiba el ejercicio de su profesión;
+II.- Litigar por sí o por interpósita persona, cuando la Ley les prohíba el ejercicio de su profesión;
 III.- Dirigir o aconsejar a las personas que ante ellos litiguen;
 IV.- Cuando se niegue bajo cualquier pretexto, aunque sea el de obscuridad o silencio de la ley, a tramitar o resolver algún asunto que sea de su competencia para el cual no esté impedido de conocer;
 V.- Cuando ordene indebidamente la libertad de alguna persona que se encuentre a disposición de otras autoridades o presione a éstas para que ordene esa libertad indebida;
@@ -1022,7 +1024,7 @@ IV.- A quienes por cualquier medio alteren las mercancías o productos o reduzca
 Lo mandado en este Artículo se observará sin prejuicio de las medidas y sanciones que pueda tomar o imponer la autoridad administrativa con base en leyes especiales.
 (ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 14 DE SEPTIEMBRE DE 2009)
 CAPITULO IV.
-Del tráfico de concesiones y permisos del servicio publico de transporte.
+Del tráfico de concesiones y permisos del servicio público de transporte.
 (ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2009)
 240 Bis.- Al propietario de vehículo que preste por sí o por interpósita persona el servicio público mixto de pasaje y carga, servicio público de pasajeros urbanos y suburbanos, servicio público de alquiler en su modalidad de taxi, servicio de carretones de tracción animal, servicio público de alquiler de mototaxi, servicio público de carga ligera y servicio público de acarreo de materiales, sin contar con la concesión que otorga el Poder Ejecutivo del Gobierno del Estado de Oaxaca, se le impondrá de dos a seis años de prisión y de cien a quinientos días multa.
 Al servidor público que de cualquier forma intervenga en el otorgamiento de una concesión para la prestación de los servicios públicos antes mencionados u otorgue permisos o placas de circulación que permitan la prestación de los servicios a que se refiere el párrafo anterior, sin cumplir con los requisitos establecidos por las leyes, se le impondrá de dos a diez años de prisión, multa de trescientos a ochocientos días multa, así como la destitución del empleo, cargo o comisión e inhabilitación por cuatro años para ocupar otro cargo.
@@ -1220,7 +1222,7 @@ IV.- Cuando éste se halle inerme o caído y aquél armado o de pie.
 La ventaja no se tomará en consideración en los tres primeros casos, si el que la tiene obrase en defensa legítima; ni en el cuarto, si el que se halla armado o de pie fuera el agredido, y además hubiera corrido peligro su vida por no aprovechar esta circunstancia.
 302.- Sólo será considerada la ventaja como colificativa (sic) de los delitos de que hablan los capítulos anteriores de este título, cuando sea tal que el delincuente no corra riesgo alguno de ser muerto ni herido por el ofendido y aquél no obre en legítima defensa.
 303.- La alevosía consiste: en sorprender intencionalmente a alguien de improviso, o empleando acechanza (sic) u otro medio que no le dé lugar a defenderse ni a evitar el mal que se le quiera hacer.
-304.- Se dice que obra a traición: el que no sólamente emplea la alevosía, sino también la perfidia, violando la fé o seguridad que expresamente había prometido a su víctima, o la tácita, que ésta debía prometerse de aquél por sus relaciones de parentesco, gratitud, amistad o cualquiera otra que inspire confianza.
+304.- Se dice que obra a traición: el que no solamente emplea la alevosía, sino también la perfidia, violando la fé o seguridad que expresamente había prometido a su víctima, o la tácita, que ésta debía prometerse de aquél por sus relaciones de parentesco, gratitud, amistad o cualquiera otra que inspire confianza.
 305.- Además de las sanciones que señalan los dos capítulos anteriores, los Jueces podrán, si lo creyeren conveniente:
 I.- Declarar a los infractores sujetos a la vigilancia de la policía; y
 II.- Prohibirles ir a determinado lugar o municipio o residir en él.
@@ -1395,7 +1397,7 @@ A) Si el delito es cometido en contra de una persona menor de dieciocho años de
 B) Si el delito es cometido en contra de una persona mayor de sesenta años de edad;
 C) Si el delito es cometido en contra de quien no tenga capacidad para comprender el significado del hecho;
 D) Cuando el sujeto activo se valiese de su calidad de servidor público o se haya ostentado como tal, sin serlo. Además se impondrá la destitución del empleo, cargo o comisión públicos e inhabilitación para desempeñar por un tiempo igual al de la pena de prisión impuesta, que iniciará una vez haya compurgado la pena privativa de libertad;
-E) Cuando el sujeto activo del delito tenga parentesco por consaguinidad o afinidad hasta en el cuarto grado, o parentesco civil, o habite en el mismo domicilio con la víctima, o tenga una relación sentimental o de confianza con el sujeto pasivo. Además, .en su caso, perderá la patria potestad, tutela, guarda y custodia, régimen de visitas y convivencias, el derecho de alimentos que le correspondiere por su relación con la víctima y el derecho que pudiere tener respecto de los bienes de ésta; y
+E) Cuando el sujeto activo del delito tenga parentesco por consaguinidad (sic) o afinidad hasta en el cuarto grado, o parentesco civil, o habite en el mismo domicilio con la víctima, o tenga una relación sentimental o de confianza con el sujeto pasivo. Además, .en su caso, perderá la patria potestad, tutela, guarda y custodia, régimen de visitas y convivencias, el derecho de alimentos que le correspondiere por su relación con la víctima y el derecho que pudiere tener respecto de los bienes de ésta; y
 F) Si el sujeto activo es ministro de un culto religioso.
 TITULO DECIMONOVENO.
 Delitos en contra de las personas en su patrimonio.
@@ -1484,7 +1486,7 @@ Abigeato.
 (REFORMADO, P.O. 27 DE AGOSTO DE 1994)
 370.- Comete el delito de abigeato el que se apodere de una o más cabezas de ganado sin derecho y sin consentimiento de la persona que pueda disponer de ellas de acuerdo con la ley, tenga o no la calidad de ganadero.
 (REFORMADO, P.O. 22 DE DICIEMBRE DE 1987)
-371.- Para los efectos de este Capítulo, se considerará como ganado mayor: el bovino, el caballar, el mular y el asnar; y, como ganado menor: al cabrío, el lanar y el porcino.
+371.- Para los efectos de este Capítulo, se considerará como ganado mayor: el bovino, el caballar, el mular y el asnal; y, como ganado menor: al cabrío, el lanar y el porcino.
 (REFORMADO, P.O. 27 DE AGOSTO DE 1994)
 372.- El abigeato de ganado mayor se sancionará:
 I.- Con prisión de cuatro a siete años y multa de treinta a cien veces el salario, cuando el apoderamiento no exceda de cinco cabezas;
