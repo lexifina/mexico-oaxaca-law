@@ -547,22 +547,30 @@ CAPITULO VI.
 Prescripción.
 117.- La prescripción es personal y para ella bastará el simple transcurso del tiempo señalado por la Ley.
 118.- La prescripción producirá su efecto, aún cuando no la alegue como excepción el acusado; los jueces la suplirán de oficio en todo caso, tan luego como tengan conocimiento de ella, sea cual fuere el estado del proceso.
-119.- Los términos para la prescripción de la acción penal serán continuos y se contarán desde el día en que se cometió el delito si fuere consumado; desde que cesó, si fuere permanente o continuo y, desde el día en que se hubiere realizado el último acto de ejecución, si se tratare de tentativa.
+(REFORMADO, P.O. 2 DE OCTUBRE DE 2010)
+119.- Los términos pera la prescripción de la acción penal serán continuos: en ellos se considerará el delito con sus modalidades y se contarán.
+I.- A partir del momento en que se consumó el delito si fuere instantáneo;
+II.- Desde que casó su consumación el fuere permanente o continuo;
+III.- Desde el día en que se realizó la ultima conducta su fuere continuado; y
+IV.- A partir del día en que se realizó el último acto ejecutivo o se omitió la conducta debida, si el delito fuere de tentativa.
 120.- Los términos para la prescripción de las sanciones serán igualmente continuos y correrán desde el día siguiente a aquél en que el condenado se sustraiga a la acción de la autoridad, si las sanciones son corporales, y si no lo son, desde la fecha de la sentencia ejecutoria.
-121.- La acción penal prescribe en un año, si el delito sólo mereciere multa. Si el delito mereciere, además de esta sanción, la corporal, se atenderá en todo caso a la prescripción de la pena corporal, y lo mismo se observará cuando corresponda alguna otra sanción accesoria.
-122.- La acción penal prescribirá en un plazo igual al tiempo de la sanción corporal que corresponda al delito de que se trata; pero en ningún caso bajará de tres años.
-Si se tratare de delito al que le corresponda según éste Código, la pena de cuarenta años de prisión, la prescripción se consumará en ese plazo.
+(REFORMADO, P.O. 2 DE OCTUBRE DE 2010)
+121.- Cuando la sanción correspondiente del delito de que se trate no sea privativa de libertad, la prescripción de la acción penal operará en dos años.
+(REFORMADO, P.O. 2 DE OCTUBRE DE 2010)
+122.- La acción penal prescribe en un plazo igual al término medio aritmético de la pena privativa de libertad, incluidas las modalidades del delito cometido, pero en ningún caso será menor de tres años.
 (ADICIONADO, P.O. 6 DE FEBRERO DE 2010)
 122 Bis.- Cuando se trate de delitos cometidos en personas menores de edad, previstos en los artículos 194 fracciones II a V, 195, 196, 241, 241 BIS, 246, 247, 248 BIS fracciones I a III, 255, 347 BIS y 348 BIS F, la acción penal será imprescriptible.
-123.- Si el delito solo mereciere destitución, suspensión de derechos o inhabilitación, la prescripción se consumará en el término de dos años.
+123.- (DEROGADO, P.O. 2 DE OCTUBRE DE 2010)
 124.- La acción penal que nazca de un delito que sólo puede perseguirse por queja de parte, prescribirá en un año, contado desde el día en que la parte ofendida tenga conocimiento del delito y del delincuente, y en tres, independientemente de esta circunstancia.
 Pero si llenado el requisito inicial de la querella ya se hubiere deducido la acción ante los tribunales, se observarán las reglas señaladas por la Ley para los delitos que se persigue de oficio.
-125.- Cuando haya acumulación de delitos, las acciones penales que de ellas resulten se prescribirán separadamente en el término señalado a cada uno.
-126.- Cuando para deducir una acción penal sea necesario que antes se termine un juicio diverso, civil o criminal, no comenzará a correr la prescripción sino hasta que en el juicio previo se haya pronunciado sentencia irrevocable.
+(REFORMADO, P.O. 2 DE OCTUBRE DE 2010)
+125.- Tratándose de concurso real de delitos, los plazos para la prescripción de la acción penal empezarán a correr simultáneamente y prescribirán separadamente para cada uno de los delitos; en los casos de concurso ideal de delitos, la acción penal prescribirá conforme a las reglas para el delito que merezca la pena mayor.
+(REFORMADO, P.O. 2 DE OCTUBRE DE 2010)
+126.- Cuando para ejercitar o continuar la acción penal sea necesaria una resolución previa de autoridad jurisdiccional, la prescripción comenzará a correr desde que se dicte sentencia irrevocable; si para deducir la acción penal la ley exigiere previa declaración o resolución de alguna autoridad, las gestiones que con ese fin se practiquen dentro de los términos contemplados en este capítulo interrumpirán la prescripción.
 127.- La prescripción de las acciones se interrumpirá por las actuaciones que se practiquen en averiguación del delito y delincuentes, aunque, por ignorarse quienes sean éstos, no se practiquen las diligencias contra persona determinada.
 Si se dejare de actuar, la prescripción comenzará de nuevo desde el día siguiente a la última diligencia.
 128.- Las prevenciones contenidas en el artículo anterior no comprenden el caso en que las actuaciones se practiquen después de que haya transcurrido la mitad del lapso necesario para la prescripción. Entonces ésta no se interrumpirá sino por la aprehensión del inculpado.
-129.- Si para deducir una acción penal exigiere la ley declaración previa de alguna autoridad, las gestiones que a ese fin se realicen interrumpirán la prescripción.
+129.- (DEROGADO, P.O. 2 DE OCTUBRE DE 2010)
 (REFORMADO, P.O. 3 DE JUNIO DE 1995)
 130.- La multa prescribirá en un año.
 La reparación del daño prescribe en diez años.
@@ -574,7 +582,7 @@ La prescripción de las pecuniarias sólo se interrumpe por el embargo de bienes
 El Juez de la causa podrá interrumpir la prescripción del delito a petición del Ministerio Público, cuando el inculpado se halle bajo proceso penal en otra entidad federativa.
 133.- La privación de derechos civiles o políticos prescribirá en veinte años.
 134.- Los reos de homicidio intencional o de lesiones o violencia graves, a quienes se hubiere impuesto la prohibición de ir a determinado lugar, y cuya sanción corporal haya prescrito, no podrán residir en el lugar donde vive el ofendido o sus descendientes, ascendientes, cónyuge o hermanos, sino transcurrido después de consumada la prescripción, un tiempo igual al que debiera durar la sanción.
-135.- Para la prescripción de las acciones penales, se tendrá como base el término medio aritmético de las sanciones, según el delito de que se trate.
+135.- (DEROGADO, P.O. 2 DE OCTUBRE DE 2010)
 136.- (DEROGADO, P.O. 3 DE OCTUBRE DE 1998)
 LIBRO SEGUNDO.
 TITULO PRIMERO.
@@ -843,8 +851,8 @@ XXXVII.- Cuando autoricen, protejan o asistan a locales de juegos prohibidos;
 XXXVIII.- Cuando ordene indebidamente la libertad de alguna persona que se encuentre a disposición de otras autoridades, o presione a éstas para que ordenen esa libertad indebida;
 XXXIX.- Cuando substraiga un expediente de la oficina en que preste sus servicios o de otra en que intervenga, por razón de sus funciones, o que llegue a su poder por este motivo; o le arranque alguna o algunas de sus hojas, o parte de ellas, o lo inutilice de cualquier manera, o ejecute alguno de los actos enumerados anteriormente con cualquier documento que se halle bajo la responsabilidad y dominio de esas oficinas, o los altere.
 Los gastos para reponer el expediente o el documento se incluirán en la reparación del daño.
-XL.- Cuando las autoridades de policía o cualesquiera otras, no den al Ministerio Público la intervención oportuna que le corresponde en la persecución de los delitos.
-Los delitos a que se refiere este artículo producen acción popular.
+(REFORMADA, P.O. 2 DE OCTUBRE DE 2010)
+XL.- Cuando las autoridades de policía o cualesquiera otras, no den al Ministerio Público la intervención oportuna que le corresponde en la persecución de los delitos;
 (REFORMADA, P.O. 18 DE ABRIL DE 2009)
 XLI.- Cuando teniendo funciones de seguridad pública detente o posea, enajene o trafique con vehículo robado o se dedique al desmantelamiento, comercialización de sus partes, brinde protección a los grupos o bandas dedicadas a la alteración, modificación de los datos o partes de identificación de vehículos o de la documentación que los identifique o acredite su propiedad.
 La posesión y detentación, no será sancionada en las excepciones previstas por la Ley; y
@@ -905,6 +913,8 @@ Enriquecimiento ilegítimo.
 217 (sic) C.- Se impondrá sanción de tres meses a dos años de prisión, destitución del cargo e inhabilitación para ocupar puesto público por un término de uno a tres años, el funcionario o empleado de la Administración Pública Estatal o Municipal, o Descentralizada, que por sí o por interpósita persona, haga uso de recursos humanos o materiales, en actividades ajenas a las atenciones o necesidades oficiales.
 (ADICIONADO, P.O. 27 DE NOVIEMBRE DE 1982)
 217 Bis D.- Se impondrá sanción de tres meses a dos años de prisión, destitución e inhabilitación para ocupar empleos o cargos públicos, por un término de uno a tres años, al funcionario o empleado de la Administración Pública Estatal o Municipal, o Descentralizada, que otorgue nombramiento o comisión oficial a una persona cuando ésta no desempeñe el servicio para el que se le nombró, si ésta percibe el sueldo, honorarios o remuneración correspondiente. Al nombrado, se le aplicarán de dos meses a dos años de prisión.
+(ADICIONADO, P.O. 2 DE OCTUBRE DE 2010)
+217 Bis E.- Los delitos previstos en este Título y de los cuales se desprenda un quebranto a la hacienda pública del Estado o municipios, se perseguirán por querella y previa declaratoria de perjuicio emitida por la autoridad competente.
 TITULO NOVENO.
 Responsabilidad Profesional.
 CAPITULO I.
@@ -1558,8 +1568,8 @@ XIV.- Al fiador que enajene o grave los bienes raíces cuyas inscripciones de pr
 (ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 1995)
 Asimismo se aplicará de tres a siete años de prisión y de treinta a ciento veinte días de multa al que, teniendo la obligación de cubrir alimentos conforme a la Ley, eluda proporcionarlos a sus ascendientes y descendientes en primer grado, o a su cónyuge, colocándose dolosamente en estado de insolvencia.
 382.- Se impondrá prisión de seis meses a ocho años y multa de cinco mil a diez mil pesos, o sólo la prisión al que, para hacerse de una cantidad de dinero en numerario, en papel moneda o billetes de banco, de un documento que importa obligación, liberación o transmisión de derechos o de cualquiera otra cosa ajena mueble, logre que se le entregue por medio de maquinaciones, engaños o artificios.
-(REFORMADO, P.O. 28 DE NOVIEMBRE DE 1998)
-383.- El fraude se perseguirá por querella. Excepción hecha cuando el activo tenga conducta precedente por el mismo delito o para el caso de que el pasivo sea un organismo o institución pública o descentralizada.
+(REFORMADO, P.O. 2 DE OCTUBRE DE 2010)
+383.- El fraude se perseguirá por querella de parte ofendida o legitimado para formularla. En los casos en que el sujeto pasivo sea el Estado, se requerirá la declaratoria de perjuicio a que se refiere el artículo 217 Bis-E.
 (ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 3 DE JUNIO DE 1995)
 CAPITULO IV BIS.
 Extorsión.
