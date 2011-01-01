@@ -1,0 +1,4 @@
+(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)
+ARTÍCULO 23 A.- El Estado enviará al Ejecutivo Federal, por conducto de la Secretaría, informes sobre el ejercicio y destino de los recursos de los Fondos de Aportaciones Federales a que se refiere este Capítulo.
+Para los efectos del párrafo anterior, el Estado reportará tanto su información, como aquélla de sus Municipios, en los Fondos que correspondan, señalando los resultados obtenidos; y remitiendo la información consolidada a más tardar a los 20 días naturales posteriores a la terminación de cada trimestre del ejercicio fiscal.
+El Estado y los Municipios publicarán los informes a que se refiere el párrafo primero de este artículo en los medios locales de difusión, y los pondrán a disposición del público en general a través de sus respectivas páginas electrónicas de internet o de otros medios locales de difusión, a más tardar a los 5 días hábiles posteriores a la fecha señalada en el párrafo anterior.
