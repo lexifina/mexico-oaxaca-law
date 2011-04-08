@@ -1541,8 +1541,13 @@ Retención.
 (REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)
 378.- Comete el delito de retención el que, teniendo una cosa mueble ajena recibida en tenencia y concluida la vigencia de su título precario, no la entrega al primer requerimiento notarial o judicial a quien tenga derecho de recibirla.
 La retención se perseguirá por querella y se sancionará con las penas del abuso de confianza previstas en el artículo 376.
-(REUBICADO, P.O. 3 DE OCTUBRE DE 1998)
-379.- El delito previsto en este capítulo solamente se perseguirá a petición de parte ofendida, siendo aplicables en lo conducente las disposiciones del artículo 366 de este Código.
+(ADICIONADO, P.O. 7 DE ABRIL DE 2011)
+Son aplicables a este delito, en lo conducente, las disposiciones del artículo 366 de este Código.
+(REFORMADO, P.O. 7 DE ABRIL DE 2011)
+379.- Se equiparara al delito de retención y se castigará con pena de cinco a quince años de prisión al dueño, directivo, socio, gerente, empleado o responsable de cualquier entidad, organismo, empresa o negocio, dedicado a actividades financieras de ahorro o inversión, cualquiera que sea la figura legal o fáctica en que se haya constituido, que sin causa legal, por si o por sus subordinados, se niegue a devolver las cantidades ahorradas, invertidas o depositadas a quien tenga derecho a ellas.
+Este delito se perseguirá de oficio.
+Para todos los efectos legales se entenderá que este delito se consuma cuando se niegue a la víctima la devolución o entrega de las cantidades reclamadas, lo que se acreditará por cualquier medio de prueba, sin necesidad de requerimiento judicial o notarial. Se considerará como negativa el hecho de que el local, oficina o sucursal destinados a la atención del público se encuentre temporal o definitivamente cerrado o clausurado.
+Si la entidad, organismo, empresa o negocio no cuenta con registro de las autoridades correspondientes o no ha concluido o iniciado sus trámites de regularización, la pena se incrementará de uno a cinco años.
 CAPITULO IV.
 Fraude.
 (REFORMADO, P.O. 22 DE DICIEMBRE DE 1987)

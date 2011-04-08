@@ -1,4 +1,4 @@
-(REFORMADO PRIMER PARRAFO, P.O. 20 DE ABRIL DE 2001)
+(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2001)
 Artículo 127 Bis.- La caducidad de la instancia operará de pleno derecho cualquiera que sea el estado del juicio, desde el emplazamiento hasta antes de la citación para sentencia, si transcurridos ciento ochenta días, incluyendo los inhábiles, contados a partir del día siguiente al en que surta efectos la notificación del último acuerdo judicial, no hubiere promoción por escrito de cualquiera de las partes, necesaria para impulsar el procedimiento, los efectos y formas de su declaración se sujetarán a las siguientes normas:
 (ADICIONADA, P.O. 09 DE JUNIO DE 1984)
 I. La caducidad de la instancia es de orden público irrenunciable y no puede ser materia de convenios entre las partes. El juez la declarará de oficio o a petición de cualquiera de las partes, cuando concurran las circunstancias a que se refiere el presente artículo.
