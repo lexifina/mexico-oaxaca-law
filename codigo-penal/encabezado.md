@@ -426,7 +426,8 @@ Substitución de sanciones.
 La substitución no se otorgará a los reincidentes en delito doloso.
 (REFORMADO, P.O. 3 DE OCTUBRE DE 1998)
 81.- Para que la substitución surta efectos, el sentenciado: a) Dentro de un plazo de cinco días deberá cubrir el importe de la reparación del daño, de la multa directa y de la multa substitutiva, según el caso; y b) Protestar cumplir las obligaciones señaladas en la fracción III del artículo 85.
-El beneficiado que entre a compurgar la prisión conserva el derecho a exhibir los importes mencionados en el párrafo anterior en cualquier momento. Satisfecho el requisito, se hará del conocimiento de la Dirección de Prevención y Readaptación Social para que lo ponga en libertad.
+(REFORMADO, P.O. 16 DE JUNIO DE 2011)
+El beneficiado que entre a compurgar la prisión conserva el derecho a exhibir los importes mencionados en el párrafo anterior en cualquier momento. Satisfecho el requisito, se hará del conocimiento de la Dirección de Reinserción Social para que lo ponga en libertad.
 (REFORMADO, P.O. 3 DE OCTUBRE DE 1998)
 82.- El juez dejará sin efecto la sustitución y ordenará que se ejecute la prisión impuesta: a) Cuando al sentenciado se le condene por otro delito doloso; b) Cuando el sentenciado no cumpla con las condiciones que le fueron señaladas para tal efecto o incurra en delito culposo, salvo que el juzgador estime conveniente apercibirlo por una sola vez de que si incurre en nueva falta, se hará efectiva la sanción sustituida.
 En caso de substitución, el Juez descontará el tiempo que el reo hubiera estado recluido.
@@ -452,8 +453,8 @@ d).- Residirá en determinado lugar, del cual no podrá ausentarse sin permiso d
 e).- Observará buena conducta.
 (REFORMADO, P.O. 3 DE OCTUBRE DE 1998)
 86. El juzgador otorgará un plazo de cinco días para que el sentenciado cubra el importe de la reparación del daño, de la multa y de la garantía. Si concluido el plazo no se satisface el requisito mencionado, se procederá a la ejecución de la sentencia.
-(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)
-87.- El beneficiado conserva el derecho a exhibir el importe de la reparación del daño, de la multa y de otorgar garantía en cualquier momento; satisfecho el requisito, se suspenderá de inmediato la prisión que estuviere compurgando, lo que se hará del conocimiento de la Dirección de Prevención y Readaptación Social para que lo ponga en libertad.
+(REFORMADO, P.O. 16 DE JUNIO DE 2011)
+87.- El beneficiado conserva el derecho a exhibir el importe de la reparación del daño, de la multa y de otorgar garantía en cualquier momento; satisfecho el requisito, se suspenderá de inmediato la prisión que estuviere compurgando, lo que se hará del conocimiento de la Dirección de Reinserción Social para que lo ponga en libertad.
 (REFORMADO, P.O. 3 DE OCTUBRE DE 1998)
 88.- A los sentenciados a quienes se conceda el beneficio de la condena condicional, se les hará saber lo dispuesto en los artículos 85 y 86 de este Código, lo que se asentará en diligencia formal, sin que la falta de esta formalidad, impida en su caso la aplicación de lo prevenido en dichos preceptos.
 (REFORMADO, P.O. 3 DE OCTUBRE DE 1998)
@@ -471,8 +472,8 @@ Ejecución de sentencias.
 (REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 1998)
 CAPITULO I.
 Del órgano ejecutor.
-(REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)
-93.- Corresponde al Ejecutivo del Estado la ejecución de las sentencias definitivas, dictadas por los tribunales, en la forma y términos de la ley respectiva.
+(REFORMADO, P.O. 16 DE JUNIO DE 2011)
+93.- Corresponde a la autoridad judicial la ejecución, modificación y duración de las penas y medidas de seguridad impuestas en las sentencias definitivas, dictadas por los tribunales, en la forma y términos de la ley respectiva.
 (REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 1998)
 CAPITULO II.
 De la libertad preparatoria y la preliberación.
@@ -487,8 +488,8 @@ I.- Cuando la sanción impuesta sea la de prisión, se conmutará en confinamien
 II.- Si fuere la de confinamiento, se conmutará por multa, desde un tercio a un día de salario por cada día de aquél.
 (REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)
 96.- Son delitos políticos los previstos en el artículo 151.
-(REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)
-97.- Cuando el reo acredite plenamente que no puede cumplir algunas de las circunstancias de la sanción que le fue impuesta, por ser incompatible con su edad, sexo, salud o constitución física, el Ejecutivo del Estado podrá modificar aquélla, siempre que la modificación no sea esencial.
+(REFORMADO, P.O. 16 DE JUNIO DE 2011)
+97.- Cuando el sentenciado acredite plenamente que no puede cumplir algunas de las circunstancias de la sanción que le fue impuesta, por ser incompatible con su edad, sexo, salud o constitución física, la autoridad judicial respectiva podrá modificar aquélla, siempre que la modificación no sea esencial.
 (REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)
 98.- La conmutación no exime de la reparación del daño.
 (ADICIONADO [N. DE E. REFORMADO], P.O. 3 DE OCTUBRE DE 1998)
@@ -516,8 +517,8 @@ El perdón del ofendido y del legitimado para otorgarlo también extingue la eje
 (REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)
 CAPITULO IV.
 Reconocimiento de inocencia e indulto.
-(REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)
-102.- Cuando aparezca que el sentenciado es inocente, se procederá al reconocimiento de su inocencia, en los términos del Código de Procedimientos Penales y se estará a lo dispuesto en el artículo 50 de este Código.
+(REFORMADO, P.O. 16 DE JUNIO DE 2011)
+102.- Cuando aparezca que el sentenciado es inocente, se procederá al reconocimiento de su inocencia, en los términos del Código de Procedimientos Penales o Procesal Penal, según sea el caso, y se estará a lo dispuesto en el artículo 50 de este Código.
 (REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)
 103.- El indulto es supresión de la prisión impuesta en sentencia irrevocable.
 (REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)
@@ -525,8 +526,10 @@ Reconocimiento de inocencia e indulto.
 (REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)
 105.- El Ejecutivo podrá otorgar el indulto:
 I.- En los delitos políticos, según su prudencia y discreción; y
-II.- Tratándose de delitos del orden común, cuando el sentenciado haya prestado importantes servicios a la Nación o al Estado y existan datos que revelen efectiva readaptación social.
-También procederá el indulto, de oficio o a petición de parte, cuando se dicte sentencia ejecutoria contra un menor de dieciséis años.
+(REFORMADA, P.O. 16 DE JUNIO DE 2011)
+II.- Tratándose de delitos del orden común, cuando el sentenciado haya prestado importantes servicios a la Nación o al Estado y existan datos que revelen efectiva reinserción social.
+(REFORMADO, P.O. 16 DE JUNIO DE 2011)
+También procederá el indulto, de oficio o a petición de parte, cuando se dicte sentencia ejecutoria contra un menor de dieciocho años.
 (REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)
 106.- El indulto en ningún caso extinguirá la obligación de reparar el daño causado.
 107.- (DEROGADO, P.O. 3 DE OCTUBRE DE 1998)
