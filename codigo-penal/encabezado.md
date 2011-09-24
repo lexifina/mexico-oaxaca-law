@@ -1720,8 +1720,8 @@ V.- Materiales electorales: los elementos físicos, tales como urnas, canceles o
 (ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 7 DE FEBRERO DE 1998)
 TITULO VIGESIMO SEGUNDO.
 Delitos contra la familia.
-(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 7 DE FEBRERO DE 1998)
-CAPITULO UNICO.
+(REFORMADO [N. DE E. ANTES CAPITULO UNICO], P.O. 23 DE SEPTIEMBRE DE 2011)
+CAPITULO I
 Violencia intrafamiliar.
 (REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2001)
 404.- Por violencia intrafamiliar se considera el uso de la fuerza física o moral, así como la omisión grave en contra de un miembro de la familia por otro de la misma que atente contra su integridad física, psíquica o ambas, independientemente de que pueda o no producir otro delito; siempre y cuando el agresor y el agraviado cohabiten en el mismo domicilio y exista una relación de parentesco, matrimonio o concubinato. En su caso se aplicarán las reglas de la acumulación.
@@ -1730,4 +1730,15 @@ Comete el delito de Violencia Intrafamiliar el cónyuge, concubina o concubinari
 405.- A quien comete el delito de violencia intrafamiliar se le impondrá de seis meses a cuatro años de prisión, restricción o pérdida de la patria potestad, y en su caso perderá los derechos hereditarios y de alimentos. Así mismo se le sujetará a tratamiento psicológico especializado.
 (REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2011)
 406.- En todos los casos previstos en los dos artículos precedentes, el Ministerio Público, exhortará al probable responsable para que se abstenga de cualquier conducta que pudiere resultar ofensiva para la víctima y acordará las medidas preventivas necesarias para salvaguardar la integridad física o psíquica de la misma. En todos los casos, el Ministerio Público deberá solicitar las medidas precautorias que considere pertinentes.
+(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE SEPTIEMBRE DE 2011)
+CAPITULO II
+De la Sustracción de Menores o Incapaces.
+(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2011)
+407.- Se le impondrá de cuatro a siete años de prisión y multa de cuatrocientos a setecientos días de salario mínimo, a quien siendo pariente sin limitación de grado y ejerza la patria potestad o al que por instrucciones de aquél, sustraiga de la custodia y guarda a una persona menor de dieciocho años de edad o incapaz, sin causa justificada o sin orden de autoridad competente.
+(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2011)
+408.-Si el sujeto activo devuelve espontáneamente al menor o al incapaz dentro de los siete días siguientes a la comisión del delito, se le impondrá una tercera parte de las sanciones antes señaladas.
+(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2011)
+409.- Si al encontrarse en proceso de divorcio o disuelto el matrimonio, alguno de los progenitores salga fuera del estado o del país, trasladando consigo a los menores hijos o Incapaces, sin contar con la autorización expresa de la otra parte o sin orden de autoridad competente, se le impondrá de tres a cinco años de prisión y multa de trescientos a quinientos cincuenta días de salario mínimo.
+(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2011)
+410.- Al progenitor que cambie su domicilio señalado para la guarda y custodia de los menores hijos, fuera del estado o del país, argumentando cualquier causa, sin que exista consentimiento expreso y por escrito de la otra parte o por orden de autoridad competente, se le impondrá de tres a cinco años de prisión y multa de trescientos a quinientos cincuenta días de salario mínimo.
 ARTICULOS TRANSITORIOS:
