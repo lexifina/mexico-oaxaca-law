@@ -550,20 +550,17 @@ CAPITULO VI.
 Prescripción.
 117.- La prescripción es personal y para ella bastará el simple transcurso del tiempo señalado por la Ley.
 118.- La prescripción producirá su efecto, aún cuando no la alegue como excepción el acusado; los jueces la suplirán de oficio en todo caso, tan luego como tengan conocimiento de ella, sea cual fuere el estado del proceso.
-(REFORMADO, P.O. 2 DE OCTUBRE DE 2010)
-119.- Los términos pera la prescripción de la acción penal serán continuos: en ellos se considerará el delito con sus modalidades y se contarán.
-I.- A partir del momento en que se consumó el delito si fuere instantáneo;
-II.- Desde que casó su consumación el fuere permanente o continuo;
-III.- Desde el día en que se realizó la ultima conducta su fuere continuado; y
-IV.- A partir del día en que se realizó el último acto ejecutivo o se omitió la conducta debida, si el delito fuere de tentativa.
+(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2011)
+119.- Los términos para la prescripción de la acción penal serán continuos y se contarán desde el día en que se cometió el delito si fuere consumado; desde el día en que cesó, si fuere permanente o continuo y, desde el día en que se hubiere realizado el último acto de ejecución, si se tratare de tentativa.
 120.- Los términos para la prescripción de las sanciones serán igualmente continuos y correrán desde el día siguiente a aquél en que el condenado se sustraiga a la acción de la autoridad, si las sanciones son corporales, y si no lo son, desde la fecha de la sentencia ejecutoria.
 (REFORMADO, P.O. 2 DE OCTUBRE DE 2010)
 121.- Cuando la sanción correspondiente del delito de que se trate no sea privativa de libertad, la prescripción de la acción penal operará en dos años.
-(REFORMADO, P.O. 2 DE OCTUBRE DE 2010)
-122.- La acción penal prescribe en un plazo igual al término medio aritmético de la pena privativa de libertad, incluidas las modalidades del delito cometido, pero en ningún caso será menor de tres años.
+(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2011)
+122.- La acción penal prescribirá en un plazo igual al tiempo de la sanción corporal que corresponda al delito de que se trata; pero en ningún caso bajará de tres años.
 (ADICIONADO, P.O. 6 DE FEBRERO DE 2010)
 122 Bis.- Cuando se trate de delitos cometidos en personas menores de edad, previstos en los artículos 194 fracciones II a V, 195, 196, 241, 241 BIS, 246, 247, 248 BIS fracciones I a III, 255, 347 BIS y 348 BIS F, la acción penal será imprescriptible.
-123.- (DEROGADO, P.O. 2 DE OCTUBRE DE 2010)
+(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE SEPTIEMBRE DE 2011)
+123.- Si el delito sólo mereciere destitución, suspensión de derechos o inhabilitación, la prescripción se consumará en dos años.
 124.- La acción penal que nazca de un delito que sólo puede perseguirse por queja de parte, prescribirá en un año, contado desde el día en que la parte ofendida tenga conocimiento del delito y del delincuente, y en tres, independientemente de esta circunstancia.
 Pero si llenado el requisito inicial de la querella ya se hubiere deducido la acción ante los tribunales, se observarán las reglas señaladas por la Ley para los delitos que se persigue de oficio.
 (REFORMADO, P.O. 2 DE OCTUBRE DE 2010)
@@ -916,8 +913,8 @@ Enriquecimiento ilegítimo.
 217 (sic) C.- Se impondrá sanción de tres meses a dos años de prisión, destitución del cargo e inhabilitación para ocupar puesto público por un término de uno a tres años, el funcionario o empleado de la Administración Pública Estatal o Municipal, o Descentralizada, que por sí o por interpósita persona, haga uso de recursos humanos o materiales, en actividades ajenas a las atenciones o necesidades oficiales.
 (ADICIONADO, P.O. 27 DE NOVIEMBRE DE 1982)
 217 Bis D.- Se impondrá sanción de tres meses a dos años de prisión, destitución e inhabilitación para ocupar empleos o cargos públicos, por un término de uno a tres años, al funcionario o empleado de la Administración Pública Estatal o Municipal, o Descentralizada, que otorgue nombramiento o comisión oficial a una persona cuando ésta no desempeñe el servicio para el que se le nombró, si ésta percibe el sueldo, honorarios o remuneración correspondiente. Al nombrado, se le aplicarán de dos meses a dos años de prisión.
-(ADICIONADO, P.O. 2 DE OCTUBRE DE 2010)
-217 Bis E.- Los delitos previstos en este Título y de los cuales se desprenda un quebranto a la hacienda pública del Estado o municipios, se perseguirán por querella y previa declaratoria de perjuicio emitida por la autoridad competente.
+(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2011)
+217 Bis E.- Los delitos previstos en este Título y de los cuales se desprenda un quebranto a la hacienda pública del Estado o municipios, se perseguirán de oficio.
 TITULO NOVENO.
 Responsabilidad Profesional.
 CAPITULO I.
@@ -1576,8 +1573,8 @@ XIV.- Al fiador que enajene o grave los bienes raíces cuyas inscripciones de pr
 (ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 1995)
 Asimismo se aplicará de tres a siete años de prisión y de treinta a ciento veinte días de multa al que, teniendo la obligación de cubrir alimentos conforme a la Ley, eluda proporcionarlos a sus ascendientes y descendientes en primer grado, o a su cónyuge, colocándose dolosamente en estado de insolvencia.
 382.- Se impondrá prisión de seis meses a ocho años y multa de cinco mil a diez mil pesos, o sólo la prisión al que, para hacerse de una cantidad de dinero en numerario, en papel moneda o billetes de banco, de un documento que importa obligación, liberación o transmisión de derechos o de cualquiera otra cosa ajena mueble, logre que se le entregue por medio de maquinaciones, engaños o artificios.
-(REFORMADO, P.O. 2 DE OCTUBRE DE 2010)
-383.- El fraude se perseguirá por querella de parte ofendida o legitimado para formularla. En los casos en que el sujeto pasivo sea el Estado, se requerirá la declaratoria de perjuicio a que se refiere el artículo 217 Bis-E.
+(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2011)
+383.- El fraude se perseguirá por querella. Excepción hecha cuando el activo tenga conducta precedente por el mismo delito o para el caso de que el pasivo sea un organismo o institución pública o descentralizada.
 (ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 3 DE JUNIO DE 1995)
 CAPITULO IV BIS.
 Extorsión.
@@ -1731,8 +1728,6 @@ Violencia intrafamiliar.
 Comete el delito de Violencia Intrafamiliar el cónyuge, concubina o concubinario; pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado, pariente colateral consanguíneo o afín hasta el cuarto grado, adoptante o adoptado, así como aquellas personas que habiten en el mismo domicilio de la víctima.
 (REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2001)
 405.- A quien comete el delito de violencia intrafamiliar se le impondrá de seis meses a cuatro años de prisión, restricción o pérdida de la patria potestad, y en su caso perderá los derechos hereditarios y de alimentos. Así mismo se le sujetará a tratamiento psicológico especializado.
-(ADICIONADO, P.O. 7 DE FEBRERO DE 1998)
-406.- Este delito se perseguirá por querella de la parte ofendida, salvo que la víctima sea menor de edad o incapaz, en cuyo caso se perseguirá de oficio.
-(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2001)
-En todos los casos previstos en los dos artículos precedentes, el Ministerio Público, exhortará al probable responsable para que se abstenga de cualquier conducta que pudiere resultar ofensiva para la víctima y acordará las medidas preventivas necesarias para salvaguardar la integridad física o psíquica de la misma. En todos los casos, el Ministerio Público deberá solicitar las medidas precautorias que considere pertinentes.
+(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2011)
+406.- En todos los casos previstos en los dos artículos precedentes, el Ministerio Público, exhortará al probable responsable para que se abstenga de cualquier conducta que pudiere resultar ofensiva para la víctima y acordará las medidas preventivas necesarias para salvaguardar la integridad física o psíquica de la misma. En todos los casos, el Ministerio Público deberá solicitar las medidas precautorias que considere pertinentes.
 ARTICULOS TRANSITORIOS:
