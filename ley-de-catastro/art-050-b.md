@@ -1,3 +1,3 @@
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.
-(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)
-ARTÍCULO 50 B.- La inscripción al Catastro de los Bienes Inmuebles se deberá acompañar obligatoriamente de los avalúos catastral e inmobiliario, practicados por perito valuador autorizado por la Secretaría de Finanzas y debidamente registrado por el Instituto Catastral del Estado de Oaxaca, con excepción de los trámites de corrección de datos, asignación de clave catastral, reasignación de cuenta, así como, aquellos que cuenten con un avalúo expedido por institución u organismo que esté autorizado para hacerlo.
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
+(REFORMADO, P.O. 17 DE DICIEMBRE DE 2011)
+ARTÍCULO 50 B.- Las inscripción al Catastro de los Bienes Inmuebles se deberá acompañar obligatoriamente del avalúo catastral, practicados por el Instituto Catastral del Estado de Oaxaca o por perito valuador autorizado por la Secretaría de Finanzas y debidamente registrado por el Instituto Catastral del Estado de Oaxaca, con excepción de los trámites de corrección de datos, asignación de cuenta catastral y reasignación de cuenta catastral a favor del mismo dueño o poseedor.
