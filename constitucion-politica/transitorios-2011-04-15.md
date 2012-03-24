@@ -1,6 +1,6 @@
 P.O. 15 DE ABRIL DE 2011.
 PRIMERO. El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-(REFORMADO PRIMER PARRAFO, P.O. 12 DE OCTUBRE DE 2011)
+(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE OCTUBRE DE 2011)
 SEGUNDO. El Congreso del Estado expedirá las reformas legales correspondientes antes del quince de noviembre del año de la publicación del presente decreto.
 Sin condicionar ni limitar el derecho de iniciativa de cada Poder, el Congreso del Estado podrá promover con el Poder Ejecutivo y el Poder Judicial la realización de mesas de análisis para las adecuaciones al marco legal secundario resultado de esta reforma.
 TERCERO. Para los efectos de cumplir con el mandato del artículo 111, la Legislatura decretará los mecanismos de transferencia del personal, así como los recursos humanos, materiales y financieros del Tribunal de lo Contencioso Administrativo, al Poder Judicial, para que dicha transferencia quede concluida en el plazo establecido en el Segundo transitorio.

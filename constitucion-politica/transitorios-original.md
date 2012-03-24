@@ -4,7 +4,7 @@ ARTICULO 2°. Dentro del término de quince días, a partir de la fecha en que e
 ARTICULO 3°. (DEROGADO, P.O. 28 DE DICIEMBRE DE 1940)
 (REFORMADO, P.O. 28 DE FEBRERO DE 1923)
 ARTICULO 4°. A falta de letrados, se nombrarán jueces y agentes del Ministerio Público, legos; pero para que los designados tomen posesión de su respectivo cargo, es necesario que acrediten previamente ante un jurado formado por tres letrados, nombrados por el Tribunal Superior de Justicia o por el Procurador, respectivamente, que tienen conocimientos aunque sólo sean elementales en Derecho Constitucional, Derecho Penal, Civil y Mercantil, y en los respectivos códigos de procedimientos.
-(DEROGADO SEGUNDO PARRAFO, P.O. 28 DE DICIEMBRE DE 1940)
+(DEROGADO SEGUNDO PÁRRAFO, P.O. 28 DE DICIEMBRE DE 1940)
 ARTICULO 5°. Entre tanto se expide la ley reglamentaria del artículo 149 de esta Constitución, entrará desde luego en vigor la Ley de Relaciones Familiares, expedida con fecha nueve de abril de mil novecientos diez y siete, por el Ciudadano Primer Jefe del Ejército Constitucionalista, Encargado del Poder Ejecutivo de la Unión.
 ARTICULO 6°. Desde la fecha en que entre en vigor esta Constitución, quedarán abolidos de pleno derecho todas las leyes, reglamentos, circulares y disposiciones de cualquier carácter y origen en cuanto se opongan a los preceptos de esta Constitución.
 Los negocios en que se hayan interpuesto los recursos de casación y súplica, deberán proseguirse y terminarse de oficio en el improrrogable plazo de sesenta días, a contar del día quince de abril, fecha de la abolición de esos recursos, aunque no promuevan las partes interesadas.
@@ -24,4 +24,4 @@ Por tanto, mando que se imprima, publique por bando solemne, circule y se le dé
 Dado en el Palacio de los Poderes del Estado, en la ciudad de Oaxaca de Juárez, a los quince días del mes de abril de mil novecientos veintidós.- M. García Vigil. Al C. Licenciado Lino Ramón Campos Ortega, Oficial Mayor encargado de la Secretaría General del Despacho.- Presente.
 Y lo comunico a usted para su conocimiento y demás efectos.
 SUFRAGIO EFECTIVO NO REELECCION.- Oaxaca de Juárez, a quince de abril de mil novecientos veintidós.- Campos Ortega.- Al C...
-N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCION.
+N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCIÓN.
