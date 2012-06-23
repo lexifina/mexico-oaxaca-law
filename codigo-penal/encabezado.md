@@ -1390,24 +1390,12 @@ Se equipara al delito de desaparición forzada de persona, la ocultación de fam
 348 Bis E.- A quien cometa el delito de desaparición forzada de personas, se le impondrá una pena de prisión de cinco a treinta años de prisión y multa de trescientos a setecientos salarios mínimos, así como la inhabilitación por el tiempo de la pena fijada en la sentencia ejecutoriada, para el desempeño de cualquier cargo o empleos públicos.
 La pena de prisión podrá ser disminuida hasta en una tercera parte en beneficio de aquel que hubiere participado en la comisión del delito, cuando administre información que permita esclarecer los hechos; y hasta en una mitad, cuando contribuya a lograr la aparición con vida de la víctima.
 El Estado y los municipios serán solidariamente responsables del pago de los daños y perjuicios causados por sus servidores públicos.
-(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE NOVIEMBRE DE 2008)
+(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO CUARTO DE LA LEY PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VICTIMAS DE ESTOS DELITOS EN EL ESTADO DE OAXACA, P.O. 22 DE JUNIO DE 2012)
 CAPITULO V.
 Trata de personas.
-(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2008)
-348 Bis F.- Comete el delito de trata de personas quien para sí o para un tercero, induzca, procure, promueva, capte, reclute, facilite, traslade solicite, consiga, ofrezca, mantenga, entregue o reciba a una persona recurriendo a la violencia física o moral, a la privación de la libertad, al engaño, al abuso de poder, al aprovechamiento de una situación de vulnerabilidad o a la concesión o recepción de pagos o beneficios para someterla a explotación.
-Para efectos de este artículo se entenderá por explotación el obtener provecho económico o cualquier otro beneficio para sí o para otra persona, mediante la prostitución ajena u otras formas de aprovechamiento sexual, los trabajos o servicios forzados, la esclavitud o para extraer sus órganos, tejidos o sus componentes.
-Cuando las conductas anteriores recaigan en una persona menor de dieciocho años de edad o persona que no tengan la capacidad de comprender el significado del hecho, se considerará como trata de personas incluso cuando no se recurra a ninguno de los medios comisivos señalados en el primer párrafo del presente artículo.
-(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2008)
-348 Bis G.- El consentimiento otorgado por la víctima en cualquier modalidad del delito de trata de personas no constituirá causa que excluye el delito.
-(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2008)
-348 Bis H.- A quien cometa el delito de trata de personas se le sancionará con prisión de doce a dieciocho años, y de seiscientos a mil trescientos cincuenta días multa.
-Se sancionará con prisión de dieciocho a veintisiete años y multa de mil doscientos a mil quinientos días multa en los siguientes casos:
-A) Si el delito es cometido en contra de una persona menor de dieciocho años de edad;
-B) Si el delito es cometido en contra de una persona mayor de sesenta años de edad;
-C) Si el delito es cometido en contra de quien no tenga capacidad para comprender el significado del hecho;
-D) Cuando el sujeto activo se valiese de su calidad de servidor público o se haya ostentado como tal, sin serlo. Además se impondrá la destitución del empleo, cargo o comisión públicos e inhabilitación para desempeñar por un tiempo igual al de la pena de prisión impuesta, que iniciará una vez haya compurgado la pena privativa de libertad;
-E) Cuando el sujeto activo del delito tenga parentesco por consaguinidad (sic) o afinidad hasta en el cuarto grado, o parentesco civil, o habite en el mismo domicilio con la víctima, o tenga una relación sentimental o de confianza con el sujeto pasivo. Además, .en su caso, perderá la patria potestad, tutela, guarda y custodia, régimen de visitas y convivencias, el derecho de alimentos que le correspondiere por su relación con la víctima y el derecho que pudiere tener respecto de los bienes de ésta; y
-F) Si el sujeto activo es ministro de un culto religioso.
+348 Bis F.- (DEROGADO POR TRANSITORIO CUARTO DE LA LEY PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VICTIMAS DE ESTOS DELITOS EN EL ESTADO DE OAXACA, P.O. 22 DE JUNIO DE 2012)
+348 Bis G.- (DEROGADO POR TRANSITORIO CUARTO DE LA LEY PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VICTIMAS DE ESTOS DELITOS EN EL ESTADO DE OAXACA, P.O. 22 DE JUNIO DE 2012)
+348 Bis H.- (DEROGADO POR TRANSITORIO CUARTO DE LA LEY PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VICTIMAS DE ESTOS DELITOS EN EL ESTADO DE OAXACA, P.O. 22 DE JUNIO DE 2012)
 TITULO DECIMONOVENO.
 Delitos en contra de las personas en su patrimonio.
 CAPITULO I.
