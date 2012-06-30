@@ -981,6 +981,10 @@ III.- Al que soborne a un testigo, a un perito, o a un intérprete para que se c
 IV.- (DEROGADA, P.O. 20 DE DICIEMBRE DE 2003)
 (REFORMADO, P.O. 22 DE DICIEMBRE DE 1987)
 231.- La parte, testigo, perito o intérprete que se retracte espontáneamente de sus falsas declaraciones rendidas en un juicio, antes de que se pronuncie la sentencia en la instancia en que las hubiere rendido, sólo pagará una multa de cinco a cincuenta veces el salario mínimo general; pero si al retractarse de su declaración faltare a la verdad, se le aplicará la pena que corresponda con arreglo a lo prevenido en este Capítulo, considerándolo como reincidente.
+(ADICIONADO, P.O. 29 DE JUNIO DE 2012)
+231 Bis.- Al que, por cualquier medio reporte hechos falsos a los elementos de las Policías Estatal o Municipales, Bomberos, personal de instituciones públicas o privadas que presten servicios de emergencia o protección civil; se le impondrá de seis meses a dos años de prisión y multa de diez a cien días multa.
+En caso de reincidencia se impondrá de dos a cuatro años de prisión y multa de quinientos a mil días multa.
+Si la conducta del infractor provoca un accidente o daños se impondrá de tres a cinco años de prisión y multa de quinientos a mil días multa.
 CAPITULO IV.
 Variación del nombre o del domicilio.
 (REFORMADO, P.O. 20 DE DICIEMBRE DE 2003)
