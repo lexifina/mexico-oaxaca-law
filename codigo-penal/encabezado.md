@@ -1,3 +1,4 @@
+N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE FEBRERO DE 2013 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 ELISEO JIMENEZ RUIZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA, A SUS HABITANTES HACE SABER:
@@ -193,16 +194,19 @@ b).- La Indemnización del daño material y moral causado, incluyendo el pago de
 (REFORMADO, P.O. 16 DE AGOSTO DE 2008)
 En los casos de delitos contra la libertad, la seguridad y el normal desarrollo psicosexual, de violencia intrafamiliar y otros que así lo requieran, además se comprenderá el pago de los tratamientos psicoterapéuticos que sean necesarios para la víctima, así como todos los gastos erogados por la víctima del delito, ofendido o su representante legal para el restablecimiento de su salud física o psicológica; y
 c).- El resarcimiento de los perjuicios causados.
+(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE OCTUBRE DE 2012)
+28. El monto de la reparación del daño, será fijado por los jueces de acuerdo con las pruebas que obran en el proceso y la afectación causada a la víctima u ofendido del delito, salvo lo dispuesto en el artículo 29.
 (REFORMADO, P.O. 3 DE OCTUBRE DE 1998)
-28.- El monto de la reparación del daño, será fijado de acuerdo con las pruebas que obran en el proceso, salvo lo dispuesto en el artículo 29.
 Cuando el daño se cause a las personas y produzca la muerte, incapacidad total o parcial, permanente o temporal, el monto de la reparación se determinará atendiendo a lo dispuesto en la Ley Federal del Trabajo, computado sobre el salario o ingresos que percibiera la víctima al momento de su fallecimiento o de producirse la incapacidad.
+(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)
 La indemnización a que se refiere el párrafo anterior, no puede ser inferior al monto señalado en el artículo siguiente.
 (REFORMADO, P.O. 3 DE OCTUBRE DE 1998)
 29.- A falta de pruebas específicas para fijar el monto de la reparación del daño:
-I.- En caso de homicidio, el monto será la cantidad equivalente al importe de setecientos noventa días, calculados sobre el triple del salario mínimo vigente.
+(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE OCTUBRE DE 2012)
+I.- En caso de homicidio y feminicidio, el monto será la cantidad equivalente al importe de setecientos noventa días, calculados sobre el triple del salario mínimo vigente en el Estado.
 Tratándose de menores de dieciocho años o de incapacitados, que no contribuyan económicamente al sustento familiar, el monto será la cantidad mencionada en el párrafo anterior, calculada sobre el doble del salario mínimo vigente;
 (REFORMADA PRIMER PÁRRAFO, P.O. 28 DE NOVIEMBRE DE 1998)
-II. En caso de lesiones que dejaren secuelas, el monto se determinará con base en la tabulación de indemnizaciones que fija la Ley Federal del Trabajo, computado sobre el triple del salario mínimo vigente.
+II.- En caso de lesiones que dejaren secuelas, el monto se determinará con base en la tabulación de indemnizaciones que fija la Ley Federal del Trabajo, computado sobre el triple del salario mínimo vigente.
 Si las secuelas fueren cicatrices perpetuas y notables en cara o en pabellón auricular, el monto será el equivalente de uno a dos años de salarios mínimos, según el grado de la notabilidad; y
 III.- En caso de que las lesiones no dejaren secuelas, el monto será el número de salarios correspondientes a los días que el pasivo tardó en sanar.
 (REFORMADO, P.O. 3 DE OCTUBRE DE 1998)
@@ -789,9 +793,9 @@ Revelación de secretos.
 CAPITULO UNICO.
 203.- Se aplicará multa de cien a tres mil pesos o prisión de dos meses a un año, al que sin justa causa, con perjuicio de alguien y sin consentimiento del que pueda resultar perjudicado, revele algún secreto o comunicación reservada, que conoce o ha recibido con motivo de su empleo, cargo o puesto.
 204.- Se aplicará prisión de uno a cinco años, multa de doscientos a tres mil pesos y suspensión de profesión, en su caso, de dos meses a un año, al que con perjuicio de alguien y sin consentimiento del que pueda resultar perjudicado, revele algún secreto o comunicación reservada que conoce por virtud de servicios personales o técnicos prestados, o cuando el secreto revelado o publicado sea de carácter industrial.
-(REFORMADA SU DENOMINACIÓN, P.O. 27 DE NOVIEMBRE DE 1982)
+(REFORMADA SU DENOMINACIÓN, P.O. 4 DE OCTUBRE DE 2012)
 TITULO OCTAVO.
-Delitos cometidos por funcionarios y empleados de la Administración Pública, Estatal y Municipal o Descentralizada.
+Delitos cometidos por servidores públicos.
 (REFORMADA SU DENOMINACIÓN, P.O. 27 DE NOVIEMBRE DE 1982)
 CAPITULO I.
 Ejercicio indebido y abandono de funciones: coalición de funcionarios.
@@ -869,8 +873,9 @@ Se aplicará prisión de seis meses a doce años, y multa de ciento treinta y un
 Se aplicará prisión de cuatro a doce años, destitución de empleo, cargo o comisión e inhabilitación por el término de cinco años para obtener cualquier otro y multa de veinticinco mil a treinta mil pesos a los que cometan la violación señalada en la fracción XXIV del referido artículo.
 Se aplicará prisión de dos a siete años al que incurra en los delitos previstos por la Fracción XXIII del Artículo 208 que antecede, destitución de empleo e inhabilitación para obtener otro durante un período de cinco a diez años y multa de cinco mil a veinticinco mil pesos.
 En todos los casos señalados anteriormente si resultare además cometido algún otro delito, se aplicarán las reglas de acumulación.
+(REFORMADA SU DENOMINACIÓN, P.O. 4 DE OCTUBRE DE 2012)
 CAPITULO III.
-Delitos cometidos en la administración de justicia.
+Delitos cometidos en la administración y procuración de justicia.
 210.- Se impondrá de dos meses a cinco años de prisión, destitución y multa de doscientos a cinco mil pesos a los funcionarios, empleados o auxiliares de la administración de justicia, que cometan alguno de los delitos siguientes:
 I.- Conocer de negocios para los cuales tenga impedimento legal o abstenerse de conocer de los que les correspondan sin tener impedimento legal para ello;
 II.- Litigar por sí o por interpósita persona, cuando la Ley les prohíba el ejercicio de su profesión;
@@ -883,6 +888,17 @@ VI.- Cuando se abstenga de promover por morosidad o por cualquiera otro motivo l
 VII.- Aprovechar el poder, el empleo o el cargo para satisfacer indebidamente algún interés propio; y
 (ADICIONADA, P.O. 18 DE ABRIL DE 2009)
 VIII.- Obligar a declarar a las personas que se mencionan en el artículo 410 del Código de Procedimientos Penales para el Estado Libre y Soberano de Oaxaca, acerca de la información obtenida con motivo del desempeño de su actividad.
+(ADICIONADO, P.O. 4 DE OCTUBRE DE 2012)
+210 Bis. Se impondrá de dos meses a cinco años de prisión, destitución y multa de cincuenta a quinientos días de salario mínimo vigente a: los jueces, servidores públicos, empleados o auxiliares de la administración y procuración de justicia, que cometan algunos de los siguientes delitos durante el desempeño de sus funciones:
+I.- Inducir a la víctima de un delito, a sus representantes o familiares para otorgar el perdón o conciliar en los delitos que se hayan cometido en su perjuicio;
+II.- A quien se niegue a recibir una denuncia o querella de forma inmediata a su presentación, o a llevar a cabo la investigación correspondiente del delito denunciado;
+III.- No proporcionar información a las víctimas u ofendido o su representante sobre los avances de la investigación y en su caso del proceso o negarse a dar pleno acceso a los expedientes cuando así le sea solicitado;
+IV.- No llevar a cabo la investigación de manera inmediata, profesional e imparcial y sin discriminación;
+V.- No realizar una investigación real y una búsqueda exhaustiva de forma inmediata, a partir de que tenga conocimiento de la denuncia presentada por la desaparición de alguna persona;
+VI.- No canalizar a la víctima u ofendido a las instancias que brinden los servicios de atención a víctimas del delito, de manera pronta y expedita;
+VII.- Tratándose de víctimas menores de edad, no garantice, ni pondere sus derechos y no tome en consideración su bienestar e integridad física o psicológica;
+VIII.- No se proporcione de manera gratuita la asistencia de intérprete o traductor, en cualquier etapa de la investigación o del proceso, cuando la víctima u ofendido no conozca o no comprenda bien el idioma castellano, o tenga alguna discapacidad que así lo requiera, y
+IX.- No den cumplimiento a los Protocolos de Investigación de los delitos, y se ponga en riesgo el derecho a una debida investigación, particularmente en los casos relativos a los delitos de homicidio, feminicidio, los relacionados a la libertad sexual, trata de personas y violencia intrafamiliar.
 CAPITULO IV.
 Cohecho.
 211.- Comete el delito de cohecho:
@@ -1708,9 +1724,9 @@ IV.- Documentos electorales: boletas para votar, las actas oficiales de la jorna
 V.- Materiales electorales: los elementos físicos, tales como urnas, canceles o elementos modulares para la emisión del voto, marcadores de credencial, líquido indeleble, útiles de escritorio y demás equipamiento autorizado para su utilización en las casillas electorales durante la jornada electoral.
 (ADICIONADO, P.O. 15 DE JULIO DE 1995)
 403.- Las sanciones previstas en los delitos del presente capítulo, se aplicarán sin perjuicio de las demás penas que pudieran corresponder al responsable por el concurso real de delitos.
-(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE FEBRERO DE 1998)
+(REFORMADA SU DENOMINACIÓN, P.O. 4 DE OCTUBRE DE 2012)
 TITULO VIGESIMO SEGUNDO.
-Delitos contra la familia.
+Delitos contra el derecho a una vida libre de violencia
 (REFORMADO [N. DE E. ANTES CAPÍTULO ÚNICO], P.O. 23 DE SEPTIEMBRE DE 2011)
 CAPITULO I
 Violencia intrafamiliar.
@@ -1732,4 +1748,23 @@ De la Sustracción de Menores o Incapaces.
 409.- Si al encontrarse en proceso de divorcio o disuelto el matrimonio, alguno de los progenitores salga fuera del estado o del país, trasladando consigo a los menores hijos o Incapaces, sin contar con la autorización expresa de la otra parte o sin orden de autoridad competente, se le impondrá de tres a cinco años de prisión y multa de trescientos a quinientos cincuenta días de salario mínimo.
 (ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2011)
 410.- Al progenitor que cambie su domicilio señalado para la guarda y custodia de los menores hijos, fuera del estado o del país, argumentando cualquier causa, sin que exista consentimiento expreso y por escrito de la otra parte o por orden de autoridad competente, se le impondrá de tres a cinco años de prisión y multa de trescientos a quinientos cincuenta días de salario mínimo.
+(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE OCTUBRE DE 2012)
+CAPITULO III.
+Feminicidio.
+N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE FEBRERO DE 2013 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.
+(ADICIONADO, P.O. 4 DE OCTUBRE DE 2012)
+411. Comete el delito de feminicidio quien prive de la vida a una mujer por razones de género.
+Se entiende por razones de género cuando ocurra cualquiera de las siguientes circunstancias:
+I.- La víctima presente signos de violencia sexual de cualquier tipo;
+II.- A la victima se le hayan infligido heridas, escoriaciones, contusiones, fracturas, dislocaciones, quemaduras, mutilaciones con implicaciones sexuales o de tortura;
+III.- Existan antecedentes o indicios anteriores de amenazas, acoso o maltrato del sujeto activo en contra de la víctima;
+IV.- El cadáver o restos de la víctima hayan sido enterrados u ocultados;
+V.- El cadáver o restos de la víctima hayan sido expuestos en lugar público;
+VI.- La víctima haya sido incomunicada o privada de su libertad, y
+VII.- Por desprecio u odio a la víctima motivado por discriminación o misoginia.
+Se entiende por misoginia las conductas contra la mujer que se manifiestan mediante actos violentos o crueles contra ella.
+(ADICIONADO, P.O. 4 DE OCTUBRE DE 2012)
+412. A quien cometa el delito de feminicidio se le impondrá una sanción de cuarenta a sesenta años de prisión y multa de quinientos a mil salarios mínimos.
+Si entre el activo y la víctima existió una relación de parentesco por consanguinidad o afinidad, adopción, matrimonio, concubinato, relación de convivencia, noviazgo, amistad, laboral, docente, tutela o cualquier otra que implique confianza, además de la pena que le corresponda, se le impondrá hasta un tercio más de la misma.
+Se impondrá hasta dos tercios más de la pena cuando el sujeto activo se encuentre en servicio o se haya desempeñado dentro de los cinco años anteriores a la comisión del delito como servidor público integrante de las corporaciones de seguridad pública, de las Instituciones de procuración e impartición de justicia o de las fuerzas armadas.
 ARTICULOS TRANSITORIOS:
