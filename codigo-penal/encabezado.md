@@ -584,7 +584,8 @@ La prescripción de las pecuniarias sólo se interrumpe por el embargo de bienes
 (ADICIONADO, P.O. 20 DE DICIEMBRE DE 2003)
 El Juez de la causa podrá interrumpir la prescripción del delito a petición del Ministerio Público, cuando el inculpado se halle bajo proceso penal en otra entidad federativa.
 133.- La privación de derechos civiles o políticos prescribirá en veinte años.
-134.- Los reos de homicidio intencional o de lesiones o violencia graves, a quienes se hubiere impuesto la prohibición de ir a determinado lugar, y cuya sanción corporal haya prescrito, no podrán residir en el lugar donde vive el ofendido o sus descendientes, ascendientes, cónyuge o hermanos, sino transcurrido después de consumada la prescripción, un tiempo igual al que debiera durar la sanción.
+(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2012)
+134.- Los reos de homicidio intencional, feminicidio, lesiones o violencia graves, a quienes se hubiere impuesto la prohibición de ir a determinado lugar, y cuya sanción corporal haya prescrito, no podrán residir en el mismo lugar que la víctima u ofendido o sus descendientes, ascendientes, cónyuge o hermanos, sino transcurrido después de consumada la prescripción, un tiempo igual al que debiera durar la sanción.
 135.- (DEROGADO, P.O. 2 DE OCTUBRE DE 2010)
 136.- (DEROGADO, P.O. 3 DE OCTUBRE DE 1998)
 LIBRO SEGUNDO.
