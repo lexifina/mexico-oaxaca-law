@@ -1,1 +1,2 @@
-ARTÍCULO QUINTO.- Durante 1993 los organismos operadores seguirán cobrando las cuotas o tarifas autorizadas por sus órganos de gobierno o en su caso por el Congreso del Estado, con las normas que para su actualización autorice el mismo. Dichas cuotas o tarifas dejarán de cobrarse al momento que la junta de gobierno del organismo operador o del Instituto Estatal del Agua autoricen las cuotas en los términos de esta ley.
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
+ARTÍCULO QUINTO.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 1386 POR EL QUE SE REFORMA LA LEY ESTATAL DE DERECHOS, PUBLICADO EN EL P.O.15 DE DICIEMBRE DE 2012)
