@@ -10,4 +10,4 @@ DADO EN EL SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- Oaxaca de Juárez, Oax
 Herminio Manuel Cuevas Chávez.- Diputado Presidente.- DELFINO SANTIAGO PEREZ. Diputado Secretario. GLORIA GRACIELA ALTAMIRANO PORTILLO. Diputada Secretaria.- Rúbricas.-
 Por lo tanto, mando que se imprima, publique, circule y se le dé el debido cumplimiento.- Oaxaca de Juárez, a 13 de diciembre de 1996.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- Lic. Diodoro Carrasco Altamirano.- Rúbrica.- El Secretario General de Gobierno.- Lic. Héctor Anuar Mafud Mafud.- Rúbrica.-
 Y lo comunico a usted para su conocimiento y fines consiguientes. SUFRAGIO EFECTIVO. NO REELECCIÓN.- El Respeto al Derecho Ajeno es la Paz.- Oaxaca de Juárez, a 13 de diciembre de 1996. EL SECRETARIO GENERAL DE GOBIERNO.- Lic. Héctor Anuar Mafud Mafud. Rúbrica.
-N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.

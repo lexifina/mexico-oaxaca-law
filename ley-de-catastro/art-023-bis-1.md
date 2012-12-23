@@ -1,6 +1,5 @@
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
-(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2011)
-ARTÍCULO 23 Bis 1.- El cobro de los Derechos que corresponden a las operaciones catastrales señaladas en el artículo 23 Bis de esta ley, se determinarán con base en las Tablas de Valores Unitarios de Suelo y Construcciones aprobadas por el Congreso del Estado.
+(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2012)
+ARTÍCULO 23 Bis 1.- El cobro de los derechos que corresponden a las operaciones catastrales señaladas en el artículo 23 BIS de esta Ley, se determinaran con base en la Ley Estatal de Derechos.
 (ADICIONADO, P.O. 29 DE DICIEMBRE DE 2007)
 Para determinar la base de los derechos por concepto de servicios catastrales, se tomará el valor que resulte mayor de los siguientes:
 a) El valor de la operación;

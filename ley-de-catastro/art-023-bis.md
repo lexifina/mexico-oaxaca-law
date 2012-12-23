@@ -19,3 +19,5 @@ XII. Certificación de los avalúos.
 N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.
 (ADICIONADA, P.O. 30 DE DICIEMBRE DE 2009)
 XIII. Cancelación de registro de cuenta catastral en el Sistema de Información Territorial por resolución judicial o por duplicidad de cuentas que amparen el mismo bien inmueble.
+(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2012)
+XIV. Deslinde Catastral.

@@ -1,3 +1,4 @@
+(DEROGADO CUARTO PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2012)
 N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.
 (REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)
 ARTÍCULO 64 C.- El Instituto Catastral del Estado de Oaxaca turnará los expedientes de los aspirantes a la Secretaría de Finanzas, la que, en su caso, emitirá su autorización en el término de quince días naturales contados a partir de la recepción de los mismos.
