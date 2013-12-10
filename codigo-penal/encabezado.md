@@ -1,5 +1,5 @@
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
-N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 15 DE FEBRERO DE 2013.
+N. DE E. DEL ANÁLISIS PARA LA APLICACIÓN DE LA REFORMA DEL P.O. 9 DE DICIEMBRE DE 2013, SE ADVIERTE QUE EL ARTÍCULO SEGUNDO DEL DECRETO 2057, FUE OBSERVADO POR EL PODER EJECUTIVO DEL ESTADO, POR OFICIO FECHADO EL 12 DE OCTUBRE DE 2013 Y RECIBIDO EN EL H. CONGRESO DEL ESTADO, CON FECHA 17 DEL MISMO MES Y AÑO, DE CONFORMIDAD CON LO DISPUESTO EN LA FRACCIÓN III, Y PARTE ÚLTIMA DEL PÁRRAFO PRIMERO DE LA FRACCIÓN VI DEL ARTÍCULO 53, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA.
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 ELISEO JIMENEZ RUIZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA, A SUS HABITANTES HACE SABER:
 QUE LA HONORABLE LEGISLATURA DEL ESTADO HA TENIDO A BIEN APROBAR LO SIGUIENTE:
@@ -119,7 +119,8 @@ III.- Confinamiento y prohibición de concurrencia o residencia;
 IV.- Multa;
 (REFORMADA, P.O. 3 DE OCTUBRE DE 1998)
 V.- Reparación del daño;
-VI.- Pérdida de los instrumentos del delito, decomiso o destrucción de cosas peligrosas o nocivas;
+(REFORMADA, P.O. 9 DE DICIEMBRE DE 2013)
+VI.- Decomiso de instrumentos, objetos y productos del delito, decomiso por valor equivalente o destrucción de cosas peligrosas o nocivas;
 VII.- Suspensión de derechos;
 VIII.- Inhabilitación, destitución o suspensión de cargos, empleos públicos o ejercicio de profesiones y actividades técnicas;
 IX.- Suspensión o disolución de sociedades;
@@ -236,10 +237,13 @@ Para los efectos de este artículo, los terceros propietarios de vehículos y ot
 (REFORMADO, P.O. 3 DE OCTUBRE DE 1998)
 36.- La reparación del daño, cuando deba ser hecha por el sujeto activo, se exigirá por el Ministerio Público en todo proceso penal. El incumplimiento de esta obligación ministerial, se hará constar en la sentencia y el juez lo comunicará al Procurador General de Justicia, quien sancionará al Agente del Ministerio Público infractor, con una multa de treinta a sesenta días multa; sin perjuicio de otras acciones que puedan ejercerse en su contra.
 Hecha la solicitud de condena de la reparación del daño por el Ministerio Público, el juez resolverá lo conducente. Si el Juez no resuelve sobre dicha solicitud, será sancionado por el Tribunal de alzada en los términos del párrafo anterior.
+(REFORMADA SE DENOMINACIÓN, P.O. 9 DE DICIEMBRE DE 2013)
 CAPITULO VII.
-Pérdida de los instrumentos del delito, decomiso o destrucción de cosas peligrosas o nocivas.
-37.- Los instrumentos del delito y cualquiera otra cosa con que se cometa o intente cometer, así como los que sean objeto de él, cuando son de uso prohibido, serán decomisados por el Estado.
-Si pertenecen a terceras personas, sólo se decomisarán cuando hayan sido empleados con conocimiento de su dueño, para fines delictuosos.
+Decomiso de instrumentos, objetos y productos del delito, decomiso por valor equivalente o destrucción de cosas peligrosas o nocivas.
+(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2013)
+37.- Los instrumentos del delito y cualquier otra cosa con que se cometa o intente cometer, así como las cosas que sean objeto o producto de él, cuando sean de uso prohibido, serán decomisados por el Estado.
+(REFORMADO, P.O. 9 DE DICIEMBRE DE 2013)
+Si pertenecen a terceras personas, sólo se decomisarán cuando hayan sido empleados con conocimiento de su dueño, para fines delictuosos. Las autoridades competentes procederán al inmediato aseguramiento de los bienes que podrían ser materia del decomiso, durante la averiguación previa o en el proceso. Se actuará en los términos previstos por este párrafo cualquiera que sea la naturaleza de los instrumentos, objetos o productos del delito.
 Los objetos de uso lícito a que se refiere este artículo se decomisarán al acusado solamente cuando éste fuera condenado.
 En los delitos culposos solamente se decomisarán los objetos que sean de uso prohibido.
 (REFORMADO, P.O. 3 DE JUNIO DE 1995)
@@ -249,9 +253,14 @@ a).- Si son de uso prohibido, nocivas o peligrosas ordenará su destrucción, sa
 (REFORMADO, P.O. 26 DE FEBRERO DE 2000)
 b).- Si las cosas no tienen las características señaladas en el inciso anterior, determinará su destino, según su utilidad, para beneficio de la procuración o administración de justicia según corresponda;
 II.- Respecto de objetos o valores no decomisados en la sentencia, ordenará su entrega a quien acredite tener derecho a ellos, pero si éste no comparece en un lapso de noventa días a partir de la notificación personal que se le haga, se enajenará en subasta pública. Hecha esta se le notificará personalmente que el producto de la venta queda a su disposición por el plazo de seis meses, apercibido que de no presentarse, el producto de la venta se destinará al mejoramiento de la administración de justicia, previas las deducciones de los gastos ocasionados.
-(REFORMADA, P.O. 26 DE FEBRERO DE 2000)
-III.- Respecto de bienes que, durante la averiguación previa no puedan conservarse o sean de costoso mantenimiento, se procederá a su venta inmediata en subasta pública según acuerdo del Procurador General de Justicia del Estado y el producto se dejará a disposición de quien acredite tener derecho al mismo por un plazo de seis meses contados a partir de la notificación que se le haga, transcurrido el cual, sino es recogido, se destinará al fondo para la procuración de justicia.
+(REFORMADA, P.O. 9 DE DICIEMBRE DE 2013)
+III.- Respecto de bienes asegurados a disposición del Ministerio Público que, durante la averiguación previa no puedan conservarse, sean perecederos o el costo de su administración, mantenimiento o resguardo sea superior al valor del bien, se procederá a su venta inmediata en subasta pública en los términos y condiciones que se determinen por acuerdo del Procurador General de Justicia del Estado o del servidor en quien delegue dicha facultad conforme a las disposiciones aplicables y el producto se dejará a disposición de quien acredite tener derecho al mismo por un plazo de seis meses contados a partir de la notificación que se le haga, transcurrido el cual, sino (sic) es recogido, se destinará al fondo para la procuración de justicia.
 Lo mismo se observará tratándose de objetos o valores a disposición de la autoridad judicial, con la circunstancia de que el producto de la venta se destinará al fondo para la administración de justicia.
+(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2013)
+38 Bis. El decomiso por valor equivalente; es el decomiso que recae sobre los bienes del inculpado cuyo valor sea equivalente al de los instrumentos, objetos o productos del delito, cuando éstos, después de ser identificados, se hayan perdido, consumido, extinguido, desaparecido, no sea posible localizarlos o recuperarlos, hayan sido transformados, alterados, modificados, convertidos o mezclados con otros bienes, constituyan garantías de créditos preferentes o se presente alguna circunstancia que impida que se declare el decomiso de los instrumentos, objetos y productos del delito.
+En el caso de que los bienes se hayan transformado, alterado, modificado o convertido en otros bienes con responsabilidad del propietario, sobre éstos se ejercitará el decomiso por valor equivalente. Cuando se hayan mezclado con bienes adquiridos lícitamente, estos podrán ser objeto del decomiso por valor equivalente hasta por el valor estimado del instrumento, objeto o producto del delito, en términos del segundo párrafo, fracción 11 (sic) del artículo 6 de la Constitución Política del Estado Libre y Soberano de Oaxaca, respetando el derecho de propiedad de terceros ajenos al proceso penal.
+El decomiso por valor equivalente se autorizara cuando sea responsabilidad del inculpado y que este haya tenido en todo momento la guarda y custodia de los bienes.
+En los casos que así se establezca, se podrá decretar el aseguramiento de bienes propiedad del o los inculpados, así como de aquéllos respecto de los cuales se conduzca como dueño, sin perjuicio de respetar el derecho de propiedad de terceros ajenos al proceso penal.
 CAPITULO VIII.
 Suspensión de Derechos.
 39.- La suspensión de derechos es de dos clases:
@@ -668,6 +677,13 @@ CAPITULO VI
 Provocación de un delito y apología de éste.
 (ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2008)
 165 Bis.- Al que provoque públicamente a cometer un delito, o haga la apología de éste, se le aplicará prisión de tres días a un año y multa de veinte a cien días de salario mínimo, si el delito no se ejecutare. En caso contrario, se aplicará al provocador la sanción que le corresponda por su participación en el delito cometido.
+(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2013)
+165 Ter.- Se sancionará de dos a cuatro años de prisión y de doscientos a mil días de multa, a quien:
+I.- Omita resguardar o no lleve un control o registro de las imágenes captadas por las cámaras de vigilancia a su cargo en las instituciones de seguridad pública;
+II.- Ingrese dolosamente a las bases de datos de las Instituciones Policiales, sin tener derecho a ello o, teniéndolo, ingrese a sabiendas información errónea, que dañe o que pretenda dañar en cualquier forma la información, las bases de datos o los equipos y sistemas que las contengan;
+III.- Divulgue de manera ilícita información clasificada de la base de datos o sistemas informáticos de las instituciones de seguridad pública; y
+IV.- De a conocer por cualquier medio a quien no tenga derecho, documentos, registros, imágenes, constancias, estadísticas, reportes o cualquier información de la que tenga conocimiento en ejercicio o con motivo de su empleo, cargo o comisión.
+Si el responsable es o hubiera sido servidor público de las instituciones de seguridad pública, se impondrá hasta una mitad más de la pena correspondiente, además, la inhabilitación por un plazo igual al de la pena de prisión impuesta para desempeñarse como servidor público en cualquier orden de gobierno, y en su caso, la destitución.
 TITULO TERCERO.
 Delitos en materia de vías de comunicación y correspondencia.
 CAPITULO I.
@@ -858,16 +874,20 @@ Los gastos para reponer el expediente o el documento se incluirán en la reparac
 (REFORMADA, P.O. 2 DE OCTUBRE DE 2010)
 XL.- Cuando las autoridades de policía o cualesquiera otras, no den al Ministerio Público la intervención oportuna que le corresponde en la persecución de los delitos;
 (REFORMADA, P.O. 18 DE ABRIL DE 2009)
-XLI.- Cuando teniendo funciones de seguridad pública detente o posea, enajene o trafique con vehículo robado o se dedique al desmantelamiento, comercialización de sus partes, brinde protección a los grupos o bandas dedicadas a la alteración, modificación de los datos o partes de identificación de vehículos o de la documentación que los identifique o acredite su propiedad; y
+XLI.- Cuando teniendo funciones de seguridad pública detente o posea, enajene o trafique con vehículo robado o se dedique al desmantelamiento, comercialización de sus partes, brinde protección a los grupos o bandas dedicadas a la alteración, modificación de los datos o partes de identificación de vehículos o de la documentación que los identifique o acredite su propiedad.
 La posesión y detentación, no será sancionada en las excepciones previstas por la Ley; y
 (ADICIONADA, P.O. 18 DE ABRIL DE 2009)
 XLII.- Obligue a declarar a las personas que se mencionan en el artículo 410 del Código de Procedimientos Penales para el Estado Libre y Soberano de Oaxaca, acerca de la información obtenida con motivo del desempeño de su actividad.
+(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2013)
+XLIII.- Cuando ejerciendo funciones de seguridad o tránsito, estatal o municipal, instale retenes, puestos de seguridad o de revisión para vehículos de motor sin orden de autoridad competente y además hicieren violencia a una persona sin causa legítima o la vejare injustamente o la insultare, o emplee términos injuriosos u ofensivos sobre los ocupantes del vehículo de motor la pena se incrementara de una tercera parte de la mínima hasta una tercera parte de la máxima aplicable.
+En caso de no mostrar la orden escrita que autoriza la instalación, puesto de seguridad o revisión y si el sujeto activo utilizare violencia física o moral sobre los ocupantes del vehículo de motor la pena se incrementará de una tercera parte de la máxima aplicable.
 (REFORMADO, P.O. 27 DE NOVIEMBRE DE 1982)
 209.- Se aplicará destitución de empleo e inhabilitación para obtener otro cargo por un término de un año y multa de cinco mil a veinticinco mil pesos, a quienes cometan la violación de que habla la fracción XXII del Artículo anterior.
 (REFORMADO, P.O. 18 DE ABRIL DE 2009)
 Se aplicará prisión de seis meses a tres años, multa de cinco mil a veinticinco mil pesos, destitución de empleo, cargo, o comisión, e inhabilitación por un año para ocupar otro, a quienes cometan las infracciones a que se refieren las fracciones III, VI, X, XII, XIII, XV, XVI, XVII, XXV, XXVI, XXVII, XXXII, XXXIV, XXXV, XXXVI, XXXVII y XLII, del artículo que precede.
 Se aplicará prisión de seis meses a seis años, multa de cinco mil a veinticinco mil pesos, destitución de empleo, cargo o comisión, inhabilitación por dos años para ocupar otro, a los que cometan los delitos señalados en las Fracciones I, IV, V, VII, VIII, IX, XIV, XVIII, XIX, XX, XXI, XXVIII, XXIX, XXX y XXXI del Artículo anterior.
-Se aplicará prisión de uno a ocho años, multa de cinco mil a veinticinco mil pesos, destitución de empleo e inhabilitación por tres años para ocupar otro cargo, al que cometa los delitos señalados en las Fracciones II y XXXIII del Artículo anterior.
+(REFORMADO, P.O. 9 DE DICIEMBRE DE 2013)
+Se aplicará prisión de tres a cinco años, multa de cincuenta a trescientos salarios mínimos y destitución de empleo, al que cometa el delito señalado en la fracción XLIII del Artículo anterior.
 Se aplicará prisión de seis meses a nueve años, multa de cinco mil a veinticinco mil pesos, destitución de empleo o cargo e inhabilitación para obtener otro por el término de tres años al que cometa los delitos señalados en las Fracciones XI, XXXIX y XL del Artículo anterior.
 (REFORMADO, P.O. 12 DE JUNIO DE 2004)
 Se aplicará prisión de seis meses a doce años, y multa de ciento treinta y uno a seiscientos cincuenta y siete salarios mínimos, destitución de cargo e inhabilitación por cuatro años, para obtener cualquier otro; quien incurra en el delito previsto en las fracciones XXXVIII y XLI.
@@ -918,11 +938,14 @@ Peculado y concusión.
 (REFORMADO, P.O. 27 DE NOVIEMBRE DE 1982)
 216.- A los funcionarios y empleados públicos que cometan el delito de concusión se les aplicará de uno a dos años de prisión, destitución de empleo e inhabilitación para obtener otro por un término de dos a seis años y pagarán una multa igual al duplo de la cantidad que hubieren recibido indebidamente.
 217.- Las penas señaladas en el artículo anterior, se aplicarán también a los encargados o comisionados por un funcionario público que, con aquella investidura, cometan el delito de concusión.
-(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE NOVIEMBRE DE 1982)
+(REFORMADA SU DENOMINACIÓN, P.O. 9 DE DICIEMBRE DE 2013)
 CAPITULO V BIS.
-Enriquecimiento ilegítimo.
-(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 1982)
-217 Bis A.- Se impondrá una pena de uno a diez años de prisión, destitución e inhabilitación para ocupar empleos o cargos públicos por un término de uno a seis años, al funcionario o empleado de la Administración Pública Estatal o Municipal o Descentralizada, que en ejercicio de sus funciones efectúe compras o ventas, otorgue contratos o concesiones o resuelva asuntos en los que tengan interés sociedades o personas con las que se hubiere asociado, o sin sujetarse a los requisitos o procedimientos establecidos, que produzcan o puedan producir beneficios económicos a él, a su cónyuge, descendientes, ascendientes o parientes por consanguinidad o afinidad hasta el cuarto grado.
+Enriquecimiento Ilícito.
+(REFORMADO, P.O. 9 DE DICIEMBRE DE 2013)
+217 Bis A. Comete el delito de enriquecimiento ilícito el servidor público, que con motivo de su empleo, cargo o comisión, por si o por interpósita persona, aumente su patrimonio, sin que pueda justificar la procedencia licita del mismo, respecto de los bienes a su nombre o de aquellos respecto de los cuales se conduzca como dueño.
+Respecto de los bienes que se acredite que fueron obtenidos de manera ilícita, serán decomisados a favor del Estado y pasarán a formar parte del fondo para la procuración de justicia y administración de justicia por partes iguales.
+Cuando el monte a que ascienda el enriquecimiento ilícito no exceda del equivalente de cinco mil veces el salario mínimo, se impondrá pena de uno a cinco años de prisión, destitución e inhabilitación para ocupar empleos o cargos públicos por un término igual al de la pena de prisión que se imponga, al servidor público que lo cometa y multa de treinta a trescientas veces el salario mínimo vigente en el estado al momento de la comisión del ilícito.
+Si el monto a que ascienda el enriquecimiento ilícito excede del equivalente de cinco mil veces el salario mínimo, la pena de prisión será de seis a catorce años, destitución e inhabilitación para ocupar empleos o cargos públicos por un término igual al de la pena de prisión que se imponga, al servidor público que lo cometa y multa de trescientas a quinientas veces el salario mínimo vigente en el estado al momento de la comisión del ilícito.
 (ADICIONADO, P.O. 27 DE NOVIEMBRE DE 1982)
 217 Bis B.- Se impondrá pena de uno a diez años de prisión, destitución e inhabilitación para ocupar empleos o cargos públicos por el término de uno a seis años, al funcionario o empleado de la Administración Pública Estatal, Municipal o Descentralizada, que por sí o por interpósita persona, o a través de sociedades de las que sea parte, haga inversiones, compras, ventas o cualquier operación que produzcan beneficio económico a él, a su cónyuge, descendientes, ascendientes o parientes por consanguinidad o afinidad hasta el cuarto grado, con apoyo en resoluciones que el mismo funcionario o empleado dicte o valiéndose de la información que posea por razón de su empleo.
 (ADICIONADO, P.O. 27 DE NOVIEMBRE DE 1982)
@@ -958,7 +981,7 @@ Falsificación de sellos, llaves, cuños, troqueles y marcas.
 225.- Se impondrán prisión de tres meses a cinco años y multa de treinta a cincuenta días multa:
 I.- Al que falsifique llaves, para aplicarlas a cualquier cerradura; el sello de un particular; un sello, estampilla o contraseña de una casa de comercio o de una institución bancaria;
 II.- Al que enajene un sello, punzón o marca falsos, ocultando este vicio;
-III.- Al que procurándose los verdaderos sellos, punsones y marcas, haga uso indebido de ellos;
+III.- Al que procurándose los verdaderos sellos, punsones (sic) y marcas, haga uso indebido de ellos;
 IV.- Al que a sabiendas hiciere uso de los sellos o de algún otro de los objetos falsos de que habla el artículo anterior y las fracciones anteriores de éste.
 CAPITULO II.
 Falsificación de documentos en general.
@@ -1008,6 +1031,14 @@ Variación del nombre o del domicilio.
 232.- Se impondrá prisión de tres días a seis meses y multa de cinco a veinte días multa:
 I.- Al que oculte su nombre o apellido y tome otro imaginario o el de otra persona, al declarar ante cualquier autoridad; y
 II.- Al que para eludir la práctica de una diligencia judicial, o una notificación de cualquier clase o citación de una Autoridad, o para obtener algún documento, oculte su domicilio, o designe otro distinto o niegue de cualquier modo el verdadero.
+(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 2013)
+CAPITULO IV BIS
+De la Suplantación de Identidad
+(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2013)
+232 Bis.- Al que por cualquier medio suplante la identidad de otra persona, u otorgue su consentimiento para llevar a cabo la suplantación en su identidad, se le impondrá una pena de uno a cinco años de prisión y multa de quinientos a mil días de salario mínimo vigente en el Estado.
+Se aumentaran en una mitad las penas previstas en el párrafo anterior, a quien se valga de la homonimia, parecido físico o similitud de la voz para cometer el delito establecido en el presente artículo.
+(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2013)
+232 Bis A.- Se aumentará la pena prevista en el artículo anterior en dos terceras partes al que cometa el delito de suplantación de identidad dentro de la tramitación de la averiguación previa o proceso penal, conforme a las disposiciones penales aplicables.
 CAPITULO V.
 Usurpación de funciones públicas o de profesión y uso indebido de condecoraciones y uniformes.
 (REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2003)
@@ -1076,8 +1107,8 @@ I.- Sea cometido por dos o más personas;
 II.- Se hiciere uso de violencia física o moral; y
 (REFORMADA, P.O. 23 DE ENERO DE 2010)
 III.- Se hubiera administrado a la víctima alguna sustancia tóxica.
-(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE ENERO DE 2010)
-Cuando el delito fuere cometido contra persona menor de doce años o cuando se realice en persona, que no tenga la capacidad de comprender el significado del hecho o por cualquier causa no puede resistirlo, la pena será de cinco a diez años de prisión y multa de doscientos a seiscientos días de salario mínimo. A los autores y partícipes del delito previsto en este párrafo no se les concederá ningún beneficio preliberacional en la ejecución de la sentencia.
+(REFORMADO, P.O. 9 DE DICIEMBRE DE 2013)
+Cuando el delito fuere cometido contra persona menor de doce años, incapaz o cuando se realice en persona, que no tenga la capacidad de comprender el significado del hecho o por cualquier causa no puede resistirlo, la pena será de siete a doce años de prisión y multa de trescientos a setecientos días de salario mínimo. A los autores y partícipes del delito previsto en este párrafo no se les concederá ningún beneficio preliberacional en la ejecución de la sentencia.
 (REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2001)
 241 Bis.- Al que asedie, acose o solicite favores de naturaleza sexual para sí o para un tercero, bien sea entre superior e inferior jerárquico, entre iguales o en cualquier circunstancia que los relacione en el ámbito familiar, doméstico, docente, laboral o cualquier otro, se le impondrá sanción de uno a tres años de prisión.
 Si el hostigador fuese servidor público y utilizase los medios o circunstancias que el encargo le proporcione, además de la pena prevista en el párrafo anterior, se le destituirá de su cargo.
@@ -1095,8 +1126,8 @@ Cuando la persona estuprada fuere menor de quince años, se presumirá en todo c
 246.- Al que por medio de la violencia física o moral tenga cópula con una persona sin la voluntad de ésta, sea cual fuere su sexo, se le impondrá prisión de doce a dieciocho años y multa de quinientos a mil días de salario.
 (ADICIONADO, P.O. 7 DE FEBRERO DE 1998)
 Para los efectos de este artículo, se entiende por cópula, la introducción del miembro viril en el cuerpo de la víctima por vía vaginal, anal u oral, independientemente de su sexo.
-(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2008)
-247.- Se equipara a la violación la cópula con persona menor de doce años de edad, aún cuando se hubiere obtenido su consentimiento, sea cual fuere su sexo; con persona privada de razón o sentido, o cuando por enfermedad o cualquiera otra causa no pudiere oponer resistencia. En tales casos, la pena será de trece a veinte años de prisión y multa de setecientos a mil doscientos días de salario.
+(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2013)
+247.- Se equipara a la violación, la cópula con persona menor de doce años de edad, aun cuando se hubiere obtenido su consentimiento, sea cual fuere su sexo; con persona privada de razón o sentido, o cuando por enfermedad o cualquiera otra causa no pudiere oponer resistencia. En tales casos, la pena será de quince a veinticinco años de prisión y multa de un mil quinientos a dos mil días de salario.
 (ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2001)
 Se equipara a la violación y se sanciona con la misma pena, al que introduzca por vía vaginal o anal, cualquier elemento o instrumento distinto del miembro viril, por medio de la violencia física o moral, sea cual fuere el sexo del ofendido.
 (REFORMADO, P.O. 16 DE AGOSTO DE 2008)
@@ -1162,6 +1193,10 @@ I.- Al que de cualquier modo amenace a otro con causarle un mal en su persona, e
 II.- Al que por medio de amenazas de cualquier género trate de impedir que otro ejecute lo que tiene derecho de hacer.
 (ADICIONADO, P.O. 12 DE ABRIL DE 2004)
 Este delito se perseguirá a petición de parte ofendida.
+(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2013)
+Para los efectos de este artículo se entiende por amenazas al anuncio, advertencia o actos, que hace una persona a otra, para indicar su intención de causar un mal o daño futuro de manera verbal o escrita, en cualquier medio de comunicación o reproducción electrónica, ilícito que es posible, impuesto y determinado con la finalidad de causar inquietud o miedo en el amenazado o a su familia.
+(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2013)
+Estas pueden ser por un mal que constituyan los delitos de homicidio, lesiones, aborto, contra la libertad, torturas y contra la integridad moral, la libertad sexual, la intimidad, el honor, el patrimonio y el orden socioeconómico.
 265.- Se exigirá caución de no ofender:
 I.- Si los daños con que se amenaza son leves y evitables;
 II.- Si las amenazas son por medio de emblemas o señas, jeroglíficos o frases de doble sentido;
@@ -1233,6 +1268,8 @@ III.- Que fué a causa de la constitución física de la víctima o de las circu
 291.- A los autores de un homicidio calificado se les aplicará la pena de treinta a cuarenta años de prisión.
 (ADICIONADO, P.O. 16 DE AGOSTO DE 2008)
 Se impondrán de 70 a 105 años de prisión, cuando el sujeto pasivo haya sido servidor público integrante de las corporaciones de seguridad pública o de las instituciones de procuración o impartición de justicia, dentro de los cinco años anteriores a la fecha de la comisión del delito y éste se haya cometido con motivo de sus funciones.
+(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2013)
+Cuando el sujeto pasivo fuera prestador del servicio público de transporte en cualquiera de sus modalidades y el homicida utilice los instrumentos de trabajo, medios o circunstancias propias de la prestación del servicio para cometer el delito, se impondrá de 40 a 50 años de prisión y cuando este sea el sujeto activo la pena se aumentara un tercio de la pena mínima.
 292.- (DEROGADO, P.O. 3 DE JUNIO DE 1995)
 CAPITULO IV.
 Reglas comunes para lesiones y homicidio.
@@ -1291,6 +1328,8 @@ Abandono de personas.
 317.- A quien abandone a un menor a otra persona cualquiera, incapaz de cuidarse a si mismo, o a un enfermo, teniendo obligación de cuidarlos, se le aplicarán de dos a seis años de prisión, privándolo, además de la patria potestad o tutela, si el inculpado fuera ascendiente o tutor de la persona ofendida. Si resultara daño alguno, se aplicarán las reglas de la acumulación.
 (REFORMADO, P.O. 7 DE FEBRERO DE 1998)
 318.- A quien sin motivo justificado, abandone a sus acreedores alimentarios sin recursos para atender a sus necesidades de subsistencia, se le aplicará de dos a cuatro años de prisión y se le privará de sus derechos familiares.
+(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2013)
+Se equipara al abandono cuando el deudor alimentista simule o abandone su centro de trabajo para quedar en estado de insolvencia y dejar de proporcionar los alimentos decretados por una autoridad judicial, la pena se aumentara de tres a cinco años de prisión.
 319.- El delito de abandono de hogar sólo se perseguirá a petición del cónyuge ofendido o de los representantes legítimos de los hijos; a falta de representantes de los menores, la acción se iniciará por el Ministerio Público, a reserva de que el Juez de la causa designe un tutor especial para los efectos de este artículo.
 320.- Para que el perdón concedido por el cónyuge ofendido pueda producir la libertad del acusado, deberá éste pagar las cantidades que hubiere dejado de ministrar por concepto de alimentos y dar fianza u otra caución de que en lo sucesivo pagará la cantidad que le corresponda.
 321.- Si del abandono a que se refieren los Artículos anteriores resultare alguna lesión o la muerte, se presumirán éstas como premeditadas, para los efectos de aplicar las sanciones que a estos delitos correspondan.
@@ -1404,12 +1443,19 @@ Trafico de menores.
 (ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE ABRIL DE 2002)
 CAPITULO IV.
 Desaparición forzada de personas.
+(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2013)
+348 Bis D.- Comete el delito de desaparición forzada de personas, el servidor público que por sí o a través de otros realice, consienta, autorice o apoye la privación de la libertad de una o más personas y propicie o mantenga su ocultamiento bajo cualquier forma, se niegue a reconocer dicha privación de la libertad o se niegue a informar sobre el paradero de la persona.
+(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2013)
+Lo dispuesto en el párrafo anterior, también podrá ser cometido por un particular cuando actúe por autorización, consentimiento o apoyo de un servidor público.
 (ADICIONADO, P.O. 1 DE ABRIL DE 2002)
-348 Bis D.- Comete el delito de desaparición forzada, quien por orden o con la autorización o apoyo de autoridades del Estado, privare en cualquier forma de la libertad a una o más personas, por motivos políticos, ocultando su paradero, negándose a revelar su destino o reconocer su detención, así como el Servidor Público que ordene, autorice o apoye la desaparición.
 Se equipara al delito de desaparición forzada de persona, la ocultación de familiares de víctimas de este delito o nacidos de una madre víctima de desaparición forzada, durante el cautiverio.
+(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2013)
+348 Bis E.- Al servidor público que cometa el delito de desaparición forzada de personas, se le impondrá una pena de prisión de veinte a treinta años de prisión y multa de trescientos a setecientos salarios mínimos, así como la inhabilitación por el tiempo de la pena fijada en la sentencia ejecutoriada, para el desempeño de cualquier cargo o empleos públicos.
+(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2013)
+Al particular que cometa el delito de desaparición forzada de personas, se le impondrán prisión de cinco a veinticinco años y multa de doscientos a quinientos salarios mínimos.
 (ADICIONADO, P.O. 1 DE ABRIL DE 2002)
-348 Bis E.- A quien cometa el delito de desaparición forzada de personas, se le impondrá una pena de prisión de cinco a treinta años de prisión y multa de trescientos a setecientos salarios mínimos, así como la inhabilitación por el tiempo de la pena fijada en la sentencia ejecutoriada, para el desempeño de cualquier cargo o empleos públicos.
 La pena de prisión podrá ser disminuida hasta en una tercera parte en beneficio de aquel que hubiere participado en la comisión del delito, cuando administre información que permita esclarecer los hechos; y hasta en una mitad, cuando contribuya a lograr la aparición con vida de la víctima.
+(ADICIONADO, P.O. 1 DE ABRIL DE 2002)
 El Estado y los municipios serán solidariamente responsables del pago de los daños y perjuicios causados por sus servidores públicos.
 (DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO CUARTO DE LA LEY PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VICTIMAS DE ESTOS DELITOS EN EL ESTADO DE OAXACA, P.O. 22 DE JUNIO DE 2012)
 CAPITULO V.
@@ -1446,17 +1492,24 @@ III.- Al que, después de la ejecución del robo y sin haber participado en ést
 357.- Al que sin derecho y sin consentimiento de quien pueda otorgarlo, se apodere:
 (REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2008)
 I.- De un vehículo de motor, se le aplicara de ocho a catorce años de prisión y multa de quinientos a mil días de salario.
-Se entiende por vehículo de motor, para los efectos de este artículo, los automóviles, camionetas, camiones y tractocamiones de cualquier tipo y autobuses;
+(REFORMADO, P.O. 9 DE DICIEMBRE DE 2013)
+Se entiende por vehículo de motor, para los efectos de este artículo, las motocicletas, los automóviles, camionetas, camiones, tractocamiones de cualquier tipo, maquinaria pesada y autobuses.
+(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2013)
+Se entiende por maquinaria pesada todo aquel vehículo automotor que se utilice en los procesos de construcción y obras industriales, incluidas las de minería, construcción y conservación de obras, que por sus características no pueden transitar por las vías de uso público o privadas abiertas al público.
 II.- De partes de vehículos automotores o de objetos de que se encuentren en el interior de los mismos, se aplicará de tres a siete años de prisión y de cien a doscientos días multa, salvo que el monto de lo robado exceda de los quinientos salarios, pues entonces la sanción será la prevista en la fracción anterior; y
 III. (DEROGADA, P.O. 28 DE NOVIEMBRE DE 1998)
-(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2008)
-357 Bis.- Se sancionará con pena de ocho a catorce años de prisión y multa de quinientos a mil días de salario mínimo:
+(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2013)
+357 Bis.- Se equiparará al delito de robo de vehículo y se sancionará con pena de ocho a catorce años de prisión y multa de quinientos a mil días de salario mínimo:
 (ADICIONADA, P.O. 28 DE NOVIEMBRE DE 1998)
 I.- Al que altere, modifique o cambie de cualquier forma los datos o partes de identificación de un vehículo, o de la documentación que lo identifique o acredite su propiedad;
 (REFORMADA, P.O. 26 DE FEBRERO DE 2000)
 II.- Al que enajene o trafique de cualquier forma un vehículo robado;
-(REFORMADA, P.O. 26 DE FEBRERO DE 2000)
-III.- Al que desmantele algún vehículo robado o comercialice conjunta o separadamente sus partes.
+(REFORMADA, P.O. 9 DE DICIEMBRE DE 2013)
+III.- Al que desmantele algún vehículo robado o comercialice conjunta o separadamente sus partes, y
+(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2013)
+IV.- A quien después de la ejecución del robo de un vehículo y sin haber participado en él, adquiera, posea, comercialice, pignore, reciba, traslade, use u oculte el vehículo o partes de éste, con conocimiento de esta circunstancia.
+Cuando los objetos o productos del delito de robo de vehículo se relacionan con el giro comercial del tenedor o receptor, si éste es comerciante o sin serlo se encuentra en posesión de dos o más de los mismos, se tendrá por acreditado que existe conocimiento de que provienen de un ilícito.
+Si el que recibió en venta, prenda o bajo cualquier otro concepto el vehículo o partes de éste, sin haber participado en el delito de robo de vehículo y no adoptó las precauciones indispensables para cerciorarse de su procedencia o para asegurarse de que la persona de quien la recibió tenía derecho para disponer de ella, se le impondrán las penas previstas en el artículo anterior, en la proporción correspondiente al delito culposo.
 (REFORMADO (N. DE E. REPUBLICADO], P.O. 26 DE FEBRERO DE 2000)
 En el caso de que cualquiera de las conductas anteriores se realice sobre dos o más vehículos robados, la pena se incrementará de una tercera parte de la mínima hasta una tercera parte de la máxima aplicable.
 (ADICIONADO, P.O. 16 DE AGOSTO DE 2008)
@@ -1602,7 +1655,7 @@ Además de las penas señaladas durante la investigación, el Ministerio Públic
 Cuando el sujeto activo en estos supuestos sea o haya sido integrante de alguna corporación de seguridad pública o privada, miembro de las instituciones de procuración o administración de justicia o simule serlo, se aumentará en una mitad los mínimos y máximos de las penas señaladas. También se impondrá la destitución del empleo, cargo o comisión y la inhabilitación en los términos que señalan los artículos 39 y 40 de este Código.
 CAPITULO V.
 Despojo de cosas inmuebles o de aguas.
-(REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 1987) (F. DE E., P.O. 18 DE MAYO DE 1988)
+(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 1987) (F. DE E., P.O. 18 DE MAYO DE 1988)
 384.- Se aplicará la pena de dos a ocho años de prisión y multa de cien a ciento cincuenta veces el salario:
 I.- Al que de propia autoridad y haciendo violencia física o moral a las personas o furtivamente, o empleando amenazas o engaño, ocupe un inmueble ajeno o haga uso de él o de un derecho legal que no le pertenezca;
 II.- Al que de propia autoridad y en cualquiera de las formas indicadas en la Fracción anterior ocupe un inmueble de su propiedad, en los casos en que la Ley no lo permita por hallarse en poder de otra persona, o ejerza actos de dominio que lesionen derechos legítimos del ocupante; y
@@ -1741,10 +1794,14 @@ Comete el delito de Violencia Intrafamiliar el cónyuge, concubina o concubinari
 (ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE SEPTIEMBRE DE 2011)
 CAPITULO II
 De la Sustracción de Menores o Incapaces.
-(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2011)
-407.- Se le impondrá de cuatro a siete años de prisión y multa de cuatrocientos a setecientos días de salario mínimo, a quien siendo pariente sin limitación de grado y ejerza la patria potestad o al que por instrucciones de aquél, sustraiga de la custodia y guarda a una persona menor de dieciocho años de edad o incapaz, sin causa justificada o sin orden de autoridad competente.
-(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2011)
-408.-Si el sujeto activo devuelve espontáneamente al menor o al incapaz dentro de los siete días siguientes a la comisión del delito, se le impondrá una tercera parte de las sanciones antes señaladas.
+(REFORMADO, P.O. 9 DE DICIEMBRE DE 2013)
+407.- A quien sin causa justificada o sin orden de autoridad competente, sustraiga de la custodia y guarda a una persona menor de dieciocho años de edad o incapaz, con fines distintos a los contemplados en los artículos 348 y 348 BIS F del presente ordenamiento, se le impondrá de seis a doce años de prisión y multa de seiscientos a mil doscientos días de salario mínimo.
+(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2013)
+407 Bis.- Se impondrá de las tres cuartas partes de la mínima a las tres cuartas partes de la máxima de la pena del delito de sustracción de menores o incapaces previsto en el artículo anterior, a quien:
+I. Ejerciendo la patria potestad, realice dicha conducta; o
+II. Por instrucciones de quién ejerciendo la patria potestad o por pariente del menor o incapaz sin limitación de grado lo lleve a cabo.
+(REFORMADO, P.O. 9 DE DICIEMBRE DE 2013)
+408.- Si el sujeto activo a que se refiere el artículo anterior, devuelve espontáneamente al menor o al incapaz dentro de los siete días siguientes a la comisión del delito, se le impondrá una tercera parte de las sanciones antes señaladas.
 (ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2011)
 409.- Si al encontrarse en proceso de divorcio o disuelto el matrimonio, alguno de los progenitores salga fuera del estado o del país, trasladando consigo a los menores hijos o Incapaces, sin contar con la autorización expresa de la otra parte o sin orden de autoridad competente, se le impondrá de tres a cinco años de prisión y multa de trescientos a quinientos cincuenta días de salario mínimo.
 (ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2011)
