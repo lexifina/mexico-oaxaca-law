@@ -7,7 +7,8 @@ ARTÍCULO 64 A.- Para obtener la constancia de registro en el Padrón de Peritos
 I. Ubicarse en alguno de los siguientes supuestos:
 a) Tener cédula profesional de arquitecto, de ingeniero civil o de alguna carrera afín a la materia inmobiliaria, expedida por la Dirección General de Profesiones de la Secretaría de Educación Pública;
 b) Los profesionistas que no cumplan con lo señalado en el inciso anterior, deberán contar con cédula relativa a una especialidad o maestría en materia de valuación de inmuebles, expedida por la Dirección General de Profesiones de la Secretaría de Educación Pública;
-II. Contar con experiencia mínima de un año en el ejercicio profesional;
+(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)
+II. Contar con experiencia mínima de un año en materia de valuación inmobiliaria;
 III. Contar con la Clave Única de Registro de Población y Registro Federal de Contribuyentes;
 IV. Exhibir currículum vitae actualizado; y
 V. Acreditar los conocimientos en materia catastral, mediante evaluación realizada a la conclusión del curso sobre valuación inmobiliaria, organizado por el Instituto Catastral del Estado de Oaxaca.

@@ -12,12 +12,11 @@ N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE T
 VIII. Elaboración de propuestas de Tablas de Valores Unitarios de Suelo y Construcciones y el Instructivo Técnico de Valuación;
 IX. Realizar estudios técnicos para la elaboración de las tablas de valores unitarios de suelo y construcciones.
 X. Zonificación catastral.
-XI. Elaboración y determinación de las tipologías constructivas; y (sic)
+XI. Elaboración y determinación de las tipologías constructivas; y
 N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
 (REFORMADA, P.O. 17 DE DICIEMBRE DE 2011)
 XII. Certificación de los avalúos.
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.
-(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2009)
-XIII. Cancelación de registro de cuenta catastral en el Sistema de Información Territorial por resolución judicial o por duplicidad de cuentas que amparen el mismo bien inmueble.
+(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)
+XIII. Cancelación de registro de cuenta catastral en el Sistema de Información Territorial por resolución judicial, o cuando se trate de duplicidad de cuentas, y éstas amparen el mismo bien inmueble a nombre del mismo poseedor o propietario; y
 (ADICIONADA, P.O. 22 DE DICIEMBRE DE 2012)
 XIV. Deslinde Catastral.

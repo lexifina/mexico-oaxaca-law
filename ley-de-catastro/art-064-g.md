@@ -7,8 +7,7 @@ N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE T
 (REFORMADA, P.O. 17 DE DICIEMBRE DE 2011)
 III. Determinar el valor catastral de los inmuebles ubicados en el Estado de Oaxaca;
 IV. Realizar la verificación física del inmueble;
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
-(REFORMADA, P.O. 17 DE DICIEMBRE DE 2011)
-V. Realizar los avalúos observando las Tablas de Valores Unitarios de Suelo y Construcciones y el Instructivo Técnico de Valuación;
+(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)
+V. Realizar los avalúos observando las Tablas de Valores Unitarios de Suelo y Construcciones, los Planos de Zonificación Catastral y el Instructivo Técnico de Valuación;
 VI. Realizar conjuntamente con el personal autorizado por la Secretaría de Finanzas o el Instituto Catastral del Estado de Oaxaca, la verificación física del inmueble objeto de avalúo, en caso de ser requerido; y
 VII. Las demás que determinen las disposiciones legales aplicables.
