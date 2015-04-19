@@ -755,6 +755,13 @@ Se presume el conocimiento de la dolencia cuando el agente presente lesiones o m
 193.- Se impondrá prisión de uno a seis años:
 I.- Al que intencionalmente propague cualquiera otra enfermedad sean cuales fueren los medios de que se valga;
 II.- Al que intencionalmente propague una epizootia o una plaga o parásitos o gérmenes nocivos a los cultivos agrícolas o forestales.
+(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE ABRIL DE 2015)
+CAPITULO III.
+Venta de bebidas alcohólicas a menores de edad.
+(ADICIONADO, P.O. 18 DE ABRIL DE 2015)
+193 Bis.- Se aplicará prisión de seis meses a siete años y multa de quinientos a diez mil pesos a quien venda bebidas alcohólicas a menores de edad, de igual forma al titular del permiso o licencia.
+(ADICIONADO, P.O. 18 DE ABRIL DE 2015)
+193 Ter.- Además de las penas establecidas en el artículo anterior, en caso de reincidencia, se procederá a la cancelación del permiso o licencia.
 N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NO. 725, PUBLICADO EN EL P.O. DE 21 DE NOVIEMBRE DE 2008, SE DEROGAN LOS CAPÍTULOS I AL IV DEL PRESENTE TÍTULO, MODIFICANDO SU ESTRUCTURA, CONFORMÁNDOSE EN UN CAPÍTULO ÚNICO.
 (REFORMADA SU DENOMINACIÓN, P.O. 21 DE NOVIEMBRE DE 2008)
 TITULO SEXTO.
