@@ -15,8 +15,9 @@ De los ámbitos de aplicación.
 I.- Por los delitos de la competencia de los Tribunales Comunes, cometidos en su territorio;
 II.- Por los delitos que se cometan en otra entidad federativa cuando produzcan efectos dentro del territorio oaxaqueño, salvo que por ellos el sujeto activo haya sido sentenciado por tribunales competentes de otro lugar; y
 III.- Por los delitos permanentes y los continuados cometidos en otra entidad federativa y que se sigan cometiendo en el Estado de Oaxaca.
-(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2006)
-2o.- Este Código se aplicará a todas las personas a partir de los dieciocho años de edad, cualesquiera que sean su residencia o nacionalidad.
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.
+(REFORMADO, P.O. 7 DE MAYO DE 2015)
+2o.- Este Código se aplicará a todas las personas, cualesquiera que sean su residencia o nacionalidad. A las personas físicas se les aplicará a partir de los dieciocho años de edad.
 (REFORMADO, P.O. 3 DE OCTUBRE DE 1998)
 3o.- Es aplicable la ley penal vigente en el tiempo de realización del delito.
 Cuando entre la comisión de un delito y la correspondiente extinción de la pena o medida de seguridad entre en vigor otra ley aplicable al caso, se estará de oficio a lo dispuesto en la ley más favorable al agente.
@@ -30,15 +31,27 @@ Del hecho típico.
 (REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 1998)
 CAPITULO I.
 Del delito.
-(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)
+(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 1998)
 6o.- El delito puede ser realizado por acción o por omisión.
-Cuando el tipo prevé una acción con resultado material, el autor de la actividad es también autor de tal resultado sólo cuando éste es un efecto necesariamente producido por dicha actividad. No será autor del resultado si éste sobrevino en virtud de un acontecimiento extraño a su propia actividad.
-(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)
-7o.- Quien omita evitar un resultado material descrito en un tipo de acción, será considerado autor del mismo, sólo si: de acuerdo con las circunstancias podía evitarlo, era garante del bien jurídico y su inactividad es, en su eficacia, equivalente a la actividad prohibida en el tipo. Es garante del bien jurídico el que: a) acepto efectivamente su custodia; b) voluntariamente formaba parte de una concreta comunidad que afronta peligros de la naturaleza; c) con una culposa o fortuita actividad precedente generó el peligro para el bien jurídico; o d) se halla en una efectiva y concreta posición de custodia de la vida, salud o integridad corporal de algún miembro de su familia.
-(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)
-8o.- Los delitos sólo pueden cometerse dolosa o culposamente:
-I.- Obra dolosamente el que, conociendo los elementos subjetivos del hecho típico, quiere o acepta su realización; y
-II.- Obra culposamente el que no provee el cuidado posible y adecuado para no producir, o en su caso evitar, la previsible y evitable lesión típica del bien jurídico.
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.
+(REFORMADO, P.O. 7 DE MAYO DE 2015)
+Cuando el tipo prevé una acción con resultado material, el autor de la actividad es también autor de tal resultado sólo cuando éste es un efecto necesariamente producido por dicha actividad.
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.
+(REFORMADO, P.O. 7 DE MAYO DE 2015)
+7o.- Quien omita evitar un resultado material descrito en un tipo de acción, será considerado autor del mismo, sólo si:
+I. Es garante del bien jurídico;
+II. De acuerdo con las circunstancias podía evitarlo, y
+III. Su inactividad es, en su eficacia, equivalente a la actividad prohibida en el tipo.
+Es garante del bien jurídico el que:
+a) Aceptó efectivamente su custodia;
+b) Voluntariamente formaba parte de una concreta comunidad que afronta peligros de la naturaleza;
+c) Con una actividad precedente, culposa o fortuita, generó el peligro para el bien jurídico; o,
+d) Se halla en una efectiva y concreta posición de custodia de la vida, la salud o integridad corporal de algún miembro de su familia o de su pupilo.
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.
+(REFORMADO, P.O. 7 DE MAYO DE 2015)
+8o.- Los delitos pueden ser dolosa o culposamente realizados.
+I. Actúa con dolo la persona que al momento de la realización del hecho se representa el resultado típico y quiere o acepta su realización.
+II. Actúa culposamente quien al momento de la realización del hecho típico infringe un deber objetivo de cuidado que, bajo las circunstancias concretas del hecho, podía y debía haber observado.
 (REFORMADO, P.O. 3 DE OCTUBRE DE 1998)
 9o.- El delito es:
 I.- Instantáneo, cuando la consumación se agota en el mismo momento en que se han realizado todos sus elementos constitutivos;
@@ -72,36 +85,39 @@ d).- Que habiendo estado presentes en la ejecución del nuevo delito, no hubiere
 (REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 1998)
 CAPITULO III.
 De las causas de exclusión del delito.
-(REFORMADO, P.O. 3 DE JUNIO DE 1995)
-14.- El delito se excluye cuando:
-I.- El hecho se realice sin intervención de la voluntad del agente;
-(REFORMADA, P.O. 26 DE FEBRERO DE 2000)
-II. No se encuentra comprobado el cuerpo del delito;
-III.- Se actúe con el consentimiento del titular del bien jurídico afectado, siempre que se llenen los siguientes requisitos:
-a).- Que el bien jurídico sea disponible;
-b).- Que el titular del bien tenga la capacidad jurídica para disponer libremente del mismo; y
-c).- Que el consentimiento sea expreso o tácito y sin que medie algún vicio; o bien, que el hecho se realice en circunstancias tales que permitan fundadamente presumir que, de haberse consultado al titular, éste hubiere otorgado el mismo;
-IV.- Se repela una agresión real, actual o inminente, y sin derecho, en protección de bienes jurídicos propios o ajenos, siempre que exista necesidad de la defensa y racionalidad de los medios empleados y no medie provocación dolosa suficiente e inmediata por parte del agredido o de la persona a quien se defiende.
-(REFORMADO, P.O. 26 DE FEBRERO DE 2000)
-Se presumirá como defensa legítima, salvo prueba en contrario, el hecho de causar daño a quien por cualquier medio trate de penetrar sin derecho, al hogar del Agente, al de su familia, a sus dependencias, o a los de cualquier persona que tenga la obligación de defender o a los de vecinos, al sitio donde se encuentren bienes propios o ajenos, respecto de los que exista la misma obligación.
-(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE FEBRERO DE 2000)
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.
+(REFORMADO, P.O. 7 DE MAYO DE 2015)
+14.- El delito se excluye cuando se actualice alguna causa de atipicidad, de justificación o de inculpabilidad.
+Son causas de atipicidad: la ausencia de voluntad o de conducta, la falta de alguno de los elementos que integran la descripción legal del delito, así como el error de tipo.
+Son causas de justificación: el consentimiento del titular del bien jurídico, la legítima defensa, el estado de necesidad, el ejercicio de un derecho y el cumplimiento de un deber.
+Son causas de inculpabilidad: el error de prohibición, el estado de necesidad disculpante, la inimputabilidad y la inexigibilidad de otra conducta.
+A. Causas de atipicidad:
+I. Ausencia de conducta: La actividad o la inactividad se realice sin intervención de la voluntad del sujeto activo o por caso fortuito;
+II. Falte alguno de los elementos que integran la descripción legal del delito de que se trate;
+III. Error de tipo: Es aquel que recae sobre alguno de los elementos que integran la descripción legal del delito de que se trate. Para tales efectos, será causa de atipicidad el error de tipo invencible. De igual forma cuando se trate de error vencible y el delito no admita la comisión culposa.
+B. Causas de justificación:
+I. Consentimiento. Se actúe con el consentimiento del titular del bien jurídico afectado o del legitimado legalmente para otorgarlo, siempre y cuando se cumplan los siguientes requisitos:
+a) Que se trate de un bien jurídico disponible;
+b) Que el titular del bien jurídico, o quien esté legitimado para consentir, tenga la capacidad jurídica para disponer libremente del bien; y,
+c) Que el consentimiento sea expreso o tácito y no medie algún vicio.
+Se presume que hay consentimiento, cuando el hecho se realiza en circunstancias tales que permitan suponer fundadamente que, de haberse consultado al titular del bien o a quien esté legitimado para consentir, éstos hubiesen otorgado el consentimiento;
+II. Legítima defensa: Se repela una agresión real, actual o inminente y sin derecho, en defensa de bienes jurídicos propios o ajenos, siempre que exista necesidad de la defensa, racionalidad de los medios empleados y no medie provocación dolosa suficiente e inmediata por parte del agredido o de su defensor.
+Se presumirá que concurren los requisitos de la legítima defensa, salvo prueba en contrario, respecto de aquél que cause un daño, a quien a través de la violencia, del escalamiento o por cualquier otro medio trate de penetrar sin derecho, a su hogar o sus dependencias, a los de su familia o los de cualquier persona que tenga el mismo deber de defender o al sitio donde se encuentren bienes jurídicos propios o ajenos de los que tenga la misma obligación; o bien, cuando lo encuentre en alguno de esos lugares, en circunstancias tales que revelen la posibilidad de una agresión;
 También se presumirá legítima defensa cuando se trate de impedir o se impida la comisión de un delito a bordo de vehículos destinados al transporte público o privado; así mismo, cuando se produzca un daño en contra de quien esté obstaculizando un camino o carretera con el objeto de cometer un delito; y en general cuando se actúe contra quién se encuentre en algún lugar y en circunstancias tales que revelen la probabilidad de una agresión;
-V.- Se obre por la necesidad de salvaguardar un bien jurídico propio o ajeno, de un peligro real, actual o inminente, no ocasionado dolosamente por el agente, lesionando otro bien de menor o igual valor que el salvaguardado, siempre que el peligro no sea evitable por otros medios y el agente no tuviere el deber jurídico de afrontarlo;
-VI.- La acción o la omisión se realicen en cumplimiento de un deber jurídico o en ejercicio de un derecho, siempre que exista necesidad racional del medio empleado para cumplir el deber o ejercer el derecho, y que éste último no se realice con el solo propósito de perjudicar a otro;
-VII.- Al momento de realizar el hecho típico, el agente no tenga la capacidad de comprender el carácter ilícito de aquél o de conducirse de acuerdo con esa comprensión, en virtud de padecer trastorno mental o desarrollo intelectual retardado, a no ser que el agente hubiere provocado su trastorno mental dolosa o culposamente, en cuyo caso responderá por el resultado típico siempre y cuando lo haya previsto o le fuera previsible;
-(REFORMADO, P.O. 26 DE FEBRERO DE 2000)
-Cuando la capacidad a que se refiere el párrafo anterior, sólo se encuentre considerablemente disminuida, se estará a lo dispuesto por el artículo 62 de este Código;
-(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)
-VIII.- Se realice la acción u omisión bajo un error invencible:
-a).- Sobre alguno de los elementos esenciales que integran el tipo penal; o
-b).- Respecto de la licitud de la conducta, ya sea porque el sujeto desconozca la existencia de la ley o el alcance de la misma, o porque crea que está justificada su conducta.
-Si los errores a que se refieren los incisos anteriores son vencibles, se estará a lo dispuesto en el artículo 64 de este Código;
-IX.- Atentas las circunstancias que concurren en la realización de una conducta ilícita, no sea racionalmente exigible al agente una conducta diversa a la que realizó, en virtud de no haberse podido determinar a actuar conforme a derecho; o
-X.- El resultado típico se produce por caso fortuito.
-(REFORMADO, P.O. 3 DE JUNIO DE 1995)
-15.- Al que se exceda en los casos de defensa legítima, estado de necesidad, cumplimiento de un deber, o ejercicio de un derecho a que se refieren las fracciones IV, V y VI del artículo 14, se le impondrá la pena del delito culposo.
-(REFORMADO, P.O. 3 DE JUNIO DE 1995)
-16.- Las causas de exclusión del delito se harán valer de oficio.
+III. Estado de necesidad: Se obre por la necesidad de salvaguardar un bien jurídico propio o ajeno, de un peligro real, actual o inminente, no ocasionado dolosamente por el sujeto, lesionando otro bien de menor valor que el salvaguardado, siempre que el peligro no sea evitable por otros medios y el sujeto activo no tuviere el deber jurídico de afrontarlo;
+IV. Cumplimiento de un deber o ejercicio de un derecho: La acción o la omisión se realicen en cumplimiento de un deber jurídico o en ejercicio de un derecho, siempre que exista necesidad racional de la conducta empleada para cumplirlo o ejercerlo.
+C. Causas de inculpabilidad:
+I. Error de prohibición: Se realice la acción u omisión bajo un error invencible, respecto de la ilicitud de la conducta, ya sea porque el sujeto desconozca la existencia de la ley o el alcance de la misma o porque crea que está justificada su conducta.
+II. Estado de necesidad disculpante: Se obre por la necesidad de salvaguardar un bien jurídico propio o ajeno, de un peligro real, actual o inminente, no ocasionado dolosamente por el sujeto, lesionando otro bien de igual valor que el salvaguardado, siempre que el peligro no sea evitable por otros medios y el sujeto activo no tuviere el deber jurídico de afrontarlo;
+III. Inimputabilidad y acción libre en su causa: Al momento de realizar el hecho típico, el agente no tenga la capacidad de comprender el carácter ilícito de aquél o de conducirse de acuerdo con esa comprensión, en virtud de padecer trastorno mental o desarrollo intelectual retardado, a no ser que el sujeto hubiese provocado su trastorno mental para en ese estado cometer el hecho, en cuyo caso responderá por el resultado típico producido en tal situación.
+Cuando la capacidad a que se refiere el párrafo anterior se encuentre disminuida, se estará a lo dispuesto en este código.
+IV. Inexigibilidad de otra conducta: En atención a las circunstancias que concurren en la realización de una conducta ilícita, no sea racionalmente exigible al sujeto una conducta diversa a la que realizó, en virtud de no haberse podido conducir conforme a derecho.
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.
+(REFORMADO, P.O. 7 DE MAYO DE 2015)
+15.- Al que se exceda en los casos de legítima defensa, estado de necesidad, cumplimiento de un deber o ejercicio de un derecho, a que se refiere el artículo anterior, se le impondrá la pena del delito culposo.
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.
+(REFORMADO, P.O. 7 DE MAYO DE 2015)
+16.- Las causas de exclusión del delito se harán valer de oficio cuando se actualice alguna de ellas.
 (REFORMADO, P.O. 3 DE OCTUBRE DE 1998)
 TITULO TERCERO.
 De las penas y medidas de seguridad.
@@ -354,19 +370,23 @@ Se entiende por pandilla, la reunión habitual, ocasional o transitoria, de tres
 (REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 1998)
 CAPITULO V.
 Imputabilidad disminuida.
-(REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)
-62.- Si la capacidad del autor de comprender el carácter ilícito de hecho, o de determinarse de acuerdo con esa compresión, sólo se encuentra disminuida por las causas señaladas en la fracción VII del artículo 14 de este Código, a juicio del juzgador, según proceda, se le impondrán desde las dos terceras partes del mínimo a las dos terceras partes del máximo de la punibilidad, correspondiente al delito cometido, o de la medida de seguridad a que se refiere el artículo 56 o bien ambas, en caso de ser necesario, tomando en cuenta el grado de afectación de la imputabilidad del autor.
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.
+(REFORMADO, P.O. 7 DE MAYO DE 2015)
+62.- Si la capacidad del autor de comprender el carácter ilícito del hecho, o de determinarse de acuerdo con esa comprensión, solo se encuentra disminuida por las causas señaladas en el artículo 14 de este Código, a juicio del juzgador, según proceda, se le impondrán desde las dos terceras partes del mínimo a las dos terceras partes del máximo de la punibilidad, correspondiente al delito cometido, o de la medida de seguridad a que se refiere el artículo 56 o bien ambas, en caso de ser necesario, tomando en cuenta el grado de afectación de la imputabilidad del autor.
 63.- (DEROGADO, P.O. 28 DE NOVIEMBRE DE 1998)
-(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 1998)
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.
+(REFORMADA SU DENOMINACIÓN, P.O. 7 DE MAYO DE 2015)
 CAPITULO VI.
-Error.
-(REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)
-64.- El error vencible sobre la materia: del inciso a) de la fracción VIII del artículo 14, se sancionará desde la cuarta parte del mínimo a la cuarta parte del máximo que corresponda al delito doloso de que se trate; y del inciso b) de la mencionada fracción, la punibilidad va de una tercera parte del mínimo a la tercera parte del máximo del respectivo delito doloso.
+Errores vencibles.
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.
+(REFORMADO, P.O. 7 DE MAYO DE 2015)
+64.- El error de tipo vencible, se sancionará desde la cuarta parte del mínimo a la cuarta parte del máximo que corresponda al delito doloso de que se trate, siempre y cuando dicho ilícito admita la comisión culposa. En el caso del error de prohibición vencible, la punibilidad será de una tercera parte del mínimo a la tercera parte del máximo del respectivo delito.
 (REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 1998)
 CAPITULO VII.
 Delito continuado.
-(REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)
-65.- En caso de delito continuado, la pena correspondiente al delito cometido se aumentará con la mitad de su mínimo a la mitad de su máximo.
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.
+(REFORMADO, P.O. 7 DE MAYO DE 2015)
+65.- En caso de delito continuado, la pena correspondiente al delito cometido se aumentará hasta en una mitad de la correspondiente al máximo del delito cometido.
 (REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 1998)
 CAPITULO VIII.
 Concurso de delitos.
@@ -504,33 +524,55 @@ II.- Si fuere la de confinamiento, se conmutará por multa, desde un tercio a un
 97.- Cuando el sentenciado acredite plenamente que no puede cumplir algunas de las circunstancias de la sanción que le fue impuesta, por ser incompatible con su edad, sexo, salud o constitución física, la autoridad judicial respectiva podrá modificar aquélla, siempre que la modificación no sea esencial.
 (REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)
 98.- La conmutación no exime de la reparación del daño.
-(ADICIONADO [N. DE E. REFORMADO], P.O. 3 DE OCTUBRE DE 1998)
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.
+(REFORMADA SU DENOMINACIÓN, P.O. 7 DE MAYO DE 2015)
 TITULO SEPTIMO.
-Extinción de la acción persecutoria y de la potestad de ejecutar penas y medidas de seguridad.
-(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)
-CAPITULO I.
+Extinción de la pretensión punitiva y de la potestad de ejecutar las penas y medidas de seguridad.
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.
+(ADICIONADO CON EL ARTÍCULO QUE LA INTEGRA, P.O. 7 DE MAYO DE 2015)
+CAPITULO UNICO.
+De las causas de extinción.
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.
+(ADICIONADO, P.O. 7 DE MAYO DE 2015)
+98 bis. La pretensión punitiva y la potestad para ejecutar las penas y medidas de seguridad se extinguirán por las siguientes causas:
+I. Muerte del sujeto activo;
+II. Amnistía;
+III. Perdón de la persona ofendida en los delitos de querella o por cualquier otro acto equivalente;
+IV. Reconocimiento de inocencia del sentenciado o anulación de la sentencia e indulto
+V. Cumplimiento de la pena o medida de seguridad;
+VI. Prescripción;
+VII. Supresión del tipo penal;
+VIII. Existencia de una sentencia firme anterior dictada en proceso instaurado por los mismos hechos, y
+IX. El cumplimiento del criterio de oportunidad o la solución alterna correspondiente, en términos del Código Nacional de Procedimientos Penales.
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.
+(REFORMADA [N. DE E. ANTES CAPÍTULO I], P.O. 7 DE MAYO DE 2015)
+SECCION PRIMERA.
 Muerte del sujeto activo.
 (REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)
 99.- La muerte del sujeto activo extingue la acción persecutoria y la potestad de ejecutar pena y medidas de seguridad a excepción de la reparación del daño y del decomiso de los instrumentos del delito.
-(ADICIONADO, P.O. 3 DE OCTUBRE DE 1998)
-CAPITULO II.
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.
+(REFORMADA [N. DE E. ANTES CAPÍTULO II], P.O. 7 DE MAYO DE 2015)
+SECCION SEGUNDA.
 Amnistía.
 (REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)
 100.- La amnistía extingue la acción persecutoria y la potestad de ejecutar pena y medidas de seguridad, excepto la reparación del daño y el decomiso de los instrumentos del delito, en los términos de la ley que la otorgue; si no se expresaren, se entenderá que la acción persecutoria y la potestad para aplicar penas y medidas de seguridad se extinguen con todos sus efectos, con relación a todos los sujetos activos.
-(ADICIONADO, P.O. 3 DE OCTUBRE DE 1998)
-CAPITULO III.
-Perdón.
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.
+(REFORMADA [N. DE E. ANTES CAPÍTULO III], P.O. 7 DE MAYO DE 2015)
+SECCION TERCERA.
+Perdón de la persona ofendida en los delitos de querella o por cualquier otro acto equivalente.
 (REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)
 101.- El perdón del ofendido o del legitimado para otorgarlo, extingue la acción penal respecto de los delitos que se persiguen por querella, siempre que se conceda ante el Ministerio Público, si éste no ha ejercitado la misma o ante el órgano jurisdiccional antes de dictarse sentencia de segunda instancia. Una vez otorgado el perdón, éste no podrá revocarse.
 Lo dispuesto en el párrafo anterior es igualmente aplicable a los delitos que sólo pueden ser perseguidos por declaratoria de perjuicio o por algún otro acto equivalente a la querella, siendo suficiente para la extinción de la acción penal la manifestación de quien está autorizado para ello de que el interés afectado ha sido satisfecho.
 Cuando sean varios los ofendidos y cada uno pueda ejercer separadamente la facultad de perdonar al sujeto activo del delito y al encubridor, el perdón sólo surtirá efectos por lo que hace a quien lo otorgue.
 El perdón sólo beneficia al inculpado en cuyo favor se otorga a menos que el ofendido o el legitimado para otorgarlo, hubiese obtenido la satisfacción de sus intereses ó derechos, caso en el cual beneficiará a todos los inculpados y al encubridor.
 El perdón del ofendido y del legitimado para otorgarlo también extingue la ejecución de la pena, siempre y cuando se otorgue en forma indubitable ante la autoridad ejecutora y se trate de los delitos mencionados en los párrafos primero y segundo.
-(REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)
-CAPITULO IV.
-Reconocimiento de inocencia e indulto.
-(REFORMADO, P.O. 16 DE JUNIO DE 2011)
-102.- Cuando aparezca que el sentenciado es inocente, se procederá al reconocimiento de su inocencia, en los términos del Código de Procedimientos Penales o Procesal Penal, según sea el caso, y se estará a lo dispuesto en el artículo 50 de este Código.
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.
+(REFORMADA [N. DE E. ANTES CAPÍTULO IV], P.O. 7 DE MAYO DE 2015)
+SECCION CUARTA.
+Reconocimiento de inocencia del sentenciado o anulación de la sentencia e indulto.
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.
+(REFORMADO, P.O. 7 DE MAYO DE 2015)
+102.- Cuando aparezca que el sentenciado es inocente, se procederá al reconocimiento de su inocencia, en los términos del Código Nacional de Procedimientos Penales, según sea el caso y se estará a lo dispuesto en el artículo 50 de este Código.
 (REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)
 103.- El indulto es supresión de la prisión impuesta en sentencia irrevocable.
 (REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)
@@ -553,12 +595,14 @@ También procederá el indulto, de oficio o a petición de parte, cuando se dict
 113.- (DEROGADO, P.O. 3 DE OCTUBRE DE 1998)
 114.- (DEROGADO, P.O. 3 DE OCTUBRE DE 1998)
 115.- (DEROGADO, P.O. 3 DE OCTUBRE DE 1998)
-(REUBICADO, P.O. 3 DE OCTUBRE DE 1998)
-CAPITULO V.
-Rehabilitación.
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.
+(REFORMADA [N. DE E. ANTES CAPÍTULO V], P.O. 7 DE MAYO DE 2015)
+SECCION QUINTA.
+Cumplimiento de la pena o medida de seguridad.
 116.- La rehabilitación tiene por objeto reintegrar al sentenciado en los derechos civiles, políticos o de familia que había perdido en virtud de sentencia dictada en un proceso o en cuyo ejercicio estuviere suspenso; o reintegrarlo en el desempeño de una profesión, cargo o empleo de que también hubiere sido privado o en cuyo ejercicio esté suspenso.
-(REUBICADO, P.O. 3 DE OCTUBRE DE 1998)
-CAPITULO VI.
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.
+(REFORMADA [N. DE E. ANTES CAPÍTULO VI], P.O. 7 DE MAYO DE 2015)
+SECCION SEXTA.
 Prescripción.
 117.- La prescripción es personal y para ella bastará el simple transcurso del tiempo señalado por la Ley.
 118.- La prescripción producirá su efecto, aún cuando no la alegue como excepción el acusado; los jueces la suplirán de oficio en todo caso, tan luego como tengan conocimiento de ella, sea cual fuere el estado del proceso.
@@ -597,6 +641,13 @@ El Juez de la causa podrá interrumpir la prescripción del delito a petición d
 134.- Los reos de homicidio intencional, feminicidio, lesiones o violencia graves, a quienes se hubiere impuesto la prohibición de ir a determinado lugar, y cuya sanción corporal haya prescrito, no podrán residir en el mismo lugar que la víctima u ofendido o sus descendientes, ascendientes, cónyuge o hermanos, sino transcurrido después de consumada la prescripción, un tiempo igual al que debiera durar la sanción.
 135.- (DEROGADO, P.O. 2 DE OCTUBRE DE 2010)
 136.- (DEROGADO, P.O. 3 DE OCTUBRE DE 1998)
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.
+(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 7 DE MAYO DE 2015)
+SECCION SEPTIMA.
+De las demás causas de extinción.
+N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.
+(ADICIONADO, P.O. 7 DE MAYO DE 2015)
+136 Bis. Respecto de las causas de extinción señaladas en las fracciones VII, VIII y IX del artículo 98 Bis, se estará a lo dispuesto por el Código Nacional de Procedimientos Penales.
 LIBRO SEGUNDO.
 TITULO PRIMERO.
 Delitos contra la seguridad interior del Estado.
