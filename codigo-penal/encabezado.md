@@ -1152,6 +1152,17 @@ Del tráfico de concesiones y permisos del servicio público de transporte.
 Al servidor público que de cualquier forma intervenga en el otorgamiento de una concesión para la prestación de los servicios públicos antes mencionados u otorgue permisos o placas de circulación que permitan la prestación de los servicios a que se refiere el párrafo anterior, sin cumplir con los requisitos establecidos por las leyes, se le impondrá de dos a diez años de prisión, multa de trescientos a ochocientos días multa, así como la destitución del empleo, cargo o comisión e inhabilitación por cuatro años para ocupar otro cargo.
 Al que gestione u obtenga una concesión, permiso o placas de circulación que permitan la prestación de los servicios públicos establecidos en el primer párrafo de este artículo, sin cumplir con los requisitos establecidos por las leyes, se le impondrá de dos a seis años de prisión y de doscientos a seiscientos días multa.
 Las autoridades competentes, procederán al inmediato aseguramiento de los vehículos que podrían ser materia del decomiso, durante la averiguación o en el proceso.
+(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 19 DE MAYO DE 2015)
+CAPITULO V.
+Del tráfico de plazas y servicios.
+(ADICIONADO, P.O. 19 DE MAYO DE 2015)
+240 Ter.- Se impondrá pena de tres a siete años de prisión y multa de cien a quinientas veces el salario mínimo, a quien obtenga un lucro o beneficio económico, prometiendo falsamente otorgar u obtener para otra persona un empleo, trabajo, cargo, plaza, comisión o nombramiento en el sector público o privado, o una concesión, autorización, permiso, licencia, contrato o trámite respecto de un servicio público.
+Si el sujeto activo es servidor público, se aumentará en una mitad los mínimos y máximos de las penas señaladas, se le destituirá del cargo y se le inhabilitará para ejercer otro por un tiempo igual al de la pena de prisión impuesta.
+(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 19 DE MAYO DE 2015)
+CAPITULO VI.
+De la prestación irregular de servicios educativos.
+(ADICIONADO, P.O. 19 DE MAYO DE 2015)
+240 Quater.- Se impondrá prisión de seis meses a ocho años y multa de cinco mil a diez mil pesos al prestador de servicios educativos particulares que a sabiendas de que no tiene autorización o reconocimiento de validez oficial de estudios conforme a la ley aplicable, manifieste en su publicidad ó documentación tenerlo, no lo manifieste ó argumente que se encuentra en proceso de reconocimiento o autorización. La sanción prevista en esta fracción se impondrá sin perjuicio de las medidas que disponga la legislación administrativa y las sanciones que correspondan en su caso.
 (REFORMADA SU DENOMINACIÓN, P.O. 3 DE JUNIO DE 1995)
 TITULO DECIMOSEGUNDO.
 Delitos contra la libertad, la seguridad y el normal desarrollo psicosexual.
@@ -1716,23 +1727,47 @@ Además de las penas señaladas durante la investigación, el Ministerio Públic
 Cuando el sujeto activo en estos supuestos sea o haya sido integrante de alguna corporación de seguridad pública o privada, miembro de las instituciones de procuración o administración de justicia o simule serlo, se aumentará en una mitad los mínimos y máximos de las penas señaladas. También se impondrá la destitución del empleo, cargo o comisión y la inhabilitación en los términos que señalan los artículos 39 y 40 de este Código.
 CAPITULO V.
 Despojo de cosas inmuebles o de aguas.
-(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 1987) (F. DE E., P.O. 18 DE MAYO DE 1988)
-384.- Se aplicará la pena de dos a ocho años de prisión y multa de cien a ciento cincuenta veces el salario:
-I.- Al que de propia autoridad y haciendo violencia física o moral a las personas o furtivamente, o empleando amenazas o engaño, ocupe un inmueble ajeno o haga uso de él o de un derecho legal que no le pertenezca;
-II.- Al que de propia autoridad y en cualquiera de las formas indicadas en la Fracción anterior ocupe un inmueble de su propiedad, en los casos en que la Ley no lo permita por hallarse en poder de otra persona, o ejerza actos de dominio que lesionen derechos legítimos del ocupante; y
-III.- Al que en los términos de las Fracciones anteriores cometa despojo de aguas.
-La pena será aplicable aún cuando la posesión de la cosa usurpada sea dudosa o esté en disputa.
-385.- A las penas que señala el Artículo anterior, se acumulará la que corresponda por la violencia o la amenaza.
-386.- Cuando alguno de los delitos a que se refiere este Capítulo lo cometieren más de cinco individuos, se aumentará la prisión de uno a seis años.
+(REFORMADO, P.O. 19 DE MAYO DE 2015)
+384.- Comete el delito de despojo de inmuebles, quien por medio de la violencia física o moral, o furtivamente, o empleando la amenaza o engaño, realice cualquiera de las siguientes conductas:
+I.- Que de propia autoridad ocupe un inmueble ajeno o haga uso de él, o de un derecho real que no le pertenezca;
+II.- Que de propia autoridad ocupe un inmueble de su propiedad en los casos en los que la ley no lo permite por hallarse en poder de otra persona; o ejerza actos de dominio que lesionen derechos legítimos del ocupante;
+III.- Quien, con propósito de apropiarse de una fracción o de la totalidad del inmueble, altere términos o linderos de predios, o cualquier clase de señales o mojoneras, destinadas a fijar los límites de predios contiguos, tanto de dominio privado como de dominio público;
+IV.- Quien de propia autoridad ocupe uno o más predios que forman parte de la reserva territorial del Estado o de los Municipios, sin derecho ni autorización de autoridad competente, aún cuando con ello tipifiquen su acción en un asentamiento irregular;
+V.- Quien de propia autoridad ocupe un inmueble o las riveras que forman parte de la infraestructura o reserva territorial del Estado, o de los Municipios, sin derecho ni autorización de autoridad competente;
+VI.- Quien desvíe o haga uso de aguas propias o ajenas o impida su libre curso, en los casos en que la ley no lo permite, o haga uso de un derecho real sobre aguas que no le pertenezcan;
+VII.- Quien despoje de aguas del ámbito estatal o aguas nacionales asignadas al Estado o Municipios en beneficio colectivo de una comunidad urbana o rural ó para uso doméstico.
+El delito de despojo, se perseguirá a petición de parte ofendida, con excepción de las fracciones IV, V y VII, en cuyo caso se perseguirá de oficio.
+(REFORMADO, P.O. 19 DE MAYO DE 2015)
+385.- Al responsable del delito de despojo se le aplicarán:
+I.- De tres a cinco años de prisión y multa de doscientos a cuatrocientos días de salario mínimo general vigente en el Estado, cuando el valor de lo despojado no exceda de siete mil ochocientos cuarenta veces dicho salario mínimo;
+II. De cinco a diez años de prisión y multa de cuatrocientos a seiscientos días de salario mínimo general vigente en el Estado, cuando el valor de lo despojado exceda de siete mil ochocientos cuarenta veces el dicho salario mínimo, pero no de veintitrés mil quinientos veintidós;
+III.- De diez a quince años de prisión y multa de seiscientos a ochocientos días salario mínimo general vigente en el Estado, cuando el valor de lo despojado exceda de veintitrés mil quinientos veintidós veces el dicho salario mínimo.
+La punibilidad será aplicable, aun cuando el derecho a la posesión del objeto material del despojo sea dudoso o esté en disputa.
+(REFORMADO, P.O. 19 DE MAYO DE 2015)
+386.- Se aplicará la pena de quince a veinte años de prisión y multa de ochocientos a mil días de salario mínimo general vigente en el Estado, si el despojo se realiza por dos o más personas; al que planee, o induzca, o financie, o dirija, o propicie la acción de despojo; si el que lo ejecutare fuera servidor público en ejercicio de sus funciones o con motivo de ellas.
+A quienes se dediquen en forma reiterada a promover el despojo de inmuebles urbanos o rústicos y se acredite su reincidencia, se les aplicará de veinte a veinticinco años de prisión. Se considera que se dedican a promover el despojo de inmuebles urbanos en forma reiterada, quienes hayan sido anteriormente condenados por esta forma de participación en el despojo, o bien, se les hubiere decretado en más de dos ocasiones auto de formal prisión por este mismo delito, salvo cuando en el proceso correspondiente se hubiese resuelto el desvanecimiento de datos, el sobreseimiento o la absolución del inculpado.
+Si al realizarse el despojo se cometen otros delitos, aun sin la participación física de los que planeen, induzcan, financien, dirijan, o propicien la invasión, se considerará a todos estos, inculpados de los delitos cometidos.
+A las penas que señala el artículo anterior, se acumulará la que corresponda por la violencia o la amenaza.
+Si para cometer el delito se destruye la propiedad, se observarán las reglas del concurso.
+Cuando el delito de despojo se cometa en el medio rural, sin violencia, se trate de delincuentes primarios y se acredite haber reparado el daño a satisfacción del ofendido, la sanción que se imponga será hasta de seis meses de prisión o multa hasta de cien días de salario mínimo general vigente para nuestro Estado.
+En el delito de despojo de inmueble, el perdón del ofendido extingue la acción penal, una vez que se haya restituido el inmueble y que no hubiere resultado daño. Para el caso de que exista algún daño en la propiedad, además de que sea restituido el inmueble, se requerirá repararlo a satisfacción del ofendido.
+Cuando la ocupación se haya efectuado sin violencia y el o los ocupantes voluntariamente restituyan al poseedor en el goce de su derecho, antes que el Ministerio Público ejerza la acción persecutoria, no se impondrá sanción alguna, si no hubieren cometido algún hecho delictivo diverso al realizar la ocupación o durante la misma.
 (REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 1998)
 CAPITULO VI.
 Daños.
 (REFORMADO, P.O. 22 DE DICIEMBRE DE 1987)
 387.- Se aplicarán las penas de robo simple al que por cualquier medio destruya o deteriore alguna cosa ajena o propia, en perjuicio de otro.
+(ADICIONADO, P.O. 19 DE MAYO DE 2015)
+Cuando el delito se ejecute por persona que fuera embozado y por objeto de manifestaciones, se aumentará la sanción al doble y se impondrá (sic) multas correspondientes de quinientos a mil salarios mínimos.
 (REFORMADO, P.O. 3 DE OCTUBRE DE 1998)
 388.- Al que causare daños mediante inundación, incendio, minas, bombas, o explosivos, o los causare de cualquier modo en bienes de valor científico, artístico, cultural o de utilidad pública, se le aplicará:
 I.- De dos a cinco años de prisión y de treinta a doscientos días multa, si el monto del daño no excede de quinientos salarios; y
 II.- De cinco a doce años de prisión y de doscientos a quinientos días multa, si el monto excede de quinientos salarios.
+(ADICIONADO, P.O. 19 DE MAYO DE 2015)
+388 Bis.- Al que por cualquier sustancia o medio, realice inscripciones, dibujos, manchas, signos, símbolos, códigos, mensajes, figuras y pintas de todo tipo que alteren o modifiquen la forma original del bien mueble o inmueble de dominio público o privado, sin consentimiento del propietario o del representante legal o de quien legalmente posea la cosa, se le impondrá además de la reparación del daño, multa de treinta a trescientos días de salario mínimo vigente o prisión de seis meses a tres años.
+Si el daño se cometiere sobre lienzos, pinturas, murales o cualquier material de difícil o imposible reparación; así como de bienes o monumentos considerados con un valor cultural, histórico, arquitectónico o científico, declarado por autoridad, se sancionará además de la reparación del daño, con multa de cincuenta a quinientos días de salario mínimo vigente o pena privativa de libertad de dos años a seis años.
+En caso de reincidencia la pena se le incrementará hasta un cincuenta por ciento de la que se le haya impuesto en la primera ocasión.
+Cuando el daño se cometa en bienes de dominio privado, este delito se perseguirá de oficio.
 (REFORMADO, P.O. 3 DE OCTUBRE DE 1998)
 389.- Los daños se perseguirán por querella, excepto los previstos en el artículo 388.
 TITULO VIGESIMO.
