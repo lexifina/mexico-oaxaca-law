@@ -1630,16 +1630,16 @@ Abigeato.
 370.- Comete el delito de abigeato el que se apodere de una o más cabezas de ganado sin derecho y sin consentimiento de la persona que pueda disponer de ellas de acuerdo con la ley, tenga o no la calidad de ganadero.
 (REFORMADO, P.O. 22 DE DICIEMBRE DE 1987)
 371.- Para los efectos de este Capítulo, se considerará como ganado mayor: el bovino, el caballar, el mular y el asnal; y, como ganado menor: al cabrío, el lanar y el porcino.
-(REFORMADO, P.O. 27 DE AGOSTO DE 1994)
+(REFORMADO, P.O. 31 DE AGOSTO DE 2015)
 372.- El abigeato de ganado mayor se sancionará:
-I.- Con prisión de cuatro a siete años y multa de treinta a cien veces el salario, cuando el apoderamiento no exceda de cinco cabezas;
-II.- Con prisión de siete a diez años y multa de cien a doscientas veces el salario, cuando el apoderamiento exceda de cinco cabezas pero no de diez; y
-III.- Con prisión de diez a quince años y multa de doscientas a quinientas veces el salario, cuando el apoderamiento exceda de diez cabezas.
-(REFORMADO, P.O. 27 DE AGOSTO DE 1994)
+I.- Con prisión de cinco a diez años y multa de cien veces a quinientas veces el salario, cuando el apoderamiento no exceda de cinco cabezas;
+II.- Con prisión de diez a doce años y multa de quinientas a novecientas veces el salario, cuando el apoderamiento exceda de cinco cabezas pero no de diez, y
+III.- Con prisión de doce a quince años cuando el apoderamiento exceda de diez cabezas y una multa de mil veces el salario mínimo vigente, que se incrementará en cien salarios, por cada cabeza que exceda de diez.
+(REFORMADO, P.O. 31 DE AGOSTO DE 2015)
 373.- El abigeato de ganado menor se sancionará:
-I.- Con prisión de dos a cuatro años y multa de diez a cien veces el salario, cuando el apoderamiento no exceda de cinco cabezas;
-II.- Con prisión de cuatro a seis años y multa de cien a ciento ochenta veces el salario, cuando el apoderamiento exceda de cinco cabezas pero no de quince; y
-III.- Con prisión de siete a diez años y multa de ciento ochenta a quinientas veces el salario, cuando el apoderamiento exceda de quince cabezas.
+I. Con prisión de tres a cinco años y multa de cincuenta a ciento cincuenta veces el salario, cuando el apoderamiento no exceda de cinco cabezas;
+II. Con prisión de cinco a ocho años y multa de ciento cincuenta a trescientas veces el salario, cuando el apoderamiento exceda de cinco cabezas pero no de quince, y
+III. Con prisión de ocho a diez años y multa de trescientas a setecientas veces el salario, cuando el apoderamiento exceda de quince cabezas.
 373 Bis.- (DEROGADO, P.O. 27 DE AGOSTO DE 1994)
 (REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JULIO DE 1988)
 374.- Se equipara el Abigeato y se sancionará con prisión de dos a cuatro años y multa de diez a cincuenta salarios mínimos vigente en el momento de cometerse el delito, a quienes:
@@ -1654,6 +1654,15 @@ VII.- Siendo autoridades expidan guías falsas;
 VIII.- Sin tomar las medidas indispensables para cerciorarse de la procedencia legítima de los animales, adquieran ganado producto del abigeato;
 (ADICIONADA, P.O. 5 DE ENERO DE 1985)
 IX.- Sin verificar su procedencia legítima, comercien, de primera mano, con pieles, carnes u otros derivados de los animales producto del abigeato.
+(ADICIONADO, P.O. 31 DE AGOSTO DE 2015)
+374 Bis.- Además de las penas señaladas, se le aplicará al imputado una tercera parte más de las correspondientes, cuando el delito de abigeato:
+I. Se ejecute de noche;
+II. Se cometa aprovechando alguna relación de trabajo, confianza o parentesco del activo con el pasivo;
+III. Sea perpetrado por ganaderos inscritos como tales en cualquier unión o asociación ganadera;
+IV. Se cometa por más de tres sujetos;
+V. Se ejecute con violencia física o moral sobre las personas o las cosas, durante la perpetración del hecho o después de consumado, para lograr la fuga o defender el producto;
+VI. Se realice por algún individuo que simule o sea miembro de alguna corporación de seguridad pública o alguna otra autoridad, y
+VII. Se ejecute por personas que utilicen armas de fuego o explosivos en su comisión o para darse a la fuga después de consumado el delito.
 375.- Sin en la comisión del delito de abigeato, se ejecutan otros delitos, se aplicarán las reglas de acumulación.
 CAPITULO III.
 Abuso de Confianza.
