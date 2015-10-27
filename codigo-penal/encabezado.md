@@ -638,7 +638,7 @@ La prescripción de las pecuniarias sólo se interrumpe por el embargo de bienes
 El Juez de la causa podrá interrumpir la prescripción del delito a petición del Ministerio Público, cuando el inculpado se halle bajo proceso penal en otra entidad federativa.
 133.- La privación de derechos civiles o políticos prescribirá en veinte años.
 (REFORMADO, P.O. 23 DE NOVIEMBRE DE 2012)
-134.- Los reos de homicidio intencional, feminicidio, lesiones o violencia graves, a quienes se hubiere impuesto la prohibición de ir a determinado lugar, y cuya sanción corporal haya prescrito, no podrán residir en el mismo lugar que la vÍctima u ofendido o sus descendientes, ascendientes, cónyuge o hermanos, sino transcurrido después de consumada la prescripción, un tiempo igual al que debiera durar la sanción.
+134.- Los reos de homicidio intencional, feminicidio, lesiones o violencia graves, a quienes se hubiere impuesto la prohibición de ir a determinado lugar, y cuya sanción corporal haya prescrito, no podrán residir en el mismo lugar que la víctima u ofendido o sus descendientes, ascendientes, cónyuge o hermanos, sino transcurrido después de consumada la prescripción, un tiempo igual al que debiera durar la sanción.
 135.- (DEROGADO, P.O. 2 DE OCTUBRE DE 2010)
 136.- (DEROGADO, P.O. 3 DE OCTUBRE DE 1998)
 N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.
@@ -833,7 +833,7 @@ Provocación de un delito y apología de éste o de algún vicio.
 CAPITULO UNICO.
 (REFORMADO, P.O. 21 DE NOVIEMBRE DE 2008)
 194.- Comete el delito de corrupción de personas menores de dieciocho años de edad o personas que no tienen la capacidad para comprender el significado del hecho:
-l.- Al que por cualquier medio induzca, procure, facilite u obligue a una de las personas antes señaladas al consumo reiterado de bebidas embriagantes; al consumo de sustancias tóxicas o narcóticos; a cometer hechos delictuosos; o a formar parte de una asociación delictuosa.
+I.- Al que por cualquier medio induzca, procure, facilite u obligue a una de las personas antes señaladas al consumo reiterado de bebidas embriagantes; al consumo de sustancias tóxicas o narcóticos; a cometer hechos delictuosos; o a formar parte de una asociación delictuosa.
 A quien cometa cualquiera de las conductas descritas se le impondrá de cinco a diez años de prisión y multa de quinientos a setecientos treinta días de salario mínimo.
 II.- Quien por cualquier medio, induzca, facilite, procure u obligue que una persona menor de edad o persona que no tenga la capacidad para comprender el significado del hecho realice, para sí o para otras personas y sin fines de lucro o de explotación, actos sexuales o de exhibicionismo corporal de índole sexual. Estas conductas se sancionarán con pena de prisión de siete a doce años y multa de seiscientos a ochocientos cuarenta días de salario mínimo;
 III.- Quien permita directa o indirectamente el acceso de una persona menor de dieciocho años de edad o de una persona que no tenga la capacidad de comprender el significado del hecho, a espectáculos o exhibiciones audiovisuales de carácter pornográfico. Estas conductas se sancionarán con prisión de tres a cinco años de prisión y multa de trescientos a trescientos cincuenta días de salario mínimo;
@@ -843,7 +843,7 @@ No se entenderá como material pornográfico, aquel que signifique o tenga como 
 Las anteriores sanciones se impondrán con independencia de otros delitos que se llegaren a configurar.
 (REFORMADO, P.O. 21 DE NOVIEMBRE DE 2008)
 195.- Comete el delito de pornografía infantil:
-l.- Quien sin fines comerciales o de explotación induzca, procure, facilite u obligue que una persona menor de dieciocho años de edad o una persona que no tenga la capacidad de comprender el significado del hecho, realice actos sexuales o de exhibicionismo corporal de índole sexual con la finalidad de grabarlos, videograbarlos, fotografiarlos, filmarlos o exhibirlos a través de anuncios impresos, transmisión de archivos de datos en red pública o privada de telecomunicaciones, sistemas de cómputo, medios .electrónicos o de cualquier otra naturaleza, Independientemente de que se logre la finalidad;
+I.- Quien sin fines comerciales o de explotación induzca, procure, facilite u obligue que una persona menor de dieciocho años de edad o una persona que no tenga la capacidad de comprender el significado del hecho, realice actos sexuales o de exhibicionismo corporal de índole sexual con la finalidad de grabarlos, videograbarlos, fotografiarlos, filmarlos o exhibirlos a través de anuncios impresos, transmisión de archivos de datos en red pública o privada de telecomunicaciones, sistemas de cómputo, medios electrónicos o de cualquier otra naturaleza, Independientemente de que se logre la finalidad;
 II.- Quien sin fines comerciales o de explotación fije, grabe, videograbe, fotografíe o filme de cualquier forma actos sexuales o de exhibicionismo corporal de índole sexual, explícitos o no, reales o simulados, en que participen una o más personas menores de dieciocho años o personas que no tengan la capacidad de comprender el significado del hecho;
 III.- Quien reproduzca, publique, ofrezca, publicite, almacene, distribuya, difunda, exponga, envíe, transmita, importe, exporte o comercialice de cualquier forma imágenes, sonidos o la voz de una persona menor de edad o de una persona que no tenga la capacidad para comprender el significado del hecho, sea en forma directa, informática, audiovisual, virtual o por cualquier otro medio en las que se manifiesten actividades sexuales, explícitas o no, reales o simuladas, o toda representación de los órganos sexuales de la víctima con fines primordialmente sexuales; y
 IV.- Quien financie, dirija, administre o supervise cualquiera de las actividades descritas en las fracciones anteriores, con la finalidad de que se realicen las conductas previstas en las mismas.
@@ -1943,4 +1943,38 @@ Se entiende por misoginia las conductas contra la mujer que se manifiestan media
 412. A quien cometa el delito de feminicidio se le impondrá una sanción de cuarenta a sesenta años de prisión y multa de quinientos a mil salarios mínimos.
 Si entre el activo y la víctima existió una relación de parentesco por consanguinidad o afinidad, adopción, matrimonio, concubinato, relación de convivencia, noviazgo, amistad, laboral, docente, tutela o cualquier otra que implique confianza, además de la pena que le corresponda, se le impondrá hasta un tercio más de la misma.
 Se impondrá hasta dos tercios más de la pena cuando el sujeto activo se encuentre en servicio o se haya desempeñado dentro de los cinco años anteriores a la comisión del delito como servidor público integrante de las corporaciones de seguridad pública, de las Instituciones de procuración e impartición de justicia o de las fuerzas armadas.
+(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE OCTUBRE DE 2015)
+TITULO VIGESIMO TERCERO
+De los Delitos cometidos contra la vida e integridad de los animales
+(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE OCTUBRE DE 2015)
+CAPITULO PRIMERO
+De la Crueldad Animal y la Agonía
+(ADICIONADO, P.O. 26 DE OCTUBRE DE 2015)
+413.- Se castigará con cárcel de tres meses a dos años y con multa de 100 a 1000 días de salario a quien:
+I. Dolosamente realice actos de sufrimiento que no lleven a una muerte inmediata del animal vertebrado.
+II. Cause lesiones que pongan en peligro la vida del animal vertebrado.
+III. Cause lesiones y/o marcas de por vida que generen una agonía permanente para el animal vertebrado.
+(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE OCTUBRE DE 2015)
+CAPITULO SEGUNDO
+De la Privación de la Vida
+(ADICIONADO, P.O. 26 DE OCTUBRE DE 2015)
+414.- Se castigará con cárcel de seis meses a cuatro años y con multa de 500 a 1500 días de salario a quien:
+I. Dolosamente prive de la vida a un animal vertebrado.
+(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE OCTUBRE DE 2015)
+CAPÍTULO TERCERO
+Del Abuso Sexual a los Animales
+(ADICIONADO, P.O. 26 DE OCTUBRE DE 2015)
+415.- Se castigará con cárcel de tres meses a un año y con multa de 200 a 800 días de salario a quien:
+I. Utilice a un animal vertebrado con fines sexuales, se entenderá dentro de la utilización del animal con fines sexuales, quien practique actos de zoofilia con el animal, así mismo a quien venda, distribuya, exhiba o difunda material pornográfico donde se utilicen animales con fines sexuales.
+(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE OCTUBRE DE 2015)
+CAPITULO CUARTO
+Excluyentes
+(ADICIONADO, P.O. 26 DE OCTUBRE DE 2015)
+416.- Son excluyentes de responsabilidad de lo dispuesto en los artículos anteriores:
+I.- La muerte o mutilación de un animal vertebrado resultado de actividades licitas.
+II.- La muerte o mutilación de un animal vertebrado que constituya plaga.
+III.- La muerte o mutilación de un animal vertebrado por causa justificada ó cuidado de un especialista o persona debidamente autorizada y que cuente con conocimientos técnicos de la materia.
+IV.- El sacrificio de un animal vertebrado para consumo humano.
+(ADICIONADO, P.O. 26 DE OCTUBRE DE 2015)
+417.- Los delitos previstos en este título se perseguirán por querella, salvo que se cometan por el propietario, custodio o poseedor del animal o que el animal carezca de propietario, custodio o poseedor, casos en que se perseguirán de oficio.
 ARTICULOS TRANSITORIOS:
