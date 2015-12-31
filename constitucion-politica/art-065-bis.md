@@ -21,8 +21,10 @@ III. Investigar los actos u omisiones que impliquen alguna irregularidad o condu
 IV. Derivado de sus investigaciones promover los procedimientos de responsabilidades que sean procedentes ante el Tribunal de lo Contencioso Administrativo y de Cuentas;
 (REFORMADA, P.O. 23 DE MARZO DE 2012)
 V. Entregar al Congreso del Estado, los informes de resultados de la revisión de la Cuenta Pública de los poderes del Estado, órganos autónomos y municipios, así como de la revisión y fiscalización practicada a los informes periódicos que le presenten los entes fiscalizables del Estado, en los plazos y con las modalidades que la ley señale.
-(ADICIONADA, P.O. 15 DE ABRIL DE 2011)
-VI. Iniciar leyes en las materias de su competencia, imponer las sanciones administrativas que la Ley establezca y, en su caso, ordenar procedimientos ante la autoridad competente.
+(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)
+VI. Iniciar leyes en las materias de su competencia, imponer las sanciones administrativas que la Ley establezca y, en su caso, ordenar procedimientos ante la autoridad competente, y
+(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2015)
+VII. Fiscalizar las acciones del Estado y Municipios, en materia de deuda pública.
 (ADICIONADO, P.O. 18 DE ABRIL DE 2008)
 Las dependencias y entidades de los Poderes del Estado, los Ayuntamientos, los órganos públicos autónomos y los particulares que manejen recursos públicos, proporcionarán los informes y documentación que les requiera la Auditoría Superior del Estado para el ejercicio de sus funciones.
 (REFORMADO, P.O. 23 DE MARZO DE 2012)

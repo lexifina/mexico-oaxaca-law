@@ -18,5 +18,7 @@ N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE T
 XII. Certificación de los avalúos.
 (REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)
 XIII. Cancelación de registro de cuenta catastral en el Sistema de Información Territorial por resolución judicial, o cuando se trate de duplicidad de cuentas, y éstas amparen el mismo bien inmueble a nombre del mismo poseedor o propietario; y
+(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)
+También procederá la cancelación de registro de cuenta catastral en el Sistema de Información Territorial, cuando exista duplicidad de cuentas derivadas de programas de regularización de la tenencia de la tierra por las autoridades competente (sic) y dichas cuentas amparen el mismo bien inmueble.
 (ADICIONADA, P.O. 22 DE DICIEMBRE DE 2012)
 XIV. Deslinde Catastral.
