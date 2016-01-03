@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 2 DE ENERO DE 2016)
+Artículo 429 Bis A.- Quien tenga el cuidado y custodia de los hijos debe procurar el respeto y el acercamiento constante de los menores con el otro ascendiente que también ejerza la patria potestad; en consecuencia, cada uno de los ascendientes deberá evitar cualquier acto de alienación parental, encaminado a producir en el menor rechazo, rencor, odio, miedo o desprecio hacia el otro progenitor. BAJO PENA DE SUSPENDERSE O DECLARARSE LA PÉRDIDA DE SU EJERCICIO.
+Se entiende por alienación parental la manipulación o inducción que un progenitor realiza hacia su hijo, mediante la desaprobación o crítica tendiente a producir en el menor rechazo, rencor, odio, miedo o desprecio hacia el otro progenitor.
