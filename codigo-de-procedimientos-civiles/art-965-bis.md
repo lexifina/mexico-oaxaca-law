@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 30 DE ENERO DE 2016)
+Artículo 965 Bis.- Para el efecto del último párrafo del artículo anterior, el Juez, a petición de parte, solicitará el desahogo de la prueba pericial en genética molecular a las instituciones públicas del Estado, que cuenten con la capacidad científica para ello. Éstas a su vez, tendrán la obligación de practicar dicha prueba genética sin costo alguno. Para el caso de que el resultado de la prueba genética sea negativo, los gastos de la prueba los cubrirá la parte oferente.
+Si la persona que deba practicarse la prueba, no asistiere al desahogo de la misma, o se negare a proporcionar la muestra necesaria, hará presumir la filiación que se le atribuye.

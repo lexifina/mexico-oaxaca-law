@@ -1166,9 +1166,9 @@ De la prestación irregular de servicios educativos.
 (REFORMADA SU DENOMINACIÓN, P.O. 3 DE JUNIO DE 1995)
 TITULO DECIMOSEGUNDO.
 Delitos contra la libertad, la seguridad y el normal desarrollo psicosexual.
-(REFORMADA SU DENOMINACIÓN, P.O. 7 DE FEBRERO DE 1998)
+(REFORMADA SU DENOMINACIÓN, P.O. 30 DE ENERO DE 2016)
 CAPITULO I.
-Abuso y hostigamiento sexual, estupro y violación.
+Abuso, hostigamiento y acoso sexual, estupro y violación.
 (REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2001)
 241.- Comete el delito de abuso sexual, quien sin consentimiento de una persona ejecute en ella o la haga ejecutar un acto sexual, que no sea la cópula, o la obligue a observar cualquier acto sexual aun a través de medios electrónicos. Al responsable de tal hecho, se le impondrá de dos a cinco años de prisión y multa de cincuenta a doscientos días de salario mínimo.
 N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO 1529, PUBLICADO EN EL P.O. DE 23 DE ENERO DE 2010, SE MODIFICO LA ESTRUCTURA DEL PRESENTE PÁRRAFO, PARA QUEDAR CONFORMADO POR TRES FRACCIONES.
@@ -1181,10 +1181,17 @@ II.- Se hiciere uso de violencia física o moral; y
 III.- Se hubiera administrado a la víctima alguna sustancia tóxica.
 (REFORMADO, P.O. 9 DE DICIEMBRE DE 2013) (REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
 Cuando el delito fuere cometido contra persona menor de doce años, incapaz o cuando se realice en persona que no tenga la capacidad de comprender el significado del hecho o por cualquier causa no pueda resistirlo, la pena será de siete a doce años de prisión y multa de trescientos a setecientos días de salario mínimo. A los autores y partícipes del delito previsto en este párrafo no se les concederá ningún beneficio preliberacional en la ejecución de la sentencia.
-(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2001)
-241 Bis.- Al que asedie, acose o solicite favores de naturaleza sexual para sí o para un tercero, bien sea entre superior e inferior jerárquico, entre iguales o en cualquier circunstancia que los relacione en el ámbito familiar, doméstico, docente, laboral o cualquier otro, se le impondrá sanción de uno a tres años de prisión.
-Si el hostigador fuese servidor público y utilizase los medios o circunstancias que el encargo le proporcione, además de la pena prevista en el párrafo anterior, se le destituirá de su cargo.
-El delito previsto en este artículo será perseguido por querella del ofendido o de su legítimo representante.
+(REFORMADO, P.O. 30 DE ENERO DE 2016)
+241 Bis.- Comete el delito de hostigamiento sexual el que valiéndose de su posición jerárquica o de poder derivada de la relación laboral, docente, doméstica, religiosa, familiar o cualquiera otra que genere subordinación, asedie a otra persona solicitándole favores o propuestas de naturaleza sexual para sí o para un tercero, o utilice lenguaje lascivo con ese fin, causando daño o sufrimiento psicoemocional que lesione su dignidad. Al responsable, se le impondrá prisión de uno a tres años, multa de cien a trescientos días multa y pago de la reparación del daño. Este delito se perseguirá por querella de parte ofendida.
+Si la persona hostigadora fuese servidor público, docente o ministro de culto y utilizare los medios o circunstancias que el encargo le proporcione, además de la pena prevista en el párrafo anterior, se le destituirá de su empleo, encargo o comisión y se le inhabilitará para desempeñar otro por un lapso igual al de la pena de prisión impuesta, que iniciará una vez que haya compurgado la pena privativa de la libertad.
+Cuando el hostigamiento se cometa contra una persona menor de dieciocho años de edad, o con alguna discapacidad, o por cualquier causa no pueda resistirlo, la pena de prisión se aumentara hasta en una tercera parte de la prevista y en este caso se perseguirá de oficio.
+Si a consecuencia del hostigamiento sexual la víctima pierde o se le obliga a abandonar su trabajo, por esta causa, la reparación del daño consistirá en la indemnización por despido injustificado, teniendo en cuenta su antigüedad laboral, al doble de lo previsto en la Ley Federal del Trabajo o del contrato respectivo.
+Al servidor público, docente o ministro de culto que reincidiere en la comisión de este delito, además de las sanciones previstas, se le inhabilitará definitivamente.
+(ADICIONADO, P.O. 30 DE ENERO DE 2016)
+241 Ter.- Quien por cualquier medio con fines lascivos asedie a persona de cualquier sexo, con quien no exista relación de subordinación y aprovechándose de circunstancias que produzcan desventaja, indefensión o riesgo inminente para la víctima, le cause daño o sufrimiento psicoemocional, se le impondrá prisión de seis meses a dos años y multa de cincuenta a doscientos días multa.
+Si el acosador es servidor público y se vale de medios o circunstancias que el encargo le proporcione, además de la pena prevista en los párrafos anteriores, se le destituirá del cargo o empleo.
+Cuando el acoso sexual se cometa contra una persona menor de dieciocho años de edad, o con alguna discapacidad, o por cualquier causa no pueda resistirlo, la pena de prisión se aumentara hasta en una tercera parte de la prevista.
+En el supuesto anterior, el delito se perseguirá de oficio. En lo demás casos se procederá contra el responsable a petición de parte ofendida.
 242.- (DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2001)
 (REFORMADO PRIMER PÁRRAFO, P.O. 15 DE SEPTIEMBRE DE 2001)
 243.- A quien tenga cópula con persona mayor de doce años y menor de dieciocho, obteniendo su consentimiento por medio del engaño, cualquiera que haya sido el medio utilizado para lograrlo, se le impondrán de tres a siete años de prisión y multa de cien a trescientos días de salario.
@@ -1215,8 +1222,7 @@ II.- El hecho sea cometido por quien desempeñe un cargo o empleo público o eje
 III.- El delito sea cometido por persona que tenga al ofendido bajo su custodia, tutela, guarda o educación, o que aproveche la confianza en él depositada;
 (ADICIONADA, P.O. 7 DE FEBRERO DE 1998)
 IV.- Tratándose del delito de violación, el hecho sea cometido por el cónyuge, concubina o concubino de la víctima.
-(ADICIONADO, P.O. 7 DE FEBRERO DE 1998)
-El delito a que se refiere la fracción inmediata anterior, solo se perseguirá por querella de la parte ofendida.
+(DEROGADO ÚLTIMO PÁRRAFO, P.O. 30 DE ENERO DE 2016)
 CAPITULO II.
 Rapto.
 249.- (DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2001)
@@ -1408,12 +1414,9 @@ CAPITULO VIII.
 Abandono de personas.
 (REFORMADO, P.O. 7 DE FEBRERO DE 1998)
 317.- A quien abandone a un menor a otra persona cualquiera, incapaz de cuidarse a si mismo, o a un enfermo, teniendo obligación de cuidarlos, se le aplicarán de dos a seis años de prisión, privándolo, además de la patria potestad o tutela, si el inculpado fuera ascendiente o tutor de la persona ofendida. Si resultara daño alguno, se aplicarán las reglas de la acumulación.
-(REFORMADO, P.O. 7 DE FEBRERO DE 1998)
-318.- A quien sin motivo justificado, abandone a sus acreedores alimentarios sin recursos para atender a sus necesidades de subsistencia, se le aplicará de dos a cuatro años de prisión y se le privará de sus derechos familiares.
-(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2013) (REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
-Se equipara al abandono cuando el deudor alimentista simule o abandone su centro de trabajo para quedar en estado de insolvencia y dejar de proporcionar los alimentos decretados por una autoridad judicial, la pena se aumentara de tres a cinco años de prisión.
+318.- (DEROGADO, P.O. 30 DE ENERO DE 2016)
 319.- El delito de abandono de hogar sólo se perseguirá a petición del cónyuge ofendido o de los representantes legítimos de los hijos; a falta de representantes de los menores, la acción se iniciará por el Ministerio Público, a reserva de que el Juez de la causa designe un tutor especial para los efectos de este artículo.
-320.- Para que el perdón concedido por el cónyuge ofendido pueda producir la libertad del acusado, deberá éste pagar las cantidades que hubiere dejado de ministrar por concepto de alimentos y dar fianza u otra caución de que en lo sucesivo pagará la cantidad que le corresponda.
+320.- (DEROGADO, P.O. 30 DE ENERO DE 2016)
 321.- Si del abandono a que se refieren los Artículos anteriores resultare alguna lesión o la muerte, se presumirán éstas como premeditadas, para los efectos de aplicar las sanciones que a estos delitos correspondan.
 322.- Al que encuentre abandono o perdido en cualquier sitio a un menor incapaz de cuidarse a sí mismo o a una persona herida, inválida o amenazada de un peligro cualquiera, y no diera aviso inmediato a la autoridad u omitiera prestarle el auxilio necesario, cuando pudiera hacerlo sin riesgo personal, se le aplicarán de uno a dos meses de prisión y multa de cien a quinientos pesos.
 323.- El automovilista, motorista, conductor de un vehículo cualquiera, ciclista o jinete que deje en estado de abandono, sin prestar o facilitar asistencia a la persona a quien atropelló, por culpa o accidente, se le aplicará prisión de tres meses a dos años, y multa de cien a mil pesos, sin perjuicio de las penas que correspondan si resulta cometido otro delito.
@@ -1899,16 +1902,25 @@ V.- Materiales electorales: los elementos físicos, tales como urnas, canceles o
 (REFORMADA SU DENOMINACIÓN, P.O. 4 DE OCTUBRE DE 2012)
 TITULO VIGESIMO SEGUNDO.
 Delitos contra el derecho a una vida libre de violencia
-(REFORMADO [N. DE E. ANTES CAPÍTULO ÚNICO], P.O. 23 DE SEPTIEMBRE DE 2011)
+(REFORMADA SU DENOMINACIÓN, P.O. 30 DE ENERO DE 2016)
 CAPITULO I
-Violencia intrafamiliar.
-(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2001)
-404.- Por violencia intrafamiliar se considera el uso de la fuerza física o moral, así como la omisión grave en contra de un miembro de la familia por otro de la misma que atente contra su integridad física, psíquica o ambas, independientemente de que pueda o no producir otro delito; siempre y cuando el agresor y el agraviado cohabiten en el mismo domicilio y exista una relación de parentesco, matrimonio o concubinato. En su caso se aplicarán las reglas de la acumulación.
-Comete el delito de Violencia Intrafamiliar el cónyuge, concubina o concubinario; pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado, pariente colateral consanguíneo o afín hasta el cuarto grado, adoptante o adoptado, así como aquellas personas que habiten en el mismo domicilio de la víctima.
-(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2001)
-405.- A quien comete el delito de violencia intrafamiliar se le impondrá de seis meses a cuatro años de prisión, restricción o pérdida de la patria potestad, y en su caso perderá los derechos hereditarios y de alimentos. Así mismo se le sujetará a tratamiento psicológico especializado.
-(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2011)
-406.- En todos los casos previstos en los dos artículos precedentes, el Ministerio Público, exhortará al probable responsable para que se abstenga de cualquier conducta que pudiere resultar ofensiva para la víctima y acordará las medidas preventivas necesarias para salvaguardar la integridad física o psíquica de la misma. En todos los casos, el Ministerio Público deberá solicitar las medidas precautorias que considere pertinentes.
+Violencia familiar
+(REFORMADO, P.O. 30 DE ENERO DE 2016)
+404.- Violencia familiar, es toda acción u omisión, dirigida a dominar, someter, controlar o agredir de manera física, verbal, psicológica, patrimonial, económica, sexual, o contra los derechos reproductivos, dentro o fuera del domicilio familiar, cuyo activo tenga o haya tenido relación de parentesco por consanguinidad, afinidad, legal, concubinato, noviazgo, relaciones de convivencia o mantenga o haya mantenido una relación similar con la víctima.
+(ADICIONADO, P.O. 30 DE ENERO DE 2016)
+404 Bis.- Para los efectos del presente capítulo los tipos de violencia familiar son los siguientes:
+I. Violencia Física: Toda agresión en la que se utilice cualquier objeto o arma, o se haga uso de alguna parte del cuerpo, para sujetar o lesionar físicamente a otro; así como el uso de sustancias para inmovilizarle, atentando contra su integridad física, y que tienen por objeto lograr su sometimiento o control y con el resultado o riesgo de producir lesión física, interna, externa o ambas;
+II. Violencia psicoemocional. Acción u omisión, consistente en prohibiciones, coacciones, condicionamientos, intimidaciones, insultos, amenazas, humillaciones, indiferencia, chantaje, celotipia, abandono, actitudes devaluatorias, que provoquen en quien las recibe alteración autocognitiva y autovalorativa, que integran su autoestima o alteraciones en alguna esfera o área de la estructura psíquica entre las que se pueden encontrar la depresión, el aislamiento, la devaluación e incluso el suicidio;
+III. Violencia patrimonial.- Acto u omisión encaminado a apropiarse o destruir el patrimonio de la pareja o de cualquier miembro de la familia sin autorización, mismos que pueden consistir en el abuso de los ingresos, el apoderamiento, despojo, transformación, sustracción, destrucción, desaparición, retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos;
+IV. Violencia económica.- Privación intencionada y no justificada legalmente de los recursos financieros para el bienestar físico y psicológico de los receptores de la violencia familiar o de algún miembro de la familia, cuyas formas de expresión pueden representar el incumplimiento de las responsabilidades alimentarias, para el sostenimiento familiar, o las limitaciones encaminadas a controlar el ingreso de las percepciones económicas o la discriminación en la disposición de los recursos compartidos;
+V. Violencia sexual.- A toda acción u omisión que amenaza, pone en riesgo, lesiona o daña la libertad, seguridad, integridad y desarrollo psicosexual de cualquier persona. Se expresa a través de la inducción a presenciar o realizar prácticas sexuales no deseadas o que generen dolor, así como la celotipia para el control, manipulación o dominio de la pareja, entre otros y;
+VI. Violencia contra los derechos reproductivos: A toda acción u omisión que limite o vulnere el derecho de las personas a decidir libre, responsable y voluntariamente sobre su función reproductiva, en relación con el número y espaciamiento de los hijos, acceso a métodos anticonceptivos de su elección, acceso a una maternidad elegida y segura, a servicios de atención prenatal, servicios obstétricos de emergencia y servicios de interrupción legal y segura del embarazo en casos de violación.
+(REFORMADO, P.O. 30 DE ENERO DE 2016)
+405.- A quien cometa el delito de violencia familiar se le impondrá de seis meses a cuatro años de prisión, pérdida de los derechos que tenga respecto de la víctima incluidos los de carácter sucesorio, patria potestad, tutela y alimentos, y se decretarán las medidas de protección conforme a lo establecido por la legislación en la materia; además se sujetará a tratamiento especializado que para personas agresoras de violencia familiar establece la Ley Estatal de Acceso de las Mujeres a una Vida Libre de Violencia de Género.
+En ningún caso se entenderá como tratamiento o rehabilitación, la violencia hacia persona alguna con trastorno mental, ni como forma de educación o formación hacia los menores de edad.
+(REFORMADO, P.O. 30 DE ENERO DE 2016)
+406.- En los casos previstos en este Título, el Ministerio Público, apercibirá al inculpado para que se abstenga de ejecutar cualquier tipo de violencia contra la víctima y decretará, de inmediato, bajo su más estricta responsabilidad, las órdenes de protección o medidas precautorias, necesarias para salvaguardar la integridad física y psíquica de la víctima durante la integración de la averiguación previa y hasta la conclusión de ésta.
+En caso de determinarse el ejercicio de la acción penal, el Ministerio Público solicitará al Juez la confirmación, ampliación o cancelación, en su caso, de las órdenes de protección o medidas precautorias referidas en el párrafo que antecede, quién deberá resolver lo conducente sin dilación.
 (ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE SEPTIEMBRE DE 2011)
 CAPITULO II
 De la Sustracción de Menores o Incapaces.
@@ -1943,14 +1955,34 @@ Se entiende por misoginia las conductas contra la mujer que se manifiestan media
 412. A quien cometa el delito de feminicidio se le impondrá una sanción de cuarenta a sesenta años de prisión y multa de quinientos a mil salarios mínimos.
 Si entre el activo y la víctima existió una relación de parentesco por consanguinidad o afinidad, adopción, matrimonio, concubinato, relación de convivencia, noviazgo, amistad, laboral, docente, tutela o cualquier otra que implique confianza, además de la pena que le corresponda, se le impondrá hasta un tercio más de la misma.
 Se impondrá hasta dos tercios más de la pena cuando el sujeto activo se encuentre en servicio o se haya desempeñado dentro de los cinco años anteriores a la comisión del delito como servidor público integrante de las corporaciones de seguridad pública, de las Instituciones de procuración e impartición de justicia o de las fuerzas armadas.
+(ADICIONADO CON EL CAPÍTULO QUE LO INTEGRA, P.O. 30 DE ENERO DE 2016)
+TÍTULO VIGÉSIMO TERCERO.
+Delitos que atentan contra la obligación alimentaria
+(ADICIONADO, P.O. 30 DE ENERO DE 2016)
+CAPÍTULO ÚNICO
+(REFORMADO, P.O. 30 DE ENERO DE 2016)
+413.- A quien sin motivo justificado incumpla con su obligación de dar alimentos a las personas que tienen derecho a recibirlos, se le impondrá de tres a cinco años de prisión y de cien a cuatrocientos días multa, suspensión o pérdida de los derechos de familia, y pago como reparación del daño de las cantidades no suministradas oportunamente. Para los efectos de este artículo, se tendrá por consumado el delito aun cuando él o los acreedores alimentarios se dejen al cuidado o reciban ayuda de un tercero.
+Los alimentos comprenderán la comida, el vestido, la habitación, la asistencia en caso de enfermedad y, en su caso, los gastos de embarazo y parto. Respecto a los menores de edad, comprende, además, los gastos necesarios para la educación básica y para proporcionarle un oficio, arte o profesión honestos y adecuados a sus capacidades, potencialidades y circunstancias personales.
+También comprenden las atenciones a las necesidades psíquica, afectiva y de sano esparcimiento y en su caso, los gastos de funerales.
+Cuando no sean comprobables el salario o los ingresos del deudor, la Jueza o el Juez determinará el pago de los alimentos o la reparación del daño, con base en la capacidad económica del deudor; el nivel de vida que el deudor y sus acreedores alimentarios hayan llevado en los dos últimos años; así como del estado de necesidad de los acreedores.
+(REFORMADO, P.O. 30 DE ENERO DE 2016)
+414.- Al que renuncie a su empleo o solicite licencia sin goce de sueldo y sea éste el único medio de obtener ingresos o se coloque en estado de insolvencia, con el objeto de eludir el cumplimiento de las obligaciones alimentarias que la ley determina, se le impondrá pena de prisión de uno a cuatro años y de doscientos a quinientos días multa, pérdida de los derechos de familia y pago como reparación del daño, de las cantidades no suministradas oportunamente.
+(REFORMADO, P.O. 30 DE ENERO DE 2016)
+415.- Para el caso de que la persona legitimada otorgue el perdón, sólo procederá si el imputado, acusado o sentenciado paga todas las cantidades que hubiere dejado de proporcionar por concepto de alimentos y otorgue garantía cuando menos por el monto equivalente a un año. No procederá el perdón para quien habiéndolo obtenido sea procesado nuevamente por el mismo delito.
+(REFORMADO, P.O. 30 DE ENERO DE 2016)
+416.- Se impondrá pena de seis meses a cuatro años de prisión y de doscientos a quinientos días multa a aquellas personas que obligadas a informar acerca de los ingresos de quienes deban cumplir con todas las obligaciones señaladas en los artículos anteriores, incumplan con la orden judicial de hacerlo o haciéndolo no lo hagan dentro del término ordenado por el Juez u omitan realizar de inmediato el descuento ordenado.
+(REFORMADO, P.O. 30 DE ENERO DE 2016)
+417.- Si la omisión en el cumplimiento de las obligaciones alimentarias ocurre en incumplimiento de una resolución judicial, las sanciones se incrementarán en una mitad.
+(ADICIONADO, P.O. 30 DE ENERO DE 2016)
+418.- Los delitos previstos en este Título se perseguirán por querella, con excepción de cuando los acreedores sean las y los hijos menores de 18 años, o persona con discapacidad, en cuyo caso se perseguirá de oficio, atendiendo al Principio del Interés Superior de la Niñez y al Principio de Máxima Protección.
 (ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE OCTUBRE DE 2015)
-TITULO VIGESIMO TERCERO
+TITULO VIGESIMO CUARTO
 De los Delitos cometidos contra la vida e integridad de los animales
 (ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE OCTUBRE DE 2015)
 CAPITULO PRIMERO
 De la Crueldad Animal y la Agonía
 (ADICIONADO, P.O. 26 DE OCTUBRE DE 2015)
-413.- Se castigará con cárcel de tres meses a dos años y con multa de 100 a 1000 días de salario a quien:
+419.- Se castigará con cárcel de tres meses a dos años y con multa de 100 a 1000 días de salario a quien:
 I. Dolosamente realice actos de sufrimiento que no lleven a una muerte inmediata del animal vertebrado.
 II. Cause lesiones que pongan en peligro la vida del animal vertebrado.
 III. Cause lesiones y/o marcas de por vida que generen una agonía permanente para el animal vertebrado.
@@ -1958,23 +1990,23 @@ III. Cause lesiones y/o marcas de por vida que generen una agonía permanente pa
 CAPITULO SEGUNDO
 De la Privación de la Vida
 (ADICIONADO, P.O. 26 DE OCTUBRE DE 2015)
-414.- Se castigará con cárcel de seis meses a cuatro años y con multa de 500 a 1500 días de salario a quien:
+420.- Se castigará con cárcel de seis meses a cuatro años y con multa de 500 a 1500 días de salario a quien:
 I. Dolosamente prive de la vida a un animal vertebrado.
 (ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE OCTUBRE DE 2015)
 CAPÍTULO TERCERO
 Del Abuso Sexual a los Animales
 (ADICIONADO, P.O. 26 DE OCTUBRE DE 2015)
-415.- Se castigará con cárcel de tres meses a un año y con multa de 200 a 800 días de salario a quien:
+421.- Se castigará con cárcel de tres meses a un año y con multa de 200 a 800 días de salario a quien:
 I. Utilice a un animal vertebrado con fines sexuales, se entenderá dentro de la utilización del animal con fines sexuales, quien practique actos de zoofilia con el animal, así mismo a quien venda, distribuya, exhiba o difunda material pornográfico donde se utilicen animales con fines sexuales.
 (ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE OCTUBRE DE 2015)
 CAPITULO CUARTO
 Excluyentes
 (ADICIONADO, P.O. 26 DE OCTUBRE DE 2015)
-416.- Son excluyentes de responsabilidad de lo dispuesto en los artículos anteriores:
+422.- Son excluyentes de responsabilidad de lo dispuesto en los artículos anteriores:
 I.- La muerte o mutilación de un animal vertebrado resultado de actividades licitas.
 II.- La muerte o mutilación de un animal vertebrado que constituya plaga.
 III.- La muerte o mutilación de un animal vertebrado por causa justificada ó cuidado de un especialista o persona debidamente autorizada y que cuente con conocimientos técnicos de la materia.
 IV.- El sacrificio de un animal vertebrado para consumo humano.
 (ADICIONADO, P.O. 26 DE OCTUBRE DE 2015)
-417.- Los delitos previstos en este título se perseguirán por querella, salvo que se cometan por el propietario, custodio o poseedor del animal o que el animal carezca de propietario, custodio o poseedor, casos en que se perseguirán de oficio.
+423.- Los delitos previstos en este título se perseguirán por querella, salvo que se cometan por el propietario, custodio o poseedor del animal o que el animal carezca de propietario, custodio o poseedor, casos en que se perseguirán de oficio.
 ARTICULOS TRANSITORIOS:
