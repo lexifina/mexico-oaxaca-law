@@ -1112,7 +1112,7 @@ Disposiciones comunes a los capítulos precedentes.
 234.- Si el falsario hiciere uso de los documentos u objetos falsos que se detallan en este título, se acumularán la falsificación y el delito que por medio de ellos hubiere cometido el delincuente.
 235.- Las disposiciones contenidas en este título solo se aplicarán en lo que no estuviere previsto en las leyes especiales o no se opusiera a lo establecido en ellas.
 (REFORMADO, P.O. 12 DE JUNIO DE 2004)
-235 Bis.- Cuando los delitos a que se refiere este Título se cometan por extranjeros o servidores públicos, cualquiera que sea la finalidad que se trate de obtener o se obtenga, la pena aplicable será de tres años seis meses a seis años y multa de quinientos a setecientos treinta salarios mínimos. A los servidores públicos se les destituirá de su empleo y se les inhabilitará por un tiempo igual a la sanción corporal a la que haya sido condenados.
+235 Bis.- Cuando los delitos a que se refiere este Título se cometan por extranjeros o servidores públicos, cualquiera que sea la finalidad que se trate de obtener o se obtenga, la pena aplicable será de tres años seis meses a seis años y multa de quinientos a setecientos treinta salarios mínimos. A los servidores públicos se les destituirá de su empleo y se les inhabilitará por un tiempo igual a la sanción corporal a la que hayan sido condenados.
 TITULO DECIMOPRIMERO.
 Delitos contra la economía pública.
 CAPITULO I.
@@ -1886,6 +1886,8 @@ IV.- Impida la realización de una reunión, asamblea, manifestación pública, 
 400.- Al servidor público mencionado por el artículo 211 del Código de Instituciones Políticas y Procedimientos Electorales de Oaxaca, que se niegue sin causa justificada a cumplir las funciones que establece el mismo precepto, se le aplicará una multa de cien a doscientos días de salario mínimo vigente o inhabilitación para obtener algún cargo público.
 (ADICIONADO, P.O. 15 DE JULIO DE 1995)
 401.- Se impondrá multa de 500 días de salario mínimo vigente, al ministro de culto religioso que, por cualquier medio, en el desarrollo de actos propios de su ministerio, induzca al electorado a votar en favor o en contra de un candidato o partido político, o a la abstención.
+(ADICIONADO, P.O. 26 DE MARZO DE 2016)
+401 BIS.- Se impondrá prisión de dos a seis años y multa de siete mil a quince mil pesos a quien realice por si o a través de terceros cualquier acción u omisión que causen daño físico, psicológico, económico o sexual en contra de una o varias mujeres y/o de su familia, para restringir, suspender o impedir el ejercicio de sus derechos político-electorales o inducirla y obligarla a tomar decisiones de la misma índole en contra de su voluntad.
 (ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE JULIO DE 1995)
 CAPITULO II.
 Reglas Comunes.
