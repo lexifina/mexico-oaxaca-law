@@ -1,5 +1,5 @@
+[N. DE E. DEL ANÁLISIS PARA LA APLICACIÓN DE LA REFORMA DEL P.O. 20 DE DICIEMBRE DE 2013, SE ADVIERTE QUE EL ARTÍCULO SEGUNDO DEL DECRETO 2057, SE PUBLICA CON LAS OBSERVACIONES REALIZADAS POR EL PODER EJECUTIVO DEL ESTADO, POR OFICIO FECHADO EL 12 DE OCTUBRE DE 2013 Y RECIBIDO EN EL H. CONGRESO DEL ESTADO, CON FECHA 17 DEL MISMO MES Y AÑO, DE CONFORMIDAD CON LO DISPUESTO EN EL PÁRRAFO SEGUNDO DE LA FRACCIÓN VI DEL ARTÍCULO 53, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA.]
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
-N. DE E. DEL ANÁLISIS PARA LA APLICACIÓN DE LA REFORMA DEL P.O. 20 DE DICIEMBRE DE 2013, SE ADVIERTE QUE EL ARTÍCULO SEGUNDO DEL DECRETO 2057, SE PUBLICA CON LAS OBSERVACIONES REALIZADAS POR EL PODER EJECUTIVO DEL ESTADO, POR OFICIO FECHADO EL 12 DE OCTUBRE DE 2013 Y RECIBIDO EN EL H. CONGRESO DEL ESTADO, CON FECHA 17 DEL MISMO MES Y AÑO, DE CONFORMIDAD CON LO DISPUESTO EN EL PÁRRAFO SEGUNDO DE LA FRACCIÓN VI DEL ARTÍCULO 53, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA.
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 ELISEO JIMENEZ RUIZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA, A SUS HABITANTES HACE SABER:
 QUE LA HONORABLE LEGISLATURA DEL ESTADO HA TENIDO A BIEN APROBAR LO SIGUIENTE:
@@ -944,8 +944,8 @@ XLIII.- Cuando ejerciendo funciones de seguridad o tránsito, estatal o municipa
 En caso de no mostrar la orden escrita que autoriza la instalación, puesto de seguridad o revisión y si el sujeto activo utilizare violencia física o moral sobre los ocupantes del vehículo de motor la pena se incrementará de una tercera parte de la máxima aplicable.
 (REFORMADO, P.O. 27 DE NOVIEMBRE DE 1982)
 209.- Se aplicará destitución de empleo e inhabilitación para obtener otro cargo por un término de un año y multa de cinco mil a veinticinco mil pesos, a quienes cometan la violación de que habla la fracción XXII del Artículo anterior.
-(REFORMADO, P.O. 18 DE ABRIL DE 2009)
-Se aplicará prisión de seis meses a tres años, multa de cinco mil a veinticinco mil pesos, destitución de empleo, cargo, o comisión, e inhabilitación por un año para ocupar otro, a quienes cometan las infracciones a que se refieren las fracciones III, VI, X, XII, XIII, XV, XVI, XVII, XXV, XXVI, XXVII, XXXII, XXXIV, XXXV, XXXVI, XXXVII y XLII, del artículo que precede.
+(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)
+Se aplicará prisión de seis meses a tres años, multa de cinco mil a veinticinco mil pesos, destitución de empleo, cargo, o comisión, e inhabilitación por un año para ocupar otro, a quienes cometan las infracciones a que se refieren las fracciones II, III, VI, X, XII, XIII, XV, XVI, XVII, XXV, XXVI, XXVII, XXXII, XXXIV, XXXV, XXXVI, y XXXVII y XLII, del artículo que precede.
 Se aplicará prisión de seis meses a seis años, multa de cinco mil a veinticinco mil pesos, destitución de empleo, cargo o comisión, inhabilitación por dos años para ocupar otro, a los que cometan los delitos señalados en las Fracciones I, IV, V, VII, VIII, IX, XIV, XVIII, XIX, XX, XXI, XXVIII, XXIX, XXX y XXXI del Artículo anterior.
 (REFORMADO, P.O. 9 DE DICIEMBRE DE 2013) (REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
 Se aplicará prisión de tres a cinco años, multa de cincuenta a trescientos salarios mínimos y destitución de empleo, al que cometa el delito señalado en la fracción XLIII del Artículo anterior.
@@ -1171,7 +1171,7 @@ CAPITULO I.
 Abuso, hostigamiento y acoso sexual, estupro y violación.
 (REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2001)
 241.- Comete el delito de abuso sexual, quien sin consentimiento de una persona ejecute en ella o la haga ejecutar un acto sexual, que no sea la cópula, o la obligue a observar cualquier acto sexual aun a través de medios electrónicos. Al responsable de tal hecho, se le impondrá de dos a cinco años de prisión y multa de cincuenta a doscientos días de salario mínimo.
-N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO 1529, PUBLICADO EN EL P.O. DE 23 DE ENERO DE 2010, SE MODIFICO LA ESTRUCTURA DEL PRESENTE PÁRRAFO, PARA QUEDAR CONFORMADO POR TRES FRACCIONES.
+[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO 1529, PUBLICADO EN EL P.O. DE 23 DE ENERO DE 2010, SE MODIFICO LA ESTRUCTURA DEL PRESENTE PÁRRAFO, PARA QUEDAR CONFORMADO POR TRES FRACCIONES.]
 La pena prevista en esté delito, se aumentará en una mitad en su mínimo y en su máximo cuando:
 (REFORMADA, P.O. 23 DE ENERO DE 2010)
 I.- Sea cometido por dos o más personas;
@@ -1181,6 +1181,8 @@ II.- Se hiciere uso de violencia física o moral; y
 III.- Se hubiera administrado a la víctima alguna sustancia tóxica.
 (REFORMADO, P.O. 9 DE DICIEMBRE DE 2013) (REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
 Cuando el delito fuere cometido contra persona menor de doce años, incapaz o cuando se realice en persona que no tenga la capacidad de comprender el significado del hecho o por cualquier causa no pueda resistirlo, la pena será de siete a doce años de prisión y multa de trescientos a setecientos días de salario mínimo. A los autores y partícipes del delito previsto en este párrafo no se les concederá ningún beneficio preliberacional en la ejecución de la sentencia.
+(ADICIONADO, P.O. 3 DE OCTUBRE DE 2016)
+Cuando el delito fuere cometido por un servidor público, docente o ministro de culto y utilizare los medios o circunstancias que el encargo le proporcione, además de la pena prevista en el párrafo primero, será inhabilitado, destituido o suspendido, de su empleo público o profesión.
 (REFORMADO, P.O. 30 DE ENERO DE 2016)
 241 Bis.- Comete el delito de hostigamiento sexual el que valiéndose de su posición jerárquica o de poder derivada de la relación laboral, docente, doméstica, religiosa, familiar o cualquiera otra que genere subordinación, asedie a otra persona solicitándole favores o propuestas de naturaleza sexual para sí o para un tercero, o utilice lenguaje lascivo con ese fin, causando daño o sufrimiento psicoemocional que lesione su dignidad. Al responsable, se le impondrá prisión de uno a tres años, multa de cien a trescientos días multa y pago de la reparación del daño. Este delito se perseguirá por querella de parte ofendida.
 Si la persona hostigadora fuese servidor público, docente o ministro de culto y utilizare los medios o circunstancias que el encargo le proporcione, además de la pena prevista en el párrafo anterior, se le destituirá de su empleo, encargo o comisión y se le inhabilitará para desempeñar otro por un lapso igual al de la pena de prisión impuesta, que iniciará una vez que haya compurgado la pena privativa de la libertad.

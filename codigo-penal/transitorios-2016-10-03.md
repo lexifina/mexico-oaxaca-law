@@ -1,0 +1,3 @@
+P.O. 3 DE OCTUBRE DE 2016.
+[N. DE E. TRANSITORIO DEL "DECRETO NÚM. 2025.- MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 209 Y SE ADICIONA EL PÁRRAFO CUARTO AL ARTÍCULO 241 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
