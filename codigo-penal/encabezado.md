@@ -2013,4 +2013,14 @@ III.- La muerte o mutilación de un animal vertebrado por causa justificada ó c
 IV.- El sacrificio de un animal vertebrado para consumo humano.
 (ADICIONADO, P.O. 26 DE OCTUBRE DE 2015)
 423.- Los delitos previstos en este título se perseguirán por querella, salvo que se cometan por el propietario, custodio o poseedor del animal o que el animal carezca de propietario, custodio o poseedor, casos en que se perseguirán de oficio.
+(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE OCTUBRE DE 2016)
+TITULO VIGESIMO QUINTO
+Delitos contra la Libertad de Expresión
+(ADICIONADO, P.O. 3 DE OCTUBRE DE 2016)
+424.- Se aplicará la pena de seis meses a cuatro años de prisión y multa de cincuenta a doscientas unidades de medida de actualización:
+I. A quien por sí o por interpósita persona, utilizando la violencia física o moral, evite que se ejerza la actividad del periodista. Para efectos de esta fracción se entenderá por periodista toda persona que hace del ejercicio de las libertades de expresión y/o información su actividad principal o complementaria, entendida como la actividad de buscar y difundir información a la sociedad, y
+II. A quien por sí o por interpósita persona obstaculice, impida o por cualquier medio reprima la publicación, producción, distribución, circulación o difusión de algún medio de información escrito, impreso, digital o radiofónico.
+(ADICIONADO, P.O. 3 DE OCTUBRE DE 2016)
+425.- Si quien realiza el acto fuera un servidor público se aumentará la sanción un año.
+Los delitos contenidos en este Título se perseguirán por querella.
 ARTICULOS TRANSITORIOS:
