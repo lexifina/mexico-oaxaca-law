@@ -10,15 +10,16 @@ La revisión de la cuenta pública tendrá por objeto evaluar los resultados de 
 La Auditoría Superior del Estado tendrá las siguientes atribuciones:
 I. Revisar y fiscalizar en forma posterior los ingresos y egresos; el manejo, la custodia, la administración y la aplicación de fondos y recursos públicos de los Poderes del Estado y Municipios, entes públicos estatales y municipales que ejerzan recursos públicos, organismos públicos autónomos y particulares que manejen recursos públicos; así como el cumplimiento de los objetivos contenidos en sus programas en la forma y términos que disponga la ley.
 Sin perjuicio de lo anterior, en situaciones excepcionales que determine la ley, podrá requerir a los sujetos de fiscalización que procedan a la revisión de los conceptos que estime pertinentes y le rindan un informe.
-Si estos requerimientos no fueran atendidos en los plazos y formas señalados por la ley, se podrá dar lugar al fincamiento de las responsabilidades que corresponda.
+(REFORMADO, P.O. 17 DE OCTUBRE DE 2016)
+Si estos requerimientos no fueran atendidos en los plazos y formas señalados por la ley, podrá dar lugar al proceso de investigación y en su caso, al fincamiento de las responsabilidades que corresponda.
 (ADICIONADO, P.O. 23 DE MARZO DE 2012)
 Las entidades fiscalizables a que se refiere el primer párrafo de esta fracción deberán llevar el control y registro contable, patrimonial y presupuestario de los recursos que les sean transferidos y asignados, de acuerdo con los criterios que establezca la Ley General de Contabilidad Gubernamental y demás disposiciones aplicables de carácter estatal, así como resguardar la documentación comprobatoria, expedientes y libros contables.
 (ADICIONADO, P.O. 23 DE MARZO DE 2012)
 El hecho de no presentar las cuentas públicas, no impide el ejercicio de las atribuciones de revisión, fiscalización y sanción de la Auditoría Superior del Estado contenidas en esta Constitución y en la Ley respectiva.
 II. Fiscalizar los recursos provenientes de las aportaciones que en términos de la Constitución Política de los Estados Unidos Mexicanos y de los Convenios de Coordinación Fiscal, administren y ejerzan los entes públicos fiscalizables mencionados en la fracción anterior, conforme a lo establecido en la ley;
 III. Investigar los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos estatales y federales; así como efectuar visitas domiciliarias, con el único objeto de exigir la exhibición de libros, papeles o archivos indispensables, sujetándose a las leyes y a las formalidades establecidas para los cateos;
-(REFORMADA, P.O. 30 DE JUNIO DE 2015)
-IV. Derivado de sus investigaciones promover los procedimientos de responsabilidades que sean procedentes ante el Tribunal de lo Contencioso Administrativo y de Cuentas;
+(REFORMADA, P.O. 17 DE OCTUBRE DE 2016)
+IV. Derivado de sus investigaciones, en caso de que existan elementos de presunción de violaciones a la ley, promover los procedimientos de responsabilidades que sean procedentes ante el Tribunal de lo Contencioso Administrativo y de Cuentas.
 (REFORMADA, P.O. 23 DE MARZO DE 2012)
 V. Entregar al Congreso del Estado, los informes de resultados de la revisión de la Cuenta Pública de los poderes del Estado, órganos autónomos y municipios, así como de la revisión y fiscalización practicada a los informes periódicos que le presenten los entes fiscalizables del Estado, en los plazos y con las modalidades que la ley señale.
 (REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)
