@@ -1,0 +1,8 @@
+P.O. 12 DE NOVIEMBRE DE 2016.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2095.- MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE COORDINACIÓN PARA EL FOMENTO DEL APROVECHAMIENTO SUSTENTABLE DE LAS FUENTES DE ENERGÍA RENOVABLE EN EL ESTADO DE OAXACA".]
+PRIMERO.- El presente Decreto entrará en vigor a partir del primero de diciembre de dos mil dieciséis.
+SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+TERCERO.- El Titular del Poder Ejecutivo del Estado expedirá el Reglamento de esta Ley dentro de los noventa días hábiles posteriores a su entrada en vigor.
+CUARTO.- Los recursos humanos, financieros y materiales adscritos a la Coordinación de Energías Renovables de la Secretaría de Turismo y Desarrollo Económico deberán de reasignarse a la Comisión, además de los que se aprueben en el Presupuesto de Egresos del Estado, debiendo intervenir en el ámbito de sus competencias, las Secretarias de Finanzas, de Administración y de la Contraloría y Transparencia Gubernamental.
+Se faculta a la Secretaría de Finanzas y a la Secretaria de Administración, en el ámbito de sus respectivas facultades, para realizar los cambios en las estructuras de los órganos que por este Decreto se creen o extingan, así como para realizar las adecuaciones programáticas y presupuestales que deriven de la aplicación del presente decreto.
+En todos los casos que por la aplicación de este Decreto se modifique la estructura orgánica de las dependencias y entidades o unidades administrativas de adscripción de los trabajadores de base, sus correspondientes derechos laborales serán respetados en términos de la Ley de Servicio Civil para los Empleados del Gobierno del Estado y demás Leyes aplicables de la materia.
