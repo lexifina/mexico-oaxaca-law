@@ -22,3 +22,5 @@ XIII. Cancelación de registro de cuenta catastral en el Sistema de Información
 También procederá la cancelación de registro de cuenta catastral en el Sistema de Información Territorial, cuando exista duplicidad de cuentas derivadas de programas de regularización de la tenencia de la tierra por las autoridades competente (sic) y dichas cuentas amparen el mismo bien inmueble.
 (ADICIONADA, P.O. 22 DE DICIEMBRE DE 2012)
 XIV. Deslinde Catastral.
+(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2016)
+Las operaciones antes señaladas se causarán y pagarán de conformidad con las cuotas que se establezcan en la Ley Estatal de Derechos.

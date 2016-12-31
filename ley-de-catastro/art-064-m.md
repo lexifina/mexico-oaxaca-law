@@ -1,5 +1,5 @@
-(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2012)
-ARTÍCULO 64 M.- El Instituto Catastral del Estado de Oaxaca, procederá a imponer multa equivalente de 500 a 1000 veces el salario mínimo, cuando los Peritos Valuadores incurran en lo siguiente:
+(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)
+ARTÍCULO 64 M.- El Instituto Catastral del Estado de Oaxaca, procederá a imponer multa equivalente de quinientas a mil veces el valor de la Unidad de Medida y Actualización vigente, cuando los Peritos Valuadores incurran en lo siguiente:
 N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.
 (ADICIONADA, P.O. 29 DE DICIEMBRE DE 2008)
 I. Presentar el avalúo con datos no reales, que afecten esencialmente el mismo;

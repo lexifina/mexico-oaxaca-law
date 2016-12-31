@@ -12,3 +12,5 @@ II. Contar con experiencia mínima de un año en materia de valuación inmobilia
 III. Contar con la Clave Única de Registro de Población y Registro Federal de Contribuyentes;
 IV. Exhibir currículum vitae actualizado; y
 V. Acreditar los conocimientos en materia catastral, mediante evaluación realizada a la conclusión del curso sobre valuación inmobiliaria, organizado por el Instituto Catastral del Estado de Oaxaca.
+(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2016)
+VI. Exhibir el comprobante de pago de derechos previstos en la Ley Estatal de Derechos por concepto de registro.
