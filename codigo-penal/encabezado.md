@@ -1,4 +1,3 @@
-[N. DE E. DEL ANÁLISIS PARA LA APLICACIÓN DE LA REFORMA DEL P.O. 20 DE DICIEMBRE DE 2013, SE ADVIERTE QUE EL ARTÍCULO SEGUNDO DEL DECRETO 2057, SE PUBLICA CON LAS OBSERVACIONES REALIZADAS POR EL PODER EJECUTIVO DEL ESTADO, POR OFICIO FECHADO EL 12 DE OCTUBRE DE 2013 Y RECIBIDO EN EL H. CONGRESO DEL ESTADO, CON FECHA 17 DEL MISMO MES Y AÑO, DE CONFORMIDAD CON LO DISPUESTO EN EL PÁRRAFO SEGUNDO DE LA FRACCIÓN VI DEL ARTÍCULO 53, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA.]
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 ELISEO JIMENEZ RUIZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA, A SUS HABITANTES HACE SABER:
@@ -1414,8 +1413,8 @@ III.- Cuando de no provocarse el aborto, la mujer embarazada corra peligro de mu
 IV.- Cuando el aborto se deba a causas eugenésicas graves según el previo dictámen de dos peritos.
 CAPITULO VIII.
 Abandono de personas.
-(REFORMADO, P.O. 7 DE FEBRERO DE 1998)
-317.- A quien abandone a un menor a otra persona cualquiera, incapaz de cuidarse a si mismo, o a un enfermo, teniendo obligación de cuidarlos, se le aplicarán de dos a seis años de prisión, privándolo, además de la patria potestad o tutela, si el inculpado fuera ascendiente o tutor de la persona ofendida. Si resultara daño alguno, se aplicarán las reglas de la acumulación.
+(REFORMADO, P.O. 3 DE MARZO DE 2017)
+317.- A quien abandone a un niño o niña, a persona con discapacidad, persona adulta mayor, a un enfermo u otra persona cualquiera, teniendo obligación de cuidarlos, se le aplicarán de cinco a ocho años de prisión, privándolo, además de la patria potestad, tutela y derechos hereditarios que le corresponda, si el inculpado fuera ascendiente, descendientes o tutor de la persona ofendida. Si resultara daño alguno, se aplicarán las reglas de la acumulación.
 318.- (DEROGADO, P.O. 30 DE ENERO DE 2016)
 319.- El delito de abandono de hogar sólo se perseguirá a petición del cónyuge ofendido o de los representantes legítimos de los hijos; a falta de representantes de los menores, la acción se iniciará por el Ministerio Público, a reserva de que el Juez de la causa designe un tutor especial para los efectos de este artículo.
 320.- (DEROGADO, P.O. 30 DE ENERO DE 2016)
@@ -1921,6 +1920,8 @@ V. Violencia sexual.- A toda acción u omisión que amenaza, pone en riesgo, les
 VI. Violencia contra los derechos reproductivos: A toda acción u omisión que limite o vulnere el derecho de las personas a decidir libre, responsable y voluntariamente sobre su función reproductiva, en relación con el número y espaciamiento de los hijos, acceso a métodos anticonceptivos de su elección, acceso a una maternidad elegida y segura, a servicios de atención prenatal, servicios obstétricos de emergencia y servicios de interrupción legal y segura del embarazo en casos de violación.
 (REFORMADO, P.O. 30 DE ENERO DE 2016)
 405.- A quien cometa el delito de violencia familiar se le impondrá de seis meses a cuatro años de prisión, pérdida de los derechos que tenga respecto de la víctima incluidos los de carácter sucesorio, patria potestad, tutela y alimentos, y se decretarán las medidas de protección conforme a lo establecido por la legislación en la materia; además se sujetará a tratamiento especializado que para personas agresoras de violencia familiar establece la Ley Estatal de Acceso de las Mujeres a una Vida Libre de Violencia de Género.
+(ADICIONADO, P.O. 3 DE MARZO DE 2017)
+La pena señalada en el párrafo anterior, se aumentará hasta en una mitad de su mínimo y su máximo; en los casos en que la violencia se ejerza en contra de personas adultas mayores o en contra de persona con discapacidad.
 En ningún caso se entenderá como tratamiento o rehabilitación, la violencia hacia persona alguna con trastorno mental, ni como forma de educación o formación hacia los menores de edad.
 (REFORMADO, P.O. 30 DE ENERO DE 2016)
 406.- En los casos previstos en este Título, el Ministerio Público, apercibirá al inculpado para que se abstenga de ejecutar cualquier tipo de violencia contra la víctima y decretará, de inmediato, bajo su más estricta responsabilidad, las órdenes de protección o medidas precautorias, necesarias para salvaguardar la integridad física y psíquica de la víctima durante la integración de la averiguación previa y hasta la conclusión de ésta.
