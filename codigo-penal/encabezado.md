@@ -1,3 +1,4 @@
+[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 ELISEO JIMENEZ RUIZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA, A SUS HABITANTES HACE SABER:
@@ -14,7 +15,6 @@ De los ámbitos de aplicación.
 I.- Por los delitos de la competencia de los Tribunales Comunes, cometidos en su territorio;
 II.- Por los delitos que se cometan en otra entidad federativa cuando produzcan efectos dentro del territorio oaxaqueño, salvo que por ellos el sujeto activo haya sido sentenciado por tribunales competentes de otro lugar; y
 III.- Por los delitos permanentes y los continuados cometidos en otra entidad federativa y que se sigan cometiendo en el Estado de Oaxaca.
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.
 (REFORMADO, P.O. 7 DE MAYO DE 2015)
 2o.- Este Código se aplicará a todas las personas, cualesquiera que sean su residencia o nacionalidad. A las personas físicas se les aplicará a partir de los dieciocho años de edad.
 (REFORMADO, P.O. 3 DE OCTUBRE DE 1998)
@@ -32,10 +32,8 @@ CAPITULO I.
 Del delito.
 (REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 1998)
 6o.- El delito puede ser realizado por acción o por omisión.
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.
 (REFORMADO, P.O. 7 DE MAYO DE 2015)
 Cuando el tipo prevé una acción con resultado material, el autor de la actividad es también autor de tal resultado sólo cuando éste es un efecto necesariamente producido por dicha actividad.
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.
 (REFORMADO, P.O. 7 DE MAYO DE 2015)
 7o.- Quien omita evitar un resultado material descrito en un tipo de acción, será considerado autor del mismo, sólo si:
 I. Es garante del bien jurídico;
@@ -46,7 +44,6 @@ a) Aceptó efectivamente su custodia;
 b) Voluntariamente formaba parte de una concreta comunidad que afronta peligros de la naturaleza;
 c) Con una actividad precedente, culposa o fortuita, generó el peligro para el bien jurídico; o,
 d) Se halla en una efectiva y concreta posición de custodia de la vida, la salud o integridad corporal de algún miembro de su familia o de su pupilo.
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.
 (REFORMADO, P.O. 7 DE MAYO DE 2015)
 8o.- Los delitos pueden ser dolosa o culposamente realizados.
 I. Actúa con dolo la persona que al momento de la realización del hecho se representa el resultado típico y quiere o acepta su realización.
@@ -84,7 +81,6 @@ d).- Que habiendo estado presentes en la ejecución del nuevo delito, no hubiere
 (REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 1998)
 CAPITULO III.
 De las causas de exclusión del delito.
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.
 (REFORMADO, P.O. 7 DE MAYO DE 2015)
 14.- El delito se excluye cuando se actualice alguna causa de atipicidad, de justificación o de inculpabilidad.
 Son causas de atipicidad: la ausencia de voluntad o de conducta, la falta de alguno de los elementos que integran la descripción legal del delito, así como el error de tipo.
@@ -111,10 +107,8 @@ II. Estado de necesidad disculpante: Se obre por la necesidad de salvaguardar un
 III. Inimputabilidad y acción libre en su causa: Al momento de realizar el hecho típico, el agente no tenga la capacidad de comprender el carácter ilícito de aquél o de conducirse de acuerdo con esa comprensión, en virtud de padecer trastorno mental o desarrollo intelectual retardado, a no ser que el sujeto hubiese provocado su trastorno mental para en ese estado cometer el hecho, en cuyo caso responderá por el resultado típico producido en tal situación.
 Cuando la capacidad a que se refiere el párrafo anterior se encuentre disminuida, se estará a lo dispuesto en este código.
 IV. Inexigibilidad de otra conducta: En atención a las circunstancias que concurren en la realización de una conducta ilícita, no sea racionalmente exigible al sujeto una conducta diversa a la que realizó, en virtud de no haberse podido conducir conforme a derecho.
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.
 (REFORMADO, P.O. 7 DE MAYO DE 2015)
 15.- Al que se exceda en los casos de legítima defensa, estado de necesidad, cumplimiento de un deber o ejercicio de un derecho, a que se refiere el artículo anterior, se le impondrá la pena del delito culposo.
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.
 (REFORMADO, P.O. 7 DE MAYO DE 2015)
 16.- Las causas de exclusión del delito se harán valer de oficio cuando se actualice alguna de ellas.
 (REFORMADO, P.O. 3 DE OCTUBRE DE 1998)
@@ -369,21 +363,17 @@ Se entiende por pandilla, la reunión habitual, ocasional o transitoria, de tres
 (REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 1998)
 CAPITULO V.
 Imputabilidad disminuida.
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.
 (REFORMADO, P.O. 7 DE MAYO DE 2015)
 62.- Si la capacidad del autor de comprender el carácter ilícito del hecho, o de determinarse de acuerdo con esa comprensión, solo se encuentra disminuida por las causas señaladas en el artículo 14 de este Código, a juicio del juzgador, según proceda, se le impondrán desde las dos terceras partes del mínimo a las dos terceras partes del máximo de la punibilidad, correspondiente al delito cometido, o de la medida de seguridad a que se refiere el artículo 56 o bien ambas, en caso de ser necesario, tomando en cuenta el grado de afectación de la imputabilidad del autor.
 63.- (DEROGADO, P.O. 28 DE NOVIEMBRE DE 1998)
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.
 (REFORMADA SU DENOMINACIÓN, P.O. 7 DE MAYO DE 2015)
 CAPITULO VI.
 Errores vencibles.
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.
 (REFORMADO, P.O. 7 DE MAYO DE 2015)
 64.- El error de tipo vencible, se sancionará desde la cuarta parte del mínimo a la cuarta parte del máximo que corresponda al delito doloso de que se trate, siempre y cuando dicho ilícito admita la comisión culposa. En el caso del error de prohibición vencible, la punibilidad será de una tercera parte del mínimo a la tercera parte del máximo del respectivo delito.
 (REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 1998)
 CAPITULO VII.
 Delito continuado.
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.
 (REFORMADO, P.O. 7 DE MAYO DE 2015)
 65.- En caso de delito continuado, la pena correspondiente al delito cometido se aumentará hasta en una mitad de la correspondiente al máximo del delito cometido.
 (REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 1998)
@@ -523,15 +513,12 @@ II.- Si fuere la de confinamiento, se conmutará por multa, desde un tercio a un
 97.- Cuando el sentenciado acredite plenamente que no puede cumplir algunas de las circunstancias de la sanción que le fue impuesta, por ser incompatible con su edad, sexo, salud o constitución física, la autoridad judicial respectiva podrá modificar aquélla, siempre que la modificación no sea esencial.
 (REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)
 98.- La conmutación no exime de la reparación del daño.
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.
 (REFORMADA SU DENOMINACIÓN, P.O. 7 DE MAYO DE 2015)
 TITULO SEPTIMO.
 Extinción de la pretensión punitiva y de la potestad de ejecutar las penas y medidas de seguridad.
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.
 (ADICIONADO CON EL ARTÍCULO QUE LA INTEGRA, P.O. 7 DE MAYO DE 2015)
 CAPITULO UNICO.
 De las causas de extinción.
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.
 (ADICIONADO, P.O. 7 DE MAYO DE 2015)
 98 bis. La pretensión punitiva y la potestad para ejecutar las penas y medidas de seguridad se extinguirán por las siguientes causas:
 I. Muerte del sujeto activo;
@@ -543,19 +530,16 @@ VI. Prescripción;
 VII. Supresión del tipo penal;
 VIII. Existencia de una sentencia firme anterior dictada en proceso instaurado por los mismos hechos, y
 IX. El cumplimiento del criterio de oportunidad o la solución alterna correspondiente, en términos del Código Nacional de Procedimientos Penales.
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.
 (REFORMADA [N. DE E. ANTES CAPÍTULO I], P.O. 7 DE MAYO DE 2015)
 SECCION PRIMERA.
 Muerte del sujeto activo.
 (REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)
 99.- La muerte del sujeto activo extingue la acción persecutoria y la potestad de ejecutar pena y medidas de seguridad a excepción de la reparación del daño y del decomiso de los instrumentos del delito.
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.
 (REFORMADA [N. DE E. ANTES CAPÍTULO II], P.O. 7 DE MAYO DE 2015)
 SECCION SEGUNDA.
 Amnistía.
 (REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)
 100.- La amnistía extingue la acción persecutoria y la potestad de ejecutar pena y medidas de seguridad, excepto la reparación del daño y el decomiso de los instrumentos del delito, en los términos de la ley que la otorgue; si no se expresaren, se entenderá que la acción persecutoria y la potestad para aplicar penas y medidas de seguridad se extinguen con todos sus efectos, con relación a todos los sujetos activos.
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.
 (REFORMADA [N. DE E. ANTES CAPÍTULO III], P.O. 7 DE MAYO DE 2015)
 SECCION TERCERA.
 Perdón de la persona ofendida en los delitos de querella o por cualquier otro acto equivalente.
@@ -565,11 +549,9 @@ Lo dispuesto en el párrafo anterior es igualmente aplicable a los delitos que s
 Cuando sean varios los ofendidos y cada uno pueda ejercer separadamente la facultad de perdonar al sujeto activo del delito y al encubridor, el perdón sólo surtirá efectos por lo que hace a quien lo otorgue.
 El perdón sólo beneficia al inculpado en cuyo favor se otorga a menos que el ofendido o el legitimado para otorgarlo, hubiese obtenido la satisfacción de sus intereses ó derechos, caso en el cual beneficiará a todos los inculpados y al encubridor.
 El perdón del ofendido y del legitimado para otorgarlo también extingue la ejecución de la pena, siempre y cuando se otorgue en forma indubitable ante la autoridad ejecutora y se trate de los delitos mencionados en los párrafos primero y segundo.
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.
 (REFORMADA [N. DE E. ANTES CAPÍTULO IV], P.O. 7 DE MAYO DE 2015)
 SECCION CUARTA.
 Reconocimiento de inocencia del sentenciado o anulación de la sentencia e indulto.
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.
 (REFORMADO, P.O. 7 DE MAYO DE 2015)
 102.- Cuando aparezca que el sentenciado es inocente, se procederá al reconocimiento de su inocencia, en los términos del Código Nacional de Procedimientos Penales, según sea el caso y se estará a lo dispuesto en el artículo 50 de este Código.
 (REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)
@@ -594,12 +576,10 @@ También procederá el indulto, de oficio o a petición de parte, cuando se dict
 113.- (DEROGADO, P.O. 3 DE OCTUBRE DE 1998)
 114.- (DEROGADO, P.O. 3 DE OCTUBRE DE 1998)
 115.- (DEROGADO, P.O. 3 DE OCTUBRE DE 1998)
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.
 (REFORMADA [N. DE E. ANTES CAPÍTULO V], P.O. 7 DE MAYO DE 2015)
 SECCION QUINTA.
 Cumplimiento de la pena o medida de seguridad.
 116.- La rehabilitación tiene por objeto reintegrar al sentenciado en los derechos civiles, políticos o de familia que había perdido en virtud de sentencia dictada en un proceso o en cuyo ejercicio estuviere suspenso; o reintegrarlo en el desempeño de una profesión, cargo o empleo de que también hubiere sido privado o en cuyo ejercicio esté suspenso.
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.
 (REFORMADA [N. DE E. ANTES CAPÍTULO VI], P.O. 7 DE MAYO DE 2015)
 SECCION SEXTA.
 Prescripción.
@@ -640,11 +620,9 @@ El Juez de la causa podrá interrumpir la prescripción del delito a petición d
 134.- Los reos de homicidio intencional, feminicidio, lesiones o violencia graves, a quienes se hubiere impuesto la prohibición de ir a determinado lugar, y cuya sanción corporal haya prescrito, no podrán residir en el mismo lugar que la víctima u ofendido o sus descendientes, ascendientes, cónyuge o hermanos, sino transcurrido después de consumada la prescripción, un tiempo igual al que debiera durar la sanción.
 135.- (DEROGADO, P.O. 2 DE OCTUBRE DE 2010)
 136.- (DEROGADO, P.O. 3 DE OCTUBRE DE 1998)
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.
 (ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 7 DE MAYO DE 2015)
 SECCION SEPTIMA.
 De las demás causas de extinción.
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.
 (ADICIONADO, P.O. 7 DE MAYO DE 2015)
 136 Bis. Respecto de las causas de extinción señaladas en las fracciones VII, VIII y IX del artículo 98 Bis, se estará a lo dispuesto por el Código Nacional de Procedimientos Penales.
 LIBRO SEGUNDO.
@@ -893,7 +871,9 @@ Abuso de autoridad y otros delitos oficiales.
 208.- Comete los delitos a que este capítulo se refiere, el funcionario público, agente del Gobierno o su comisionado, sea cual fuere su categoría, en los casos siguientes:
 I.- Cuando para impedir la ejecución de una ley, decreto o reglamento o disposición de carácter general, el cobro de un impuesto o el cumplimiento de una resolución judicial, pida auxilio a la fuerza pública o la emplee con ese objeto;
 II.- Cuando ejerciendo sus funciones o con motivo de ellas hiciere violencia a una persona sin causa legítima o la vejare injustamente o la insultare, o emplee términos injuriosos u ofensivos contra alguna de las partes, personas o autoridades que intervengan en el asunto de que se trate;
-III.- Cuando indebidamente retarde o niegue a los particulares el despacho de sus asuntos, la protección o servicio que tenga obligación de prestarles o impida la presentación de solicitudes, o retarde el curso de éstas;
+(REFORMADA, P.O. 26 DE ABRIL DE 2017)
+III.- Cuando indebidamente discriminen, dilaten, obstaculicen, entorpezcan, impidan o niegue (sic), a los particulares, el despacho de sus asuntos, la protección o servicio que tenga obligación de prestarles o impida la presentación de solicitudes o retarde el curso de estas.
+La pena se aumentará hasta en un tercio cuando las conductas contenidas en el párrafo anterior se cometan, en perjuicio de una mujer por razón de género.
 IV.- Cuando fuera de procedimiento legal quebrante los sellos que ella misma u otra autoridad haya fijado;
 V.- Cuando el encargado de una fuerza pública, requerido legalmente por una autoridad civil para que le preste auxilio, se niegue indebidamente a dárselo;
 VI.- Cuando teniendo a su cargo caudales del erario les dé una aplicación distinta a aquella a que estuvieren destinados o hiciere un pago ilegal;
