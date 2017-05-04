@@ -1,0 +1,8 @@
+P.O. 3 DE MAYO DE 2017.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 601.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal, en todo lo que se oponga al contenido del presente Decreto.
+TERCERO.- Una vez que el presente Decreto entre en vigor la elección del Fiscal General del Estado de Oaxaca se llevará a cabo conforme a las nuevas disposiciones de esta Constitución; para ello, dentro del plazo de veinte días el Congreso remitirá al titular del Ejecutivo del Estado la lista para ocupar el cargo de Fiscal General del Estado de Oaxaca, para efectos que se lleve a cabo el procedimiento de designación que prevé el artículo 114 apartado D de la Constitución Política del Estado Libre y Soberano de Oaxaca.
+Realizada que fuere la elección del Fiscal General del Estado de Oaxaca, se procederá en los términos de esta Constitución y la Ley, a la elección y nombramiento de los titulares de las fiscalías especializadas en combate a la corrupción y la de Delitos Electorales.
+CUARTO.- Con el fin de dar cumplimiento al procedimiento de integración de la lista de candidatos a Fiscal General del Estado de Oaxaca, se faculta, por única ocasión, a la Junta de Coordinación Política de la Sexagésima Tercera Legislatura del H. Congreso del Estado de Oaxaca para que emita los lineamientos.
+QUINTO.- El Fiscal General del Estado de Oaxaca deberá rendir protesta de Ley ante el Congreso del Estado el mismo día de su designación.
