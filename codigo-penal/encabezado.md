@@ -1,4 +1,3 @@
-[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 ELISEO JIMENEZ RUIZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA, A SUS HABITANTES HACE SABER:
@@ -195,14 +194,15 @@ Si no alcanza a cubrirse la multa con los bienes del sentenciado o con el produc
 (REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 1998)
 CAPITULO VI.
 Reparación del daño.
-(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)
-27.- La reparación del daño comprende:
+(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2017)
+27.- La reparación del daño debe ser integral, adecuada, eficaz, efectiva, proporcional a la gravedad del daño causado y a la afectación sufrida, comprenderá cuando menos:
 (REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2001)
 a).- La restitución de la cosa obtenida por la comisión del delito; si esto no fuera posible, el pago del precio de la misma;
 (REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2001)
 b).- La Indemnización del daño material y moral causado, incluyendo el pago de los tratamientos curativos que, como consecuencia del delito, sean necesarios para la recuperación de la salud de la víctima.
 (REFORMADO, P.O. 16 DE AGOSTO DE 2008)
 En los casos de delitos contra la libertad, la seguridad y el normal desarrollo psicosexual, de violencia intrafamiliar y otros que así lo requieran, además se comprenderá el pago de los tratamientos psicoterapéuticos que sean necesarios para la víctima, así como todos los gastos erogados por la víctima del delito, ofendido o su representante legal para el restablecimiento de su salud física o psicológica; y
+(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)
 c).- El resarcimiento de los perjuicios causados.
 (REFORMADO PRIMER PÁRRAFO, P.O. 4 DE OCTUBRE DE 2012)
 28. El monto de la reparación del daño, será fijado por los jueces de acuerdo con las pruebas que obran en el proceso y la afectación causada a la víctima u ofendido del delito, salvo lo dispuesto en el artículo 29.
@@ -212,9 +212,10 @@ Cuando el daño se cause a las personas y produzca la muerte, incapacidad total 
 La indemnización a que se refiere el párrafo anterior, no puede ser inferior al monto señalado en el artículo siguiente.
 (REFORMADO, P.O. 3 DE OCTUBRE DE 1998)
 29.- A falta de pruebas específicas para fijar el monto de la reparación del daño:
-(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE OCTUBRE DE 2012)
-I.- En caso de homicidio y feminicidio, el monto será la cantidad equivalente al importe de setecientos noventa días, calculados sobre el triple del salario mínimo vigente en el Estado.
-Tratándose de menores de dieciocho años o de incapacitados, que no contribuyan económicamente al sustento familiar, el monto será la cantidad mencionada en el párrafo anterior, calculada sobre el doble del salario mínimo vigente;
+(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2017)
+I.- En caso de homicidio y feminicidio, los jueces, para calcular el monto de la reparación, tomarán como base la Unidad de Medida y Actualización, y las disposiciones establecidas en el artículo 502 de la Ley Federal del Trabajo, en materia de indemnizaciones en caso de muerte por riesgo de trabajo.
+(REFORMADO, P.O. 12 DE MAYO DE 2017)
+Tratándose de menores de dieciocho años o de incapacitados, que no contribuyan económicamente al sustento familiar, el monto será la cantidad equivalente al importe de setecientos noventa veces, calculada sobre el valor diario de la Unidad de Medida y Actualización vigente en el momento de la comisión del delito;
 (REFORMADA PRIMER PÁRRAFO, P.O. 28 DE NOVIEMBRE DE 1998)
 II.- En caso de lesiones que dejaren secuelas, el monto se determinará con base en la tabulación de indemnizaciones que fija la Ley Federal del Trabajo, computado sobre el triple del salario mínimo vigente.
 Si las secuelas fueren cicatrices perpetuas y notables en cara o en pabellón auricular, el monto será el equivalente de uno a dos años de salarios mínimos, según el grado de la notabilidad; y
@@ -243,6 +244,8 @@ Cuando se sobresea en el proceso penal o se dicte sentencia absolutoria, el juez
 Para los efectos de este artículo, los terceros propietarios de vehículos y otros objetos de uso lícito, serán solidariamente responsables con el agente del delito por los daños causados.
 (REFORMADO, P.O. 3 DE OCTUBRE DE 1998)
 35.- El pago de la reparación del daño, se hará ante el tribunal de origen dentro del plazo razonable que se le haya fijado; sí no lo hiciere, el Estado lo exigirá mediante el procedimiento económico coactivo.
+(ADICIONADO, P.O. 12 DE MAYO DE 2017)
+La obligación de pagar la reparación de los daños es preferente con respecto al de la multa y se cubrirá primero que cualquier otra de las obligaciones personales que se hubieren contraído con posterioridad a la comisión del delito, a excepción de las relacionadas con los alimentos y los salarios.
 (REFORMADO, P.O. 3 DE OCTUBRE DE 1998)
 36.- La reparación del daño, cuando deba ser hecha por el sujeto activo, se exigirá por el Ministerio Público en todo proceso penal. El incumplimiento de esta obligación ministerial, se hará constar en la sentencia y el juez lo comunicará al Procurador General de Justicia, quien sancionará al Agente del Ministerio Público infractor, con una multa de treinta a sesenta días multa; sin perjuicio de otras acciones que puedan ejercerse en su contra.
 Hecha la solicitud de condena de la reparación del daño por el Ministerio Público, el juez resolverá lo conducente. Si el Juez no resuelve sobre dicha solicitud, será sancionado por el Tribunal de alzada en los términos del párrafo anterior.
