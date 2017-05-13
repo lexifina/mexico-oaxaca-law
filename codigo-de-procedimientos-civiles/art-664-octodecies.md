@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 12 DE MAYO DE 2017)
+Artículo 664 Octodecies.- Una vez desahogadas todas y cada una de las pruebas ofrecidas por las partes y aquellas que el juzgador considere pertinentes, en beneficio del interés superior del niño, se dictara sentencia la cual se pronunciará de manera breve y concisa, en el mismo momento de la audiencia de ser así posible o dentro de los quince días siguientes.

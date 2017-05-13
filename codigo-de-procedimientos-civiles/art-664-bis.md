@@ -1,0 +1,4 @@
+(ADICIONADO, P.O. 12 DE MAYO DE 2017)
+Artículo 664 Bis.- El cónyuge que desee disolver el vínculo matrimonial de manera unilateral podrá ocurrir al juzgado competente en los términos del artículo 278 del Código Civil, presentando su demanda por escrito y con las formalidades que este Código señala para una demanda, a la que acompañarán el convenio que se exige en el artículo 279 del Código citado, debiendo ofrecer todas la (sic) pruebas tendientes a acreditar la procedencia de su propuesta de convenio, así como una copia certificada del acta de matrimonio y de las de nacimiento de los hijos menores de edad o incapacitados, si los hubiere.
+En la demanda, se podrá pedir la aplicación de medidas precautorias, acompañando en su caso, la documentación que se estime necesaria.
+Deberá exhibir copia de la demanda y documentos exhibidos para su traslado.

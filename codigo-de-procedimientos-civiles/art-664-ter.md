@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 12 DE MAYO DE 2017)
+Artículo 664 Ter.- En términos de la Ley General de Derechos de Niñas, Niños y Adolescentes, en el auto de inicio, el juzgador deberá dar vista, a la Procuraduría de Protección, a efecto de que preste asesoría y, en su caso, representación en suplencia a niñas, niños y adolescentes, sin perjuicio de las atribuciones que le correspondan al Ministerio Público, así como intervenir oficiosamente en el procedimiento de divorcio, con el objetivo de velar el respeto a los derechos de éstos.

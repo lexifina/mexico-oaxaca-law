@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 12 DE MAYO DE 2017)
+Artículo 664 Septies.- El demandado formulará la contestación en los términos previstos para la demanda. En la misma contestación y en caso de no estar de acuerdo con el convenio, deberá presentar su contrapropuesta, debiendo anexar las pruebas necesarias relacionadas con la misma. Si en la contestación se fuere omiso sobre la conformidad o no del convenio, el juzgador prevendrá al cónyuge para que se pronuncie al respecto. De esta nueva propuesta debe darse vista a la otra parte por tres días.
