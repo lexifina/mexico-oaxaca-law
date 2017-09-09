@@ -1,0 +1,7 @@
+P.O. 9 DE SEPTIEMBRE DE 2017.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 698.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE COORDINACIÓN FISCAL PARA EL ESTADO DE OAXACA; Y SE ADICIONAN LAS FRACCIONES XIV Y XV AL ARTÍCULO 31, DE LA LEY ESTATAL DE DERECHOS".]
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+SEGUNDO. Las disposiciones contenidas en el presente Decreto, prevalecerán sobre aquellas de igual o menor rango que se les opongan, aun cuando no estén expresamente derogadas.
+TERCERO. Únicamente por el Ejercicio Fiscal 2017, los contribuyentes que utilicen los servicios contemplados en la fracción XIV y XV del artículo 31 de la Ley Estatal de Derechos, podrán pagar los servicios hasta el treinta de septiembre de dos mil diecisiete.
+CUARTO. El Estado transferirá a los Municipios el total de los recursos provenientes del cobro de la prestación de los servicios prestados por el Estado, en términos de lo dispuesto por la fracción XIII del artículo 25 de la Ley de Coordinación Fiscal para el Estado de Oaxaca, y de las fracciones XIV y XV del artículo 31 de la Ley Estatal de Derechos, en el marco de los Convenios de Coordinación y Colaboración Administrativa que sean celebrados entre el Estado y los Municipios.
+Los recursos a que se refiere el párrafo anterior serán destinados por los Municipios preferentemente a obras y acciones de infraestructura básica y desarrollo social.
