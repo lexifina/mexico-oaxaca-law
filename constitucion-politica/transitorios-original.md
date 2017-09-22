@@ -24,4 +24,4 @@ Por tanto, mando que se imprima, publique por bando solemne, circule y se le dé
 Dado en el Palacio de los Poderes del Estado, en la ciudad de Oaxaca de Juárez, a los quince días del mes de abril de mil novecientos veintidós.- M. García Vigil. Al C. Licenciado Lino Ramón Campos Ortega, Oficial Mayor encargado de la Secretaría General del Despacho.- Presente.
 Y lo comunico a usted para su conocimiento y demás efectos.
 SUFRAGIO EFECTIVO NO REELECCION.- Oaxaca de Juárez, a quince de abril de mil novecientos veintidós.- Campos Ortega.- Al C...
-N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCIÓN.
+[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]
