@@ -27,3 +27,4 @@ SECRETARIO GENERAL DE GOBIERNO.
 ING. CARLOS SANTIAGO CARRASCO.
 Al. C…
 NOTA: Las presentes firmas corresponden al Decreto N° 2083.- por el que la Sexagésima Segunda Legislatura Constitucional del Estado Libre y Soberano de Oaxaca; decreta la Ley de Coordinación Estatal de las Zonas Económicas Especiales.
+[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]
