@@ -1,0 +1,5 @@
+TRANSITORIOS:
+PRIMERO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+SEGUNDO: Se abroga la Ley de Deuda Publica, publicada mediante el Decreto número No. (sic) 1180 en el Periódico Oficial del Estado el 15 de diciembre de 2012 y se derogan todas las disposiciones que se opongan al presente Decreto.
+"Dado en el Salón de Sesiones del H. Congreso del Estado, San Raymundo Jalpan, Centro, Oaxaca, a 30 de septiembre de 2017.- Dip. Samuel Gurrión Matías, Presidente.- Dip. Hilda Graciela Pérez Luis, Secretaria.- Dip. Leslie Vibsania Mendoza Zavaleta, Secretaria.- Dip. María Mercedes Rojas Saldaña, Secretaria.- Rúbricas."
+Por lo tanto, mando que se imprima, publique, circule y se le dé el debido cumplimiento. Palacio de Gobierno, Centro, Oax., a 08 de Noviembre de 2017. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. Mtro. Alejandro Ismael Murat Hinojosa.- Rúbrica.- El Secretario General de Gobierno. Lic. Héctor Anuar Mafud Mafud.- Rúbrica.
