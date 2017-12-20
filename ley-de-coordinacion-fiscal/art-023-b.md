@@ -2,10 +2,14 @@
 ARTICULO 23 B.- Las Aportaciones y los accesorios que reciban los Ejecutores de gasto local, estarán sujetas a las etapas y a la competencia de las siguientes autoridades:
 I. Desde la etapa de distribución de las Aportaciones que le correspondan a los Municipios hasta la entrega de dichos recursos estará a cargo de la Secretaría de la Contraloría y Transparencia Gubernamental;
 II. Recibidos los recursos de las Aportaciones de que se trate por los Ejecutores de gasto local hasta su erogación total, corresponderá a la Secretaría de la Contraloría y Transparencia Gubernamental en el ámbito local, tratándose de los Municipios por la Contraloría Municipal;
-III. En el ejercicio de dichos recursos, los Ejecutores de gasto local deberán sujetarse a la evaluación del desempeño con base en indicadores, la que estará a cargo de la Instancia Técnica de Evaluación y la Secretaría; respecto de los recursos ejercidos por los Municipios estará a cargo de la Auditoría Superior del Estado;
-Los resultados de las evaluaciones deberán ser informados en los términos del artículo 48 de la Ley de Coordinación.
-IV. La fiscalización de la Cuenta Pública del Estado y Municipios, será efectuada por el Congreso por conducto de la Auditoria Superior del Estado, a fin de verificar que los Ejecutores de gasto local aplicaron los recursos de las Aportaciones para los fines previstos en la Ley de Coordinación.
-La Auditoria Superior del Estado verificará que los Ejecutores de gasto local cumplieron con las disposiciones legales y administrativas federales.
+(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)
+III. En el ejercicio de dichos recursos, los Ejecutores de gasto local deberán sujetarse a la evaluación del desempeño con base en indicadores, la que estará a cargo de la Instancia Técnica de Evaluación y la Secretaría; respecto de los recursos ejercidos por los Municipios, la evaluación estará a cargo del Órgano de Fiscalización.
+Los resultados de las evaluaciones deberán ser informados en los términos del artículo 48 de la Ley de Coordinación, y
+(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)
+IV. La fiscalización de la Cuenta Pública del Estado y Municipios, será efectuada por el Congreso por conducto del Órgano de Fiscalización, a fin de verificar que los Ejecutores de gasto local aplicaron los recursos de las Aportaciones para los fines previstos en la Ley de Coordinación.
+(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)
+El Órgano de Fiscalización verificará que los Ejecutores de gasto local cumplieron con las disposiciones legales y administrativas federales.
 Cuando las autoridades señaladas en las fracciones I y II, en el ejercicio de las etapas que se señalan conozcan que los recursos de las Aportaciones no han sido aplicados a los fines que por cada Fondo se señale en la Ley de Coordinación, deberán hacerlo del conocimiento de la Auditoría Superior de la Federación y de la Función Pública en forma inmediata.
-Por su parte la Auditoría Superior del Estado detecte que los recursos de las Aportaciones no se han destinado a los fines establecidos en la Ley de Coordinación, deberá hacerlo del conocimiento inmediato de la Autoría (sic) Superior de la Federación.
+(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)
+Por su parte, cuando el Órgano de Fiscalización detecte que los recursos de las Aportaciones no se han destinado a los fines establecidos en la Ley de Coordinación, deberá hacerlo del conocimiento inmediato de la Auditoría Superior de la Federación.
 Las responsabilidades administrativas, civiles y penales en que incurran los servidores públicos locales o municipales por el manejo o aplicación indebidos de los recursos de las Aportaciones de la Ley de Coordinación, serán determinados y sancionados por las autoridades federales o locales competentes, en los términos de las disposiciones aplicables.

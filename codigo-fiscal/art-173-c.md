@@ -1,0 +1,4 @@
+(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)
+ARTÍCULO 173 C. La diligencia deberá constar en un acta donde consten los datos correspondientes al procedimiento de clausura, en la que se hará constar en forma pormenorizada los hechos u omisiones conocidos y en su caso las irregularidades detectadas.
+El acta deberá ser firmada por el servidor público que la levante y por el sujeto obligado, su representante legal o la persona, con quien se entienda la diligencia y por dos testigos de asistencia, quienes serán nombrados por la persona que atienda la diligencia y a falta de tal nombramiento, lo hará el servidor público actuante.
+De dicha acta se dejará copia a la persona con quien se haya entendido la diligencia. Si la persona con quien se entendió la diligencia o los testigos se nieguen a firmarla o a aceptar copia del acta, dicha circunstancia se hará constar en la propia acta, sin que esto afecte su validez y valor probatorio.
