@@ -593,8 +593,8 @@ Prescripción.
 120.- Los términos para la prescripción de las sanciones serán igualmente continuos y correrán desde el día siguiente a aquél en que el condenado se sustraiga a la acción de la autoridad, si las sanciones son corporales, y si no lo son, desde la fecha de la sentencia ejecutoria.
 (REFORMADO, P.O. 2 DE OCTUBRE DE 2010)
 121.- Cuando la sanción correspondiente del delito de que se trate no sea privativa de libertad, la prescripción de la acción penal operará en dos años.
-(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2011)
-122.- La acción penal prescribirá en un plazo igual al tiempo de la sanción corporal que corresponda al delito de que se trata; pero en ningún caso bajará de tres años.
+(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)
+122.- La acción penal prescribirá en un plazo igual al término medio aritmético de la pena privativa de la libertad que señala la ley para el delito de que se trate, pero en ningún caso será menor de tres años.
 (ADICIONADO, P.O. 6 DE FEBRERO DE 2010)
 122 Bis.- Cuando se trate de delitos cometidos en personas menores de edad, previstos en los artículos 194 fracciones II a V, 195, 196, 241, 241 BIS, 246, 247, 248 BIS fracciones I a III, 255, 347 BIS y 348 BIS F, la acción penal será imprescriptible.
 (REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE SEPTIEMBRE DE 2011)
@@ -954,12 +954,27 @@ Al que comete el delito de cohecho se le impondrán las siguientes sanciones:
 Cuando la cantidad o el valor de la dádiva, de los bienes o la promesa no exceda del equivalente de quinientas veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, o no sea valuable, se impondrán de tres meses a dos años de prisión y de treinta a cien días multa.
 Cuando la cantidad o el valor de la dádiva, los bienes, promesa o prestación exceda de quinientas veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, se impondrán de dos a catorce años de prisión y de cien a ciento cincuenta días multa.
 En ningún caso se devolverá a los responsables del delito de cohecho, el dinero o dádivas entregadas, las mismas se aplicarán en beneficio del Estado.
+(REFORMADA SU DENOMINACIÓN, P.O. 26 DE DICIEMBRE DE 2017)
 CAPITULO V.
-Peculado y concusión.
-(REFORMADO, P.O. 27 DE NOVIEMBRE DE 1982)
-212.- Al que cometa peculado, se le aplicará de uno a quince años de prisión, multa de mil a cincuenta mil pesos, destitución de empleo o cargo e inhabilitación de dos a seis años para obtener otro.
-213.- Comete el delito de peculado: todo empleado o funcionario encargado de un servicio público, del Estado, municipal o descentralizado, aunque sea en comisión o por tiempo limitado, que para usos propios o ajenos, distraiga de su objeto el dinero, valores, fincas o cualquiera otra perteneciente al Estado, a un Municipio, a un organismo descentralizado o a algún particular, si por razón de su cargo los hubiere recibido en administración, en depósito o por cualquier otra causa.
-214.- (DEROGADO, P.O. 27 DE NOVIEMBRE DE 1982)
+Peculado, Tráfico de Influencias y concusión.
+(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)
+212.- Comete el delito de peculado:
+I.- Todo servidor público que para su beneficio o el de una tercera persona física o moral, distraiga de su objeto dinero, valores, fincas o cualquier otra cosa perteneciente al Estado o a un particular, si por razón de su cargo los hubiere recibido en administración, en depósito, en posesión o por otra causa;
+II.- El servidor público que ilícitamente utilice fondos públicos u otorgue alguno de los actos a que se refiere el artículo de uso ilícito de atribuciones y facultades con el objeto de promover la imagen política o social de su persona, la de su superior jerárquico o la de un tercero, o a fin de denigrar a cualquier persona;
+III.- Cualquier persona que solicite o acepte realizar las promociones o denigraciones a que se refiere la fracción anterior, a cambio de fondos públicos o del disfrute de los beneficios derivados de los actos a que se refiere el artículo de uso ilícito de atribuciones y facultades, y
+IV.- Cualquier persona que sin tener el carácter de servidor público y estando obligada legalmente a la custodia, administración o aplicación de recursos públicos, los distraiga de su objeto para usos propios o ajenos o les dé una aplicación distinta a la que se les destinó.
+(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)
+213.- Al que cometa el delito de peculado se le impondrán las siguientes sanciones:
+Cuando el monto de lo distraído o de los fondos utilizados indebidamente no exceda del equivalente de quinientas veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, o no sea valuable, se impondrán de tres meses a dos años de prisión y de treinta a cien días multa.
+Cuando el monto de lo distraído o de los fondos utilizados indebidamente exceda de quinientas veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, se impondrán de dos años a catorce años de prisión y de cien a ciento cincuenta días multa.
+Cuando los recursos materia del peculado sean aportaciones para los fines de seguridad pública se aplicará hasta un tercio más de las penas señaladas en los párrafos anteriores.
+(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE DICIEMBRE DE 2017)
+214.- Comete el delito de tráfico de influencia:
+I.- El servidor público que por sí o por interpósita persona promueva o gestione la tramitación o resolución ilícita de negocios públicos ajenos a las responsabilidades inherentes a su empleo, cargo o comisión;
+II.- Cualquier persona que promueve la conducta ilícita del servidor público o se preste a la promoción o gestión a que hace referencia la fracción anterior;
+III.- El servidor público que por sí, o por interpósita persona indebidamente, solicite o promueva cualquier resolución o la realización de cualquier acto materia del empleo, cargo o comisión de otro servidor público, que produzca beneficios económicos para sí o para cualquiera de las personas a que hace referencia la primera fracción del artículo 217 de este Código; y
+IV.- Al particular que, sin estar autorizado legalmente para intervenir en un negocio público, afirme tener influencia ante los servidores públicos facultados para tomar decisiones dentro de dichos negocios, e intervenga ante ellos para promover la resolución ilícita de los mismos, a cambio de obtener un beneficio para sí o para otro.
+Al que cometa el delito de tráfico de influencia, se le impondrán de dos años a seis años de prisión y de treinta a cien días multa.
 (REFORMADO, P.O. 15 DE DICIEMBRE DE 2017)
 215.- Comete el delito de concusión: el servidor público que con el carácter de tal y a título de impuesto o contribución, recargo, renta, rédito, salario o emolumento, exija, por sí o por medio de otro, dinero, valores, servicios o cualquiera otra cosa que sepa no ser debida, o en mayor cantidad que la señalada por la Ley.
 Al que cometa el delito de concusión se le impondrán las siguientes sanciones:
@@ -1052,8 +1067,8 @@ V.- El que haga uso de una certificación verdadera expedida para otro, como si 
 VI.- El que a sabiendas gestione, obtenga o haga uso para sí o para otro, de un documento falso, sea público o privado.
 CAPITULO III.
 Falsedad en declaraciones judiciales o en informes dados a una Autoridad.
-(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2003)
-230.- Se impondrán de dos meses a dos años de prisión y multa de diez a veinte días multa:
+(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE DICIEMBRE DE 2017)
+230.- Se impondrán de dos a seis años de prisión y multa de cien a trescientas veces el valor de la Unidad de Medida y Actualización.
 (REFORMADA, P.O. 20 DE DICIEMBRE DE 2003)
 I.- Al que proporcione a una autoridad distinta de la judicial en ejercicio de sus funciones o con motivo de ellas, informes o datos falsos;
 II.- Al que examinado por la Autoridad Judicial como testigo, faltare a la verdad sobre el hecho que se trata de averiguar, ya sea negando u ocultando maliciosamente la existencia de alguna circunstancia que pueda servir de prueba de la verdad o falsedad del hecho principal, o que aumente o disminuya su gravedad.
@@ -1075,11 +1090,16 @@ II.- Al que para eludir la práctica de una diligencia judicial, o una notificac
 (ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 2013) (REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
 CAPITULO IV BIS
 De la Suplantación de Identidad.
+(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE DICIEMBRE DE 2017)
+232 Bis.- Al que por cualquier medio suplante la identidad de otra persona, u otorgue su consentimiento para llevar a cabo la suplantación en su identidad, se le impondrá una pena de uno a cinco años de prisión y multa de quinientos a mil veces el valor de la Unidad de Medida y Actualización.
+(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2017)
+Se impondrá la pena del párrafo anterior, a quien se apodere, apropie, transfiera, utilice o disponga de datos personales sin autorización de su titular, con la finalidad de cometer un ilícito o favorecer su comisión.
 (ADICIONADO, P.O. 9 DE DICIEMBRE DE 2013) (REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
-232 Bis.- Al que por cualquier medio suplante la identidad de otra persona, u otorgue su consentimiento para llevar a cabo la suplantación en su identidad, se le impondrá una pena de uno a cinco años de prisión y multa de quinientos a mil días de salario mínimo vigente en el Estado.
-Se aumentaran en una mitad las penas previstas en el párrafo anterior, a quien se valga de la homonimia, parecido físico o similitud de la voz para cometer el delito establecido en el presente artículo.
+Se aumentarán en una mitad las penas previstas en el párrafo anterior, a quien se valga de la homonimia, parecido físico o similitud de la voz para cometer el delito establecido en el presente artículo.
 (ADICIONADO, P.O. 9 DE DICIEMBRE DE 2013) (REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
 232 Bis A.- Se aumentará la pena prevista en el artículo anterior en dos terceras partes al que cometa el delito de suplantación de identidad dentro de la tramitación de la averiguación previa o proceso penal, conforme a las disposiciones penales aplicables.
+(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2017)
+Asimismo, las penas contenidas en el artículo anterior, se aumentarán hasta en una mitad, cuando el ilícito sea cometido por un servidor público que aprovechándose de sus funciones o cargo, tenga acceso a bases de datos o se valga de su profesión para la obtención de las mismas.
 CAPITULO V.
 Usurpación de funciones públicas o de profesión y uso indebido de condecoraciones y uniformes.
 (REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2003)
@@ -1548,20 +1568,20 @@ III.- Al que, después de la ejecución del robo y sin haber participado en ést
 (ADICIONADO, P.O. 28 DE NOVIEMBRE DE 1998)
 350 Bis.- Al que sin derecho y sin consentimiento se apodere de un expediente, total o parcialmente, perteneciente a una oficina pública o Notaría, se aplicará de tres a siete años de prisión y multa de cien a doscientos días de salario mínimo. Si el activo fuere servidor público o Notario, abogado o litigante, además se le inhabilitará, de dos a diez años para ejercer su cargo o profesión.
 351.- Para la aplicación de la sanción se tendrá por consumado el robo, desde el momento en que el ladrón se apodera de la cosa robada, aún cuando la abandone o lo desapoderen de ella.
-(REFORMADO, P.O. 22 DE DICIEMBRE DE 1987)
-352.- Para establecer la cuantía que corresponda a los delitos previstos en este título, se tomará en consideración el salario mínimo general vigente en el momento y en el lugar que se cometió el delito.
-(REFORMADO, P.O. 22 DE DICIEMBRE DE 1987)
-353.- Cuando el valor de lo robado no exceda de cien veces el salario, se aplicará prisión de un mes a dos años y multa de cinco a cien veces el salario.
-(REFORMADO, P.O. 22 DE DICIEMBRE DE 1987)
-354.- Cuando el valor de lo robado exceda de cien veces el salario, pero no de quinientas, la prisión será de dos a cuatro años y la multa será de cien a ciento cincuenta veces el salario.
-(REFORMADO, P.O. 22 DE DICIEMBRE DE 1987)
-355.- Cuando el valor de lo robado exceda de quinientas veces el salario, la prisión será de cuatro a diez años y la multa de ciento cincuenta a quinientas veces el salario.
+(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)
+352.- Para establecer la cuantía que corresponda a los delitos previstos en este título, se tomará en consideración el valor de la Unidad de Medida y Actualización.
+(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)
+353.- Cuando el valor de lo robado no exceda de cien veces el valor de la Unidad de Medida y Actualización, se aplicará prisión de seis meses a tres años y multa de veinte a cien veces el valor de la Unidad de Medida y Actualización.
+(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)
+354.- Cuando el valor de lo robado exceda de cien veces el valor de la Unidad de Medida y Actualización, pero no de quinientas, la prisión será de tres a seis años y la multa será de cien a doscientas veces el valor de la Unidad de Medida y Actualización.
+(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)
+355.- Cuando el valor de lo robado exceda de quinientas veces el valor de la Unidad de Medida y Actualización, la prisión será de seis a diez años y la multa de doscientas a quinientas veces el valor de la Unidad de Medida y Actualización.
 (REFORMADO, P.O. 3 DE JUNIO DE 1995)
 356.- Para estimar la cuantía del robo, se atenderá únicamente el valor intrínseco de la cosa robada. Si ésta no fuera estimable en dinero, o por su naturaleza no fuere posible fijar su valor o cantidad, se aplicará prisión de seis meses hasta cinco años.
 (REFORMADO, P.O. 3 DE OCTUBRE DE 1998)
 357.- Al que sin derecho y sin consentimiento de quien pueda otorgarlo, se apodere:
-(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2008)
-I.- De un vehículo de motor, se le aplicara de ocho a catorce años de prisión y multa de quinientos a mil días de salario.
+(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE DICIEMBRE DE 2017)
+I.- De un vehículo de motor, se le aplicara de nueve a dieciséis años de prisión y multa de quinientos a mil quinientas veces el valor de la Unidad de Medida y Actualización.
 (REFORMADO, P.O. 9 DE DICIEMBRE DE 2013) (REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
 Se entiende por vehículo de motor, para los efectos de este artículo, las motocicletas, los automóviles, camionetas, camiones, tractocamiones de cualquier tipo, maquinaria pesada y autobuses.
 (ADICIONADO, P.O. 9 DE DICIEMBRE DE 2013) (REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
@@ -1588,7 +1608,8 @@ Si el sujeto activo de los dos delitos anteriormente descritos perteneció o per
 Si con alguna de las conductas previstas en este artículo resulta la comisión de otro ilícito, se aplicarán las reglas del concurso de delitos.
 (REFORMADO, P.O. 3 DE JUNIO DE 1995)
 358.- En los casos de tentativa de robo, cuando no fuere posible determinar el monto, se aplicarán de tres meses a tres años de prisión.
-359.- Si el robo se ejecutare con violencia a las personas o las cosas, a la pena que corresponda por el robo simple, se agregarán de seis meses a cinco años de prisión. Si la violencia constituyere otro delito, se aplicarán las reglas de acumulación.
+(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)
+359.- Si el robo se ejecutare con violencia a las personas o las cosas, a la pena que corresponda por el robo simple, se agregarán de uno a ocho años de prisión. Si la violencia constituyere otro delito, se aplicarán las reglas de acumulación.
 360.- La violencia a las personas se distingue en física y moral. Se entiende por violencia física en el robo, la fuerza material que para cometerlo se hace a una persona.
 Hay violencia moral cuando el delincuente amaga o amenaza a una persona, con un mal grave presente o inmediato, capaz de intimidarla.
 361.- Por violencia a las cosas se entiende la fractura, la horadación o excavación interiores o exteriores el uso de llaves falsas o maestras, el escalamiento y toda operación similar para la perpetración del delito.
@@ -1624,15 +1645,20 @@ X.- (DEROGADA, P.O. 3 DE OCTUBRE DE 1998)
 369 Bis.- (DEROGADO, P.O. 3 DE OCTUBRE DE 1998)
 CAPITULO II.
 Abigeato.
-(REFORMADO, P.O. 27 DE AGOSTO DE 1994)
-370.- Comete el delito de abigeato el que se apodere de una o más cabezas de ganado sin derecho y sin consentimiento de la persona que pueda disponer de ellas de acuerdo con la ley, tenga o no la calidad de ganadero.
+(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)
+370.- Comete el delito de abigeato el que se apodere, posea, se encuentre destazando o seccionando una o más cabezas de ganado sin derecho y sin consentimiento de la persona que pueda disponer de ellas de acuerdo con la ley, tenga o no la calidad de ganadero.
 (REFORMADO, P.O. 22 DE DICIEMBRE DE 1987)
 371.- Para los efectos de este Capítulo, se considerará como ganado mayor: el bovino, el caballar, el mular y el asnal; y, como ganado menor: al cabrío, el lanar y el porcino.
 (REFORMADO, P.O. 31 DE AGOSTO DE 2015)
 372.- El abigeato de ganado mayor se sancionará:
-I.- Con prisión de cinco a diez años y multa de cien veces a quinientas veces el salario, cuando el apoderamiento no exceda de cinco cabezas;
-II.- Con prisión de diez a doce años y multa de quinientas a novecientas veces el salario, cuando el apoderamiento exceda de cinco cabezas pero no de diez, y
-III.- Con prisión de doce a quince años cuando el apoderamiento exceda de diez cabezas y una multa de mil veces el salario mínimo vigente, que se incrementará en cien salarios, por cada cabeza que exceda de diez.
+(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)
+I.- Con prisión de cuatro a ocho años de prisión y multa de treinta a setenta veces el valor de la Unidad de Medida y Actualización cuando el apoderamiento, posesión, destazando o seccionando sea de una a dos cabezas;
+(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)
+II.- Con prisión de ocho a doce años de prisión y multa de setenta a ciento cincuenta veces el valor de la Unidad de Medida y Actualización, cuando el apoderamiento, posesión, destazando o seccionando sea de tres a cinco cabeza (sic);
+(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)
+III.- Con prisión de doce a dieciocho años de prisión y multa de ciento cincuenta a trescientas veces el valor de la Unidad de Medida y Actualización, cuando el apoderamiento, posesión, destazando o seccionando sea de seis a diez cabezas; y,
+(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2017)
+IV.- Con prisión de dieciocho a veinticinco años de prisión y multa de trescientas a seiscientas veces el valor de la Unidad de Medida y Actualización cuando el apoderamiento, posesión, destazando o seccionando sea de más de diez cabezas.
 (REFORMADO, P.O. 31 DE AGOSTO DE 2015)
 373.- El abigeato de ganado menor se sancionará:
 I. Con prisión de tres a cinco años y multa de cincuenta a ciento cincuenta veces el salario, cuando el apoderamiento no exceda de cinco cabezas;
@@ -1824,10 +1850,11 @@ III. Violencia patrimonial.- Acto u omisión encaminado a apropiarse o destruir 
 IV. Violencia económica.- Privación intencionada y no justificada legalmente de los recursos financieros para el bienestar físico y psicológico de los receptores de la violencia familiar o de algún miembro de la familia, cuyas formas de expresión pueden representar el incumplimiento de las responsabilidades alimentarias, para el sostenimiento familiar, o las limitaciones encaminadas a controlar el ingreso de las percepciones económicas o la discriminación en la disposición de los recursos compartidos;
 V. Violencia sexual.- A toda acción u omisión que amenaza, pone en riesgo, lesiona o daña la libertad, seguridad, integridad y desarrollo psicosexual de cualquier persona. Se expresa a través de la inducción a presenciar o realizar prácticas sexuales no deseadas o que generen dolor, así como la celotipia para el control, manipulación o dominio de la pareja, entre otros y;
 VI. Violencia contra los derechos reproductivos: A toda acción u omisión que limite o vulnere el derecho de las personas a decidir libre, responsable y voluntariamente sobre su función reproductiva, en relación con el número y espaciamiento de los hijos, acceso a métodos anticonceptivos de su elección, acceso a una maternidad elegida y segura, a servicios de atención prenatal, servicios obstétricos de emergencia y servicios de interrupción legal y segura del embarazo en casos de violación.
-(REFORMADO, P.O. 30 DE ENERO DE 2016)
-405.- A quien cometa el delito de violencia familiar se le impondrá de seis meses a cuatro años de prisión, pérdida de los derechos que tenga respecto de la víctima incluidos los de carácter sucesorio, patria potestad, tutela y alimentos, y se decretarán las medidas de protección conforme a lo establecido por la legislación en la materia; además se sujetará a tratamiento especializado que para personas agresoras de violencia familiar establece la Ley Estatal de Acceso de las Mujeres a una Vida Libre de Violencia de Género.
+(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE DICIEMBRE DE 2017)
+405.- A quien cometa el delito de violencia familiar se le impondrá de uno a seis años de prisión, pérdida de los derechos que tenga respecto de la víctima incluidos los de carácter sucesorio, patria potestad, tutela y alimentos, y se decretarán las medidas de protección conforme a lo establecido por la legislación en la materia; además, se sujetará a tratamiento especializado que para personas agresoras de violencia familiar establece la Ley Estatal de Acceso de las Mujeres a una Vida Libre de Violencia de Género.
 (ADICIONADO, P.O. 3 DE MARZO DE 2017)
 La pena señalada en el párrafo anterior, se aumentará hasta en una mitad de su mínimo y su máximo; en los casos en que la violencia se ejerza en contra de personas adultas mayores o en contra de persona con discapacidad.
+(REFORMADO, P.O. 30 DE ENERO DE 2016)
 En ningún caso se entenderá como tratamiento o rehabilitación, la violencia hacia persona alguna con trastorno mental, ni como forma de educación o formación hacia los menores de edad.
 (REFORMADO, P.O. 30 DE ENERO DE 2016)
 406.- En los casos previstos en este Título, el Ministerio Público, apercibirá al inculpado para que se abstenga de ejecutar cualquier tipo de violencia contra la víctima y decretará, de inmediato, bajo su más estricta responsabilidad, las órdenes de protección o medidas precautorias, necesarias para salvaguardar la integridad física y psíquica de la víctima durante la integración de la averiguación previa y hasta la conclusión de ésta.
