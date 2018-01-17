@@ -1,3 +1,6 @@
+(REFORMADO SU FORMATO, P.O. 16 DE ENERO DE 2018)
+CAPÍTULO II
+DEL INSTITUTO ESTATAL ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DE OAXACA
 (ADICIONADO, P.O. 30 DE JUNIO DE 2015)
 ARTICULO 114 TER. La organización, desarrollo, vigilancia y calificación de las elecciones, plebiscitos, referendos y revocación de mandato en el Estado estará a cargo de un órgano denominado Instituto Estatal Electoral y de Participación Ciudadana de Oaxaca y del Instituto Nacional Electoral, gozara de autonomía en su funcionamiento e independencia en sus decisiones, en términos de lo previsto en la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y la Legislación correspondiente.
 El Instituto contará con un órgano de dirección superior integrado por un consejero Presidente y seis consejeros electorales, con derecho a voz y voto; el Secretario Ejecutivo y los representantes de los partidos políticos concurrirán a las sesiones sólo con derecho a voz; cada partido político contará con un representante en dicho órgano.
@@ -24,6 +27,3 @@ IV. Contar con servidores públicos investidos de fe pública para actos de natu
 V. Presentar iniciativas relativas a la materia electoral;
 VI. Garantizar el respeto y fortalecimiento de los sistemas e instituciones políticas de los pueblos indígenas y afromexicano, en particular lo relativo a su libre determinación y autonomía para decidir sus formas de organización política, los procesos de elección y el nombramiento de sus autoridades y representantes en las instancias de gobierno y participación reconocidas en esta Constitución; y
 VII. Las demás que le atribuyan la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Partidos Políticos, la Ley General de Instituciones y Procedimientos Electorales, esta Constitución y las leyes.
-(REFORMADA SU DENOMINACIÓN, P.O. 30 DE JUNIO DE 2015)
-TITULO SEPTIMO
-De las Responsabilidades de los Servidores Públicos del Estado y Municipales, particulares vinculados con faltas administrativas o hechos de corrupción y patrimonial del Estado

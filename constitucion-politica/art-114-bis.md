@@ -1,3 +1,6 @@
+(REFORMADO SU FORMATO, P.O. 16 DE ENERO DE 2018)
+CAPÍTULO I
+DEL TRIBUNAL ELECTORAL DEL ESTADO DE OAXACA
 (ADICIONADO, P.O. 30 DE JUNIO DE 2015)
 ARTICULO 114 BIS. El Tribunal Electoral del Estado de Oaxaca, es un órgano especializado, autónomo en su funcionamiento e independiente en sus decisiones, es la máxima autoridad jurisdiccional en materia electoral del Estado de Oaxaca y tendrá las siguientes atribuciones:
 I.- Conocer de los recursos y medios de impugnación que se interpongan respecto de las elecciones de Gobernador del Estado, Diputados y Concejales de los Ayuntamientos por los regímenes de partidos políticos y de sistemas normativos indígenas, de la revocación de mandato el (sic) Gobernador del Estado, así como de todas las demás controversias que determine la ley respectiva;
@@ -15,6 +18,3 @@ VIII. El Tribunal Estatal Electoral emitirá, en su caso, la Declaratoria de Rev
 IX. Las demás atribuciones que le confieran esta Constitución, y las leyes.
 El Tribunal funcionara en pleno, sus resoluciones se tomaran por mayoría de votos y sus sesiones serán públicas. El pleno del tribunal, estará integrado por tres Magistrados quienes elegirán dentro de sus integrantes al Presidente del Tribunal conforme a su Ley Orgánica, duraran en su cargo siete años y serán designados conforme a la Ley General de Instituciones y procedimientos Electorales; percibirán una remuneración conforme a la legislación que establezca el Estado.
 El Tribunal respetará los sistemas normativos indígenas en el marco del pluralismo jurídico.
-(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 30 DE JUNIO DE 2015)
-CAPITULO II
-Del Instituto Estatal Electoral y de Participación Ciudadana de Oaxaca
