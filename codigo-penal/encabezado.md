@@ -1266,8 +1266,9 @@ II.- Al que profane un cadáver o restos humanos, con actos de vilipendio, mutil
 263.- En todos los casos de inhumación clandestina de que trata el presente capítulo, se procederá incontinenti por la autoridad que conozca del hecho a disponer la traslación del cadáver al panteón público que corresponda, de acuerdo con las disposiciones de las Leyes Sanitarias aplicables al caso.
 TITULO DECIMOQUINTO.
 Delitos contra la paz y la seguridad de las personas.
+(REFORMADA SU DENOMINACIÓN, P.O. 16 DE FEBRERO DE 2018)
 CAPITULO I.
-Amenazas.
+Amenazas y cobranza extrajudicial ilegal.
 264.- Se aplicarán de tres meses a tres años de prisión y multa de trescientos a mil pesos:
 I.- Al que de cualquier modo amenace a otro con causarle un mal en su persona, en sus bienes, en su honor o en sus derechos; o en la persona, honor, bienes o derechos de alguien con quien esté ligado con algún vínculo;
 II.- Al que por medio de amenazas de cualquier género trate de impedir que otro ejecute lo que tiene derecho de hacer.
@@ -1285,6 +1286,12 @@ Al que no otorgue la caución de no ofender, dentro de un mes, contado desde que
 (REFORMADO, P.O. 3 DE JUNIO DE 1995)
 266.- Si el amenazador cumple su amenaza, se acumularán la sanción de ésta y la del delito que resulte.
 Si el amenazador consigue que el amenazado cometa un delito, se acumulará a la sanción de la amenaza, la que le corresponda por su participación en el delito que resulte.
+(ADICIONADO, P.O. 16 DE FEBRERO DE 2018)
+266 Bis.- Se sancionará de uno a cuatro años de prisión y multa de cincuenta mil a trescientos mil pesos a quien lleve a cabo la actividad de cobranza extrajudicial ilegal.
+Si utiliza además documentos o sellos falsos, la pena y la sanción económicamente aumentarán una mitad.
+Si incurre en usurpación de funciones o de profesión, se aplicarán las reglas del concurso de delitos señalados en el Código Penal Federal.
+Se entiende por cobranza extrajudicial ilegal el uso de violencia o intimidación, ya sea personalmente o a través de cualquier medio, para requerir el pago de una deuda derivada de actividades reguladas en leyes federales, incluyendo créditos o financiamientos que hayan sido otorgados originalmente por personas dedicadas habitual y profesionalmente a esta actividad, con independencia del tenedor de los derechos de cobro al momento de llevar a cabo la cobranza.
+No se considerará como intimidación ilícita informare (sic) aquellas consecuencias posibles y jurídicamente válidas del impago o la capacidad de iniciar acciones legales en contra del deudor, aval, obligado solidario o cualquier tercero relacionado a estos cuando estas sean jurídicamente posibles.
 CAPITULO II.
 Allanamiento de morada.
 267.- Se impondrán de uno a cinco años de prisión y multa de trescientos a tres mil pesos, al que, sin motivo justificado, sin orden de autoridad competente y fuera de los casos en que la Ley lo permita, se introduzca, furtivamente o con engaño o violencia, o sin permiso de la persona autorizada para darlo, a un departamento, vivienda, aposento o dependencias de una casa habitada sea fija o móvil. Si el delito se comete de noche, se triplicará la pena.
