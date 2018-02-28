@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 28 DE FEBRERO DE 2018)
+Artículo 2825 Ter.- El contrato de hipoteca a la inversa, es aquel por el cual el pensionario se obliga a pagar periódicamente y en forma vitalicia al pensionista o a su beneficiario que deberá ser su cónyuge, concubina o concubinario de edad igual o superior a los 60 años, una cantidad de dinero predeterminada, que el pensionista garantizará a través de la hipoteca a la inversa, en los términos de este capítulo.
