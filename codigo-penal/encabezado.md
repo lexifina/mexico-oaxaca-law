@@ -194,16 +194,16 @@ Si no alcanza a cubrirse la multa con los bienes del sentenciado o con el produc
 (REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 1998)
 CAPITULO VI.
 Reparación del daño.
-(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2017)
+(REFORMADO, P.O. 9 DE MARZO DE 2018)
 27.- La reparación del daño debe ser integral, adecuada, eficaz, efectiva, proporcional a la gravedad del daño causado y a la afectación sufrida, comprenderá cuando menos:
-(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2001)
-a).- La restitución de la cosa obtenida por la comisión del delito; si esto no fuera posible, el pago del precio de la misma;
-(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2001)
-b).- La Indemnización del daño material y moral causado, incluyendo el pago de los tratamientos curativos que, como consecuencia del delito, sean necesarios para la recuperación de la salud de la víctima.
-(REFORMADO, P.O. 16 DE AGOSTO DE 2008)
-En los casos de delitos contra la libertad, la seguridad y el normal desarrollo psicosexual, de violencia intrafamiliar y otros que así lo requieran, además se comprenderá el pago de los tratamientos psicoterapéuticos que sean necesarios para la víctima, así como todos los gastos erogados por la víctima del delito, ofendido o su representante legal para el restablecimiento de su salud física o psicológica; y
-(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)
-c).- El resarcimiento de los perjuicios causados.
+I. La restitución de la cosa obtenida por el delito y si no fuere posible, el pago del precio de la misma, a su valor actualizado;
+II. La indemnización del daño material y moral causado, incluyendo la atención médica y psicológica, de los servicios sociales y de rehabilitación o tratamientos curativos necesarios para la recuperación de la salud, que hubiere requerido o requiera la víctima, como consecuencia del delito. En los casos de delitos contra el libre desarrollo de la personalidad, la libertad y el normal desarrollo psicosexual y en su salud mental, así como de violencia familiar, además comprenderá el pago de los tratamientos psicoterapéuticos que sean necesarios para la víctima;
+III. El resarcimiento de los perjuicios ocasionados;
+IV. El pago de la pérdida de ingreso económico y lucro cesante, para ello se tomará como base el salario que en el momento de sufrir el delito tenía la víctima y en caso de no contar con esa información, será conforme al salario mínimo vigente;
+V. El costo de la pérdida de oportunidades, en particular el empleo, educación y prestaciones sociales, acorde a sus circunstancias,
+VI. La declaración que restablezca la dignidad y reputación de la víctima, a través de medios electrónicos o escritos;
+VII. La disculpa pública, la aceptación de responsabilidad, así como la garantía de no repetición, cuando el delito se cometa por servidores públicos.
+Los medios para la rehabilitación deben ser lo más completos posible, y deberán permitir a la víctima participar de forma plena en la vida pública, privada y social.
 (REFORMADO PRIMER PÁRRAFO, P.O. 4 DE OCTUBRE DE 2012)
 28. El monto de la reparación del daño, será fijado por los jueces de acuerdo con las pruebas que obran en el proceso y la afectación causada a la víctima u ofendido del delito, salvo lo dispuesto en el artículo 29.
 (REFORMADO, P.O. 3 DE OCTUBRE DE 1998)
