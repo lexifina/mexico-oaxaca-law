@@ -346,6 +346,10 @@ a).- Cuando el sujeto activo fuere operador de un vehículo destinado al servici
 b).- Al que encontrándose en estado de ebriedad o bajo el influjo de alguna droga, causare más de un homicidio o concurra éste con lesiones previstas en los artículos 275 o 276;
 (REFORMADO, P.O. 26 DE FEBRERO DE 2000)
 c).- A quién en estado de ebriedad o bajo el influjo de alguna droga, reitere la comisión culposa de homicidio o lesiones graves.
+(ADICIONADO, P.O. 12 DE MARZO DE 2018)
+d) Al conductor de un vehículo de motor, quien por hacer uso de un teléfono celular o cualquier dispositivo electrónico de entretenimiento o comunicación, con el que hable, envíe mensajes de texto o utilice sus aplicaciones de comunicación o entretenimiento al conducir, causare homicidio o lesiones de las previstas por los artículos 275 o 276, o las que se llegasen a tipificar.
+(ADICIONADO, [N. DE E. PERTENECE AL INCISO D], P.O. 12 DE MARZO DE 2018)
+Se excluye lo anterior cuando con el dispositivo electrónico de comunicación se empleen funciones u otros dispositivos electrónicos adicionales, de modo que al ser utilizados, el conductor no distraiga su atención al circular o no le impida utilizar debidamente las partes de su cuerpo para conducir.
 (ADICIONADO, P.O. 28 DE NOVIEMBRE DE 1998)
 No se impondrá pena alguna a quien por culpa en el manejo de vehículos en que viaje en compañía de alguno o algunos de sus descendientes, ascendientes, hermanos, cónyuge o concubina, ocasione lesiones u homicidio a uno o más de éstos.
 (REFORMADO, P.O. 28 DE NOVIEMBRE DE 1998)
