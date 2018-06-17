@@ -1942,18 +1942,26 @@ Feminicidio.
 411. Comete el delito de feminicidio quien prive de la vida a una mujer por razones de género.
 Se entiende por razones de género cuando ocurra cualquiera de las siguientes circunstancias:
 I.- La víctima presente signos de violencia sexual de cualquier tipo;
-(F. DE E., P.O. 15 DE FEBRERO DE 2013)
-II.- A la víctima se le haya infligido heridas, escoriaciones, contusiones, fracturas, dislocaciones, quemaduras, mutilaciones con implicaciones sexuales o que le genere sufrimiento.
-III.- Existan antecedentes o indicios anteriores de amenazas, acoso o maltrato del sujeto activo en contra de la víctima;
+(REFORMADA, P.O. 16 DE JUNIO DE 2018)
+II.- A la víctima se le hayan infligido heridas, escoriaciones, contusiones, fracturas, dislocaciones, quemaduras; mutilaciones con implicaciones degradantes y/o sexuales.
+(REFORMADA, P.O. 16 DE JUNIO DE 2018)
+III.- Existan antecedentes o indicios anteriores de cualquier tipo de violencia, misoginia, amenazas, hostigamiento, acoso o maltrato del sujeto activo en contra de la víctima;
 IV.- El cadáver o restos de la víctima hayan sido enterrados u ocultados;
-V.- El cadáver o restos de la víctima hayan sido expuestos en lugar público;
-VI.- La víctima haya sido incomunicada o privada de su libertad, y
+(REFORMADA, P.O. 16 DE JUNIO DE 2018)
+V.- El cuerpo o restos de la víctima hayan (sic) sido expuesto o arrojado en lugar público;
+(REFORMADA, P.O. 16 DE JUNIO DE 2018)
+VI.- La víctima haya sido incomunicada o privada de su libertad, cualquiera que sea el tiempo;
 VII.- Por desprecio u odio a la víctima motivado por discriminación o misoginia.
+(ADICIONADA, P.O. 16 DE JUNIO DE 2018)
+VIII.- Haya existido entre el activo y la víctima una relación sentimental, afectiva o de confianza;
 Se entiende por misoginia las conductas contra la mujer que se manifiestan mediante actos violentos o crueles contra ella.
 (ADICIONADO, P.O. 4 DE OCTUBRE DE 2012)
 412. A quien cometa el delito de feminicidio se le impondrá una sanción de cuarenta a sesenta años de prisión y multa de quinientos a mil salarios mínimos.
-Si entre el activo y la víctima existió una relación de parentesco por consanguinidad o afinidad, adopción, matrimonio, concubinato, relación de convivencia, noviazgo, amistad, laboral, docente, tutela o cualquier otra que implique confianza, además de la pena que le corresponda, se le impondrá hasta un tercio más de la misma.
+(REFORMADO, P.O. 16 DE JUNIO DE 2018)
+Si entre el activo y la víctima existió una relación de parentesco por consanguinidad o afinidad, adopción, matrimonio, concubinato, relación de convivencia, noviazgo, amistad, laboral, docente, tutela o cualquier otra que implique confianza, además de la pena que le corresponda, se le impondrá hasta un tercio más de la misma; además el sujeto activo perderá todos los derechos con relación a la víctima, incluidos los de carácter sucesorio.
 Se impondrá hasta dos tercios más de la pena cuando el sujeto activo se encuentre en servicio o se haya desempeñado dentro de los cinco años anteriores a la comisión del delito como servidor público integrante de las corporaciones de seguridad pública, de las Instituciones de procuración e impartición de justicia o de las fuerzas armadas.
+(ADICIONADO, P.O. 16 DE JUNIO DE 2018)
+Asimismo, a quien dolosamente en el ejercicio de una función pública propicie, promueva o tolere, la impunidad; así como omita, retarde o entorpezca la investigación, persecución y sanción del delito contemplado en este capítulo, se le impondrá pena de prisión de tres a ocho años y de quinientos a mil quinientos días multa, además será destituido e inhabilitado de tres a diez años para desempeñar otro empleo, cargo o comisión en el servicio público.
 (ADICIONADO CON EL CAPÍTULO QUE LO INTEGRA, P.O. 30 DE ENERO DE 2016)
 TÍTULO VIGÉSIMO TERCERO.
 Delitos que atentan contra la obligación alimentaria
