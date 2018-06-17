@@ -1351,6 +1351,14 @@ Si la violencia se ejerce en despoblado o en paraje solitario se aplicara prisi�
 269.- Si los salteadores, atacaren una población, se aplicarán de cuarenta a setenta años de prisión a los cabecillas o jefes y de quince a veinte años a los demás, siempre que no se comentan alguno de los delitos señalados en el artículo anterior, pues entonces se aplicará la pena de cuarenta a sesenta años de prisión.
 (REFORMADO, P.O. 3 DE OCTUBRE DE 1998)
 270.- Se aplicará prisión de diez a treinta años al que en caminos o carreteras haga uso de la violencia en contra de los ocupantes de un vehículo particular o de transporte público.
+(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 16 DE JUNIO DE 2018)
+CAPÍTULO IV
+OCUPACIÓN IRREGULAR DE ÁREAS O PREDIOS
+(ADICIONADO, P.O. 16 DE JUNIO DE 2018)
+270 Bis.- Se aplicará prisión de dos a cinco años y multa de cien a 300 veces el valor de la Unidad de Medida y actualización a los sujetos privados o públicos que:
+I. Propicien o permitan la ocupación irregular de áreas y predios en los centros de población;
+II. Autoricen indebidamente asentamientos humanos o construcciones en Zonas de riesgo o polígonos de protección, salvaguarda y amortiguamiento; y,
+III. No respeten el ordenamiento territorial, el desarrollo urbano y desarrollo metropolitano en condiciones de equidad, generado por la consolidación y el crecimiento urbano.
 TITULO DECIMOSEXTO.
 Delitos contra la vida y la integridad corporal.
 CAPITULO I.

@@ -9,7 +9,8 @@ Artículo 6º.- Las disposiciones de este Código se aplicarán a los plazos que
 Artículo 7º.- Los contratos de censo y de anticresis celebrados bajo el imperio de la legislación anterior, continuarán regidos por las disposiciones de esta legislación.
 La dote ya constituída será regida por las disposiciones de la ley bajo la que se constituyó y por las estipulaciones del contrato relativo.
 Artículo 8º.- No se admitirá denuncia alguna de bienes vacantes, sino hasta pasados seis meses de la fecha en que empiece a regir este Código.
-Artículo 9º.- Las disposiciones del Reglamento del Registro Público seguirán aplicándose en todo lo que no sean contrarias a las prevenciones de este Código, mientras no se expida el nuevo reglamento de la materia.
+(REFORMADO, P.O. 16 DE JUNIO DE 2018)
+Artículo 9°.- Las disposiciones del Reglamento del Instituto de la Función Registral seguirán aplicándose en todo lo que no sean contrarias a las prevenciones de este Código, mientras no se expida el nuevo reglamento de la materia.
 Artículo 10.- Queda derogado el Código Civil que comenzó a regir el 18 de julio de 1888, la Ley de Libre Testamentifacción de 30 de noviembre de 1893, la Ley de Relaciones Familiares y las leyes que se hayan expedido sobre la materia de que se ocupa este Código.
 Lo tendrá entendido el C. Gobernador del Estado y hará que se publique y se cumpla.
 DADO EN EL SALON DE SESIONES DEL H. CONGRESO DEL ESTADO, Oaxaca de Juárez, a diecinueve de noviembre de mil novecientos cuarenta y tres. Diputado Presidente, RAMON PEREZ CASTILLO.- Diputado Secretario. Lic. RICARDO LOPEZ GURRION.- Diputado Secretario, MANUEL L. BERMUDEZ.
