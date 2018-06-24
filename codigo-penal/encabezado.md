@@ -1962,6 +1962,22 @@ Si entre el activo y la víctima existió una relación de parentesco por consan
 Se impondrá hasta dos tercios más de la pena cuando el sujeto activo se encuentre en servicio o se haya desempeñado dentro de los cinco años anteriores a la comisión del delito como servidor público integrante de las corporaciones de seguridad pública, de las Instituciones de procuración e impartición de justicia o de las fuerzas armadas.
 (ADICIONADO, P.O. 16 DE JUNIO DE 2018)
 Asimismo, a quien dolosamente en el ejercicio de una función pública propicie, promueva o tolere, la impunidad; así como omita, retarde o entorpezca la investigación, persecución y sanción del delito contemplado en este capítulo, se le impondrá pena de prisión de tres a ocho años y de quinientos a mil quinientos días multa, además será destituido e inhabilitado de tres a diez años para desempeñar otro empleo, cargo o comisión en el servicio público.
+(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 23 DE JUNIO DE 2018)
+CAPITULO IV
+Discriminación
+(ADICIONADO, P.O. 23 DE JUNIO DE 2018)
+412 BIS.- Comete el delito de discriminación quien por razones de origen o pertenencia étnica o nacional, raza, color de piel, lengua, género, sexo, preferencia sexual, edad, estado civil, origen nacional o social, condición social o económica, condición de salud, embarazo, opiniones políticas o de cualquier otra índole, que atente contra la dignidad humana o anule o menoscabe los derechos y libertades de las personas mediante la realización de cualquiera de las siguientes conductas:
+I. Provoque o incite al odio o a la violencia;
+II. Niegue a una persona un servicio o una prestación a la que tenga derecho;
+III. Veje o excluya a persona alguna o grupo de personas;
+IV. Niegue o restrinja derechos laborales, principalmente por razón de género o embarazo; o limite un servicio de salud, principalmente a la mujer en relación con el embarazo; o
+V. Niegue o restrinja derechos educativos.
+Al responsable se le impondrá la sanción de uno a tres años de prisión o de ciento cincuenta a trescientos días de trabajo a favor de la comunidad y hasta doscientos días multa.
+Al servidor público que, por las razones previstas en el primer párrafo de este artículo, niegue o retarde a una persona un trámite, servicio o prestación a que tenga derecho se le aumentará en una mitad la pena prevista en el segundo párrafo del presente artículo, y además se le impondrá destitución e inhabilitación para el desempeño de cualquier cargo, empleo o comisión públicos, por el mismo lapso de la privación de la libertad impuesta.
+No serán consideradas discriminatorias todas aquellas medidas tendentes a la protección de los grupos socialmente desfavorecidos.
+Cuando las conductas a que se refiere este artículo sean cometidas por persona con la que la víctima tenga una relación de subordinación laboral, la pena se incrementará en una mitad.
+Asimismo, se incrementará en una mitad la pena cuando los actos discriminatorios limiten el acceso a las garantías jurídicas indispensables para la protección de todos los derechos humanos.
+Este delito se perseguirá por querella.
 (ADICIONADO CON EL CAPÍTULO QUE LO INTEGRA, P.O. 30 DE ENERO DE 2016)
 TÍTULO VIGÉSIMO TERCERO.
 Delitos que atentan contra la obligación alimentaria

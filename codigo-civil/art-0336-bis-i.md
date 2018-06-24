@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 23 DE JUNIO DE 2018)
+Artículo 336 Bis I.- Quien incumpla total o parcialmente, con la obligación alimentaria ordenada por mandato judicial o establecida mediante convenio judicial, por un período de dos meses o haya dejado de cubrir cuatro pensiones sucesivas dentro de un período de dos años, se constituirá en deudor alimentarios (sic) moroso. El Juez de lo Familiar ordenará su inscripción en el Registro de Deudores Alimentarios Morosos.
+El deudor alimentario moroso que acredite ante el Juez de conocimiento, que se encuentra al corriente del pago de alimentos a que se refiere el párrafo anterior, podrá solicitar la cancelación de la inscripción correspondiente.
