@@ -1913,8 +1913,8 @@ V. Violencia sexual.- A toda acción u omisión que amenaza, pone en riesgo, les
 VI. Violencia contra los derechos reproductivos: A toda acción u omisión que limite o vulnere el derecho de las personas a decidir libre, responsable y voluntariamente sobre su función reproductiva, en relación con el número y espaciamiento de los hijos, acceso a métodos anticonceptivos de su elección, acceso a una maternidad elegida y segura, a servicios de atención prenatal, servicios obstétricos de emergencia y servicios de interrupción legal y segura del embarazo en casos de violación.
 (REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE DICIEMBRE DE 2017)
 405.- A quien cometa el delito de violencia familiar se le impondrá de uno a seis años de prisión, pérdida de los derechos que tenga respecto de la víctima incluidos los de carácter sucesorio, patria potestad, tutela y alimentos, y se decretarán las medidas de protección conforme a lo establecido por la legislación en la materia; además, se sujetará a tratamiento especializado que para personas agresoras de violencia familiar establece la Ley Estatal de Acceso de las Mujeres a una Vida Libre de Violencia de Género.
-(ADICIONADO, P.O. 3 DE MARZO DE 2017)
-La pena señalada en el párrafo anterior, se aumentará hasta en una mitad de su mínimo y su máximo; en los casos en que la violencia se ejerza en contra de personas adultas mayores o en contra de persona con discapacidad.
+(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2018)
+La pena señalada en el párrafo anterior, se aumentará hasta en una mitad de su mínimo y su máximo, en los casos en que la violencia se ejerza en contra de personas adultas mayores, personas con discapacidad o mujeres en estado de gravidez.
 (REFORMADO, P.O. 30 DE ENERO DE 2016)
 En ningún caso se entenderá como tratamiento o rehabilitación, la violencia hacia persona alguna con trastorno mental, ni como forma de educación o formación hacia los menores de edad.
 (REFORMADO, P.O. 30 DE ENERO DE 2016)
