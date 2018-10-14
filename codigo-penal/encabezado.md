@@ -827,7 +827,7 @@ No se entenderá como material pornográfico, aquel que signifique o tenga como 
 Las anteriores sanciones se impondrán con independencia de otros delitos que se llegaren a configurar.
 (REFORMADO, P.O. 21 DE NOVIEMBRE DE 2008)
 195.- Comete el delito de pornografía infantil:
-I.- Quien sin fines comerciales o de explotación induzca, procure, facilite u obligue que una persona menor de dieciocho años de edad o una persona que no tenga la capacidad de comprender el significado del hecho, realice actos sexuales o de exhibicionismo corporal de índole sexual con la finalidad de grabarlos, videograbarlos, fotografiarlos, filmarlos o exhibirlos a través de anuncios impresos, transmisión de archivos de datos en red pública o privada de telecomunicaciones, sistemas de cómputo, medios electrónicos o de cualquier otra naturaleza, Independientemente de que se logre la finalidad;
+I.- Quien sin fines comerciales o de explotación induzca, procure, facilite u obligue que una persona menor de dieciocho años de edad o una persona que no tenga la capacidad de comprender el significado del hecho, realice actos sexuales o de exhibicionismo corporal de índole sexual con la finalidad de grabarlos, videograbarlos, fotografiarlos, filmarlos o exhibirlos a través de anuncios impresos, transmisión de archivos de datos en red pública o privada de telecomunicaciones, sistemas de cómputo, medios electrónicos o de cualquier otra naturaleza, independientemente de que se logre la finalidad;
 II.- Quien sin fines comerciales o de explotación fije, grabe, videograbe, fotografíe o filme de cualquier forma actos sexuales o de exhibicionismo corporal de índole sexual, explícitos o no, reales o simulados, en que participen una o más personas menores de dieciocho años o personas que no tengan la capacidad de comprender el significado del hecho;
 III.- Quien reproduzca, publique, ofrezca, publicite, almacene, distribuya, difunda, exponga, envíe, transmita, importe, exporte o comercialice de cualquier forma imágenes, sonidos o la voz de una persona menor de edad o de una persona que no tenga la capacidad para comprender el significado del hecho, sea en forma directa, informática, audiovisual, virtual o por cualquier otro medio en las que se manifiesten actividades sexuales, explícitas o no, reales o simuladas, o toda representación de los órganos sexuales de la víctima con fines primordialmente sexuales; y
 IV.- Quien financie, dirija, administre o supervise cualquiera de las actividades descritas en las fracciones anteriores, con la finalidad de que se realicen las conductas previstas en las mismas.
@@ -1239,7 +1239,7 @@ Al servidor público, docente o ministro de culto que reincidiere en la comisió
 241 Ter.- Quien por cualquier medio con fines lascivos asedie a persona de cualquier sexo, con quien no exista relación de subordinación y aprovechándose de circunstancias que produzcan desventaja, indefensión o riesgo inminente para la víctima, le cause daño o sufrimiento psicoemocional, se le impondrá prisión de seis meses a dos años y multa de cincuenta a doscientos días multa.
 Si el acosador es servidor público y se vale de medios o circunstancias que el encargo le proporcione, además de la pena prevista en los párrafos anteriores, se le destituirá del cargo o empleo.
 Cuando el acoso sexual se cometa contra una persona menor de dieciocho años de edad, o con alguna discapacidad, o por cualquier causa no pueda resistirlo, la pena de prisión se aumentara hasta en una tercera parte de la prevista.
-En el supuesto anterior, el delito se perseguirá de oficio. En lo demás casos se procederá contra el responsable a petición de parte ofendida.
+En el supuesto anterior, el delito se perseguirá de oficio. En los demás casos se procederá contra el responsable a petición de parte ofendida.
 242.- (DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2001)
 (REFORMADO PRIMER PÁRRAFO, P.O. 15 DE SEPTIEMBRE DE 2001)
 243.- A quien tenga cópula con persona mayor de doce años y menor de dieciocho, obteniendo su consentimiento por medio del engaño, cualquiera que haya sido el medio utilizado para lograrlo, se le impondrán de tres a siete años de prisión y multa de cien a trescientos días de salario.
@@ -1646,7 +1646,7 @@ I.- De un vehículo de motor, se le aplicara de nueve a dieciséis años de pris
 (REFORMADO, P.O. 9 DE DICIEMBRE DE 2013) (REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
 Se entiende por vehículo de motor, para los efectos de este artículo, las motocicletas, los automóviles, camionetas, camiones, tractocamiones de cualquier tipo, maquinaria pesada y autobuses.
 (ADICIONADO, P.O. 9 DE DICIEMBRE DE 2013) (REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
-Se entiende por maquinaria pesada todo aquel vehículo automotor que se utilice en los procesos de construcción y obras industriales, incluidas las de minería, construcción y conservación de obras, que por sus características no pueden transitar por las vías de uso público o privadas abiertas al público.
+Se entiende por maquinaria pesada todo aquel vehículo automotor que se utilice en los procesos de construcción u obras industriales, incluidas las de minería, construcción y conservación de obras, que por sus características no pueden transitar por las vías de uso público o privadas abiertas al público.
 II.- De partes de vehículos automotores o de objetos de que se encuentren en el interior de los mismos, se aplicará de tres a siete años de prisión y de cien a doscientos días multa, salvo que el monto de lo robado exceda de los quinientos salarios, pues entonces la sanción será la prevista en la fracción anterior; y
 III. (DEROGADA, P.O. 28 DE NOVIEMBRE DE 1998)
 (REFORMADO PRIMER PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2013) (REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
@@ -1709,7 +1709,7 @@ Abigeato.
 (REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)
 370.- Comete el delito de abigeato el que se apodere, posea, se encuentre destazando o seccionando una o más cabezas de ganado sin derecho y sin consentimiento de la persona que pueda disponer de ellas de acuerdo con la ley, tenga o no la calidad de ganadero.
 (REFORMADO, P.O. 22 DE DICIEMBRE DE 1987)
-371.- Para los efectos de este Capítulo, se considerará como ganado mayor: el bovino, el caballar, el mular y el asnal; y, como ganado menor: al cabrío, el lanar y el porcino.
+371.- Para los efectos de este Capítulo, se considerará como ganado mayor: el bovino, el caballar, el mular y el asnar; y, como ganado menor: al cabrío, el lanar y el porcino.
 (REFORMADO, P.O. 31 DE AGOSTO DE 2015)
 372.- El abigeato de ganado mayor se sancionará:
 (REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)
@@ -1771,7 +1771,7 @@ La retención se perseguirá por querella y se sancionará con las penas del abu
 (ADICIONADO, P.O. 7 DE ABRIL DE 2011)
 Son aplicables a este delito, en lo conducente, las disposiciones del artículo 366 de este Código.
 (REFORMADO, P.O. 7 DE ABRIL DE 2011)
-379.- Se equiparara al delito de retención y se castigará con pena de cinco a quince años de prisión al dueño, directivo, socio, gerente, empleado o responsable de cualquier entidad, organismo, empresa o negocio, dedicado a actividades financieras de ahorro o inversión, cualquiera que sea la figura legal o fáctica en que se haya constituido, que sin causa legal, por si o por sus subordinados, se niegue a devolver las cantidades ahorradas, invertidas o depositadas a quien tenga derecho a ellas.
+379.- Se equipara al delito de retención y se castigará con pena de cinco a quince años de prisión al dueño, directivo, socio, gerente, empleado o responsable de cualquier entidad, organismo, empresa o negocio, dedicado a actividades financieras de ahorro o inversión, cualquiera que sea la figura legal o fáctica en que se haya constituido, que sin causa legal, por si o por sus subordinados, se niegue a devolver las cantidades ahorradas, invertidas o depositadas a quien tenga derecho a ellas.
 Este delito se perseguirá de oficio.
 Para todos los efectos legales se entenderá que este delito se consuma cuando se niegue a la víctima la devolución o entrega de las cantidades reclamadas, lo que se acreditará por cualquier medio de prueba, sin necesidad de requerimiento judicial o notarial. Se considerará como negativa el hecho de que el local, oficina o sucursal destinados a la atención del público se encuentre temporal o definitivamente cerrado o clausurado.
 Si la entidad, organismo, empresa o negocio no cuenta con registro de las autoridades correspondientes o no ha concluido o iniciado sus trámites de regularización, la pena se incrementará de uno a cinco años.
@@ -1824,18 +1824,19 @@ Despojo de cosas inmuebles o de aguas.
 (REFORMADO, P.O. 19 DE MAYO DE 2015)
 384.- Comete el delito de despojo de inmuebles, quien por medio de la violencia física o moral, o furtivamente, o empleando la amenaza o engaño, realice cualquiera de las siguientes conductas:
 I.- Que de propia autoridad ocupe un inmueble ajeno o haga uso de él, o de un derecho real que no le pertenezca;
-II.- Que de propia autoridad ocupe un inmueble de su propiedad en los casos en los que la ley no lo permite por hallarse en poder de otra persona; o ejerza actos de dominio que lesionen derechos legítimos del ocupante;
+II.- Que de propia autoridad ocupe un inmueble de su propiedad en los casos en los que la ley no lo permite por hallarse en poder de otra persona, o ejerza actos de dominio que lesionen derechos legítimos del ocupante;
 III.- Quien, con propósito de apropiarse de una fracción o de la totalidad del inmueble, altere términos o linderos de predios, o cualquier clase de señales o mojoneras, destinadas a fijar los límites de predios contiguos, tanto de dominio privado como de dominio público;
-IV.- Quien de propia autoridad ocupe uno o más predios que forman parte de la reserva territorial del Estado o de los Municipios, sin derecho ni autorización de autoridad competente, aún cuando con ello tipifiquen su acción en un asentamiento irregular;
+IV.- Quien de propia autoridad ocupe uno o más predios que forman parte de la reserva territorial del Estado o de los Municipios, sin derecho ni autorización de autoridad competente, aun cuando con ello tipifiquen su acción en un asentamiento irregular;
 V.- Quien de propia autoridad ocupe un inmueble o las riveras que forman parte de la infraestructura o reserva territorial del Estado, o de los Municipios, sin derecho ni autorización de autoridad competente;
 VI.- Quien desvíe o haga uso de aguas propias o ajenas o impida su libre curso, en los casos en que la ley no lo permite, o haga uso de un derecho real sobre aguas que no le pertenezcan;
 VII.- Quien despoje de aguas del ámbito estatal o aguas nacionales asignadas al Estado o Municipios en beneficio colectivo de una comunidad urbana o rural ó para uso doméstico.
 El delito de despojo, se perseguirá a petición de parte ofendida, con excepción de las fracciones IV, V y VII, en cuyo caso se perseguirá de oficio.
-(REFORMADO, P.O. 19 DE MAYO DE 2015)
+(REFORMADO, P.O. 13 DE OCTUBRE DE 2018)
 385.- Al responsable del delito de despojo se le aplicarán:
-I.- De tres a cinco años de prisión y multa de doscientos a cuatrocientos días de salario mínimo general vigente en el Estado, cuando el valor de lo despojado no exceda de siete mil ochocientos cuarenta veces dicho salario mínimo;
-II. De cinco a diez años de prisión y multa de cuatrocientos a seiscientos días de salario mínimo general vigente en el Estado, cuando el valor de lo despojado exceda de siete mil ochocientos cuarenta veces el dicho salario mínimo, pero no de veintitrés mil quinientos veintidós;
-III.- De diez a quince años de prisión y multa de seiscientos a ochocientos días salario mínimo general vigente en el Estado, cuando el valor de lo despojado exceda de veintitrés mil quinientos veintidós veces el dicho salario mínimo.
+I. De tres a cinco años de prisión y multa de doscientos a cuatrocientas veces el valor de la Unidad de Medida y Actualización, cuando el valor de lo despojado no exceda de siete mil ochocientos cuarenta veces el valor de la Unidad de Medida y Actualización;
+II. De cinco a diez años de prisión y multa de cuatrocientos a seiscientas veces el valor de la Unidad de Medida y Actualización, cuando el valor de lo despojado exceda de siete mil ochocientos cuarenta veces el valor de la Unidad de Medida y Actualización;
+III. De diez a quince años de prisión y multa de seiscientos a ochocientas veces el valor de la Unidad de Medida y Actualización, cuando el valor de lo despojado exceda de veintitrés mil quinientos veintidós veces el valor de la Unidad de Medida y Actualización.
+Cuando el delito se cometa en contra de los grupos vulnerables a que se refiere la fracción II del artículo 8° de la Ley de Desarrollo Social para el Estado de Oaxaca, las penas previstas, se incrementarán hasta en una mitad.
 La punibilidad será aplicable, aun cuando el derecho a la posesión del objeto material del despojo sea dudoso o esté en disputa.
 (REFORMADO, P.O. 19 DE MAYO DE 2015)
 386.- Se aplicará la pena de quince a veinte años de prisión y multa de ochocientos a mil días de salario mínimo general vigente en el Estado, si el despojo se realiza por dos o más personas; al que planee, o induzca, o financie, o dirija, o propicie la acción de despojo; si el que lo ejecutare fuera servidor público en ejercicio de sus funciones o con motivo de ellas.
@@ -1932,7 +1933,7 @@ II. Por instrucciones de quién ejerciendo la patria potestad o por pariente del
 (REFORMADO, P.O. 9 DE DICIEMBRE DE 2013) (REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
 408.-Si el sujeto activo a que se refiere el artículo anterior, devuelve espontáneamente al menor o al incapaz dentro de los siete días siguientes a la comisión del delito, se le impondrá una tercera parte de las sanciones antes señaladas.
 (ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2011)
-409.- Si al encontrarse en proceso de divorcio o disuelto el matrimonio, alguno de los progenitores salga fuera del estado o del país, trasladando consigo a los menores hijos o Incapaces, sin contar con la autorización expresa de la otra parte o sin orden de autoridad competente, se le impondrá de tres a cinco años de prisión y multa de trescientos a quinientos cincuenta días de salario mínimo.
+409.- Si al encontrarse en proceso de divorcio o disuelto el matrimonio, alguno de los progenitores salga fuera del estado o del país, trasladando consigo a los menores hijos o incapaces, sin contar con la autorización expresa de la otra parte o sin orden de autoridad competente, se le impondrá de tres a cinco años de prisión y multa de trescientos a quinientos cincuenta días de salario mínimo.
 (ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2011)
 410.- Al progenitor que cambie su domicilio señalado para la guarda y custodia de los menores hijos, fuera del estado o del país, argumentando cualquier causa, sin que exista consentimiento expreso y por escrito de la otra parte o por orden de autoridad competente, se le impondrá de tres a cinco años de prisión y multa de trescientos a quinientos cincuenta días de salario mínimo.
 (ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE OCTUBRE DE 2012)
@@ -1959,7 +1960,7 @@ Se entiende por misoginia las conductas contra la mujer que se manifiestan media
 412. A quien cometa el delito de feminicidio se le impondrá una sanción de cuarenta a sesenta años de prisión y multa de quinientos a mil salarios mínimos.
 (REFORMADO, P.O. 16 DE JUNIO DE 2018)
 Si entre el activo y la víctima existió una relación de parentesco por consanguinidad o afinidad, adopción, matrimonio, concubinato, relación de convivencia, noviazgo, amistad, laboral, docente, tutela o cualquier otra que implique confianza, además de la pena que le corresponda, se le impondrá hasta un tercio más de la misma; además el sujeto activo perderá todos los derechos con relación a la víctima, incluidos los de carácter sucesorio.
-Se impondrá hasta dos tercios más de la pena cuando el sujeto activo se encuentre en servicio o se haya desempeñado dentro de los cinco años anteriores a la comisión del delito como servidor público integrante de las corporaciones de seguridad pública, de las Instituciones de procuración e impartición de justicia o de las fuerzas armadas.
+Se impondrá hasta dos tercios más de la pena cuando el sujeto activo se encuentre en servicio o se haya desempeñado dentro de los cinco años anteriores a la comisión del delito como servidor público integrante de las corporaciones de seguridad pública, de las instituciones de procuración e impartición de justicia o de las fuerzas armadas.
 (ADICIONADO, P.O. 16 DE JUNIO DE 2018)
 Asimismo, a quien dolosamente en el ejercicio de una función pública propicie, promueva o tolere, la impunidad; así como omita, retarde o entorpezca la investigación, persecución y sanción del delito contemplado en este capítulo, se le impondrá pena de prisión de tres a ocho años y de quinientos a mil quinientos días multa, además será destituido e inhabilitado de tres a diez años para desempeñar otro empleo, cargo o comisión en el servicio público.
 (ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 23 DE JUNIO DE 2018)
