@@ -1,22 +1,30 @@
-ARTÍCULOS TRANSITORIOS
-PRIMERO. Esta Ley surtirá sus efectos legales en el Estado de Durango a partir del 1 de enero de 2023 y regirá hasta el 31 de diciembre del mismo año, y será publicada en el Periódico Oficial del Gobierno del Estado de Durango.
-SEGUNDO. Una vez que se publiquen en el Diario Oficial de la Federación, los recursos financieros para el Estado de Durango del ejercicio fiscal 2023, por concepto de Participaciones Federales, Fondos de Aportaciones Federales y Convenios Federales, la Secretaría de Finanzas y de Administración realizará las sustituciones numéricas y las adecuaciones presupuestales correspondientes y lo hará del conocimiento al H. Congreso del Estado.
-TERCERO. La Secretaría adecuará las remuneraciones nominales y adicionales previstas en el Artículo 39 de la presente Ley, de conformidad con los incrementos salariales y las deducciones fiscales que procedan y se apliquen a las mismas percepciones durante el Ejercicio Fiscal del Año 2023.
-CUARTO. La Secretaría adecuará todos los anexos de la presente Ley, atendiendo el contenido en el Anexo XXXVI, mismo que será enviado a la Comisión de Hacienda, Presupuesto y Cuenta Pública del Congreso del Estado; de igual forma lo mandará publicar en el Periódico Oficial del Gobierno del Estado de Durango, a más tardar el día 15 de Enero del año 2022 (sic).
-CUARTO (SIC). Se derogan las disposiciones que se opongan a la presente Ley.
-El Ciudadano Gobernador del Estado, sancionará, promulgará y dispondrá se publique, circule y observe.
-Dado en el Salón de Sesiones del Honorable Congreso del Estado, en Victoria de Durango, Dgo., a los (15) quince días del mes de diciembre del año (2022) dos mil veintidós.
-DIP. BERNABE AGUILAR CARRILLO
+ARTÍCULOS TRANSITORIOS:
+PRIMERO. La presente Ley entrará en vigor a (sic) al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+SEGUNDO. Se derogan todas las disposiciones que se opongan o contravengan a la presente Ley.
+TERCERO. El Ejecutivo del Estado expedirá el Reglamento de esta Ley, en un plazo que no excederá de los ciento ochenta días naturales siguientes a la instalación de la Comisión Intersecretarial de Cambio Climático.
+CUARTO. La Comisión Intersecretarial de Cambio Climático deberá integrarse e instalarse dentro de los noventa días naturales de la entrada en vigor del presente Decreto. El Comité Técnico de Cambio Climático deberá integrarse e instalarse en un plazo no mayor a ciento veinte días naturales de la entrada en vigor del presente Decreto.
+QUINTO. En tanto la Secretaría del Medio Ambiente y Recursos Naturales es creada e instalada, el Instituto Estatal de Ecología y Desarrollo Sustentable de Oaxaca y las Secretarías y/o entidades involucradas en la materia objeto de esta Ley, seguirán ejerciendo sus facultades en los términos de esta Ley y de acuerdo a las competencias distribuidas por la Ley Orgánica del Poder Ejecutivo del Estado, por lo que cuando en esta Ley se refiera a la Secretaría, se tendrá entendido que se refiere al Instituto Estatal de Ecología y Desarrollo Sustentable de Oaxaca y las Secretarías y/o entidades involucradas en la materia objeto de esta Ley.
+SEXTO. Con base al principio de responsabilidades comunes pero diferenciadas, se procurará que en el Plan Estatal de Desarrollo 2016-2022, el Estado asuma el objetivo indicativo o meta aspiracional de reducir al año 2020, un porcentaje de emisiones con respecto a la línea de base; así como un cincuenta por ciento de reducción de emisiones al 2050 en relación con las emitidas en el año 2000, siempre y cuando disponga de mecanismos de apoyo financiero y tecnológico por parte de la Federación.
+Lo tendrá entendido el Gobernador del Estado y hará que se publique y se cumpla.
+DADO EN EL SALÓN DE SESIONES DEL H. CONGRESO DEL ESTADO.- San Raymundo Jalpan, Centro, Oaxaca a 31 de octubre de 2013.
+DIP. MAXIMINO VARGAS BETANZOS.
 PRESIDENTE.
-DIP. ROSA MARÍA TRIANA MARTÍNEZ
+DIP. GUILLERMO BERNAL GÓMEZ.
+SECRETARIO.
+DIP. CLARIVEL CONSTANZA RIVERA CASTILLO.
 SECRETARIA.
-DIP. SILVIA PATRICIA JIMÉNEZ DELGADO
-SECRETARIA.
-POR TANTO MANDO, SE IMPRIMA, PUBLIQUE, CIRCULE Y COMUNÍQUESE A QUIENES CORRESPONDA PARA SU EXACTA OBSERVANCIA.
-DADO EN EL PALACIO DEL PODER EJECUTIVO, EN VICTORIA DE DURANGO, DGO. A LOS (20) VEINTE DÍAS DEL MES DE DICIEMBRE DEL AÑO (2022) DOS MIL VEINTIDÓS.
-EL C. GOBERNADOR DEL ESTADO DE DURANGO
-DR. ESTEBAN ALEJANDRO VILLEGAS VILLARREAL
-EL SECRETARIO GENERAL DE GOBIERNO
-ING. HÉCTOR EDUARDO VELA VALENZUELA
-(F. DE E., P.O. 8 DE ENERO DE 2023)
-[N. DE E. VÉASE ANEXOS EN EL P.O. DE 29 DE DICIEMBRE DE 2022, PÁGINAS DE LA 50 A LA 529.]
+DIP. MARGARITA GARCÍA GARCÍA.
+SECRETARÍA.
+Por lo tanto, mando que se imprima, publique, circule y se le dé el debido cumplimiento.
+Palacio de Gobierno, Centro, Oax., a 06 de noviembre del 2013.
+EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.
+LIC. GABINO CUE MONTEAGUDO.
+EL SECRETARIO GENERAL DE GOBIERNO.
+LIC. ALFONSO JOSÉ GÓMEZ SANDOVAL HERNÁNDEZ.
+Y lo comunico a usted, para su conocimiento y fines consiguientes.
+SUFRAGIO EFECTIVO. NO REELECCIÓN.
+"EL RESPETO AL DERECHO AJENO ES LA PAZ"
+Tlalixtac de Cabrera, Centro, Oax., a 06 de noviembre del 2013.
+EL SECRETARIO GENERAL DE GOBIERNO.
+LIC. ALFONSO JOSÉ GÓMEZ SANDOVAL HERNÁNDEZ.
+[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]
