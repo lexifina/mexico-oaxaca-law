@@ -1920,8 +1920,9 @@ VI. Violencia contra los derechos reproductivos: A toda acción u omisión que l
 La pena señalada en el párrafo anterior, se aumentará hasta en una mitad de su mínimo y su máximo, en los casos en que la violencia se ejerza en contra de personas adultas mayores, personas con discapacidad o mujeres en estado de gravidez.
 (REFORMADO, P.O. 30 DE ENERO DE 2016)
 En ningún caso se entenderá como tratamiento o rehabilitación, la violencia hacia persona alguna con trastorno mental, ni como forma de educación o formación hacia los menores de edad.
+(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2018)
+406. En los casos previstos en este Título, el Ministerio Público, apercibirá al inculpado para que se abstenga de ejecutar cualquier tipo de violencia contra la víctima y decretará, de inmediato, bajo su más estricta responsabilidad, las órdenes de protección o medidas precautorias, necesarias para salvaguardar la integridad física y psíquica de la víctima durante la integración de la averiguación previa y hasta la conclusión de ésta. No proceden los acuerdos reparatorios como mecanismo para terminar la contienda en los casos previstos en este Título.
 (REFORMADO, P.O. 30 DE ENERO DE 2016)
-406.- En los casos previstos en este Título, el Ministerio Público, apercibirá al inculpado para que se abstenga de ejecutar cualquier tipo de violencia contra la víctima y decretará, de inmediato, bajo su más estricta responsabilidad, las órdenes de protección o medidas precautorias, necesarias para salvaguardar la integridad física y psíquica de la víctima durante la integración de la averiguación previa y hasta la conclusión de ésta.
 En caso de determinarse el ejercicio de la acción penal, el Ministerio Público solicitará al Juez la confirmación, ampliación o cancelación, en su caso, de las órdenes de protección o medidas precautorias referidas en el párrafo que antecede, quién deberá resolver lo conducente sin dilación.
 (ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE SEPTIEMBRE DE 2011)
 CAPITULO II
