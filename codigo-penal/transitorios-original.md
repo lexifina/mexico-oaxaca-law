@@ -1,3 +1,6 @@
+ARTICULOS TRANSITORIOS:
+ARTICULO 1o.- Este Código comenzará a regir a los noventa días de su publicación en el Periódico Oficial del Estado.
+ARTICULO 2o.- Desde esa misma fecha queda derogado el Código Penal de 18 de Diciembre de 1943, así como todas las Leyes que se opongan a la presente; pero este Código deberá continuar aplicándose por los hechos ejecutados durante su vigencia, a menos que los acusados manifiesten su voluntad de acogerse al nuevo Ordenamiento.
 ARTICULO 3o.- Quedan vigentes las disposiciones de carácter penal contenidas en Leyes especiales en todo lo que no esté previsto en este Código.
 Lo tendrá entendido el Gobernador del Estado y hará que se publique y se cumpla.
 DADO EN EL SALON DE SESIONES DEL H. CONGRESO DEL ESTADO. Oaxaca de Juárez, a 22 de octubre de 1979.
