@@ -1004,7 +1004,7 @@ Al que cometa el delito de ejercicio abusivo de funciones se le impondrán las s
 Cuando la cuantía a que asciendan las operaciones a que hace referencia este artículo no exceda del equivalente a quinientas veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, se impondrán de tres meses a dos años de prisión y de treinta a cien días multa.
 Cuando la cuantía a que asciendan las operaciones a que hace referencia este artículo exceda de quinientas veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, se impondrán de dos años a doce años de prisión y de cien a ciento cincuenta días multa.
 (ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)
-Cuando se actualice el supuesto a que se refiere la fracción II del presente artículo, se sancionará con prisión de cuatro a diez años y multa de trescientos a mil veces el valor de la unidad de medida y actualización, además la destitución del empleo, cargo o comisión públicos e inhabilitación de cinco a quince años para desempeñar otro.
+Cuando se actualice el supuesto a que se refiere la fracción II del presente artículo, se sancionará con prisión, de cuatro a diez años y multa de trescientos a mil veces el valor de la unidad de medida y actualización, además la destitución del empleo, cargo o comisión públicos e inhabilitación de cinco a quince años para desempeñar otro.
 (REFORMADO, P.O. 15 DE DICIEMBRE DE 2017)
 CAPITULO VII.
 Enriquecimiento Ilícito.
@@ -1256,7 +1256,7 @@ Cuando la persona estuprada fuere menor de quince años, se presumirá en todo c
 (REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2001)
 245.- La reparación del daño en los casos de estupro, además de lo que establece el artículo 27 del presente ordenamiento, comprenderá el pago de alimentos al niño nacido.
 (REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2008)
-246.- Al que por medio de la violencia física o moral tenga cópula con una persona sin la voluntad de ésta, sea cual fuere su sexo, se le impondrá prisión de catorce a veinte años y multa de seiscientos a un mil doscientas veces el valor de la unidad de medida y actualización.
+246.- Al que por medio de la violencia física o moral tenga cópula con una persona sin la voluntad de ésta, sea cual fuere su sexo, se le impondrá prisión de doce a dieciocho años y multa de quinientos a mil días de salario.
 (ADICIONADO, P.O. 7 DE FEBRERO DE 1998)
 Para los efectos de este artículo, se entiende por cópula, la introducción del miembro viril en el cuerpo de la víctima por vía vaginal, anal u oral, independientemente de su sexo.
 (REFORMADO PRIMER PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2013) (REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
