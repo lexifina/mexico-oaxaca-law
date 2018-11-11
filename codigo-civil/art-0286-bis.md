@@ -1,5 +1,5 @@
 (REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2018)
-Artículo 286 Bis.- Procede el divorcio administrativo cuando ambos consortes convengan en divorciarse de mutuo acuerdo, sean mayores de edad, no tengan hijos, y si los hubiere sean mayores de 18 años, hayan liquidado la sociedad conyugal ante autoridad judicial o ante Notario Público, sí están casados bajo este régimen patrimonial, la mujer no debe estar embarazada.
+Artículo 286 Bis.- Procede el divorcio administrativo cuando ambos consortes convengan en divorciarse de mutuo acuerdo, no tengan hijos, y si los hubiere sean mayores de 18 años, la mujer no debe estar embarazada.
 (ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)
 Reunidos los requisitos anteriores, los cónyuges se presentarán personalmente ante el oficial del Registro Civil del lugar de su domicilio o el del en que contrajeron matrimonio, deberán acreditar que son casados, mayores de edad; además de lo anterior, manifestarán su voluntad de divorciarse.
 (ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)
