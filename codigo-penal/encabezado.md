@@ -787,7 +787,7 @@ Quebrantamiento de sellos.
 CAPITULO IV.
 Delitos cometidos contra funcionarios públicos.
 187.- Al que cometa un delito en contra de un funcionario público o agente de la autoridad en el acto de ejercer sus funciones, o con motivo de ella, se le aplicarán de tres días a tres años de prisión, además de la que le corresponda por el delito cometido.
-188.- Cuando se trate de ultrajes hechos al Congreso del Estado, a un Tribunal, o a un Cuerpo Colegiado de la Administración de Justicia o a cualquiera Institución Pública, se aplicarán de un mes a un año de prisión y multa de cien a mil pesos.
+188.- (DEROGADO, P.O. 10 DE NOVIEMBRE DE 2018)
 TITULO QUINTO.
 Delitos contra la salud.
 CAPITULO I.
