@@ -2058,4 +2058,7 @@ II. A quien por sí o por interpósita persona obstaculice, impida o por cualqui
 (ADICIONADO, P.O. 3 DE OCTUBRE DE 2016)
 425.- Si quien realiza el acto fuera un servidor público se aumentará la sanción un año.
 Los delitos contenidos en este Título se perseguirán por querella.
+(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)
+426.- Cuando se cometa un delito doloso en contra del cónyuge de un periodista o de sus parientes sin limitación de grado en línea recta o colateral hasta el cuarto grado, con la intención de obstaculizar, afectar, limitar o menoscabar el derecho a la información o las libertades de expresión o de imprenta, se aumentará hasta en un tercio la pena establecida para tal delito.
+En el caso anterior, se aumentará la pena hasta en una mitad cuando además el delito sea cometido por un servidor público en ejercicio de sus funciones.
 ARTICULOS TRANSITORIOS:
