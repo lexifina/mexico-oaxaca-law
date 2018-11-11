@@ -1704,7 +1704,8 @@ VII.- Cuando el robo se cometa aprovechándose el delincuente de la consternaci�
 VIII.- Cuando se cometa durante un incendio, terremoto u otra calamidad pública, aprovechándose el culpable del desorden o confusión que esos acontecimientos producen;
 (ADICIONADA, P.O. 3 DE JUNIO DE 1995)
 IX.- Cuando se cometa estando la víctima en un vehículo particular o de transporte público; y
-X.- (DEROGADA, P.O. 3 DE OCTUBRE DE 1998)
+(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2018)
+X.- Cuando se trate de productos agrícolas endémicos y de cultivo intensivo propios del Estado, desde su etapa de plantación, crecimiento y hasta la de aprovechamiento, se encuentren o no adheridos al suelo.
 369 Bis.- (DEROGADO, P.O. 3 DE OCTUBRE DE 1998)
 CAPITULO II.
 Abigeato.
