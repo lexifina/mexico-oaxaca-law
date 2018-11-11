@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)
+Artículo 657 Bis.- Una vez presentada la solicitud de divorcio, cualquiera de las partes podrá solicitar al juez que conozca del asunto, ser canalizado a una institución pública que proporcione atención psicológica especializada para todos los miembros de la familia, con el propósito de disminuir los conflictos conyugales y procurar en todo momento el bienestar psicológico de los menores.
+De igual forma el juez que conozca de la solicitud de divorcio, cuenta con la facultad de recomendar la atención psicológica especializada a que se hace referencia en el párrafo anterior a las partes solicitantes.
