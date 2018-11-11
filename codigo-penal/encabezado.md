@@ -348,6 +348,8 @@ b).- Al que encontrándose en estado de ebriedad o bajo el influjo de alguna dro
 c).- A quién en estado de ebriedad o bajo el influjo de alguna droga, reitere la comisión culposa de homicidio o lesiones graves.
 (ADICIONADO, P.O. 12 DE MARZO DE 2018)
 d) Al conductor de un vehículo de motor, quien por hacer uso de un teléfono celular o cualquier dispositivo electrónico de entretenimiento o comunicación, con el que hable, envíe mensajes de texto o utilice sus aplicaciones de comunicación o entretenimiento al conducir, causare homicidio o lesiones de las previstas por los artículos 275 o 276, o las que se llegasen a tipificar.
+(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)
+Además de la pena impuesta en el tercer párrafo del presente artículo, en el supuesto señalado en el inciso c) se le impondrá la obligación de rehabilitarse al sujeto activo.
 (ADICIONADO, [N. DE E. PERTENECE AL INCISO D], P.O. 12 DE MARZO DE 2018)
 Se excluye lo anterior cuando con el dispositivo electrónico de comunicación se empleen funciones u otros dispositivos electrónicos adicionales, de modo que al ser utilizados, el conductor no distraiga su atención al circular o no le impida utilizar debidamente las partes de su cuerpo para conducir.
 (ADICIONADO, P.O. 28 DE NOVIEMBRE DE 1998)
