@@ -1982,6 +1982,13 @@ No serán consideradas discriminatorias todas aquellas medidas tendentes a la pr
 Cuando las conductas a que se refiere este artículo sean cometidas por persona con la que la víctima tenga una relación de subordinación laboral, la pena se incrementará en una mitad.
 Asimismo, se incrementará en una mitad la pena cuando los actos discriminatorios limiten el acceso a las garantías jurídicas indispensables para la protección de todos los derechos humanos.
 Este delito se perseguirá por querella.
+(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE NOVIEMBRE DE 2018)
+CAPITULO V
+Violencia Política
+(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)
+412 TER.- Violencia Política es toda acción u omisión realizada por sí o a través de terceros que cause daño físico, psicológico, económico o sexual en contra de una o varias mujeres y/o de cualquier miembro de su familia, para restringir, suspender, impedir, menoscabar o anular el reconocimiento, goce o ejercicio de los derechos políticos-electorales o de las prerrogativas inherentes a un cargo público, o inducirla u obligarla a tomar decisiones de la misma índole en contra de su voluntad.
+(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)
+412 QUÁTER.- A quien cometa el delito de Violencia Política se impondrá prisión de dos a seis años y de cien a doscientas veces el valor diario de la unidad de medida y actualización.
 (ADICIONADO CON EL CAPÍTULO QUE LO INTEGRA, P.O. 30 DE ENERO DE 2016)
 TÍTULO VIGÉSIMO TERCERO.
 Delitos que atentan contra la obligación alimentaria
