@@ -1416,6 +1416,8 @@ Disparo de arma de fuego y ataque peligroso.
 284.- Se aplicarán de seis meses a tres años de prisión y multa de cien a mil pesos:
 I.- Al que dispare sobre alguna persona un arma de fuego;
 II.- Al que ataque a alguien de tal manera que, en razón del arma empleada, de la fuerza o destreza del agresor, o de cualquiera otra circunstancia semejante, pueda producir como resultado la muerte.
+(ADICIONADA, P.O. 15 DE JUNIO DE 2019)
+III.- Al que dispare un arma de fuego sin causa justificada.
 Si con los actos a que se refiere este artículo se causare algún daño, se aplicará la sanción que corresponda al delito que se haya realizado con la ejecución de dichos actos salvo el caso que dicha sanción sea menor que la señalada en este artículo.
 CAPITULO III.
 Homicidio.
