@@ -158,10 +158,10 @@ X.- Cuando se trate de productos agrícolas endémicos y de cultivo intensivo pr
 369 Bis.- (DEROGADO, P.O. 3 DE OCTUBRE DE 1998)
 CAPITULO II.
 Abigeato.
-(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)
-370.- Comete el delito de abigeato el que se apodere, posea, se encuentre destazando o seccionando una o más cabezas de ganado sin derecho y sin consentimiento de la persona que pueda disponer de ellas de acuerdo con la ley, tenga o no la calidad de ganadero.
-(REFORMADO, P.O. 22 DE DICIEMBRE DE 1987)
-371.- Para los efectos de este Capítulo, se considerará como ganado mayor: el bovino, el caballar, el mular y el asnar; y, como ganado menor: al cabrío, el lanar y el porcino.
+(REFORMADO, P.O. 3 DE AGOSTO DE 2019)
+370.- Comete el delito de abigeato, quien por sí o por interpósita persona se apodere, posea, se encuentre destazando o seccionando una o más cabezas de ganado sin derecho y sin consentimiento de la persona que pueda disponer de ellas de acuerdo con la ley, tenga o no la calidad de ganadero.
+(REFORMADO, P.O. 3 DE AGOSTO DE 2019)
+371.- Para los efectos de este Capítulo, se considerará como ganado mayor: el bovino, caballar, asnal y mular y; como ganado menor: el ovino, caprino, porcino. Se equipara a ganado menor las colonias de abejas en un apiario y las especies de una granja acuícola.
 (REFORMADO, P.O. 31 DE AGOSTO DE 2015)
 372.- El abigeato de ganado mayor se sancionará:
 (REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)
