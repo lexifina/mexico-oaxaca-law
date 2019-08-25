@@ -809,22 +809,9 @@ Venta de bebidas alcohólicas a menores de edad.
 193 Bis.- Se aplicará prisión de seis meses a siete años y multa de quinientos a diez mil pesos a quien venda bebidas alcohólicas a menores de edad, de igual forma al titular del permiso o licencia.
 (ADICIONADO, P.O. 18 DE ABRIL DE 2015)
 193 Ter.- Además de las penas establecidas en el artículo anterior, en caso de reincidencia, se procederá a la cancelación del permiso o licencia.
-N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NO. 725, PUBLICADO EN EL P.O. DE 21 DE NOVIEMBRE DE 2008, SE DEROGAN LOS CAPÍTULOS I AL IV DEL PRESENTE TÍTULO, MODIFICANDO SU ESTRUCTURA, CONFORMÁNDOSE EN UN CAPÍTULO ÚNICO.
-(REFORMADA SU DENOMINACIÓN, P.O. 21 DE NOVIEMBRE DE 2008)
+(REFORMADA SU DENOMINACIÓN, P.O. 24 DE AGOSTO DE 2019)
 TITULO SEXTO.
-Delitos contra la Dignidad y el Desarrollo de las Personas Menores de Edad o de quienes no tienen la Capacidad para comprender el significado del hecho.
-(DEROGADO, P.O. 21 DE NOVIEMBRE DE 2008)
-CAPITULO I.
-Ultrajes a la moral pública o a las buenas costumbres o incitación a la prostitución.
-(DEROGADO, P.O. 21 DE NOVIEMBRE DE 2008)
-CAPITULO II.
-Corrupción de menores, de incapaces y pornografía infantil.
-(DEROGADO, P.O. 21 DE NOVIEMBRE DE 2008)
-CAPITULO III.
-Lenocinio.
-(DEROGADO, P.O. 21 DE NOVIEMBRE DE 2008)
-CAPITULO IV.
-Provocación de un delito y apología de éste o de algún vicio.
+Delitos contra la dignidad y el desarrollo de las personas Menores de edad o de quienes no tienen la capacidad Para comprender el significado del hecho.
 (ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2008)
 CAPITULO UNICO.
 (REFORMADO, P.O. 21 DE NOVIEMBRE DE 2008)
@@ -865,6 +852,15 @@ III.- Si el sujeto activo es ministro de un culto religioso.
 200 Bis.- (DEROGADO, P.O. 21 DE NOVIEMBRE DE 2008)
 201.- (DEROGADO, P.O. 21 DE NOVIEMBRE DE 2008)
 202.- (DEROGADO, P.O. 21 DE NOVIEMBRE DE 2008)
+(ADICIONADO, P.O. 24 DE AGOSTO DE 2019)
+202 Bis.- Comete el delito de turismo sexual infantil quien financie, promueva, publicite, invite, facilite o gestione por cualquier medio, para que una persona viaje al interior o exterior del territorio del estado de Oaxaca, con la finalidad de que realice cualquier tipo de actos sexuales reales o simulados con una o varias personas menores de dieciocho años de edad o que no tengan la capacidad de comprender el significado del hecho o de resistirlo.
+A quien financie, promueva, publicite, invite, facilite o gestione por cualquier medio la realización de las conductas descritas en el párrafo anterior, se le impondrá de ocho a catorce años de prisión y multa de seiscientos a mil doscientos veces el valor diario de la unidad de medida y actualización vigente.
+Estas penas se aplicarán sin perjuicio de las que correspondan por la comisión de otros delitos.
+(ADICIONADO, P.O. 24 DE AGOSTO DE 2019)
+202 Ter.- Las penas que resulten aplicables por los delitos previstos en este capítulo se aumentarán hasta en una mitad de su mínimo y su máximo, de acuerdo con lo siguiente:
+I. Si el sujeto activo se valiese de la función pública, la profesión u oficio que desempeña, aprovechándose de los medios o circunstancias que ellos le proporcionan. En este caso, además, se le destituirá del empleo, cargo o comisión públicos e inhabilitará para desempeñar otro, o se le suspenderá del ejercicio de la profesión u oficio por un tiempo igual al de la pena de prisión impuesta, que iniciará una vez (sic) haya compurgado la pena privativa de libertad.
+II. Si el sujeto activo del delito tiene parentesco por consanguinidad o afinidad hasta en el cuarto grado, o parentesco civil, o habite ocasional o permanentemente en el mismo domicilio con la víctima o tenga una relación sentimental o de confianza con el sujeto pasivo, o sea tutor o curador de la víctima. Además, en su caso, perderá la patria potestad, tutela, guarda y custodia, régimen de visitas y convivencias, el derecho de alimentos que le correspondiere por su relación con la víctima y el derecho que pudiere tener respecto de los bienes de ésta; y
+III. Si el sujeto activo es ministro de un culto religioso.
 TITULO SEPTIMO.
 Revelación de secretos.
 CAPITULO UNICO.
