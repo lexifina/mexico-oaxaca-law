@@ -124,13 +124,16 @@ Si con alguna de las conductas previstas en este artículo resulta la comisión 
 359.- Si el robo se ejecutare con violencia a las personas o las cosas, a la pena que corresponda por el robo simple, se agregarán de uno a ocho años de prisión. Si la violencia constituyere otro delito, se aplicarán las reglas de acumulación.
 360.- La violencia a las personas se distingue en física y moral. Se entiende por violencia física en el robo, la fuerza material que para cometerlo se hace a una persona.
 Hay violencia moral cuando el delincuente amaga o amenaza a una persona, con un mal grave presente o inmediato, capaz de intimidarla.
+(ADICIONADO, P.O. 24 DE AGOSTO DE 2019)
+Se equipara a la violencia moral, la utilización de juguetes u otros objetos que tengan la apariencia, forma o configuración de armas de fuego, o de pistolas de municiones o aquellas que arrojen proyectiles a través de aire o gas comprimido.
 361.- Por violencia a las cosas se entiende la fractura, la horadación o excavación interiores o exteriores el uso de llaves falsas o maestras, el escalamiento y toda operación similar para la perpetración del delito.
 362.- Para la imposición de la sanción se tendrá también el robo como hecho con violencia:
 I.- Cuando se haga a una persona distinta de la robada que se halle en compañía de ésta;
 II.- Cuando el ladrón la ejercite después de consumado el robo, para proporcionarse la fuga o defender lo robado;
 III.- Cuando el delito se ejecute por dos o más ladrones;
 IV.- Cuando se ejecute de noche;
-V.- Si los ladrones llevan armas;
+(REFORMADA, P.O. 24 DE AGOSTO DE 2019)
+V.- Si los ladrones llevan armas, o porten instrumentos peligrosos;
 VI.- Cuando el ladrón se finja funcionario público o suponga una orden de la autoridad.
 (REFORMADO, P.O. 22 DE DICIEMBRE DE 1987)
 363.- Cuando el valor de lo robado no exceda de diez veces el salario, sea restituido por el ladrón espontáneamente y pague éste todos los daños y perjuicios antes de que la autoridad tome conocimiento del delito, no se impondrá sanción alguna si no se ha ejecutado el robo por medio de la violencia.
