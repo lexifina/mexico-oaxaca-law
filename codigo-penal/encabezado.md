@@ -1297,10 +1297,24 @@ III.- El delito sea cometido por persona que tenga al ofendido bajo su custodia,
 (ADICIONADA, P.O. 7 DE FEBRERO DE 1998)
 IV.- Tratándose del delito de violación, el hecho sea cometido por el cónyuge, concubina o concubino de la víctima.
 (DEROGADO ÚLTIMO PÁRRAFO, P.O. 30 DE ENERO DE 2016)
-CAPITULO II.
-Rapto.
-249.- (DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2001)
-250.- (DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2001)
+(REFORMADA SU DENOMINACIÓN, P.O. 24 DE AGOSTO DE 2019)
+CAPÍTULO SEGUNDO.
+Delitos contra la intimidad sexual.
+(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE AGOSTO DE 2019)
+249.- Comete el delito de violación a la intimidad sexual quien por cualquier medio divulgue, comparta, distribuya, publique y/o solicite imágenes, audios o videos de una persona, de contenido íntimo, erótico o sexual, ya sea impreso, grabado o digital, sin el consentimiento de la víctima.
+Esta conducta se sancionará de cuatro a ocho años de prisión y multa de mil a dos mil veces el valor diario de la unidad de medida y actualización vigente al momento de que se cometa el delito. Este delito se perseguirá por querella.
+Las mismas penas se aumentarán hasta en una mitad del máximo:
+I. A quien cometa el delito en contra de su cónyuge o en contra de la persona con la que esté, o haya estado unida por alguna relación de afectividad, aún sin convivencia.
+II. A quien mantenga una relación laboral, social, política con la víctima.
+III. A quien cometa el delito en contra de una persona que por su situación de discapacidad no comprenda el significado del hecho.
+IV. A quien cometa el delito en contra de una persona en situación de vulnerabilidad social, por su condición cultural, étnica y/o su pertenencia a algún pueblo originario.
+V. A quien cometa el delito contra menores de edad.
+VI. A quien con violencia obligue a la víctima a fabricar, hacer el contenido íntimo, sexual o erótico publicado.
+VII. A quien amenace con la publicación o bloqueo de la difusión del contenido a cambio de un nuevo intercambio sexual o económico.
+VIII. Al responsable del medio de comunicación impreso o digital que compile o reproduzca estos contenidos y/o los haga públicos.
+En los supuestos anteriores el delito se perseguirá de oficio.
+(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE AGOSTO DE 2019)
+250.- Para los efectos de las disposiciones anteriores, la autoridad competente ordenará a la empresa de prestación de servicios digitales o informáticos, servidor de internet, red social, administrador o titular de la plataforma digital, medio de comunicación o cualquier otro donde sea publicado o compilado el contenido intimo no autorizado, el retiro inmediato de la publicación que se realizó sin consentimiento de la víctima.
 251.- (DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2001)
 252.- (DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2001)
 253.- (DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2001)
