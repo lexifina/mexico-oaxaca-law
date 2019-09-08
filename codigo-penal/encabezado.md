@@ -1241,8 +1241,8 @@ I.- Sea cometido por dos o más personas;
 II.- Se hiciere uso de violencia física o moral; y
 (REFORMADA, P.O. 23 DE ENERO DE 2010)
 III.- Se hubiera administrado a la víctima alguna sustancia tóxica.
-(REFORMADO, P.O. 9 DE DICIEMBRE DE 2013) (REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
-Cuando el delito fuere cometido contra persona menor de doce años, incapaz o cuando se realice en persona que no tenga la capacidad de comprender el significado del hecho o por cualquier causa no pueda resistirlo, la pena será de siete a doce años de prisión y multa de trescientos a setecientos días de salario mínimo. A los autores y partícipes del delito previsto en este párrafo no se les concederá ningún beneficio preliberacional en la ejecución de la sentencia.
+(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2019)
+Cuando el delito fuere cometido contra una persona menor de doce años, incapaz o cuando se realice en persona que no tenga la capacidad de comprender el significado del hecho o por cualquier causa no pueda resistirlo, la pena será de ocho a quince años de prisión y multa de trescientos a setecientas veces el valor diario de la unidad de medida y actualización. A los autores y partícipes del delito previsto en este párrafo no se les concederá ningún beneficio preliberacional en la ejecución de la sentencia.
 (ADICIONADO, P.O. 3 DE OCTUBRE DE 2016)
 Cuando el delito fuere cometido por un servidor público, docente o ministro de culto y utilizare los medios o circunstancias que el encargo le proporcione, además de la pena prevista en el párrafo primero, será inhabilitado, destituido o suspendido, de su empleo público o profesión.
 (REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2018)
