@@ -237,6 +237,12 @@ Fraude.
 I.- Con prisión de tres meses a tres años y multa de cinco a cien veces el salario, cuando el valor de lo defraudado no exceda de esta última cantidad;
 II.- Con prisión de tres a seis años y multa de cien a ciento cincuenta veces el salario, cuando el valor de lo defraudado exceda de cien veces el salario; pero no de quinientas veces;
 III.- Con prisión de seis a doce años y multa de ciento cincuenta a quinientas veces el salario cuando el valor de lo defraudado exceda de ésta última cantidad.
+(ADICIONADO, P.O. 5 DE OCTUBRE DE 2019)
+380 BIS.- Comete el delito de fraude por usura el que por medio de pactos orales o contratos de mutuo o prendarios y que sin contar con los permisos correspondientes realice préstamo de dinero, y obtenga para él o para un tercero beneficios económicos que estén en una notoria desproporción, en relación a la prestación de servicio, así como si los intereses son superiores a la tasa legal establecida en el Código Civil para el Estado de Oaxaca.
+Además de las sanciones establecidas en el artículo 380 del presente Código Penal, la prisión aumentará en una tercera parte de la pena impuesta, al que:
+I.- Se aproveche del estado de necesidad económica de otra persona para realizar el delito.
+II.- Por sí o por terceros haga uso de violencia psicológica o física, intimide o de cualquier forma coaccione con la finalidad de obtener el usufructo de la actividad ilícita.
+III.- Para disimular su actividad usuraria suscriba títulos de crédito, si no media otra causa que justifique su existencia.
 381.- Las mismas penas señaladas en el Artículo anterior se impondrán:
 I.- Al que obtenga dinero, valores o cualquiera otra cosa ofreciendo encargarse de la defensa de un procesado o de un sentenciado o de la dirección o patrocinio en un asunto civil o administrativo, si no efectúa aquella o no realiza ésta, sea porque no se haga cargo legalmente de la misma o porque renuncie o abandone el negocio o la causa sin motivo justificado;
 II.- Al que por título oneroso anajene (sic) cosa con conocimiento de que no tiene derecho para disponer de ella o la arriende, hipoteque, empeñe o grave de cualquier otro modo, si ha recibido el precio, el alquiler, la cantidad en que la gravó, parte de ellas o un lucro equivalente;
