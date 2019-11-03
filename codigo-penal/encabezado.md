@@ -887,6 +887,22 @@ d.- El monto del beneficio que haya obtenido el responsable.
 Sin perjuicio de lo anterior, la categoría de funcionario o empleado de confianza será una circunstancia que podrá dar lugar a una agravación de la pena.
 (REFORMADO, P.O. 15 DE DICIEMBRE DE 2017)
 206.- Para la individualización de las sanciones previstas en este Título, el juez tomará en cuenta, en su caso, el nivel jerárquico del servidor público y el grado de responsabilidad del encargo, su antigüedad en el empleo, sus antecedentes de servicio, sus percepciones, su grado de instrucción, la necesidad de reparar los daños y perjuicios causados por la conducta ilícita y las circunstancias especiales de los hechos constitutivos del delito. Sin perjuicio de lo anterior, la categoría de funcionario o empleado de confianza será una circunstancia que podrá dar lugar a una agravación de la pena.
+(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 2 DE NOVIEMBRE DE 2019)
+CAPITULO I BIS.
+Delitos contra la administración de justicia, cometidos por servidores públicos
+(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 2019)
+206 Bis.- Son delitos contra la administración de justicia, cometidos por servidores públicos los siguientes:
+I. Dictar, a sabiendas, una resolución de fondo o una sentencia definitiva que sean ilícitas por violar algún precepto terminante de la ley, o ser contrarias a las actuaciones seguidas en juicio u omitir dictar una resolución de trámite, de fondo o una sentencia definitiva ilícita, dentro de los términos dispuestos en la ley;
+II. Ejecutar actos o incurrir en omisiones que produzcan un daño o concedan a alguien una ventaja indebida;
+III. Abstenerse injustificadamente de ejercer la acción penal que corresponda de una persona que se encuentre detenida a su disposición como imputado de algún delito, cuando esta sea procedente conforme a la Constitución y a las leyes de la materia, en los casos en que la ley les imponga esa obligación; o ejercitar acción penal cuando no proceda denuncia, acusación o querella;
+IV. Ocultar al imputado el nombre de quien le acusa, salvo en los casos previstos por la ley, no darle a conocer el delito que se le atribuye o no realizar el descubrimiento probatorio conforme a lo que establece el Código Nacional de Procedimientos Penales;
+V. No dictar auto de vinculación al proceso o de libertad de un detenido, dentro de las setenta y dos horas siguientes a que lo pongan a su disposición, a no ser que el inculpado haya solicitado ampliación del plazo, caso en el cual se estará al nuevo plazo;
+VI. Abrir procedimiento penal contra un servidor público, con fuero, sin habérsele retirado éste previamente, conforme a lo dispuesto por la ley;
+VII. Admitir o nombrar un depositario o entregar a éste los bienes secuestrados, sin el cumplimiento de los requisitos legales correspondientes;
+VIII. Nombrar síndico o interventor en un concurso o quiebra, a una persona que sea deudor, pariente o que haya sido abogado del fallido, o a persona que tenga con el funcionario relación de parentesco, estrecha amistad o esté ligada con él por negocios de interés común; y
+IX. Permitir, fuera de los casos previstos por la ley, la salida temporal de las personas que están recluidas.
+A quien cometa los delitos previstos en las fracciones II, III, VIII y IX, se le impondrá pena de prisión de tres a ocho años y de treinta a mil cien días multa.
+A quien cometa los delitos previstos en las fracciones I, IV, V, VI y VII, se le impondrá pena de prisión de cuatro a diez años y de cien a ciento cincuenta días multa.
 (REFORMADA SU DENOMINACIÓN, P.O. 15 DE DICIEMBRE DE 2017)
 CAPITULO II.
 Ejercicio ilícito de servicio público y uso ilícito de atribuciones y facultades.
