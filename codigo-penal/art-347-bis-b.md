@@ -135,6 +135,8 @@ IV.- Cuando se ejecute de noche;
 (REFORMADA, P.O. 24 DE AGOSTO DE 2019)
 V.- Si los ladrones llevan armas, o porten instrumentos peligrosos;
 VI.- Cuando el ladrón se finja funcionario público o suponga una orden de la autoridad.
+(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2019)
+VII.- Cuando se cometa en contra de un niño, niña o adolescente, persona adulta mayor, persona con discapacidad, persona en compañía de un infante o mujer embarazada.
 (REFORMADO, P.O. 22 DE DICIEMBRE DE 1987)
 363.- Cuando el valor de lo robado no exceda de diez veces el salario, sea restituido por el ladrón espontáneamente y pague éste todos los daños y perjuicios antes de que la autoridad tome conocimiento del delito, no se impondrá sanción alguna si no se ha ejecutado el robo por medio de la violencia.
 364.- En todo caso de robo si el Juez, lo creyera justo, podrá suspender al infractor de un mes a seis años en los derechos de tutela curatela, perito, depositario o interventor judicial, síndico o interventor en concursos o quiebras albacea, asesor y representante de ausentes; o en el ejercicio de cualquiera profesión de las que exijan título.
