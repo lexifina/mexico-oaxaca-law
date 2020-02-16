@@ -1,5 +1,5 @@
 (ADICIONADO, P.O. 11 DE MAYO DE 2018)
-Artículo 24 Bis.- La identidad es un derecho de las personas. Se consideran medios para acreditar la identidad aquellos documentos públicos ya sea en original o copia certificada, expedidos por autoridades competentes, de manera enunciativa y no limitativa (sic) los siguientes:
+Artículo 24 Bis.- La identidad es un derecho de las personas. Se consideran medios para acreditar la identidad aquellos documentos públicos ya sea en original o copia certificada, expedidos por autoridades competentes, de manera enunciativa y no limitativa los siguientes:
 I En caso de menores de edad:
 a) Acta de nacimiento.
 b) Carta de naturalización.
