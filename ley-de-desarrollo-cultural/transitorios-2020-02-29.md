@@ -1,0 +1,4 @@
+P.O. 29 DE FEBRERO DE 2020.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1198.- MEDIANTE EL CUAL REFORMAN LA FRACCIÓN I DEL ARTÍCULO 8, Y LA FRACCIÓN II DEL ARTÍCULO 9; SE ADICIONA UNA FRACCIÓN XVII DEL ARTÍCULO 6 RECORRIÉNDOSE LA SUBSECUENTE, TODAS DE LA LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE OAXACA".]
+PRIMERO. El presente Decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial del Gobierno del Estado.
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado.
