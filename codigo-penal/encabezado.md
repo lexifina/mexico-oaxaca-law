@@ -1169,16 +1169,23 @@ II.- Al que para eludir la práctica de una diligencia judicial, o una notificac
 (ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 2013) (REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
 CAPITULO IV BIS
 De la Suplantación de Identidad.
-(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE DICIEMBRE DE 2017)
-232 Bis.- Al que por cualquier medio suplante la identidad de otra persona, u otorgue su consentimiento para llevar a cabo la suplantación en su identidad, se le impondrá una pena de uno a cinco años de prisión y multa de quinientos a mil veces el valor de la Unidad de Medida y Actualización.
-(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2017)
-Se impondrá la pena del párrafo anterior, a quien se apodere, apropie, transfiera, utilice o disponga de datos personales sin autorización de su titular, con la finalidad de cometer un ilícito o favorecer su comisión.
-(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2013) (REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
-Se aumentarán en una mitad las penas previstas en el párrafo anterior, a quien se valga de la homonimia, parecido físico o similitud de la voz para cometer el delito establecido en el presente artículo.
-(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2013) (REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
-232 Bis A.- Se aumentará la pena prevista en el artículo anterior en dos terceras partes al que cometa el delito de suplantación de identidad dentro de la tramitación de la averiguación previa o proceso penal, conforme a las disposiciones penales aplicables.
-(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2017)
-Asimismo, las penas contenidas en el artículo anterior, se aumentarán hasta en una mitad, cuando el ilícito sea cometido por un servidor público que aprovechándose de sus funciones o cargo, tenga acceso a bases de datos o se valga de su profesión para la obtención de las mismas.
+(REFORMADO, P.O. 29 DE FEBRERO DE 2020)
+232 Bis.- A quien empleando cualquier medio y sin el consentimiento de quien legítimamente deba otorgarlo, se haga pasar por otra persona, física o jurídica, asuma, utilice, usurpe o suplante su identidad, con la finalidad de obtener lucro o producir un daño patrimonial, para sí o para un tercero, se aplicarán de tres a seis años de prisión y multa de quinientos (sic) a mil quinientas veces el valor de la Unidad de Medida y Actualización.
+Para los efectos de este capítulo, se entenderá por identidad, todos aquellos datos personales, informes, documentos o imagen pública, que identifican a una persona física o jurídica, que la individualizan ante la sociedad, y que le permite ser identificado o identificable por la colectividad a través de cualquier medio impreso o electrónico.
+Serán equiparables al delito de suplantación de identidad y se impondrán las mismas penas a quien:
+I. Otorgue su consentimiento a otra persona para que asuma, utilice o suplante su identidad, datos personales, informes, documentos o imagen pública con fines ilícitos.
+II. Se valga de la homonimia para suplantar la identidad del sujeto pasivo.
+III. Se aproveche del parecido físico con el sujeto pasivo para suplantar su identidad.
+IV. Transfiera o posea, sin autorización de quien legítimamente deba otorgarla, datos identificativos de otra persona, con la finalidad de cometer o favorecer la comisión de un ilícito.
+(REFORMADO, P.O. 29 DE FEBRERO DE 2020)
+232 Bis A.- Comete el delito de suplantación de identidad digital, quien por sí o por interpósita persona, mediante alguna manipulación de medios electrónicos, telemáticos, informáticos, o intercepción de datos de envío, se apodere, transfiera, utilice o disponga de información personal, documentos, imágenes o correos electrónicos con la finalidad de suplantar identidades o usurpar el estado civil para obtener un lucro indebido, o provocar un daño patrimonial o moral.
+La sanción de la conducta será de dos a seis años de prisión, y multa de doscientos (sic) a cuatrocientas veces el valor diario vigente de la Unidad de Medida y Actualización al momento de la comisión del hecho, y en su caso, la reparación del daño causado.
+Las penas previstas en este capítulo se aumentarán hasta en una mitad cuando:
+I. El sujeto activo tenga conocimientos técnicos o profesionales en materia de informática, sistemas computacionales, telemáticos o cualquier otro afín.
+II. El sujeto activo cometa el ilícito en contra de personas físicas o jurídicas que ejerzan la función o servicio público.
+Las penas previstas en este capítulo se impondrán con independencia de las que correspondan por la comisión de otros delitos.
+(ADICIONADO, P.O. 29 DE FEBRERO DE 2020)
+232 Bis B.- Los delitos comprendidos en este capítulo serán perseguidos por querella de parte ofendida o legítimo representante.
 CAPITULO V.
 Usurpación de funciones públicas o de profesión y uso indebido de condecoraciones y uniformes.
 (REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2003)
