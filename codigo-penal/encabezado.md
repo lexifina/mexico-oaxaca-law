@@ -785,9 +785,14 @@ CAPITULO III.
 Quebrantamiento de sellos.
 185.- Al que quebrante los sellos puestos por orden de la autoridad pública, se le aplicarán de tres meses a tres años de prisión.
 186.- Cuando de común acuerdo, quebrantaran las partes interesadas en un negocio civil los sellos puestos por la autoridad pública, pagarán una multa de cincuenta a quinientos pesos.
+(REFORMADA SU DENOMINACIÓN, P.O. 17 DE ABRIL DE 2020)
 CAPITULO IV.
-Delitos cometidos contra funcionarios públicos.
-187.- Al que cometa un delito en contra de un funcionario público o agente de la autoridad en el acto de ejercer sus funciones, o con motivo de ella, se le aplicarán de tres días a tres años de prisión, además de la que le corresponda por el delito cometido.
+Delitos cometidos contra servidores y funcionarios públicos.
+(REFORMADO, P.O. 17 DE ABRIL DE 2020)
+187.- Al que cometa un delito en contra de un servidor o funcionario público o agente de la autoridad en el acto de ejercer lícitamente sus funciones, o con motivo de ellas, se le aplicarán de tres días a tres años de prisión, además de la que le corresponda por el delito cometido.
+(ADICIONADO, P.O. 17 DE ABRIL DE 2020)
+187 Bis.- Cuando las conductas a que se refiere el artículo anterior, sean cometidas en contra de cualquier servidor público que pertenezca al Sistema Estatal de Salud durante el período que comprenda la declaración de una emergencia sanitaria, la pena de prisión deberá aumentarse hasta en tres años más, además de la que le corresponda por el delito cometido.
+En el supuesto anterior, el delito se perseguirá de oficio.
 188.- (DEROGADO, P.O. 10 DE NOVIEMBRE DE 2018)
 TITULO QUINTO.
 Delitos contra la salud.
