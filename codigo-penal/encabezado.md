@@ -1304,10 +1304,9 @@ En el supuesto anterior, el delito se perseguirá de oficio. En los demás casos
 246.- Al que por medio de la violencia física o moral tenga cópula con una persona sin la voluntad de ésta, sea cual fuere su sexo, se le impondrá prisión de catorce a veinte años y multa de seiscientos a un mil doscientas veces el valor de la Unidad de Medida y Actualización.
 (ADICIONADO, P.O. 7 DE FEBRERO DE 1998)
 Para los efectos de este artículo, se entiende por cópula, la introducción del miembro viril en el cuerpo de la víctima por vía vaginal, anal u oral, independientemente de su sexo.
-(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)
-246 BIS.- Se equipara a la violación y se sancionará de tres a siete años de prisión y multa de doscientos a cuatrocientas el valor de la unidad de medida y actualización.
-I. A quien tenga cópula con persona mayor de doce años y menor de dieciocho, obteniendo su consentimiento por medio del engaño, cualquiera que haya sido el medio para lograrlo.
-Cuando la persona víctima directa fuere menor de quince años, se presumirá en todo caso la seducción o el engaño.
+(REFORMADO, P.O. 18 DE ABRIL DE 2020)
+246 BIS.- Se equipara a la violación y se sancionará de catorce á veinte años de prisión y multa de seiscientos a un mil doscientas veces el valor de la unidad de medida y actualización, a quien tenga cópula con persona mayor de doce años y menor de dieciocho, obteniendo su consentimiento por medio de la seducción y el engaño.
+La seducción y el engaño se presumirá en todo momento.
 (REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2018)
 247.- Se equipara la violación, la cópula con persona menor de doce años de edad, aun cuando se hubiere obtenido su consentimiento, sea cual fuere su sexo; con persona privada de razón o sentido, o cuando por enfermedad o cualquiera otra causa no pudiere oponer resistencia. En tales casos, la pena será de diecisiete a veintisiete años de prisión y multa de mil seiscientos a dos mil cien el valor de la unidad de medida y actualización.
 (ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2001)
@@ -1315,8 +1314,8 @@ Se equipara a la violación y se sanciona con la misma pena, al que introduzca p
 (REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)
 248.- Cuando la violación fuere cometida con intervención directa o indirecta de dos o más personas, la pena será de diecisiete a veintisiete años de prisión y la multa de ochocientas a mil seiscientas veces el valor de la unidad de medida y actualización.
 Se impondrá sanción de veinte a treinta y dos años de prisión y multa de mil doscientas a mil setecientas veces el valor de la unidad de medida y actualización, cuando el sujeto pasivo sea menor de 18 años de edad, mayor de sesenta años, se encuentre privado de razón o sentido, o cuando por enfermedad o por cualquier otra causa no pudiese resistir el delito.
-(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ENERO DE 2010)
-248 Bis.- Las penas que corresponden a los delitos de abuso sexual previsto por el artículo 241, violación previsto por el artículo 246, violación equiparada previsto por el artículo 247 y violación tumultuaria previsto por el artículo 248, se aumentarán hasta en una mitad en su mínimo y máximo, cuando:
+(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ABRIL DE 2020)
+248 BIS.- Las penas que corresponden a los delitos de abuso sexual previsto por el artículo 241, violación, previsto por el artículo 246, violación equiparada, previsto por los artículos 246 BIS y 247, y violación tumultuaria, previsto por el artículo 248, se aumentarán hasta en una mitad en su mínimo y máximo cuando:
 (ADICIONADA, P.O. 7 DE FEBRERO DE 1998)
 I.- El delito fuere cometido por un pariente de la víctima sin limitación de grado en línea recta ascendente o descendente, o hasta el cuarto grado en línea colateral; por el tutor contra su pupilo, por el padrastro o madrastra en contra el hijastro o hijastra, por el amante del padre o de la madre del ofendido o por la persona que vive en concubinato con el padre o la madre del pasivo. En estos casos, además el culpable perderá todos los derechos familiares y hereditarios que le puedan corresponder por su vínculo con la víctima;
 (ADICIONADA, P.O. 7 DE FEBRERO DE 1998)
