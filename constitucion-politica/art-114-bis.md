@@ -11,8 +11,11 @@ V. Se preverán los plazos convenientes para el desahogo de todas las instancias
 VI. Podrá decretar la nulidad de una elección de conformidad con el sistema de nulidades de las elecciones locales por violaciones graves, dolosas y determinantes en los siguientes casos:
 a) Se exceda el gasto de campaña en un cinco por ciento del monto total autorizado;
 b) Se compre o adquiera cobertura informativa o tiempos en radio y televisión, fuera de los supuestos previstos en la Ley.
-c) Se reciban o utilicen recursos de procedencia ilícita o recursos públicos en las campañas, y
-d) Las demás causas previstas en esta Constitución y por las causas expresamente establecidas en la Ley.
+(REFORMADO, P.O. 30 DE MAYO DE 2020)
+c) Se reciban o utilicen recursos de procedencia ilícita o recursos públicos en las campañas;
+(ADICIONADO, P.O. 30 DE MAYO DE 2020)
+d) Se acredite violencia política contra las mujeres en razón de género, y
+e) Las demás causas previstas en esta Constitución y por las causas expresamente establecidas en la Ley.
 VII. Dichas violaciones deberán acreditarse de manera objetiva y material. Se presumirá que las violaciones son determinantes cuando la diferencia entre la votación obtenida entre el primero y el segundo lugar sea menor al cinco por ciento. En caso de nulidad de la elección, se convocará a una elección extraordinaria, en la que no podrá participar la persona sancionada.
 VIII. El Tribunal Estatal Electoral emitirá, en su caso, la Declaratoria de Revocación de Mandato de Gobernador del Estado, en los términos de esta Constitución y las Leyes; y
 IX. Las demás atribuciones que le confieran esta Constitución, y las leyes.
