@@ -1,0 +1,6 @@
+(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE AGOSTO DE 2020)
+CAPÍTULO XIV BIS
+DE LA AGRICULTURA FAMILIAR
+(ADICIONADO, P.O. 29 DE AGOSTO DE 2020)
+ARTÍCULO 127 BIS.- En el Estado de Oaxaca se declara de interés público y social a la agricultura familiar como parte fundamental para la seguridad y soberanía alimentaria de las y los oaxaqueños; así como, por su contribución a la mejora de las condiciones de vida de las familias productoras del área rural y por la práctica y promoción de sistemas de vida y de producción que preservan la biodiversidad y procesos sostenibles de la transformación productiva.
+Por lo que el Estado y los Municipios adquieren la obligación de respetar, reconocer y atender de manera prioritaria a la agricultura familiar que realicen en cualquiera de sus modalidades los pueblos y comunidades indígenas y afromexicanas, como actores económicos productivos, frente a otros modelos de desarrollo productivo. Asimismo, de reconocer y proteger el desarrollo de la agricultura familiar, el cual comprende el uso de conocimientos, tecnología y buenas prácticas que, respetando la cultura, las tradiciones y los hábitos de las comunidades agrícolas, contribuyan al crecimiento y desarrollo de los individuos y sus familias.

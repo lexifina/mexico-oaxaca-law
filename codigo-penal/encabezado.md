@@ -1288,14 +1288,14 @@ Cuando el hostigamiento se cometa contra una persona menor de dieciocho años de
 Si a consecuencia del hostigamiento sexual la víctima pierde o se le obliga a abandonar su trabajo, por esta causa, la reparación del daño consistirá en la indemnización por despido injustificado, teniendo en cuenta su antigüedad laboral, al doble de lo previsto en la Ley Federal del Trabajo o del contrato respectivo.
 (REFORMADO, P.O. 30 DE ENERO DE 2016)
 Al servidor público, docente o ministro de culto que reincidiere en la comisión de este delito, además de las sanciones previstas, se le inhabilitará definitivamente.
-(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2018)
-241 Ter.- Quien por cualquier medio con fines lascivos asedie a persona de cualquier sexo, con quien no exista relación de subordinación en lugares públicos o privados, o en vehículos destinados al transporte público de pasajeros, afectando o perturbando su derecho a la integridad o libre tránsito, o le cause intimidación, degradación, humillación o aprovechándose de circunstancias que produzcan desventaja, indefensión o riesgo inminente para la víctima, le cause daño o sufrimiento psicoemocional, se le impondrá prisión de uno a tres años y multa de cien a doscientas veces el valor de la unidad de medida y actualización.
-(ADICIONADO, P.O. 30 DE ENERO DE 2016)
-Si el acosador es servidor público y se vale de medios o circunstancias que el encargo le proporcione, además de la pena prevista en los párrafos anteriores, se le destituirá del cargo o empleo.
-(ADICIONADO, P.O. 30 DE ENERO DE 2016)
-Cuando el acoso sexual se cometa contra una persona menor de dieciocho años de edad, o con alguna discapacidad, o por cualquier causa no pueda resistirlo, la pena de prisión se aumentara hasta en una tercera parte de la prevista.
-(ADICIONADO, P.O. 30 DE ENERO DE 2016)
-En el supuesto anterior, el delito se perseguirá de oficio. En los demás casos se procederá contra el responsable a petición de parte ofendida.
+(REFORMADO, P.O. 29 DE AGOSTO DE 2020)
+241 Ter.- Quien profiera silbidos de connotación sexual, expresiones verbales y/o gestuales de carácter sexual, exhiba sus órganos sexuales a cualquier persona sin su consentimiento, se masturbe con o sin eyaculación, o realice roces o frotamiento sobre el cuerpo de la víctima, en lugares públicos o privados, o en vehículos destinados al transporte público de pasajeros, se le impondrá prisión de tres días a tres años y multa de once a doscientas veces el valor de la unidad de medida y actualización.
+La pena de prisión se aumentará hasta en una tercera parte del mínimo y una tercera parte del máximo de la prevista, cuando concurran cualquiera de los casos siguientes:
+I.- Si el delito se comete en conjunto por dos o más personas;
+II.- Si además hubiese asedio, seguimiento o persecución; y
+III.- Si se comete contra una persona menor de dieciocho años de edad, o que no tenga la capacidad de comprender el significado del hecho o con alguna discapacidad o que por cualquier causa no pueda resistirlo.
+En el último supuesto, el delito se perseguirá de oficio. En los demás casos se procederá contra el responsable a petición de parte.
+Si el acosador es servidor público o con algún cargo honorario, además de la pena prevista en los párrafos anteriores, se le destituirá del cargo o empleo y se le inhabilitará para ejercer otro cargo público, por un tiempo igual al que dure la pena de prisión impuesta.
 242.- (DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2001)
 243.- (DEROGADO, P.O. 10 DE NOVIEMBRE DE 2018)
 244.- (DEROGADO, P.O. 10 DE NOVIEMBRE DE 2018)
