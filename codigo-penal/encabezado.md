@@ -973,6 +973,8 @@ XIII.- Omitir realizar el registro inmediato de la detención correspondiente, f
 XIV.- Incumplir con la obligación de impedir la ejecución de las conductas de privación de la libertad.
 Al que cometa el delito de abuso de autoridad en los términos previstos por las fracciones I a IV y IX a XI, se le impondrá de uno a ocho años de prisión y de cincuenta hasta cien días multa. Igual sanción se impondrá a las personas que acepten los nombramientos, contrataciones o identificaciones a que se refieren las fracciones IX a XI.
 Al que cometa el delito de abuso de autoridad en los términos previstos por las fracciones V a VIII, XII, XIII y XIV, se le impondrá de dos a nueve años de prisión, de setenta hasta cuatrocientos días multa y destitución e inhabilitación de dos a nueve años para desempeñar otro empleo, cargo o comisión públicos.
+(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2020)
+Al que cometa el delito de abuso de autoridad en los términos previstos por las fracciones II y IV de este artículo, en relación con las órdenes de protección de emergencia y las órdenes de protección preventivas por violencia contra las mujeres, se le impondrá de tres a diez años de prisión, de cien hasta cuatrocientos días multa y destitución e inhabilitación de dos a nueve años para desempeñar otro empleo, cargo o comisión públicos. Si la autoridad omitiera emitir las órdenes de protección mencionadas, y con su omisión se llegase a cometer un delito contra la víctima, se tendrá su conducta como dolosa.
 (REFORMADA SU DENOMINACIÓN, P.O. 15 DE DICIEMBRE DE 2017)
 CAPITULO IV.
 Coalición de servidores públicos y Cohecho.
