@@ -173,10 +173,10 @@ CAPITULO V.
 Multa.
 (REFORMADO, P.O. 3 DE OCTUBRE DE 1998)
 23.- La multa consiste en el pago de una cantidad de dinero al Estado y se aplicará al Fondo para la Administración de Justicia.
-(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2008)
-24.- La multa se fijará por días multa y no podrá exceder de mil quinientos días de salario.
-(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)
-El día multa equivale al salario mínimo general vigente en el lugar y: en el momento de la consumación, si el delito fuere instantáneo; o en el momento que cesó, si fuere delito permanente; o en el momento consumativo de la última conducta, si fuere delito continuado;
+(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2020)
+24.- La multa se fijará por días multa y no podrá exceder de mil quinientos veces el valor de la Unidad de Medida y Actualización.
+(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2020)
+El día multa equivale al valor de Unidad de Medida y Actualización vigente y: en el momento de la consumación, si el delito fuere instantáneo; o en el momento que cesó, si fuere delito permanente; o en el momento consumativo de la última conducta, si fuere delito continuado;
 (REFORMADO, P.O. 3 DE OCTUBRE DE 1998)
 Cuando la ley establezca multa en pesos, se hará la conversión de ésta tomando en cuenta el máximo de la multa fijada por la Ley, con las correspondientes que a continuación se indican: cuando el máximo no sea superior a quinientos pesos, de uno a tres días multa; si excede de esta cantidad pero no de diez mil pesos, entre cuatro y veinte días multa; si es superior a diez mil pesos pero no pasa de cincuenta mil pesos, de veintiuno a doscientos días multa; y si excede de cincuenta mil pesos entre doscientos uno a quinientos días multa.
 (REFORMADO, P.O. 3 DE OCTUBRE DE 1998)
@@ -187,8 +187,10 @@ Cuando se acredite que el sentenciado no puede pagar la multa o solamente puede 
 Cada jornada de trabajo saldará un día de multa. Cuando no sea posible o conveniente la sustitución de la multa por la prestación del servicio, la autoridad judicial podrá colocar al sentenciado en libertad bajo vigilancia que no excederá del número de días multa sustituidos.
 (REFORMADO, P.O. 3 DE OCTUBRE DE 1998)
 26.- Dentro del plazo señalado para el cumplimiento voluntario, el sentenciado podrá solicitar al Juez que le conceda pagar la multa en parcialidades, pudiendo dicha autoridad fijar plazos de la manera siguiente:
-I.- Si el monto no excede de cien salarios, se podrá conceder un plazo hasta de un mes y pagarse por terceras partes, siempre que el deudor compruebe estar imposibilitado de hacerlo en una sola exhibición; y
-II.- Si el monto excede de cien salarios, se podrá conceder un plazo hasta de seis meses, y pagarse por terceras partes, si se da la condición expresada en la fracción anterior.
+(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2020)
+I.- Si el monto no excede de cien veces el valor de la Unidad de Medida y Actualización vigente, se podrá conceder un plazo hasta de un mes y pagarse por terceras partes, siempre que el deudor compruebe estar imposibilitado de hacerlo en una sola exhibición; y
+(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2020)
+II.- Si el monto excede de cien veces el valor de la Unidad de Medida y Actualización vigente, se podrá conceder un plazo hasta de seis meses, y pagarse por terceras partes, si se da la condición expresada en la fracción anterior.
 Si el sentenciado se negare, sin causa justificada, a cubrir el importe de la multa, el Estado lo exigirá mediante el procedimiento económico coactivo.
 Si no alcanza a cubrirse la multa con los bienes del sentenciado o con el producto de su trabajo, durante y con motivo del cumplimiento de la pena privativa de libertad que se hubiere impuesto, al recobrar su libertad seguirá sujeto a la obligación de pagar la parte que le falta.
 (REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 1998)
@@ -685,8 +687,8 @@ Delitos contra la seguridad pública.
 CAPITULO I.
 Evasión de presos.
 153.- Se aplicará de tres meses a siete años de prisión, al que favoreciere la evasión de algún detenido, procesado, o condenado.
-(ADICIONADO, P.O. 16 DE AGOSTO DE 2008)
-Si el evadido fuere un procesado o sentenciado por el delito de secuestro agravado a que se refiere el artículo 348 BIS A y el que favoreciera su evasión fuere un servidor público del sistema penitenciario, de seguridad pública, de procuración o impartición de justicia, se le impondrá de treinta a cincuenta años de prisión y multa de 500 a 1,000 días de salario.
+(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2020)
+Si el evadido fuere un procesado o sentenciado por el delito de secuestro agravado a que se refiere el artículo 348 BIS A y el que favoreciera su evasión fuere un servidor público del sistema penitenciario, de seguridad pública, de procuración o impartición de justicia, se le impondrá de treinta a cincuenta años de prisión y multa de 500 a 1,000 veces el valor de la Unidad de Medida y Actualización.
 154.- El artículo anterior no comprende a los ascendientes, descendientes, cónyuge o hermanos del prófugo, ni a sus parientes por afinidad hasta el segundo grado, pues están excentos (sic) de toda sanción, excepto el caso en que hayan proporcionado la fuga por medio de la violencia en las personas o en las cosas.
 155.- Se aplicará prisión de cuatro a quince años al que proporcione al mismo tiempo o en un solo acto, la evasión de varias personas privadas de libertad por la autoridad competente.
 156.- Si la reaprehensión del prófugo se lograre por gestiones del infractor de la evasión, se aplicará a éste de tres días a un año de prisión, según la gravedad del delito imputado al recluído o detenido.
@@ -711,8 +713,8 @@ II.- Al que porte un arma de las prohibidas en el artículo 162.
 En todos los casos incluídos en este artículo, además de las medidas señaladas, se decomisarán las armas.
 CAPITULO IV.
 Asociaciones delictuosas.
-(REFORMADO, P.O. 3 DE JUNIO DE 1995)
-164.- Se impondrán prisión de tres a seis años y multa de cincuenta a cien días de salario, al que tomare participación en una asociación o banda de tres o más personas, organizada para cometer alguno o algunos delitos, por el solo hecho de ser miembro de la asociación e independientemente de la pena que le corresponda por el delito que pudiere cometer o haya cometido. Se presumirá que las organizaciones armadas tienen por objeto delinquir, cuando carezcan de la autorización legal correspondiente.
+(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2020)
+164.- Se impondrán prisión de tres a seis años y multa de cincuenta a cien veces el valor de la Unidad de Medida y Actualización vigente, al que tomare participación en una asociación o banda de tres o más personas, organizada para cometer alguno o algunos delitos, por el solo hecho de ser miembro de la asociación e independientemente de la pena que le corresponda por el delito que pudiere cometer o haya cometido. Se presumirá que las organizaciones armadas tienen por objeto delinquir, cuando carezcan de la autorización legal correspondiente.
 (ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 20 DE DICIEMBRE DE 2003)
 CAPITULO V.
 Preservación de indicios y evidencias en el lugar de los hechos.
@@ -723,8 +725,8 @@ Si con alguna de las conductas previstas en este artículo resulta la comisión 
 (ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 21 DE NOVIEMBRE DE 2008)
 CAPITULO VI
 Provocación de un delito y apología de éste.
-(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2008)
-165 Bis.- Al que provoque públicamente a cometer un delito, o haga la apología de éste, se le aplicará prisión de tres días a un año y multa de veinte a cien días de salario mínimo, si el delito no se ejecutare. En caso contrario, se aplicará al provocador la sanción que le corresponda por su participación en el delito cometido.
+(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2020)
+165 Bis.- Al que provoque públicamente a cometer un delito, o haga la apología de éste, se le aplicará prisión de tres días a un año y multa de veinte a cien veces el valor de la Unidad de Medida y Actualización vigente, si el delito no se ejecutare. En caso contrario, se aplicará al provocador la sanción que le corresponda por su participación en el delito cometido.
 (ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)
 CAPITULO VII
 Del Sistema de Seguridad Pública.
@@ -822,12 +824,17 @@ Delitos contra la dignidad y el desarrollo de las personas Menores de edad o de 
 CAPITULO UNICO.
 (REFORMADO, P.O. 21 DE NOVIEMBRE DE 2008)
 194.- Comete el delito de corrupción de personas menores de dieciocho años de edad o personas que no tienen la capacidad para comprender el significado del hecho:
-I.- Al que por cualquier medio induzca, procure, facilite u obligue a una de las personas antes señaladas al consumo reiterado de bebidas embriagantes; al consumo de sustancias tóxicas o narcóticos; a cometer hechos delictuosos; o a formar parte de una asociación delictuosa.
-A quien cometa cualquiera de las conductas descritas se le impondrá de cinco a diez años de prisión y multa de quinientos a setecientos treinta días de salario mínimo.
-II.- Quien por cualquier medio, induzca, facilite, procure u obligue que una persona menor de edad o persona que no tenga la capacidad para comprender el significado del hecho realice, para sí o para otras personas y sin fines de lucro o de explotación, actos sexuales o de exhibicionismo corporal de índole sexual. Estas conductas se sancionarán con pena de prisión de siete a doce años y multa de seiscientos a ochocientos cuarenta días de salario mínimo;
-III.- Quien permita directa o indirectamente el acceso de una persona menor de dieciocho años de edad o de una persona que no tenga la capacidad de comprender el significado del hecho, a espectáculos o exhibiciones audiovisuales de carácter pornográfico. Estas conductas se sancionarán con prisión de tres a cinco años de prisión y multa de trescientos a trescientos cincuenta días de salario mínimo;
-IV.- Quien ejecute o hiciere ejecutar a otra persona actos de exhibición sexual ante personas menores de dieciocho años de edad o que no tengan la capacidad de comprender el significado del hecho. Estas conductas se sancionarán con prisión de tres a cinco años y multa de trescientos a trescientos cincuenta días de salario mínimo; y
-V.- Al que comercie, distribuya, exponga, haga circular u oferte, a menores de dieciocho años de edad, libros, escritos, grabaciones, filmes, fotografías, anuncios impresos, imágenes u objetos, de carácter pornográficos, reales o simulados, sea de manera física o a través de cualquier medio, se sancionará con prisión de uno a tres años y multa de cien a doscientos días de salario mínimo.
+I. Al que por cualquier medio induzca, procure, facilite u obligue a una de las personas antes señaladas al consumo reiterado de bebidas embriagantes; al consumo de sustancias tóxicas o narcóticos; a cometer hechos delictuosos; o a formar parte de una asociación delictuosa.
+(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2020)
+A quien cometa cualquiera de las conductas descritas se le impondrá de cinco a diez años de prisión y multa de quinientos a setecientos treinta veces el valor de la Unidad de Medida y Actualización vigente.
+(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2020)
+II. Quien por cualquier medio, induzca, facilite, procure u obligue que una persona menor de edad o persona que no tenga la capacidad para comprender el significado del hecho realice, para sí o para otras personas y sin fines de lucro o de explotación, actos sexuales o de exhibicionismo corporal de índole sexual. Estas conductas se sancionarán con pena de prisión de siete a doce años y multa de seiscientos a ochocientos cuarenta veces el valor de la Unidad de Medida y Actualización vigente;
+(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2020)
+III. Quien permita directa o indirectamente el acceso de una persona menor de dieciocho años de edad o de una persona que no tenga la capacidad de comprender el significado del hecho, a espectáculos o exhibiciones audiovisuales de carácter pornográfico. Estas conductas se sancionarán con prisión de tres a cinco años de prisión y multa de trescientos a trescientos cincuenta veces el valor de la Unidad de Medida y Actualización vigente;
+(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2020)
+IV. Quien ejecute o hiciere ejecutar a otra persona actos de exhibición sexual ante personas menores de dieciocho años de edad o que no tengan la capacidad de comprender el significado del hecho. Estas conductas se sancionarán con prisión de tres a cinco años y multa de trescientos a trescientos cincuenta veces el valor de la Unidad de Medida y Actualización vigente; y
+(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2020)
+V. Al que comercie, distribuya, exponga, haga circular u oferte, a menores de dieciocho años de edad, libros, escritos, grabaciones, filmes, fotografías, anuncios impresos, imágenes u objetos, de carácter pornográficos, reales o simulados, sea de manera física o a través de cualquier medio, se sancionará con prisión de uno a tres años y multa de cien a doscientos veces el valor de la Unidad de Medida y Actualización vigente.
 No se entenderá como material pornográfico, aquel que signifique o tenga como fin la divulgación científica, artística o técnica, o en su caso, la educación sexual, educación sobre la función reproductiva, la prevención de enfermedades de transmisión sexual y el embarazo, siempre que esté aprobado por la autoridad competente.
 Las anteriores sanciones se impondrán con independencia de otros delitos que se llegaren a configurar.
 (REFORMADO, P.O. 21 DE NOVIEMBRE DE 2008)
@@ -1162,8 +1169,8 @@ II.- Al que examinado por la Autoridad Judicial como testigo, faltare a la verda
 La sanción podrá ser hasta por quince años de prisión para el testigo falso que fuere examinado en un juicio criminal cuando al reo se le imponga la pena de veinte años de prisión o más y el testimonio falso haya tenido fuerza probatoria; y de quince a veinte años de prisión cuando la pena que en iguales circunstancias se imponga al procesado sea de cuarenta años de prisión;
 III.- Al que soborne a un testigo, a un perito, o a un intérprete para que se conduzca con falsedad en juicio o los obligue o comprometa a ello, intimidándolos o de otro modo;
 IV.- (DEROGADA, P.O. 20 DE DICIEMBRE DE 2003)
-(REFORMADO, P.O. 22 DE DICIEMBRE DE 1987)
-231.- La parte, testigo, perito o intérprete que se retracte espontáneamente de sus falsas declaraciones rendidas en un juicio, antes de que se pronuncie la sentencia en la instancia en que las hubiere rendido, sólo pagará una multa de cinco a cincuenta veces el salario mínimo general; pero si al retractarse de su declaración faltare a la verdad, se le aplicará la pena que corresponda con arreglo a lo prevenido en este Capítulo, considerándolo como reincidente.
+(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2020)
+231.- La parte, testigo, perito o intérprete que se retracte espontáneamente de sus falsas declaraciones rendidas en un juicio, antes de que se pronuncie la sentencia en la instancia en que las hubiere rendido, sólo pagará una multa de cinco a cincuenta veces el valor de la Unidad de Medida y Actualización Vigente; pero si al retractarse de su declaración faltare a la verdad, se le aplicará la pena que corresponda con arreglo a lo prevenido en este Capítulo, considerándolo como reincidente.
 (ADICIONADO, P.O. 29 DE JUNIO DE 2012)
 231 Bis.- Al que, por cualquier medio reporte hechos falsos a los elementos de las Policías Estatal o Municipales, Bomberos, personal de instituciones públicas o privadas que presten servicios de emergencia o protección civil; se le impondrá de seis meses a dos años de prisión y multa de diez a cien días multa.
 En caso de reincidencia se impondrá de dos a cuatro años de prisión y multa de quinientos a mil días multa.
@@ -1205,8 +1212,8 @@ CAPITULO VI.
 Disposiciones comunes a los capítulos precedentes.
 234.- Si el falsario hiciere uso de los documentos u objetos falsos que se detallan en este título, se acumularán la falsificación y el delito que por medio de ellos hubiere cometido el delincuente.
 235.- Las disposiciones contenidas en este título solo se aplicarán en lo que no estuviere previsto en las leyes especiales o no se opusiera a lo establecido en ellas.
-(REFORMADO, P.O. 12 DE JUNIO DE 2004)
-235 Bis.- Cuando los delitos a que se refiere este Título se cometan por extranjeros o servidores públicos, cualquiera que sea la finalidad que se trate de obtener o se obtenga, la pena aplicable será de tres años seis meses a seis años y multa de quinientos a setecientos treinta salarios mínimos. A los servidores públicos se les destituirá de su empleo y se les inhabilitará por un tiempo igual a la sanción corporal a la que hayan sido condenados.
+(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2020)
+235 Bis.- Cuando los delitos a que se refiere este Título se cometan por extranjeros o servidores públicos, cualquiera que sea la finalidad que se trate de obtener o se obtenga, la pena aplicable será de tres años seis meses a seis años y multa de quinientos a setecientos treinta veces el valor de la Unidad de Medida y Actualización vigente. A los servidores públicos se les destituirá de su empleo y se les inhabilitará por un tiempo igual a la sanción corporal a la que haya sido condenados.
 TITULO DECIMOPRIMERO.
 Delitos contra la economía pública.
 CAPITULO I.
@@ -1249,8 +1256,9 @@ Las autoridades competentes, procederán al inmediato aseguramiento de los vehí
 (ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 19 DE MAYO DE 2015)
 CAPITULO V.
 Del tráfico de plazas y servicios.
+(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2020)
+240 Ter.- Se impondrá pena de tres a siete años de prisión y multa de cien a quinientas veces el valor de la Unidad de Medida y Actualización vigente, a quien obtenga un lucro o beneficio económico, prometiendo falsamente otorgar u obtener para otra persona un empleo, trabajo, cargo, plaza, comisión o nombramiento en el sector público o privado, o una concesión, autorización, permiso, licencia, contrato o trámite respecto de un servicio público.
 (ADICIONADO, P.O. 19 DE MAYO DE 2015)
-240 Ter.- Se impondrá pena de tres a siete años de prisión y multa de cien a quinientas veces el salario mínimo, a quien obtenga un lucro o beneficio económico, prometiendo falsamente otorgar u obtener para otra persona un empleo, trabajo, cargo, plaza, comisión o nombramiento en el sector público o privado, o una concesión, autorización, permiso, licencia, contrato o trámite respecto de un servicio público.
 Si el sujeto activo es servidor público, se aumentará en una mitad los mínimos y máximos de las penas señaladas, se le destituirá del cargo y se le inhabilitará para ejercer otro por un tiempo igual al de la pena de prisión impuesta.
 (ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 19 DE MAYO DE 2015)
 CAPITULO VI.
@@ -1628,11 +1636,15 @@ II.- Al que de alguna manera viole, con perjuicio de otros los derechos y garant
 (ADICIONADA, P.O. 1 DE ABRIL DE 2002)
 III.- Al servidor público que no realice la consignación de un detenido dentro de los plazos legales o lo incomunique de cualquier forma o niegue información sobre la existencia de su detención.
 347.- (DEROGADO, P.O. 21 DE NOVIEMBRE DE 2008)
+(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2020)
+347 Bis.- Cuando se sustraiga a un menor de doce años de edad, de su seno familiar por un pariente sin limitación de grado, que no ejerza la patria potestad o la tutela sobre él, y con el propósito distinto a los señalados en el artículo 348 BIS C, se le impondrá la pena de uno a cinco años de prisión y multa de cincuenta a quinientas veces el valor de la Unidad de Medida y Actualización vigente.
 (ADICIONADO, P.O. 1 DE ABRIL DE 2002)
-347 Bis.- Cuando se sustraiga a un menor de doce años de edad, de su seno familiar por un pariente sin limitación de grado, que no ejerza la patria potestad o la tutela sobre él, y con el propósito distinto a los señalados en el artículo 348 BIS C, se le impondrá la pena de uno a cinco años de prisión y multa de cincuenta a quinientos días de salario.
 Este delito sólo se perseguirá por querella de la parte ofendida si el menor no sufrió algún daño, en caso contrario, si el daño constituyere un delito que deba perseguirse de oficio, la querella será inadmisible y se atenderá a las reglas del concurso de delitos.
+(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2020)
+347 Bis A.- Cuando se detenga en calidad de rehén a una persona o servidor público, con el fin de presionar para que un servidor público realice o deje de realizar un acto de cualquier naturaleza, se le impondrá al autor de esta conducta de tres a diez años de prisión y multa de cincuenta a cuatrocientas veces el valor de la Unidad de Medida y Actualización vigente.
 (ADICIONADO, P.O. 1 DE ABRIL DE 2002)
-347 Bis A.- Cuando se detenga en calidad de rehén a una persona o servidor público, con el fin de presionar para que un servidor público realice o deje de realizar un acto de cualquier naturaleza, se le impondrá al autor de esta conducta de tres a diez años de prisión y multa de cincuenta a cuatrocientos salarios mínimos.
 En este supuesto, si el sujeto activo deja en libertad a la persona ilegalmente retenida, en forma espontánea dentro de las veinticuatro horas siguientes al inicio de la privación de la libertad, el delito se perseguirá por querella y en su caso, la sanción que se aplique será de la tercera parte del mínimo a la tercera parte del máximo; y si desiste de la privación de la libertad, dentro de las setenta y dos horas siguientes de iniciada aquella, la pena será de las dos terceras partes de la mínima, a las dos terceras partes de la máxima.
+(ADICIONADO, P.O. 1 DE ABRIL DE 2002)
 SI con la conducta descrita en el primer párrafo de este artículo, concurrieren amenazas de privar a los rehenes de la vida o de causarles un daño de cualquier tipo se agravará la pena de uno a tres años.
+(ADICIONADO, P.O. 1 DE ABRIL DE 2002)
 Si resultare otro delito, se atenderá a la pena agravada y a las reglas del concurso de delitos.
