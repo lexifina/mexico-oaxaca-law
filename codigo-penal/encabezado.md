@@ -580,13 +580,16 @@ Reconocimiento de inocencia del sentenciado o anulación de la sentencia e indul
 103.- El indulto es supresión de la prisión impuesta en sentencia irrevocable.
 (REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)
 104. El indulto es estrictamente personal y cada caso se tramitará ante el Ejecutivo.
-(REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)
-105.- El Ejecutivo podrá otorgar el indulto:
+(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2020)
+105.- Cuando la conducta observada por el sentenciado refleje un alto grado de reinserción social y su liberación no represente un riesgo para la tranquilidad y seguridad públicas, el Ejecutivo podrá otorgar el indulto, en uso de facultades discrecionales, expresando sus razones y fundamentos en los casos siguientes:
+(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)
 I.- En los delitos políticos, según su prudencia y discreción; y
 (REFORMADA, P.O. 16 DE JUNIO DE 2011)
 II.- Tratándose de delitos del orden común, cuando el sentenciado haya prestado importantes servicios a la Nación o al Estado y existan datos que revelen efectiva reinserción social.
 (REFORMADO, P.O. 16 DE JUNIO DE 2011)
 También procederá el indulto, de oficio o a petición de parte, cuando se dicte sentencia ejecutoria contra un menor de dieciocho años.
+(ADICIONADO, P.O. 3 DE OCTUBRE DE 2020)
+No se podrá otorgar el indulto en favor del sentenciado por los delitos de abuso o violencia sexual contra menores, feminicidio, violación, violación equiparada, trata de personas, homicidio doloso, feminicidio, secuestro, desaparición forzada, delitos contra la dignidad y el desarrollo de las personas menores de edad o de quienes no tienen la capacidad para comprender el significado del hecho, delitos graves que determine la ley en contra del libre desarrollo de la personalidad, y de la salud, y no se trate de delitos imprescriptibles.
 (REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 1998)
 106.- El indulto en ningún caso extinguirá la obligación de reparar el daño causado.
 107.- (DEROGADO, P.O. 3 DE OCTUBRE DE 1998)

@@ -1,7 +1,7 @@
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.
 (ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)
 ARTÍCULO 64 R.- El promovente deberá acompañar al escrito en que se interponga el recurso:
-I. Los documentos que acrediten su personalidad en términos del artículo 13 de la Ley de Justicia Administrativa para el Estado de Oaxaca;
+(REFORMADA, P.O. 3 DE OCTUBRE DE 2020)
+I. Los documentos que acrediten su personalidad en términos del artículo 24 de la Ley de Procedimiento y Justicia Administrativa para el Estado de Oaxaca;
 II. El documento en que conste la resolución recurrida;
 III. Constancia de notificación de la resolución recurrida, excepto cuando el promovente declare bajo protesta de decir verdad que no recibió constancia o cuando la notificación se haya practicado por correo certificado con acuse de recibo; y
 IV. Las pruebas documentales que ofrezca.
