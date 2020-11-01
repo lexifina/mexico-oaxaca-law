@@ -151,8 +151,9 @@ CAPITULO II.
 Prisión.
 (REFORMADO, P.O. 16 DE AGOSTO DE 2008)
 18.- La prisión por un solo delito, podrá ser de tres días a ciento cinco años. En caso de concurso de delitos, se estará a lo dispuesto por los artículos 68 y 69 de este Código.
+(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2020)
+19.- La privación de la libertad corporal definitiva, se compurgará en los reclusorios o centros de readaptación social, en los términos del Código Penal Federal; Código Nacional de Procedimientos Penales y la Ley Nacional de Ejecución Penal.
 (REFORMADO, P.O. 3 DE OCTUBRE DE 1998)
-19.- La privación de la libertad corporal definitiva, se compurgará en los reclusorios o centros de readaptación social, en los términos de la Ley de Ejecución de Sanciones Privativas y Medidas Restrictivas de Libertad para el Estado de Oaxaca.
 Los procesados sujetos a prisión preventiva y los infractores políticos, serán recluidos en establecimientos o departamentos especiales.
 (REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 1998)
 CAPITULO III.
@@ -515,13 +516,12 @@ Ejecución de sentencias.
 (REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 1998)
 CAPITULO I.
 Del órgano ejecutor.
-(REFORMADO, P.O. 16 DE JUNIO DE 2011)
-93.- Corresponde a la autoridad judicial la ejecución, modificación y duración de las penas y medidas de seguridad impuestas en las sentencias definitivas, dictadas por los tribunales, en la forma y términos de la ley respectiva.
-(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 1998)
+(REFORMADO, P.O. 31 DE OCTUBRE DE 2020)
+93.- Corresponde a la autoridad judicial la ejecución, modificación y duración de las penas y medidas de seguridad impuestas en las sentencias definitivas, dictadas por los tribunales en la forma y términos del Código Penal Federal; Código Nacional de Procedimientos Penales y la Ley Nacional de Ejecución Penal.
+(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE OCTUBRE DE 2020)
 CAPITULO II.
 De la libertad preparatoria y la preliberación.
-(REFORMADO, P.O. 5 DE ABRIL DE 2018)
-94.- La libertad preparatoria y la preliberación se concederán al sentenciado en forma y términos de ley, pero no se concederá a los reincidentes, a los habituales, ni a los sentenciados por el delito de tortura.
+94.- (DEROGADO, P.O. 31 DE OCTUBRE DE 2020)
 (REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 1998)
 CAPITULO III.
 De la conmutación de sanciones.
