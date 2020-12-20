@@ -828,8 +828,10 @@ CAPITULO UNICO.
 (REFORMADO, P.O. 21 DE NOVIEMBRE DE 2008)
 194.- Comete el delito de corrupción de personas menores de dieciocho años de edad o personas que no tienen la capacidad para comprender el significado del hecho:
 I. Al que por cualquier medio induzca, procure, facilite u obligue a una de las personas antes señaladas al consumo reiterado de bebidas embriagantes; al consumo de sustancias tóxicas o narcóticos; a cometer hechos delictuosos; o a formar parte de una asociación delictuosa.
-(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2020)
-A quien cometa cualquiera de las conductas descritas se le impondrá de cinco a diez años de prisión y multa de quinientos a setecientos treinta veces el valor de la Unidad de Medida y Actualización vigente.
+(REFORMADO, P.O. 19 DE DICIEMBRE DE 2020)
+A quien cometa cualquiera de las conductas descritas se le impondrá de cinco a diez años de prisión y multa de quinientas a setecientas treinta veces el valor diario de la Unidad de Medida y Actualización.
+(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2020)
+Cuando alguna de las conductas antes descritas se realice a una distancia de 500 metros de Centros Educativos, la pena aumentará en un tercio de la mínima a un tercio de la máxima.
 (REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2020)
 II. Quien por cualquier medio, induzca, facilite, procure u obligue que una persona menor de edad o persona que no tenga la capacidad para comprender el significado del hecho realice, para sí o para otras personas y sin fines de lucro o de explotación, actos sexuales o de exhibicionismo corporal de índole sexual. Estas conductas se sancionarán con pena de prisión de siete a doce años y multa de seiscientos a ochocientos cuarenta veces el valor de la Unidad de Medida y Actualización vigente;
 (REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2020)
