@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2020)
+ARTICULO 6E.- La participación que efectivamente reciba el Estado del Impuesto Sobre la Renta que se cause por la enajenación de bienes inmuebles a que se refiere el artículo 126 de la Ley del Impuesto Sobre la Renta, se distribuirá a los Municipios en una proporción del 20% dentro de los cinco días siguientes a aquel en que el Estado las reciba, con base en los coeficientes determinados para la distribución del Fondo General de Participaciones, señalados en el artículo 6 de esta Ley.

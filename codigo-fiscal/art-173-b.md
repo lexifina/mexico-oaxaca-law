@@ -3,8 +3,8 @@ ARTÍCULO 173 B. El procedimiento de clausura deberá sujetarse a lo siguiente:
 I. Realizarse mediante un acto de autoridad debidamente fundado y motivado por la autoridad competente.
 (REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE DICIEMBRE DE 2019)
 II. Deberán de identificarse los visitadores ante el contribuyente o con la persona con quien se entienda la diligencia, requiriéndole para que designe dos testigos; si éstos no son designados o los designados no aceptan servir como tales, los visitadores los designarán, haciendo constar esta situación en el acta que levanten, sin que esta circunstancia invalide la diligencia aún y cuando los testigos no se encuentren desde el inicio.
-(REFORMADA, P.O. 24 DE DICIEMBRE DE 2019)
-III. Llevar a cabo el levantamiento del acta con el contribuyente o con la persona con quien se entienda la diligencia, indistintamente, en el domicilio fiscal, establecimiento, sucursal y/o local.
+(REFORMADA, P.O. 26 DE DICIEMBRE DE 2020)
+III. Llevar a cabo el levantamiento del acta con el contribuyente, representante legal o con la persona con quien se entienda la diligencia, indistintamente, en el domicilio fiscal, establecimiento, sucursal y/o local.
 (REFORMADA, P.O. 24 DE DICIEMBRE DE 2019)
 IV. Determinar el plazo de clausura, de acuerdo con lo previsto en el artículo 173 A de este código.
 (ADICIONADA [N. DE E. REUBICADA], P.O. 24 DE DICIEMBRE DE 2019)

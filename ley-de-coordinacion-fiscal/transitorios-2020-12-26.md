@@ -1,0 +1,6 @@
+P.O. 26 DE DICIEMBRE DE 2020.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1806.- MEDIANTE EL CUAL SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 5 Y EL ARTÍCULO 6E, A LA LEY DE COORDINACIÓN FISCAL PARA EL ESTADO DE OAXACA",]
+PRIMERO. El presente Decreto entrará en vigor el uno de enero de dos mil veintiuno.
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+TERCERO. Respecto al artículo 6E que regula la participación que efectivamente reciba el Estado del Impuesto Sobre la Renta que se cause por la enajenación de bienes inmuebles a que se refiere el artículo 126 de la Ley del Impuesto Sobre la Renta, tendrá vigencia hasta la conclusión en los términos de lo establecido en el Acuerdo por el que se modifica el Convenio de Colaboración Administrativa en Materia Fiscal Federal, celebrado entre el Gobierno Federal, por Conducto de la Secretaría de Hacienda y Crédito Público, y el Gobierno del Estado de Oaxaca, suscrito el 02 de abril de 2020, y publicado en el Diario Oficial de la Federación el 08 de mayo de 2020, y darán lugar a las participaciones que correspondan en los términos establecidos en dicho instrumento.
+CUARTO. Se derogan todas aquellas disposiciones, de igual o menor jerarquía, que se oponga (sic) al presente
