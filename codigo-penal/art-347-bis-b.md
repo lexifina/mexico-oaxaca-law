@@ -163,8 +163,16 @@ VII.- Cuando el robo se cometa aprovechándose el delincuente de la consternaci�
 VIII.- Cuando se cometa durante un incendio, terremoto u otra calamidad pública, aprovechándose el culpable del desorden o confusión que esos acontecimientos producen;
 (ADICIONADA, P.O. 3 DE JUNIO DE 1995)
 IX.- Cuando se cometa estando la víctima en un vehículo particular o de transporte público; y
-(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2018)
-X.- Cuando se trate de productos agrícolas endémicos y de cultivo intensivo propios del Estado, desde su etapa de plantación, crecimiento y hasta la de aprovechamiento, se encuentren o no adheridos al suelo.
+(REFORMADA, P.O. 13 DE MARZO DE 2021)
+X.- Cuando se trate de productos, material vegetativo silvestre o endémico, que cuenten con denominación de origen en términos de la Ley Federal de Protección a la Propiedad Industrial, desde su etapa de plantación, crecimiento y hasta aprovechamiento, se encuentren o no adheridos al suelo, así como insumos o herramientas agrícolas.
+(ADICIONADA, P.O. 13 DE MARZO DE 2021)
+XI.- Cuando siendo empleado de una institución bancaria o financiera participe en la comisión del delito de robo;
+(ADICIONADA, P.O. 13 DE MARZO DE 2021)
+XII.- Cuando se cometa el delito dentro de una institución educativa pública.
+(ADICIONADA, P.O. 13 DE MARZO DE 2021)
+XIII.- Cuando se cometa en vía pública utilizando cualquier medio de transporte que otorgue ventaja al sujeto activo para cometer el robo o para huir; y
+(ADICIONADA, P.O. 13 DE MARZO DE 2021)
+XIV.- Cuando se trate de insumos y medicamentos destinados a las instituciones de salud pública o privada o que se encuentren en sus instalaciones.
 369 Bis.- (DEROGADO, P.O. 3 DE OCTUBRE DE 1998)
 CAPITULO II.
 Abigeato.
