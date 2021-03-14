@@ -816,8 +816,12 @@ II.- Al que intencionalmente propague una epizootia o una plaga o parásitos o g
 (ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE ABRIL DE 2015)
 CAPITULO III.
 Venta de bebidas alcohólicas a menores de edad.
-(ADICIONADO, P.O. 18 DE ABRIL DE 2015)
-193 Bis.- Se aplicará prisión de seis meses a siete años y multa de quinientos a diez mil pesos a quien venda bebidas alcohólicas a menores de edad, de igual forma al titular del permiso o licencia.
+(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MARZO DE 2021)
+193 Bis.- Se aplicará prisión de seis meses a siete años y multa de quinientos a diez mil pesos a quien venda bebidas alcohólicas a menores de edad, y de cinco mil a veinte mil pesos al titular del permiso o licencia.
+(ADICIONADO, P.O. 13 DE MARZO DE 2021)
+Cuando la venta se realice cerca de escuelas, la pena se aumentará en un tercio a la impuesta.
+(ADICIONADO, P.O. 13 DE MARZO DE 2021)
+Para efectos de este artículo, se entiende cerca de escuelas, cuando la venta sea realizada a una distancia de 500 metros o menos de esta.
 (ADICIONADO, P.O. 18 DE ABRIL DE 2015)
 193 Ter.- Además de las penas establecidas en el artículo anterior, en caso de reincidencia, se procederá a la cancelación del permiso o licencia.
 (REFORMADA SU DENOMINACIÓN, P.O. 24 DE AGOSTO DE 2019)
