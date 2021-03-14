@@ -276,6 +276,8 @@ XIII.- Al vendedor de materiales de construcción o cualquiera especie que habie
 XIV.- Al fiador que enajene o grave los bienes raíces cuyas inscripciones de propiedad estén anotadas, conforme lo dispone el Código Civil, y de la operación resulta la insolvencia del citado fiador.
 (ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 1995)
 Asimismo se aplicará de tres a siete años de prisión y de treinta a ciento veinte días de multa al que, teniendo la obligación de cubrir alimentos conforme a la Ley, eluda proporcionarlos a sus ascendientes y descendientes en primer grado, o a su cónyuge, colocándose dolosamente en estado de insolvencia.
+(ADICIONADO, P.O. 13 DE MARZO DE 2021)
+381 BIS. Comete el delito de fraude familiar el que, en detrimento de la sociedad conyugal o patrimonio común generado durante el matrimonio o el concubinato, oculte, ceda, transfiera o adquiera a nombre de terceros bienes, se le aplicará sanción de uno a cinco años de prisión, y multa hasta trescientas veces la Unidad do Medida y Actualización y la reparación del daño.
 382.- Se impondrá prisión de seis meses a ocho años y multa de cinco mil a diez mil pesos, o sólo la prisión al que, para hacerse de una cantidad de dinero en numerario, en papel moneda o billetes de banco, de un documento que importa obligación, liberación o transmisión de derechos o de cualquiera otra cosa ajena mueble, logre que se le entregue por medio de maquinaciones, engaños o artificios.
 (REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2011)
 383.- El fraude se perseguirá por querella. Excepción hecha cuando el activo tenga conducta precedente por el mismo delito o para el caso de que el pasivo sea un organismo o institución pública o descentralizada.
