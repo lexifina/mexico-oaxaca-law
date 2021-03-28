@@ -937,8 +937,11 @@ III.- Teniendo conocimiento por razón de su empleo, cargo o comisión de que pu
 IV.- Por sí o por interpósita persona, sustraiga, destruya, oculte, utilice, o inutilice ilícitamente información o documentación que se encuentre bajo su custodia o a la cual tenga acceso, o de la que tenga conocimiento en virtud de su empleo, cargo o comisión.
 V.- Por sí o por interpósita persona, cuando legalmente le sean requeridos, rinda informes en los que manifieste hechos o circunstancias falsos o niegue la verdad en todo o en parte sobre los mismos, y
 VI.- Teniendo obligación por razones de empleo, cargo o comisión, de custodiar, vigilar, proteger o dar seguridad a personas, lugares, instalaciones u objetos, incumpliendo su deber, en cualquier forma propicie daño a las personas, o a los lugares, instalaciones u objetos, o pérdida o sustracción de objetos que se encuentren bajo su cuidado.
+(ADICIONADA, P.O. 27 DE MARZO DE 2021)
+VII.- Difunda, entregue, revele, publique, transmita, exponga, remita, distribuya, videograbe, audiograbe, fotografíe, filme, reproduzca, comercialice, oferte, intercambie o comparta imágenes, documentos, audios o videos del lugar de los hechos o del hallazgo, indicios, evidencias, objetos, de cadáveres o parte de ellos, de las circunstancias de su muerte, de las lesiones o estado de salud, de personas, mujeres, niñas, niños o adolescentes, de la comunidad LGBTTTIQ, o de instrumentos relacionados con un hecho que la Ley señale como delito.
 Al que cometa alguno de los delitos a que se refieren las fracciones I y II de este artículo, se le impondrán de uno a tres años de prisión y de treinta a cien días multa.
-Al infractor de las fracciones III, IV, V y VI se le impondrán de dos a siete años de prisión y de treinta a ciento cincuenta días multa.
+(REFORMADO, P.O. 27 DE MARZO DE 2021)
+Al infractor de las fracciones III, IV, V, VI y VII se le impondrán de dos a siete años de prisión y de treinta a ciento cincuenta días multa.
 (ADICIONADO, P.O. 15 DE DICIEMBRE DE 2017)
 207 Bis.- También comete el delito de ejercicio ilícito de servicio público, los servidores públicos estatales o municipales, y todos aquellos que de manera directa o indirecta tengan relación con la administración, el manejo, justificación, uso o destino de la hacienda pública estatal o municipal, cuando se actualice alguno de los siguientes supuestos:
 I. La realización de actos jurídicos o contables para justificar el uso de los recursos públicos para los cuales no fueron destinados.
