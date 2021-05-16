@@ -1347,6 +1347,8 @@ II.- El hecho sea cometido por quien desempeñe un cargo o empleo público o eje
 III.- El delito sea cometido por persona que tenga al ofendido bajo su custodia, tutela, guarda o educación, o que aproveche la confianza en él depositada;
 (ADICIONADA, P.O. 7 DE FEBRERO DE 1998)
 IV.- Tratándose del delito de violación, el hecho sea cometido por el cónyuge, concubina o concubino de la víctima.
+(ADICIONADA, P.O. 15 DE MAYO DE 2021)
+V.- El hecho sea cometido a bordo de un vehículo de servicio público o especial de transporte y el sujeto activo aproveche esa circunstancia para cometer el delito. Si el responsable fuere concesionario, además de la pena de prisión impuesta se le revocará la autorización respectiva.
 (DEROGADO ÚLTIMO PÁRRAFO, P.O. 30 DE ENERO DE 2016)
 (REFORMADA SU DENOMINACIÓN, P.O. 24 DE AGOSTO DE 2019)
 CAPÍTULO SEGUNDO.
