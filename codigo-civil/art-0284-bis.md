@@ -5,7 +5,8 @@ II. Poner a los hijos al cuidado de la persona que de común acuerdo hubieren de
 El otorgamiento de la guarda y custodia de menores de edad no estará sustentado en prejuicios de género, por lo cual deberá atenderse al interés superior de la niñez;
 III. Establecer las modalidades del derecho de visita o convivencia de las personas menores de dieciocho años o incapaces con el progenitor que no los tenga en custodia, en caso de disensión, el Juzgador resolverá lo conducente tomando siempre en cuenta las circunstancias personales, la opinión de niñas, niños y adolescentes conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez;
 IV. Señalar y asegurar los alimentos que debe dar el cónyuge obligado al cónyuge acreedor y a los hijos.
-V. Dictar, en su caso, las medidas precautorias que la ley establece respecto de la mujer que quede encinta;
+(REFORMADA, P.O. 22 DE MAYO DE 2021)
+V. Dictar, en su caso, las medidas precautorias que la ley establece respecto de la mujer que quede embarazada;
 VI. Dictar las medidas necesarias para que los cónyuges no se causen daños o perjuicios en sus personas ni en sus bienes, ni en los de la sociedad conyugal; bienes o derechos de sus hijos;
 VII. Ordenar, cuando existan bienes que puedan pertenecer a ambos cónyuges, la anotación preventiva de la demanda en el Registro Público de la Propiedad y del Comercio del Estado y de aquellos lugares en que se conozca que tienen bienes;
 VIII. Revocar o suspender los mandatos que entre los cónyuges se hubieran otorgado, con las excepciones que marca el artículo 2476 de este Código;
