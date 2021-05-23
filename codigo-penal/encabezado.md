@@ -617,8 +617,8 @@ Prescripción.
 121.- Cuando la sanción correspondiente del delito de que se trate no sea privativa de libertad, la prescripción de la acción penal operará en dos años.
 (REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)
 122.- La acción penal prescribirá en un plazo igual al término medio aritmético de la pena privativa de la libertad que señala la ley para el delito de que se trate, pero en ningún caso será menor de tres años.
-(ADICIONADO, P.O. 6 DE FEBRERO DE 2010)
-122 Bis.- Cuando se trate de delitos cometidos en personas menores de edad, previstos en los artículos 194 fracciones II a V, 195, 196, 241, 241 BIS, 246, 247, 248 BIS fracciones I a III, 255, 347 BIS y 348 BIS F, la acción penal será imprescriptible.
+(REFORMADO, P.O.22 DE MAYO DE 2021)
+122 BIS.- Cuando se trate de delitos cometidos en personas menores de edad, previstos en los artículos 194 fracciones II a V, 195, 196, 202, 241, 241 BIS, 246, 247, 248 BIS fracciones I a III, 255, 347 BIS y 348 BIS F, la acción penal será imprescriptible.
 (REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE SEPTIEMBRE DE 2011)
 123.- Si el delito sólo mereciere destitución, suspensión de derechos o inhabilitación, la prescripción se consumará en dos años.
 124.- La acción penal que nazca de un delito que sólo puede perseguirse por queja de parte, prescribirá en un año, contado desde el día en que la parte ofendida tenga conocimiento del delito y del delincuente, y en tres, independientemente de esta circunstancia.
@@ -877,7 +877,19 @@ Quien además de lo establecido en el párrafo anterior, por cualquier medio div
 200.- Para los efectos del artículo anterior, la autoridad ordenará a la empresa de prestación de servicios digitales o informáticos, servidor de internet, red social, administrador o titular de la plataforma digital, medio de comunicación o cualquier otro donde sea publicado el contenido referido en el artículo anterior, el retiro inmediato de la publicación que se realizó.
 200 Bis.- (DEROGADO, P.O. 21 DE NOVIEMBRE DE 2008)
 201.- (DEROGADO, P.O. 21 DE NOVIEMBRE DE 2008)
-202.- (DEROGADO, P.O. 21 DE NOVIEMBRE DE 2008)
+(ADICIONADO, P.O.22 DE MAYO DE 2021)
+CAPITULO IV. (SIC)
+Pederastia
+(REFORMADO [N. DE E. ADICIONADO], P.O.22 DE MAYO DE 2021)
+202.- Comete el delito de pederastia, quien provechándose de la confianza, subordinación o superioridad que tiene sobre un menor de catorce años, en razón del parentesco en cualquier grado, tutela, curatela, guarda o custodia, relación docente, religiosa, laboral, médica, cultural, doméstica o de cualquier índole, ejecute u obligue, le induzca o convenza a ejecutar para sí o para otras personas cualquier acto sexual distinto a la cópula o le haga observar un acto sexual por cualquier medio con o sin su consentimiento.
+A quien cometa el delito de pederastia se le impondrá de doce a veinte años de prisión y multa de mil a cinco mil veces la unidad de medida y actualización vigente.
+La pena se aumentará en una mitad del mínimo y en una mitad del máximo cuando;
+I. El sujeto activo hiciera uso de violencia física o moral;
+II. Se cometa en contra de una persona que no tenga la capacidad de comprender el significado del hecho o para resistirlo; o
+III. Se hubiere administrado a la víctima alguna sustancia tóxica.
+Además de las anteriores penas, el autor del delito perderá, en su caso, la patria potestad, la tutela, la curatela, la adopción, el derecho de alimentos y el derecho que pudiera tener respecto de los bienes de la víctima, en términos de la legislación civil.
+Cuando el delito fuere cometido por un servidor público o un profesionista en ejercicio de sus funciones o con motivo de ellas, además de las penas antes señaladas, será inhabilitado, destituido o suspendido, de su empleo público o profesión por un término igual a la pena de prisión impuesta.
+A los autores y participes del delito previsto en este articulo no se les concederá ningún beneficio preliberaciónal en ejecución de sentencia. Este delito será imprescriptible.
 (ADICIONADO, P.O. 24 DE AGOSTO DE 2019)
 202 Bis.- Comete el delito de turismo sexual infantil quien financie, promueva, publicite, invite, facilite o gestione por cualquier medio, para que una persona viaje al interior o exterior del territorio del estado de Oaxaca, con la finalidad de que realice cualquier tipo de actos sexuales reales o simulados con una o varias personas menores de dieciocho años de edad o que no tengan la capacidad de comprender el significado del hecho o de resistirlo.
 A quien financie, promueva, publicite, invite, facilite o gestione por cualquier medio la realización de las conductas descritas en el párrafo anterior, se le impondrá de ocho a catorce años de prisión y multa de seiscientos a mil doscientos veces el valor diario de la unidad de medida y actualización vigente.
@@ -1298,12 +1310,14 @@ I.- Sea cometido por dos o más personas;
 II.- Se hiciere uso de violencia física o moral; y
 (REFORMADA, P.O. 23 DE ENERO DE 2010)
 III.- Se hubiera administrado a la víctima alguna sustancia tóxica.
-(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2019)
-Cuando el delito fuere cometido contra una persona menor de doce años, incapaz o cuando se realice en persona que no tenga la capacidad de comprender el significado del hecho o por cualquier causa no pueda resistirlo, la pena será de ocho a quince años de prisión y multa de trescientos a setecientas veces el valor diario de la unidad de medida y actualización. A los autores y partícipes del delito previsto en este párrafo no se les concederá ningún beneficio preliberacional en la ejecución de la sentencia.
-(ADICIONADO, P.O. 3 DE OCTUBRE DE 2016)
-Cuando el delito fuere cometido por un servidor público, docente o ministro de culto y utilizare los medios o circunstancias que el encargo le proporcione, además de la pena prevista en el párrafo primero, será inhabilitado, destituido o suspendido, de su empleo público o profesión.
-(ADICIONADO, P.O. 5 DE OCTUBRE DE 2019)
-Este delito se perseguirá por querella de la parte ofendida, salvo que se trate de una persona menor de edad será oficiosa.
+(ADICIONADA, P.O.22 DE MAYO DE 2021)
+IV.- El delito fuere cometido en contra de una persona mayor de catorce años y menor de dieciocho años de edad o que no tenga la capacidad de comprender el significado del hecho o por cualquier causa no pueda resistirlo; o
+(ADICIONADA, P.O.22 DE MAYO DE 2021)
+V.- Sea cometido dentro de centros educativos, culturales, deportivos, religiosos o de trabajo;
+(DEROGADO TERCER PÁRRAFO, P.O.22 DE MAYO DE 2021)
+(REFORMADO, P.O.22 DE MAYO DE 2021)
+Cuando el delito fuere cometido por un servidor público, docente o ministro de culto y utilizare los medios o circunstancias que el encargo le proporcione, además de la pena de prisión impuesta, será inhabilitado, destituido o suspendido, de su empleo público o profesión, por un tiempo igual al que dure la pena de prisión impuesta. A los autores y. participes del delito previsto en este artículo no se les concederá ningún beneficio preliberacional en ejecución de sentencia.
+(DEROGADO QUINTO PÁRRAFO, P.O.22 DE MAYO DE 2021)
 (REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2018)
 241 Bis.- Comete el delito de hostigamiento sexual el que valiéndose de su posición jerárquica o de poder derivada de la relación laboral, docente, doméstica, religiosa, familiar o cualquiera otra que genere subordinación, asedie a otra persona solicitándole favores o propuestas de naturaleza sexual para sí o para un tercero, o utilice lenguaje lascivo con ese fin, causando daño o sufrimiento psicoemocional que lesione su dignidad. Al responsable, se le impondrá prisión de dos a cuatro años, multa de doscientas a cuatrocientas veces el valor de la unidad de medida y actualización. Este delito se perseguirá por querella de parte ofendida.
 (REFORMADO, P.O. 30 DE ENERO DE 2016)
