@@ -870,8 +870,11 @@ II.- Si el sujeto activo del delito tiene parentesco por consaguinidad (sic) o a
 III.- Si el sujeto activo es ministro de un culto religioso.
 (REFORMADO, P.O. 21 DE NOVIEMBRE DE 2008)
 198.- Los sujetos activos de los delitos a que se refiere este capítulo quedarán inhabilitados para ser tutores o curadores.
-199.- (DEROGADO, P.O. 21 DE NOVIEMBRE DE 2008)
-200.- (DEROGADO, P.O. 21 DE NOVIEMBRE DE 2008)
+(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE MAYO DE 2021)
+199.- A quien de forma intencional cause cualquier daño o maltrato, agreda, denoste o humille a una niña, niño o adolescente menor de dieciocho años, causándole alguna alteración en la salud, desarrollo o dignidad se le impondrá una pena de tres a siete años de prisión y de veinte a doscientas jornadas de trabajo a favor de la comunidad, con independencia de las penas que correspondan en su caso, por la comisión de otros delitos.
+Quien además de lo establecido en el párrafo anterior, por cualquier medio divulgue, comparta, distribuya, publique audios o videos en los que se cometa la conducta descrita en el párrafo anterior, se le aumentará en una mitad del mínimo a una mitad del máximo de la pena establecida en el presente artículo.
+(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE MAYO DE 2021)
+200.- Para los efectos del artículo anterior, la autoridad ordenará a la empresa de prestación de servicios digitales o informáticos, servidor de internet, red social, administrador o titular de la plataforma digital, medio de comunicación o cualquier otro donde sea publicado el contenido referido en el artículo anterior, el retiro inmediato de la publicación que se realizó.
 200 Bis.- (DEROGADO, P.O. 21 DE NOVIEMBRE DE 2008)
 201.- (DEROGADO, P.O. 21 DE NOVIEMBRE DE 2008)
 202.- (DEROGADO, P.O. 21 DE NOVIEMBRE DE 2008)
