@@ -197,14 +197,19 @@ Si no alcanza a cubrirse la multa con los bienes del sentenciado o con el produc
 (REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 1998)
 CAPITULO VI.
 Reparación del daño.
-(REFORMADO, P.O. 9 DE MARZO DE 2018)
-27.- La reparación del daño debe ser integral, adecuada, eficaz, efectiva, proporcional a la gravedad del daño causado y a la afectación sufrida, comprenderá cuando menos:
+(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JUNIO DE 2021)
+27.- La reparación del daño debe ser oportuna, plena, diferenciada, transformadora, integral, adecuada, eficaz, efectiva, expedita, justa, proporcional a la gravedad del daño causado y a la afectación sufrida, como consecuencia de un delito o de las violaciones de derechos humanos que han sufrido, comprenderá cuando menos:
+(REFORMADA, P.O. 9 DE MARZO DE 2018)
 I. La restitución de la cosa obtenida por el delito y si no fuere posible, el pago del precio de la misma, a su valor actualizado;
+(REFORMADA, P.O. 9 DE MARZO DE 2018)
 II. La indemnización del daño material y moral causado, incluyendo la atención médica y psicológica, de los servicios sociales y de rehabilitación o tratamientos curativos necesarios para la recuperación de la salud, que hubiere requerido o requiera la víctima, como consecuencia del delito. En los casos de delitos contra el libre desarrollo de la personalidad, la libertad y el normal desarrollo psicosexual y en su salud mental, así como de violencia familiar, además comprenderá el pago de los tratamientos psicoterapéuticos que sean necesarios para la víctima;
 (REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)
 III. El resarcimiento de los perjuicios ocasionados o el lucro cesante, incluyendo el pago de los salarios o percepciones correspondientes, cuando por lesiones cause incapacidad temporal o permanente para trabajar en oficio, arte o profesión;
+(REFORMADA, P.O. 9 DE MARZO DE 2018)
 IV. El pago de la pérdida de ingreso económico y lucro cesante, para ello se tomará como base el salario que en el momento de sufrir el delito tenía la víctima y en caso de no contar con esa información, será conforme al salario mínimo vigente;
+(REFORMADA, P.O. 9 DE MARZO DE 2018)
 V. El costo de la pérdida de oportunidades, en particular el empleo, educación y prestaciones sociales, acorde a sus circunstancias,
+(REFORMADA, P.O. 9 DE MARZO DE 2018)
 VI. La declaración que restablezca la dignidad y reputación de la víctima, a través de medios electrónicos o escritos;
 (REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)
 VII. La disculpa pública, la aceptación de responsabilidad, así como la garantía de no repetición, cuando el delito se cometa por servidores públicos;
@@ -216,6 +221,7 @@ IX. Los daños patrimoniales generados como consecuencia de delitos o violacione
 X. El pago de los gastos y costas judiciales del asesor jurídico cuando éste sea privado; y
 (ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)
 XI. Los gastos comprobables de transporte, alojamiento, comunicación o alimentación que le ocasione el trasladarse al lugar del juicio o para asistir a su tratamiento, si la víctima reside en un municipio o lugar distinto al del enjuiciamiento o donde recibe la atención.
+(REFORMADA, P.O. 9 DE MARZO DE 2018)
 Los medios para la rehabilitación deben ser lo más completos posible, y deberán permitir a la víctima participar de forma plena en la vida pública, privada y social.
 (REFORMADO PRIMER PÁRRAFO, P.O. 4 DE OCTUBRE DE 2012)
 28. El monto de la reparación del daño, será fijado por los jueces de acuerdo con las pruebas que obran en el proceso y la afectación causada a la víctima u ofendido del delito, salvo lo dispuesto en el artículo 29.
@@ -225,10 +231,9 @@ Cuando el daño se cause a las personas y produzca la muerte, incapacidad total 
 La indemnización a que se refiere el párrafo anterior, no puede ser inferior al monto señalado en el artículo siguiente.
 (REFORMADO, P.O. 3 DE OCTUBRE DE 1998)
 29.- A falta de pruebas específicas para fijar el monto de la reparación del daño:
-(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2017)
-I.- En caso de homicidio y feminicidio, los jueces, para calcular el monto de la reparación, tomarán como base la Unidad de Medida y Actualización, y las disposiciones establecidas en el artículo 502 de la Ley Federal del Trabajo, en materia de indemnizaciones en caso de muerte por riesgo de trabajo.
-(REFORMADO, P.O. 12 DE MAYO DE 2017)
-Tratándose de menores de dieciocho años o de incapacitados, que no contribuyan económicamente al sustento familiar, el monto será la cantidad equivalente al importe de setecientos noventa veces, calculada sobre el valor diario de la Unidad de Medida y Actualización vigente en el momento de la comisión del delito;
+(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE JUNIO DE 2021)
+I.- En caso de homicidio y feminicidio, los jueces, para calcular el monto de la reparación, tomarán como base la Unidad de Medida y Actualización, y las disposiciones establecidas en el artículo 502 de la Ley Federal del Trabajo, en materia de indemnizaciones en caso de muerte por riesgo de trabajo. Esta disposición también se aplicará aun cuando la víctima u ofendido fuere menor de edad, persona con alguna discapacidad o pertenezca a un grupo en situación de vulnerabilidad.
+(DEROGADO SEGUNDO PÁRRAFO, P.O. 5 DE JUNIO DE 2021)
 (REFORMADA PRIMER PÁRRAFO, P.O. 28 DE NOVIEMBRE DE 1998)
 II.- En caso de lesiones que dejaren secuelas, el monto se determinará con base en la tabulación de indemnizaciones que fija la Ley Federal del Trabajo, computado sobre el triple del salario mínimo vigente.
 Si las secuelas fueren cicatrices perpetuas y notables en cara o en pabellón auricular, el monto será el equivalente de uno a dos años de salarios mínimos, según el grado de la notabilidad; y
