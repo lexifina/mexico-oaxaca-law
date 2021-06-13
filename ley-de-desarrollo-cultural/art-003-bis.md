@@ -1,6 +1,7 @@
 (ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)
 Artículo 3 Bis. Todos los habitantes tienen los siguientes derechos culturales:
-I. Acceder a la cultura y al disfrute de los bienes y servicios que brinda el Estado en la materia;
+(REFORMADA, P.O. 12 DE JUNIO DE 2021)
+I. Acceder a la cultura y al disfrute de los bienes y servicios que brinda el Estado en la materia, sin distinción de origen étnico, género, edad, discapacidad, condición física o mental, situación socio-económica, religión o preferencia sexual;
 II. Procurar el acceso al conocimiento y a la información del patrimonio material e inmaterial de las culturas que se han desarrollado y desarrollan en el territorio estatal y de la cultura las comunidades y pueblos que habitan las regiones del Estado;
 III. Elegir libremente una o más identidades culturales;
 IV. Pertenecer a una o más comunidades culturales;
