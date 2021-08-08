@@ -1,10 +1,1 @@
-(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2018)
-Artículo 286 Bis.- Procede el divorcio administrativo cuando ambos consortes convengan en divorciarse de mutuo acuerdo, no tengan hijos, y si los hubiere sean mayores de 18 años, la mujer no debe estar embarazada.
-(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)
-Reunidos los requisitos anteriores, los cónyuges se presentarán personalmente ante el oficial del Registro Civil del lugar de su domicilio o el del en que contrajeron matrimonio, deberán acreditar que son casados, mayores de edad; además de lo anterior, manifestarán su voluntad de divorciarse.
-(REFORMADO, P.O. 17 DE OCTUBRE DE 2020)
-El Oficial del Registro Civil, previa identificación de los consortes les hará entrega de la solicitud de divorcio, misma que deberá ser requisitada y devuelta al Oficial del Registro Civil, hecho lo anterior, se citará a los cónyuges para que se presenten a reconocer la solicitud a los quince días posteriores. Si los consortes realizan el reconocimiento, el Oficial del Registro Civil los declarará divorciados, levantando el acta respectiva y haciendo la anotación correspondiente en el libro respectivo.
-(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)
-El divorcio así obtenido será nulo absolutamente, si se comprueba que los cónyuges tienen hijos menores de 18 años o incapaces, o no han liquidado su sociedad conyugal, ante autoridad judicial o ante notario público. La acción para promover la nulidad la tendrá todo interesado legítimo o el Ministerio Público. En este caso el procedimiento se seguirá en la vía de controversias del orden familiar que prevé el Código de Procedimientos Civiles. La manifestación de hechos falsos será sancionada en términos de lo establecido por el Código Penal.
-(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)
-Los consortes que no se encuentren en el caso previsto en los anteriores párrafos de este artículo, pueden solicitar su divorcio por mutuo consentimiento ocurriendo al Juez competente en los términos que ordena el Código de Procedimientos Civiles.
+Artículo 286 Bis.- (DEROGADO, P.O. 7 DE AGOSTO DE 2021)
