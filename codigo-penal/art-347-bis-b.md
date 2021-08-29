@@ -192,12 +192,12 @@ III.- Con prisión de doce a dieciocho años de prisión y multa de ciento cincu
 IV.- Con prisión de dieciocho a veinticinco años de prisión y multa de trescientas a seiscientas veces el valor de la Unidad de Medida y Actualización cuando el apoderamiento, posesión, destazando o seccionando sea de más de diez cabezas.
 (REFORMADO, P.O. 31 DE AGOSTO DE 2015)
 373.- El abigeato de ganado menor se sancionará:
-(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2020)
-I.- Con prisión de tres a cinco años y multa de cincuenta a ciento cincuenta veces el valor de la Unidad de Medida y Actualización vigente, cuando el apoderamiento no exceda de cinco cabezas;
-(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2020)
-II.- Con prisión de cinco a ocho años y multa de ciento cincuenta a trescientas veces el valor de la Unidad de Medida y Actualización vigente, cuando el apoderamiento exceda de cinco cabezas pero no de quince, y
-(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2020)
-III.- Con prisión de ocho a diez años y multa de trescientas a setecientas veces el valor de la Unidad de Medida y Actualización vigente, cuando el apoderamiento exceda de quince cabezas.
+(REFORMADA, P.O. 28 DE AGOSTO DE 2021)
+I.- Con prisión de tres a cinco años y multa de cien a doscientas veces el valor de la Unidad de Medida y Actualización vigente, cuando el apoderamiento no exceda de cinco cabezas o de hasta cinco colonias de abejas en un apiario;
+(REFORMADA, P.O. 28 DE AGOSTO DE 2021)
+II.- Con prisión de cinco a ocho años y multa de doscientas a trescientas cincuenta veces el valor de la Unidad de Medida y Actualización vigente, cuando el apoderamiento exceda de cinco cabezas, pero no de quince o exceda de cinco pero no de quince colonias de abejas de un apiario, y
+(REFORMADA, P.O. 28 DE AGOSTO DE 2021)
+III.- Con prisión de ocho a diez años y multa de trescientas cincuenta a setecientas cincuenta veces el valor de la Unidad de Medida y Actualización, cuando el apoderamiento exceda de quince cabezas o quince colonias de abejas de un apiario.
 373 Bis.- (DEROGADO, P.O. 27 DE AGOSTO DE 1994)
 (REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2020)
 374.- Se equipara el Abigeato y se sancionará con prisión de dos a cuatro años y multa de diez a cincuenta veces el valor de la Unidad de Medida y Actualización vigente en el momento de cometerse el delito, a quienes:
@@ -344,6 +344,15 @@ Cuando el delito de despojo se cometa en el medio rural, sin violencia, se trate
 En el delito de despojo de inmueble, el perdón del ofendido extingue la acción penal, una vez que se haya restituido el inmueble y que no hubiere resultado daño. Para el caso de que exista algún daño en la propiedad, además de que sea restituido el inmueble, se requerirá repararlo a satisfacción del ofendido.
 (REFORMADO, P.O. 19 DE MAYO DE 2015)
 Cuando la ocupación se haya efectuado sin violencia y el o los ocupantes voluntariamente restituyan al poseedor en el goce de su derecho, antes que el Ministerio Público ejerza la acción persecutoria, no se impondrá sanción alguna, si no hubieren cometido algún hecho delictivo diverso al realizar la ocupación o durante la misma.
+(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 28 DE AGOSTO DE 2021)
+CAPITULO V BIS.
+Ocupación irregular de áreas o predios.
+(ADICIONADO, P.O. 28 DE AGOSTO DE 2021)
+386 Bis.- Se aplicará prisión de dos a cinco años y multa de 100 a 300 veces el valor de la Unidad de Medida y actualización a quien o quienes incurran en las siguientes conductas:
+l. Propicien o permitan la ocupación irregular de áreas y predios en los centros de población;
+II. Autoricen indebidamente asentamientos humanos o construcciones en: Zonas de riesgo o polígonos de protección, salvaguarda y amortiguamiento; y,
+III. No respeten el ordenamiento territorial, el desarrollo urbano y desarrollo metropolitano en condiciones de equidad, generado por la consolidación y el crecimiento urbano.
+Tratándose de servidores públicos que se encuentren en cualquiera de los supuestos de este artículo, aprovechándose del cargo que ostenten, se sancionaran de 4 a 8 años de prisión y multa de 200 a 500 veces el valor de la unidad de medida y actualización.
 (REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 1998)
 CAPITULO VI.
 Daños.
