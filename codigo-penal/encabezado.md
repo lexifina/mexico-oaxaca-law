@@ -1231,9 +1231,12 @@ La sanción de la conducta será de dos a seis años de prisión, y multa de dos
 Las penas previstas en este capítulo se aumentarán hasta en una mitad cuando:
 I. El sujeto activo tenga conocimientos técnicos o profesionales en materia de informática, sistemas computacionales, telemáticos o cualquier otro afín.
 II. El sujeto activo cometa el ilícito en contra de personas físicas o jurídicas que ejerzan la función o servicio público.
-Las penas previstas en este capítulo se impondrán con independencia de las que correspondan por la comisión de otros delitos.
-(ADICIONADO, P.O. 29 DE FEBRERO DE 2020)
-232 Bis B.- Los delitos comprendidos en este capítulo serán perseguidos por querella de parte ofendida o legítimo representante.
+(REFORMADO, P.O. 28 DE AGOSTO DE 2021)
+Las penas previstas en este artículo se impondrán con independencia de las que correspondan por la comisión de otros delitos.
+(ADICIONADO, P.O. 28 DE AGOSTO DE 2021)
+232 Bis B.- A la persona que utilice en los medios digitales o redes sociales datos personales o una imagen ficticia con la finalidad de cometer algún hecho ilícito se le aplicará de dos a seis años de prisión, y multa de doscientos a cuatrocientas veces el valor diario vigente de la Unidad de Medida y Actualización al momento de la comisión del hecho, independientemente del delito que se llegue a configurar.
+(ADICIONADO, P.O. 29 DE FEBRERO DE 2020) (REUBICADO [N. DE E. ANTES ARTÍCULO 232 BIS B], P.O. 28 DE AGOSTO DE 2021)
+232 Bis C.- Los delitos comprendidos en este capítulo serán perseguidos por querella de parte ofendida o legítimo representante.
 CAPITULO V.
 Usurpación de funciones públicas o de profesión y uso indebido de condecoraciones y uniformes.
 (REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2003)
