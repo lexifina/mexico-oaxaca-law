@@ -1182,6 +1182,8 @@ VI.- Redactando un documento en términos que cambien la convención celebrada e
 VII.- Añadiendo o alterando cláusulas o declaraciones o asentando como ciertos hechos falsos o como confesados los que no lo están, si el documento en que se asienten se extendiere para hacerlos constar y como prueba de ellos;
 VIII.- Expidiendo un testimonio supuesto, de documentos que no existen, dándole de otro existente que carece de los requisitos legales suponiendo falsamente que los tiene, o de otro que carece de ellos, pero agregando o suprimiendo en la copia, algo que importe una variación substancial;
 IX.- Alterando un perito traductor o paleógrafo, el contenido de un documento, al traducirlo o descifrarlo.
+(ADICIONADA, P.O. 16 DE OCTUBRE DE 2021)
+X.- Falsificando, adulterando o haciendo uso indebido de rúbricas en documentos de carácter público y privado con efectos jurídicos en materia laboral.
 228.- Para que la falsificación de documentos sea juzgada como tal, se necesita que concurran los requisitos siguientes:
 I.- Que el falsario se proponga sacar algún provecho para sí o para otro, o causar perjuicio a la sociedad, al Estado o a un particular;
 II.- Que resulte o pueda resultar prejuicio a la sociedad, al Estado, o aun particular, ya sea en los bienes de éste o ya en su persona, en su honra o en su reputación; y
@@ -1194,6 +1196,8 @@ IV.- El médico que certifique falsamente que una persona tiene una enfermedad u
 V.- El que haga uso de una certificación verdadera expedida para otro, como si lo hubiera sido en su favor o altere la que a él se le expidió;
 (REFORMADA, P.O. 20 DE DICIEMBRE DE 2003)
 VI.- El que a sabiendas gestione, obtenga o haga uso para sí o para otro, de un documento falso, sea público o privado.
+(ADICIONADA, P.O. 16 DE OCTUBRE DE 2021)
+VII.- Al que obligue o coaccione a algún trabajador a firmar documentos en blanco, o de cualquier otro tipo que impliquen renuncia de los derechos del trabajador, o le imponga obligaciones a éste, con el fin de menoscabarlos o anularlos, ya sea que el trabajador labore en una empresa o institución pública o privada. En los casos que el patrón o empleador sea un servidor público, además de la sanción estipulada en el artículo 226 de este Código, se le destituirá del cargo.
 CAPITULO III.
 Falsedad en declaraciones judiciales o en informes dados a una Autoridad.
 (REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE DICIEMBRE DE 2017)

@@ -1,3 +1,4 @@
-(ADICIONADO, P.O. 23 DE JUNIO DE 2018)
-Artículo 336 Bis VI.- Una vez que haya sido liquidado el monto de las pensiones adeudadas, el Juez de conocimiento podrá ordenar a petición de parte interesada, la cancelación tanto de la inscripción en el registro de deudores alimentarios como la inscripción del Instituto de la Función Registral, la cual se tramitará de manera incidental.
-La cancelación de la inscripción del registro de deudor alimentario procederá cuando haya cesado la obligación alimentaria.
+(REFORMADO, P.O. 16 DE OCTUBRE DE 2021)
+Artículo 336 Bis VI.- La cancelación a la inscripción en el Registro de Deudores Alimentarios Morosos procede cuando el deudor demuestre ante la autoridad judicial que ha cumplido con su obligación alimentaria y que la misma se encuentra garantizada; para la cual la jueza o juez ordenará su cancelación, misma que se tramitará de manera incidental.
+Procederá también la cancelación de la inscripción del registro de deudor alimentario cuando haya cesado la obligación alimentaria.
+Hecha la cancelación se hará de (sic) conocimiento del Instituto de la Función Registral para que realice la anotación correspondiente.
