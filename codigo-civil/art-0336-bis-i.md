@@ -1,3 +1,0 @@
-(REFORMADO, P.O. 16 DE OCTUBRE DE 2021)
-Artículo 336 Bis I.- Quien incumpla total o parcialmente, con la obligación alimentaria ordenada provisional o definitivamente por la autoridad judicial o establecida mediante convenio judicial, por un período de treinta días naturales se constituirá en deudor alimentario moroso. El juez o jueza ordenará su inscripción en el Registro de Deudores Alimentarios Morosos remitiendo dentro de los tres días copia certificada del auto o sentencia para tal efecto.
-El deudor alimentario moroso que acredite ante la autoridad judicial de conocimiento, que se encuentra al corriente del pago de alimentos a que se refiere el párrafo anterior, podrá previo pago de derechos al estado, solicitar la cancelación de la inscripción correspondiente.

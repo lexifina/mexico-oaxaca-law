@@ -1,6 +1,0 @@
-P.O. 16 DE OCTUBRE DE 2021.
-[N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2706.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 100, EL ARTÍCULO 336 BIS I, EL ARTÍCULO 336 BIS II, EL ARTÍCULO 336 BIS III, EL ARTÍCULO 336 BIS IV Y EL ARTÍCULO 336 BIS VI; Y SE ADICIONA LA FRACCIÓN IV RECORRIÉNDOSE LAS SUBSECUENTES Y EL SEGUNDO PÁRRAFO AL ARTÍCULO 336 BIS V, LA FRACCIÓN I RECORRIÉNDOSE LAS SUBSECUENTES AL ARTÍCULO 336 BIS VII Y LA FRACCIÓN IV RECORRIÉNDOSE LAS SUBSECUENTES AL ARTÍCULO 411 BIS TODOS DEL CÓDIGO CIVIL PARA EL ESTADO DE OAXACA".]
-PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
-SEGUNDO.- Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
-TERCERO.- El Congreso del Estado dentro del plazo de treinta días naturales a la entrada en vigor del presente Decreto realizará las modificaciones a la Ley de Adquisiciones, Enajenaciones, Arrendamientos, Prestación de Servicios y Administración de Bienes Muebles e Inmuebles del Estado de Oaxaca, en términos del presente Decreto.
-CUARTO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.

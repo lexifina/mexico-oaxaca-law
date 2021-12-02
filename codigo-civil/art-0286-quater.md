@@ -1,0 +1,2 @@
+(ADICIONADO, B.O. 12 DE MARZO DE 2010)
+ARTÍCULO 286 QUATER.- Las multas deberán ser pagadas ante el área correspondiente del Instituto; si el infractor no cumple con su obligación, el Instituto dará vista a las autoridades de la secretaría de Finanzas a efecto de que procedan a su cobro conforme a la legislación aplicable. En el caso de los partidos políticos, el monto de las mismas se restará de sus ministraciones de gasto ordinario conforme a lo que se determine en la resolución.

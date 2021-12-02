@@ -1,0 +1,2 @@
+(ADICIONADO, B.O. 12 DE MARZO DE 2010)
+ARTÍCULO 141 BIS.- Cada partido político, en términos de sus estatutos, definirá el procedimiento de selección de sus candidatos, que contenderán en los procesos electorales de renovación de los Poderes Ejecutivo y Legislativo, así como de los Ayuntamientos del Estado; para tal efecto, corresponderá al partido autorizar a sus precandidatos la realización de actos tendientes a difundir y promover su imagen, ideas o programas entre sus simpatizantes y militantes, previamente a la elección o designación de candidatos.

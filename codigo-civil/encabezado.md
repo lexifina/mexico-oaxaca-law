@@ -1,9 +1,7 @@
-[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
-CÓDIGO CIVIL PARA EL ESTADO DE OAXACA
-Código publicado en el Suplemento del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
-VICENTE GONZALEZ FERNANDEZ, Gobernador Constitucional del Estado Libre y Soberano de Oaxaca, a sus habitantes hace saber:
-Que la H. Legislatura del Estado ha tenido a bien aprobar lo siguiente:
-La XXXVIII Legislatura Constitucional del Estado Libre y Soberano de Oaxaca,
-DECRETA:
-CODIGO CIVIL PARA EL ESTADO DE OAXACA
-Disposiciones preliminares
+LEY ELECTORAL DEL ESTADO DE BAJA CALIFORNIA SUR
+Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el jueves 20 de noviembre de 2003.
+LEONEL EFRAÍN COTA MONTAÑO, GOBERNADOR CONSTITUCIONAL DEL ESTADO DE BAJA CALIFORNIA SUR, A SUS HABITANTES HACE SABER:
+QUE EL H. CONGRESO DEL ESTADO, SE HA SERVIDO DIRIGIRME EL SIGUIENTE:
+DECRETO 1419
+EL CONGRESO DEL ESTADO DE BAJA CALIFORNIA SUR DECRETA
+LEY ELECTORAL DEL ESTADO DE BAJA CALIFORNIA SUR

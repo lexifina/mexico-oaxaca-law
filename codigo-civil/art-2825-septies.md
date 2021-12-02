@@ -1,2 +1,0 @@
-(ADICIONADO, P.O. 28 DE FEBRERO DE 2018)
-Artículo 2825 Septies.- El Inmueble hipotecado no podrá ser transmitido por acto inter vivos sin el previo consentimiento del pensionario. El incumplimiento de esta obligación le confiere el derecho de declarar vencido anticipadamente el total del adeudo y exigible a la fecha, a menos que se substituya la garantía en forma bastante e igual a la anterior en un plazo de seis meses.

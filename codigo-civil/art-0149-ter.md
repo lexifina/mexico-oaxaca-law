@@ -1,0 +1,5 @@
+(ADICIONADO, B.O. 12 DE MARZO DE 2010)
+ARTÍCULO 149 TER.- Cuando un partido político no cumpla en tiempo y forma con la presentación del informe de gastos de precampaña, la Comisión de Fiscalización del Financiamiento de los Partidos Políticos, notificará personalmente dicha omisión tanto al Partido Político como a los precandidatos, apercibiéndolos de que, en caso de no subsanarla en un término de tres días, se harán acreedores a las sanciones correspondientes, de conformidad con lo previsto en el Titulo Noveno de esta Ley.
+(ADICIONADO, B.O. 12 DE MARZO DE 2010)
+ARTÍCULO QUATER.- Corresponde a los partidos políticos, coaliciones y ciudadanos, así como a las autoridades Estatales y Municipales, el derecho de presentar ante el Consejo General del Instituto Estatal Electoral, las quejas y denuncias cuando consideren que se han incumplido las disposiciones establecidas en el presente Título.
+Para la sustanciación de las quejas y denuncias a que se refiere este título, se estará a lo que dispone el artículo 287 de esta Ley.

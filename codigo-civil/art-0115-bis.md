@@ -1,2 +1,0 @@
-(ADICIONADO, P.O. 7 DE AGOSTO DE 2021)
-Artículo 115 Bis.- Las y los Oficiales del Registro Civil podrán expedir constancias de declaración de existencia de concubinato, las cuales sólo acreditan el hecho de la comparecencia de ambas personas y de haber emitido las declaraciones en ella contenidas. Las constancias emitidas no constituyen modificación del estado civil de las personas, circunstancia que se asentará en los formatos respectivos.
