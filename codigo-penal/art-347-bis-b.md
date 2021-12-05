@@ -267,6 +267,10 @@ Además de las sanciones establecidas en el artículo 380 del presente Código P
 I.- Se aproveche del estado de necesidad económica de otra persona para realizar el delito.
 II.- Por sí o por terceros haga uso de violencia psicológica o física, intimide o de cualquier forma coaccione con la finalidad de obtener el usufructo de la actividad ilícita.
 III.- Para disimular su actividad usuraria suscriba títulos de crédito, si no media otra causa que justifique su existencia.
+(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2021)
+380 TER.- Comete el delito de fraude a migrantes el que incumpla con la realización de los trámites que había prometido para la legalización de residencia en otro país.
+El delito de fraude a migrantes, se castigará con prisión de tres a doce años y multa de hasta dos veces del valor defraudado por cada acto realizado.
+Además de las sanciones establecidas en el párrafo anterior, la prisión aumentará en una cuarta parte de la pena impuesta, cuando se trate de afectaciones a mujeres o indígenas, niñas y niños.
 381.- Las mismas penas señaladas en el Artículo anterior se impondrán:
 I.- Al que obtenga dinero, valores o cualquiera otra cosa ofreciendo encargarse de la defensa de un procesado o de un sentenciado o de la dirección o patrocinio en un asunto civil o administrativo, si no efectúa aquella o no realiza ésta, sea porque no se haga cargo legalmente de la misma o porque renuncie o abandone el negocio o la causa sin motivo justificado;
 II.- Al que por título oneroso anajene (sic) cosa con conocimiento de que no tiene derecho para disponer de ella o la arriende, hipoteque, empeñe o grave de cualquier otro modo, si ha recibido el precio, el alquiler, la cantidad en que la gravó, parte de ellas o un lucro equivalente;

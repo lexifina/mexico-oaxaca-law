@@ -1,0 +1,7 @@
+P.O. 23 DE JUNIO DE 2018.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1468.- MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES AL CÓDIGO PARA EL ESTADO DE OAXACA".]
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+TERCERO.- El Registro Civil deberá facilitar los recursos materiales y humanos necesarios para la implementación del Registro de Deudores Alimentarios.
+CUARTO.- El Registro Civil, contará con un plazo de seis meses a partir de la entrada en vigor del presente Decreto para crear y operar el registro de deudores alimentarios. Una vez que entre en funciones deberá dar trámite inmediato a las resoluciones judiciales que se hubieren efectuado durante el período inexistente entre la entrada en vigor de este decreto y la creación del registro estatal de deudores alimentarios, para lo anterior, el Tribunal Superior de Justicia del Estado deberá enviar al Registro Civil la información correspondiente para los efectos procedentes.
+QUINTO.- En un plazo de seis meses contados a partir de la entrada en vigor del presente decreto, el Ejecutivo del Estado realizará las adecuaciones necesarias al Reglamento del Registro Civil y demás disposiciones aplicables para ajustar el funcionamiento de los entes gubernamentales involucrados con el registro de deudores alimentarios.

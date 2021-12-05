@@ -1,0 +1,1 @@
+Artículo 2269 (sic).- Si la renta se ha constituído para alimentos, no podrá ser embargada sino en la parte que a juicio del juez exceda de la cantidad que sea necesaria para cubrir aquéllos, según las circunstancias de la persona.

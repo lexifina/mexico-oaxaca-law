@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 21 DE FEBRERO DE 1998)
+Artículo 1502 Bis A.- Si la vida en común no duró el mínimo a que se refiere la fracción I del Artículo anterior, y no hubo descendencia con el autor de la sucesión, el concubino o la concubina supérstite tendrá el derecho a alimentos si carece de bienes y está imposibilitado para trabajar. Este derecho cesa cuando el supérstite contraiga nupcias o viva nuevamente en concubinato.

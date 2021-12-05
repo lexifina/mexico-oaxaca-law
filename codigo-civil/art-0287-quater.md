@@ -1,9 +1,0 @@
-(ADICIONADO, B.O. 12 DE MARZO DE 2010)
-ARTÍCULO 287 QUATER.- La audiencia de pruebas y alegatos se llevará a cabo de manera ininterrumpida, en forma oral y será conducida por la Secretaría General debiéndose levantar constancia de su desarrollo.
-En el procedimiento especial no serán admitidas más pruebas que la documental y la técnica, esta última será desahogada siempre y cuando el oferente aporte los medios para tal efecto en el curso de la audiencia.
-La falta de asistencia de las partes no impedirá la celebración de la audiencia en el día y hora señalados, la que se desarrollará en los siguientes términos:
-a).- Abierta la audiencia, se dará el uso de la voz al denunciante a fin de que, en una intervención no mayor de quince minutos, resuma el hecho que motivó la denuncia y haga una relación de las pruebas que a su juicio la corroboran. En caso de que el procedimiento se haya iniciado en forma oficiosa la Secretaría General actuará en, consecuencia;
-b).- Acto seguido, se dará el uso de la voz al denunciado, a fin de que en un tiempo no mayor a treinta minutos, responda a la denuncia, ofreciendo las pruebas que a su juicio desvirtúen la imputación que se realiza;
-c).- La Secretaría General resolverá sobre la admisión de pruebas y acto seguido procederá a su desahogo, y
-d).- Concluido el desahogo de las pruebas, la Secretaría General concederá en forma sucesiva el uso de la voz al denunciante y al denunciado, o a sus representantes, quienes podrán alegar en forma escrita o verbal, por una sola vez y en tiempo no mayor a quince minutos cada uno.
-El denunciante y el denunciado podrán comparecer a la audiencia por conducto de representantes o apoderados. En este supuesto, los mismos deberán presentar los documentos que los acrediten al inicio de la audiencia y en el acta se asentará razón de esa circunstancia.

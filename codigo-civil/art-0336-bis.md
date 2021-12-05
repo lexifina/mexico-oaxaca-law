@@ -1,0 +1,3 @@
+(REFORMADO, P.O. 16 DE OCTUBRE DE 2021)
+Artículo 336 Bis II.- La Dirección del Registro Civil del Estado de Oaxaca, a través de la Unidad Administrativa tendrá a su cargo la creación y manejo del registro de deudores alimentarios morosos; y estará facultado para expedir un certificado que informe si una persona se encuentra inscrita o no en el Registro de Deudores Alimentarios Morosos.
+La Unidad del Registro de Deudores Alimentarios Morosos hará público en la plataforma digital o en el portal electrónico oficial del Registro Civil, el nombre de las personas deudoras alimentarias morosas que se encuentren inscritas en éste.
