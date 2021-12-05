@@ -1355,8 +1355,13 @@ II.- Si además hubiese asedio, seguimiento o persecución; y
 III.- Si se comete contra una persona menor de dieciocho años de edad, o que no tenga la capacidad de comprender el significado del hecho o con alguna discapacidad o que por cualquier causa no pueda resistirlo.
 En el último supuesto, el delito se perseguirá de oficio. En los demás casos se procederá contra el responsable a petición de parte.
 Si el acosador es servidor público o con algún cargo honorario, además de la pena prevista en los párrafos anteriores, se le destituirá del cargo o empleo y se le inhabilitará para ejercer otro cargo público, por un tiempo igual al que dure la pena de prisión impuesta.
-242.- (DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2001)
-243.- (DEROGADO, P.O. 10 DE NOVIEMBRE DE 2018)
+(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE DICIEMBRE DE 2021)
+242.- Comete el delito de ciberacoso sexual quien, utilizando las Tecnologías de la Información y la Comunicación (TIC), asedie, coaccione o intimide de manera reiterada a otra persona con fines sexuales, a pesar de su oposición manifiesta.
+A quien incurra en este delito, se le impondrá pena de seis meses a tres años de prisión y multa de cien a quinientas veces el valor diario de la Unidad de Medida y Actualización.
+Si el acosador es servidor público o con algún cargo honorario, además de la pena prevista en el párrafo anterior, se le destituirá del cargo o empleo y se le inhabilitará para ejercer otro cargo público, por un tiempo igual al que dure la pena de prisión impuesta.
+(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE DICIEMBRE DE 2021)
+243.- Se impondrá de dos a seis años de prisión y multa de cuatrocientos a seiscientas veces el valor diario de la Unidad de Medida y Actualización, a quien utilizando la coacción, intimidación, seducción, inducción o engaño, establezca comunicación con fines sexuales a través de cualquier tecnología de la información y comunicación, con una persona menor de dieciocho años de edad, o con persona incapaz de comprender el significado del hecho, o con alguna discapacidad o que por cualquier causa no pueda resistirlo, a pesar de su consentimiento.
+En este supuesto, el delito se perseguirá de oficio. En los demás casos se procederá contra el responsable a petición de parte.
 244.- (DEROGADO, P.O. 10 DE NOVIEMBRE DE 2018)
 245.- (DEROGADO, P.O. 10 DE NOVIEMBRE DE 2018)
 (REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2018)
