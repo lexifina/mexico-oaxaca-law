@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2021)
+Artículo 1740 Ter.- Los hechos extraordinarios deben ser generales e imprevisibles de tal forma que los contratantes no habrían pactado en los términos en que lo hicieron si los hubieran conocido con anterioridad, además podrá considerarse en estos casos cualquier circunstancia económica que trascienda en la vida internacional, nacional, estatal o municipal u otras semejantes.

@@ -1,0 +1,4 @@
+(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2021)
+Artículo 1740 Bis.- En todos los contratos conmutativos o de tracto sucesivo se entenderá que el consentimiento fue otorgado en los términos y condiciones existentes al momento de celebración.
+Cuando una prestación resulte en falta de equidad por haber ocurrido alguna causa general que modifique las circunstancias bajo las que se celebró el contrato, se podrá optar entre la rescisión de éste o su modificación equitativa. Los hechos modificativos deben fundarse en causas extraordinarias que no pudieron preverse por las partes al momento de su celebración.
+La modificación del contrato en cuanto a su ejecución solo abarcará las prestaciones posteriores al hecho extraordinario por causas de difícil cumplimiento y cuando resulte una ventaja inequitativa con onerosidad desproporcionada para una de las partes.
