@@ -1360,7 +1360,7 @@ Si el acosador es servidor público o con algún cargo honorario, además de la 
 Para los efectos de este artículo, se entiende por cópula, la introducción del miembro viril en el cuerpo de la víctima por vía vaginal, anal u oral, independientemente de su sexo.
 (REFORMADO, P.O. 18 DE ABRIL DE 2020)
 246 BIS.- Se equipara a la violación y se sancionará de catorce á veinte años de prisión y multa de seiscientos a un mil doscientas veces el valor de la unidad de medida y actualización, a quien tenga cópula con persona mayor de doce años y menor de dieciocho, obteniendo su consentimiento por medio de la seducción y el engaño.
-La seducción y el engaño se presumirá en todo momento.
+(DEROGADO SEGUNDO PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2021)
 (REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2018)
 247.- Se equipara la violación, la cópula con persona menor de doce años de edad, aun cuando se hubiere obtenido su consentimiento, sea cual fuere su sexo; con persona privada de razón o sentido, o cuando por enfermedad o cualquiera otra causa no pudiere oponer resistencia. En tales casos, la pena será de diecisiete a veintisiete años de prisión y multa de mil seiscientos a dos mil cien el valor de la unidad de medida y actualización.
 (ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2001)
