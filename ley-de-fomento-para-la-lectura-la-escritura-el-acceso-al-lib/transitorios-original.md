@@ -1,0 +1,9 @@
+TRANSITORIOS:
+PRIMERO. - La presente Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+SEGUNDO. - Se abroga la Ley (sic) Fomento de la Lectura, la Escritura, el Libro y el Uso de las Bibliotecas publicada el 10 de octubre de 2014.
+TERCERO. - Mediante el presente Decreto, se crea el Consejo Estatal para el Fomento de la Lectura, la Escritura, el Acceso al Libro y las Bibliotecas, el cual deberá instalarse en un plazo no mayor de tres meses, y a los sesenta días de integrado este deberá expedir su reglamento y programa de trabajo.
+En caso de que no se integre el Consejo Estatal en los términos y plazos, la Secretaría de la Contraloría y Transparencia Gubernamental deberá iniciar los procedimientos correspondientes.
+CUARTO. - Los Ayuntamientos de los Municipios deberán integrar los Consejos Municipales a más tardar un año contado a partir de la publicación del presente Decreto.
+QUINTO. - El Ejecutivo del Estado, en un plazo no mayor de noventa días, contados a partir de la entrada en vigor, deberá emitir el Reglamento de la presente Ley.
+"Dado en el Salón de Sesiones del H. Congreso del Estado, San Raymundo Jalpan, Cetro, Oaxaca, a 22 de Octubre de 2021.- Dip. Arsenio Lorenzo Mejía García, Presidete.- Dip. Arcelia López Hernández, Vicepresidenta.- Dip. Rocío Machuca Rojas, Secretaría.- Dip. Maritza Escarlet Vásquez Guerra, Secretaría.- Rúbricas."
+Por lo tanto, mando que se imprima, publique, circule y se le dé el debido cumplimiento, Palacio de Gobierno, Centro, Oax., a 4 de Noviembre de 2021. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, Mtro. Alejandro Ismael Murat Hinojosa.- Rúbrica.- El Secretario General de Gobierno. Ing. Francisco Javier García López.- Rúbrica.
