@@ -1,6 +1,7 @@
-(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2016)
-Artículo 1468 BIS.- El testamento público abierto hecho en el extranjero ante jefe de oficinas consulares en ejercicio de funciones notariales, celebrados dentro de su circunscripción y que estén destinados a surtir efectos en el Estado de Oaxaca, será equivalente al otorgado ante notario del Estado de Oaxaca, en los términos de la Ley del Servicio Exterior Mexicano y su Reglamento, y el testimonio respectivo tendrá plena validez sin necesidad de legalización.
+Artículo 1468 BIS.- (DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
+(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)
 TITULO CUARTO
 De la sucesión legítima
+(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)
 CAPITULO I
 Disposiciones generales

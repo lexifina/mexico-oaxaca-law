@@ -1,6 +1,1 @@
-(REFORMADO, P.O. 16 DE OCTUBRE DE 2021)
-Artículo 336 Bis III.- La jueza o juez ordenará al Instituto de la Función Registral del Estado de Oaxaca que haga la anotación marginal en los bienes propiedad de la persona deudora alimentaria morosa, el Instituto informará sobre la procedencia de la anotación.
-La anotación marginal a la que hace referencia el párrafo anterior, quedará exenta de pago de derechos al estado.
-La Dirección del Registro Civil deberá celebrar convenios con las sociedades de información crediticia a que se refiere la Ley de la materia, a fin de proporcionar la información de las personas que se encuentren inscritas en el Registro de Deudores Alimentarios Morosos.
-También deberá celebrar convenios con las entidades públicas y los municipios para que brinde información de aquellas personas físicas proveedoras de servicios y las morales representadas o asociadas por personas que se encuentren inscritas en el Registro de Deudores Alimentarios Morosos en términos de la ley de la materia.
-La jueza o juez deberá dar vista al Ministerio Público y a la Unidad de Inteligencia Financiera de la Secretaría de Hacienda y Crédito Público de las personas deudoras alimentarias morosas, atendiendo al Principio del Interés Superior de la Niñez y al Principio de Máxima Protección.
+Artículo 336 Bis III.- (DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)

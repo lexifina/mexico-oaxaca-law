@@ -1,20 +1,7 @@
-(REFORMADO, P.O. 9 DE MAYO DE 2015)
-Artículo 336 Bis B.- Por violencia familiar se considera todo acto u omisión intencional, dirigido a dominar, someter, controlar, o agredir de manera física, verbal, psicológica, patrimonial, económica o sexualmente que se ejerza en contra de cualquier miembro de la familia por otro integrante de la misma; ya sea que, se realicen dentro o fuera del domicilio familiar y que tiene por efecto causar un daño. Los tipos de violencia familiar son los siguientes:
-I. Violencia Física: Toda agresión en la que se utilice cualquier objeto o arma, o se haga uso de alguna parte del cuerpo, para sujetar o lesionar físicamente a otro; así como el uso de sustancias para inmovilizarle, atentando contra su integridad física, y que tienen por objeto lograr su sometimiento o control y con el resultado o riesgo de producir lesión física, interna, externa o ambas.
-II. Violencia Psicoemocional: Todo acto u omisión consistente en prohibiciones, coacciones, condicionamientos, intimidaciones, insultos, amenazas, humillaciones, celotipia, actitudes devaluatorias, de abandono, comparaciones destructivas, que provoquen en quien las recibe, depresión, o menoscabo, detrimento, disminución, afectación o alteración autocognitiva y autovalorativa que integran su autoestima o en alguna esfera o área de su estructura psíquica.
-III. Violencia Sexual: Acto u omisión cuyas formas de expresión pueden ser obligar o inducir a la realización de prácticas sexuales no deseadas o que generen dolor.
-IV. Violencia contra los derechos sexuales y reproductivos: Acto u omisión que impida o restrinja el libre ejercicio del derecho a la salud reproductiva de cualquier integrante de la familia y por tanto, afecte a la libertad para disfrutar de una vida sexual satisfactoria y sin riesgos para la salud, a la libertad para acceder o no a servicios de atención a la salud sexual y reproductiva, a los anticonceptivos y para ejercer o no el derecho a la paternidad o maternidad responsable;
-V. Violencia económica: Privación intencionada y no justificada legalmente de los recursos financieros para el bienestar físico y psicológico de los receptores de la violencia familiar o de algún miembro de la familia, cuyas formas de expresión pueden representar el incumplimiento de las responsabilidades alimentarias, para el sostenimiento familiar, o las limitaciones encaminadas a controlar el ingreso de las percepciones económicas o la discriminación en la disposición de los recursos compartidos;
-VI. Violencia patrimonial: Acto u omisión encaminado a apropiarse o destruir el patrimonio de la pareja o de cualquier miembro de la familia sin autorización, mismos que pueden consistir en el abuso de los ingresos, el apoderamiento, despojo, transformación, sustracción, destrucción, desaparición, retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos, y
-VII. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la libertad, dignidad o integridad de la familia.
-Serán considerados como violencia en los términos de este artículo, los actos que causen el mismo daño a un menor de edad, o se empleen medidas inadecuadas para reprenderlo, aunque se argumente como justificación la educación y formación del menor, en el uso del derecho de corregir.
-Para efectos de éste artículo, se entiende por integrante de la familia a la persona que se encuentre unida a otra por una relación de matrimonio, concubinato, o por un lazo de parentesco consanguíneo, en línea recta ascendente o descendente sin limitación de grado, colateral o afín hasta el cuarto grado, así como de parentesco civil.
-(DEROGADO ÚLTIMO PÁRRAFO, P.O. 13 DE ABRIL DE 2018)
-N. DE E. DE ACUERDO CON LAS REFORMAS APROBADAS POR LA QUINCUAGÉSIMA SÉPTIMA LEGISLATURA EN EL DECRETO NO. 291, PUBLICADO EN EL P.O. EL 20 DE ABRIL DE 2001, EL PRESENTE TÍTULO QUEDA INTEGRADO POR DOS CAPÍTULOS.
-(REFORMADA SU DENOMINACIÓN, P.O. 20 DE ABRIL DE 2001)
+Artículo 336 Bis B.- (DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
+(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)
 TITULO SEPTIMO
 De la filiación
-N. DE E. DE ACUERDO CON LAS REFORMAS APROBADAS POR LA QUINCUAGÉSIMA SÉPTIMA LEGISLATURA EN EL DECRETO NO. 291, PUBLICADO EN EL P.O. EL 20 DE ABRIL DE 2001, EL CONTENIDO DE LOS ANTERIORES CAPÍTULO II, III Y IV QUEDA INMERSO EN EL PRESENTE CAPÍTULO.
-(REFORMADA SU DENOMINACIÓN, P.O. 20 DE ABRIL DE 2001)
+(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)
 CAPITULO I
 De los hijos

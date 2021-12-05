@@ -1,4 +1,4 @@
-(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2001)
-Artículo 509 Bis.- Los responsables de las casas de asistencia, ya sean públicas o privadas, donde se reciban menores que hayan sido objeto de la violencia intrafamiliar, tendrán la custodia de éstos en los términos que prevengan las leyes y los estatutos de la institución. En todo caso darán aviso al Ministerio Público y a quien corresponda el ejercicio de la patria potestad y no se encuentre señalado como responsable del evento de violencia intrafamiliar.
+Artículo 509 Bis.- (DEROGADO, P.O. 4 DE DICIEMBRE DE 2021)
+(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2021)
 CAPITULO VI
 De la tutela dativa
