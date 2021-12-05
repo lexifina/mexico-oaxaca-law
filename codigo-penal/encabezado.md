@@ -1280,13 +1280,18 @@ CAPITULO III.
 Delitos contra el comercio y la industria.
 (REFORMADO PRIMER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 1982)
 240.- Se aplicarán de uno a diez años de prisión y multa de mil a cincuenta mil pesos, además del decomiso de los artículos objeto de la infracción:
-I.- A quien o quienes acaparen, monopolicen, oculten o retiren del comercio artículos de primera necesidad o de consumo necesario o con el objeto de provocar el alza de precios;
+(REFORMADA, P.O. 4 DE DICIEMBRE DE 2021)
+I.- A quien o quienes acaparen, monopolicen, oculten, nieguen injustificadamente su venta o retiren del comercio artículos de primera necesidad o de consumo necesario o con el objeto de provocar el alza de precios o afectar el abasto a los consumidores;
 II.- A quienes celebren acuerdos o combinaciones con productores, industriales, comerciantes o empresarios, para evitar la competencia en el mercado libre, obligando a los consumidores a pagar precios exagerados;
-III.- Al que ejecute actos contrarios a la libre concurrencia en la industria o el comercio;
+(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2021)
+III.- A quien o quienes realicen venta con inmoderado lucro, en artículos de primera necesidad o de consumo necesario;
+IV.- Al que ejecute actos contrarios a la libre concurrencia en la industria o el comercio;
 (ADICIONADA, P.O. 27 DE NOVIEMBRE DE 1982)
-IV.- A quienes por cualquier medio alteren las mercancías o productos o reduzcan las propiedades que debieran tener. Si a consecuencia de la alteración o reducción resultaren daños, lesiones u homicidio, se aplicarán, además, las sanciones que por esos delitos correspondan.
+V.- A quienes por cualquier medio alteren las mercancías o productos o reduzcan las propiedades que debieran tener. Si a consecuencia de la alteración o reducción resultaren daños, lesiones u homicidio, se aplicarán, además, las sanciones que por esos delitos correspondan.
 (ADICIONADO, P.O. 27 DE NOVIEMBRE DE 1982)
 Lo mandado en este Artículo se observará sin prejuicio de las medidas y sanciones que pueda tomar o imponer la autoridad administrativa con base en leyes especiales.
+(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2021)
+240-A.- A quien o quienes cometan alguna de las conductas previstas en el artículo 240, con respecto de artículos de consumo necesario, productos de higiene personal, medicamentos e insumos médicos, bienes destinados a la prevención de propagación, tratamiento o contagio de enfermedades o cualquier artículo de primera necesidad y los que se requieran para la conservación de los mismos, en el contexto de la amenaza, inminencia u ocurrencia de una situación de desastre natural, riesgo sanitario o cualquier otra circunstancia catastrófica que altere de forma grave el orden público durante el tiempo que dure, se le aumentará hasta una mitad más en su mínimo y máximo, la pena que corresponda.
 (ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 14 DE SEPTIEMBRE DE 2009)
 CAPITULO IV.
 Del tráfico de concesiones y permisos del servicio público de transporte.
