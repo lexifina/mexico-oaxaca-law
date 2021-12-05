@@ -882,7 +882,10 @@ III.- Si el sujeto activo es ministro de un culto religioso.
 Quien además de lo establecido en el párrafo anterior, por cualquier medio divulgue, comparta, distribuya, publique audios o videos en los que se cometa la conducta descrita en el párrafo anterior, se le aumentará en una mitad del mínimo a una mitad del máximo de la pena establecida en el presente artículo.
 (REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE MAYO DE 2021)
 200.- Para los efectos del artículo anterior, la autoridad ordenará a la empresa de prestación de servicios digitales o informáticos, servidor de internet, red social, administrador o titular de la plataforma digital, medio de comunicación o cualquier otro donde sea publicado el contenido referido en el artículo anterior, el retiro inmediato de la publicación que se realizó.
-200 Bis.- (DEROGADO, P.O. 21 DE NOVIEMBRE DE 2008)
+(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE DICIEMBRE DE 2021)
+200 Bis.- A quien imparta u obligue a otra u otro a recibir una terapia de conversión se le impondrán de dos a cinco años de prisión y de cincuenta a cien veces el valor de la unidad de medida y actualización. Este delito se perseguirá por querella necesaria.
+Se entiende por terapias de conversión, aquellas prácticas consistentes en sesiones psicológicas, psiquiátricas, métodos o tratamientos que tenga (sic) por objeto anular, obstaculizar, modificar o menoscabar la expresión o identidad de género, así como la orientación sexual de la persona, en las que se emplea violencia física, moral o psicoemocional, mediante tratos crueles, inhumanos o degradantes que atenten contra la dignidad humana.
+Cuando la terapia de conversión se hiciere contra persona menor de dieciocho años de edad o persona que no tenga capacidad para comprender el significado del hecho o persona que no tenga la capacidad de resistir la conducta, la pena se aumentará en una mitad de su mínimo a una mitad de su máximo y se perseguirá por oficio.
 201.- (DEROGADO, P.O. 21 DE NOVIEMBRE DE 2008)
 (ADICIONADO, P.O.22 DE MAYO DE 2021)
 CAPITULO IV. (SIC)
