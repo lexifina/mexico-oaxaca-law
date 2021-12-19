@@ -1552,6 +1552,23 @@ Cuando el sujeto pasivo fuera prestador del servicio público de transporte en c
 292.- Al que prive de la vida a otro, por la petición expresa, libre, reiterada, seria e inequívoca de éste, siempre que medien razones humanitarias y la víctima padeciere una enfermedad no curable o en situación terminal, se le impondrá prisión de cuatro a doce años.
 Los supuestos previstos en el párrafo anterior no integran los elementos del cuerpo del delito de homicidio, así como tampoco las conductas realizadas por el personal de salud correspondiente, para los efectos del cumplimiento de las disposiciones establecidas en la Ley de los Cuidados Paliativos para los Enfermos no Curables o en Situación Terminal del Estado de Oaxaca y la Ley de Voluntad Anticipada para el Estado de Oaxaca.
 Tampoco integran los elementos del cuerpo del delito previsto en el párrafo primero del presente artículo, las conductas realizadas conforme a las disposiciones establecidas en la Ley de los Cuidados Paliativos para los Enfermos no Curables o en Situación Terminal del Estado de Oaxaca y la Ley de Voluntad Anticipada para el Estado de Oaxaca, suscritas y realizadas por el solicitante o representante, en el documento de voluntad anticipada para los efectos legales a que haya lugar
+(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2021)
+292 Bis. Comete el delito de homicidio por razones de identidad de género u orientación sexual, quien prive de la vida a otra persona y se cumpla por los menos uno de los siguientes supuestos:
+I.- Que la víctima presente signos de violencia sexual de cualquier tipo;
+II. Que a la víctima se le hayan infligido heridas, escoriaciones, contusiones, fracturas, dislocaciones, quemaduras o mutilaciones o signos de asfixia, previos o posteriores a la privación de la vida;
+III. El cuerpo, cadáver o restos de la víctima hayan sido enterrados, ocultados, incinerados o sometidos a cualquier sustancia que lo desintegre;
+IV. Existan datos que establezcan que se han cometido amenazas, acoso, violencia o lesiones del sujeto activo en contra de la víctima, aun cuando no haya denuncia, querella o cualquier otro tipo de registro;
+V. Por desprecio u odio a la víctima motivado por discriminación, homofobia, transfobia o misoginia;
+VI. El cuerpo de la víctima sea expuesto, depositado o arrojado en un lugar público;
+VII. Haya existido entre el activo y la víctima una relación sentimental, afectiva o de confianza;
+VIII. Se trate de una persona integrante de la comunidad LGBTTTIQ, activista o que forme parte de algún colectivo, colectiva o cualquier organización de defensa de los derechos de identidad de género u orientación sexual; o
+IX. La víctima haya sido incomunicada, cualquiera que sea el tiempo previo a su fallecimiento.
+Se entenderá como desprecio u odio cuando el activo realice conductas humillantes o degradantes, antes o durante la privación de la vida.
+La identidad de género, es la vivencia interna e individual del género tal como cada persona la experimenta profundamente, la cual podría corresponder o no con el sexo asignado al momento del nacimiento, incluyendo la vivencia personal del cuerpo, así como otras expresiones de género como la vestimenta, el modo de hablar y los modales, la identidad de género podría involucrar la modificación de la apariencia o la función corporal a través de medios médicos, quirúrgicos o de otra índole, siempre que la misma sea libremente escogida.
+(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2021)
+292 Ter.- A quien cometa el delito de homicidio por razones de identidad de género u orientación sexual, se le impondrá una sanción de cincuenta a sesenta años de prisión y multa de quinientos a mil veces el valor diario de la unidad de medida y actualización.
+Si entre el activo y la víctima existió una relación de parentesco por consanguinidad o afinidad, adopción, matrimonio, concubinato, relación de convivencia, noviazgo, amistad, laboral, docente, tutela, o cualquier otra que implique confianza, además de la pena que le corresponda, se le impondrá hasta un tercio más de la misma.
+Cuando el sujeto activo se encuentre en servicio o se haya desempeñado dentro de los cinco años anteriores a la comisión del delito, como servidor público integrante de las corporaciones de seguridad pública, de las instituciones de procuración e impartición de justicia o de las fuerzas armadas, se impondrá hasta dos tercios más de la pena impuesta.
 CAPITULO IV.
 Reglas comunes para lesiones y homicidio.
 (REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE OCTUBRE DE 2015)
@@ -1566,7 +1583,8 @@ Si el suicidio no se consuma, por causas ajenas a la voluntad del que induce o a
 296.- En los supuestos previstos en los dos artículos anteriores no integran los elementos del cuerpo del delito de ayuda o inducción al suicidio, las conductas realizadas por el personal de salud correspondiente para los efectos del cumplimiento de las disposiciones establecidas en la Ley de los Cuidados Paliativos para los Enfermos no Curables o en Situación Terminal del Estado de Oaxaca y la Ley de Voluntad Anticipada para el Estado de Oaxaca.
 Tampoco integran los elementos del cuerpo del delito previstos en el párrafo anterior, las conductas realizadas conforme a las disposiciones establecidas en la Ley de los Cuidados Paliativos para los Enfermos no Curables o en Situación Terminal del Estado de Oaxaca y la Ley de Voluntad Anticipada para el Estado de Oaxaca, suscritas y realizadas por el solicitante o representante, en el documento de voluntad anticipada para los efectos legales a que haya lugar
 297.- Por riña se entiende, para todos los efectos penales: la contienda de obra y no de palabra, entre dos o más personas.
-298.- (DEROGADO, P.O. 3 DE JUNIO DE 1995)
+(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE DICIEMBRE DE 2021)
+298.- Se aumentará de una tercera parte del mínimo a una tercera parte del máximo a quien infiera una lesión a una persona motivado por su preferencia u orientación sexual.
 299.- Se entiende que las lesiones y el homicidio, son calificados, cuando se cometen con premeditación, con ventaja, con alevosía o a traición.
 300.- Hay premeditación: siempre que el delincuente cause intencionalmente una lesión, después de haber reflexionado sobre el delito que va a cometer. Se presumirá que existe premeditación; cuando las lesiones o el homicidio se cometan por inundación, incendio, minas, bombas o explosivos; por medio de venenos o cualquiera otra substancia nociva a la salud, contagio venéreo, asfixia o enervantes o por retribución dada o prometida; por tormento, motivos depravados o brutal ferocidad.
 301.- Se entiende que hay ventaja:
