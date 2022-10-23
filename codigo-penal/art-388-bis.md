@@ -88,28 +88,23 @@ II. Por instrucciones de quién ejerciendo la patria potestad o por pariente del
 (ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE OCTUBRE DE 2012)
 CAPITULO III.
 Feminicidio.
-(ADICIONADO, P.O. 4 DE OCTUBRE DE 2012)
-411. Comete el delito de feminicidio quien prive de la vida a una mujer por razones de género.
-Se entiende por razones de género cuando ocurra cualquiera de las siguientes circunstancias:
-I.- La víctima presente signos de violencia sexual de cualquier tipo;
-(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)
-II.- A la víctima se le hayan infligido heridas, escoriaciones, contusiones, fracturas, dislocaciones, quemaduras o mutilaciones o signos de asfixia, previos o posteriores a la privación de la vida;
-(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)
-III.- Existan datos, información que refiera algún tipo de violencia, en cualquier ámbito, previo a la comisión del delito o amenazas, acoso y maltrato del sujeto activo en contra de la víctima, aun cuando no haya denuncia, querella o cualquier otro tipo de registro;
-(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)
-IV.- El cuerpo, cadáver o restos de la víctima hayan sido enterrados, ocultados, incinerados, o sometidos a cualquier sustancia que lo desintegre;
-(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)
-V.- El cuerpo, cadáver o restos de la víctima hayan sido expuestos, abandonados, depositados, o arrojados, en bienes del dominio público o de uso común o cualquier espacio de libre concurrencia;
-(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)
-VI.- Que la víctima haya sido incomunicada o privada de su libertad, cualquiera que sea el tiempo previo a su muerte, o
-VII.- Por desprecio u odio a la víctima motivado por discriminación o misoginia.
-(ADICIONADA, P.O. 16 DE JUNIO DE 2018)
-VIII.- Haya existido entre el activo y la víctima una relación sentimental, afectiva o de confianza;
-(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)
-IX.- Existan antecedentes o indicios que la agresión cometida contra la víctima, haya tenido como finalidad impedirle el ejercicio de su derecho de votar o ser votada, en la elección de autoridades estatales o municipales.
-(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)
-Se entenderá como desprecio u odio cuando el activo realice, conductas humillantes o degradantes, antes o durante la privación de la vida, así como actos de profanación al cadáver incluidos actos de necrofilia.
-Se entiende por misoginia las conductas contra la mujer que se manifiestan mediante actos violentos o crueles contra ella.
+(REFORMADO, P.O. 22 DE OCTUBRE DE 2022)
+411.- Comete el delito de feminicidio quien prive de la vida a una mujer por una razón de género.
+Se considera que existe una razón de género cuando ocurra cualquiera de las siguientes circunstancias:
+I. La víctima o los restos de la víctima presenten signos de violencia sexual de cualquier tipo.
+II. A la víctima se le hayan infligido heridas, traumatismos, escoriaciones, contusiones, decapitamiento, desollamiento, fracturas, dislocaciones, cortes, quemaduras, signos de asfixia, estrangulamiento, tortura, desmembramiento de partes del cuerpo o cualquier tipo de lesiones o mutilaciones, internas o externas, infamantes o degradantes, previas o posteriores a la privación de la vida o actos de necrofilia.
+III. Existan datos, información, antecedentes, o indicios, denunciados o no, que refieran cualquier tipo de violencia en el ámbito familiar, laboral, escolar, comunitario, institucional, político o digital o cualquier otro, del sujeto activo en contra de la víctima, aun cuando no haya denuncia, querella o cualquier otro tipo de registro.
+IV. Existan datos, información, antecedentes, o indicios, denunciados o no, que establezcan que hubo amenazas, agresiones, intimidación, acoso, maltrato o lesiones del sujeto activo en contra de la víctima, incluidas aquellas encaminadas a limitar, anular o menoscabar los derechos políticos y electorales de la víctima o el ejercicio de un cargo político, público, de poder o de decisión.
+V. Haya existido, entre el activo y la víctima una relación sentimental, afectiva, de confianza, de parentesco por consanguinidad, afinidad, matrimonio, concubinato, sociedad de convivencia, cohabitación, noviazgo o cualquier otra relación de hecho o amistad.
+VI. Haya existido entre el sujeto activo y la víctima, una relación laboral, docente, religiosa, institucional o cualquier otra que implique, de manera formal o de hecho, una relación de subordinación o superioridad.
+VII. Por desprecio u odios a la víctima motivado por discriminación o misoginia.
+VIII. La víctima se haya encontrado en un estado de indefensión, entendiéndose esta como la situación de desprotección real o incapacidad de defensa, causada por un impedimento físico, psicológico o material para solicitar el auxilio, incluyendo factores externos que inhiban su capacidad de defensa o conciencia, como el estado de somnolencia, alcoholemia, consumo de fármacos o drogas, ya sea voluntario o involuntario.
+IX. La víctima haya sido incomunicada o privada de su libertad, cualquiera que sea el tiempo previo a su muerte.
+X. El cuerpo, cadáver o restos de la víctima hayan sido enterrados, ocultados, incinerados o sometidos a cualquier sustancia que lo desintegre.
+XI. El cuerpo, cadáver o restos de la víctima hayan sido expuestos, abandonados, exhibidos, depositados, arrojados o enterrados en un lugar público, o de uso común o cualquier espacio de libre concurrencia.
+Se entenderá como desprecio u odio cuando el activo realice conductas humillantes o degradantes, antes o durante la privación de la vida, así como actos de profanación al cadáver, incluidos actos de necrofilia.
+Se entiende por misoginia las conductas de odio contra la mujer que se manifiestan mediante actos violentos o crueles contra ella.
+Todas las muertes violentas de una mujer, incluidas aquellas que en principio parecieran haber sido causadas por motivos criminales, suicidio y algunos accidentes, deben investigarse como probable feminicidio. Cuando no se acredite el feminicidio se aplicarán las reglas del homicidio.
 (REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2018)
 412. A quien cometa el delito de feminicidio se le impondrá una sanción de cincuenta a sesenta años de prisión y multa de quinientos a mil veces el valor diario de la unidad de medida y actualización.
 (REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)
