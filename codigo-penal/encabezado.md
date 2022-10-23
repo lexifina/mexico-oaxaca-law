@@ -844,7 +844,8 @@ Delitos contra la dignidad y el desarrollo de las personas Menores de edad o de 
 CAPITULO UNICO.
 (REFORMADO, P.O. 21 DE NOVIEMBRE DE 2008)
 194.- Comete el delito de corrupción de personas menores de dieciocho años de edad o personas que no tienen la capacidad para comprender el significado del hecho:
-I. Al que por cualquier medio induzca, procure, facilite u obligue a una de las personas antes señaladas al consumo reiterado de bebidas embriagantes; al consumo de sustancias tóxicas o narcóticos; a cometer hechos delictuosos; o a formar parte de una asociación delictuosa.
+(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE OCTUBRE DE 2022)
+I. Al que por cualquier medio induzca, procure, facilite u obligue a una de las personas antes señaladas al consumo reiterado de bebidas embriagantes o tabaco, en cualquiera de sus presentaciones; al consumo de sustancias tóxicas o narcóticos; a cometer hechos delictuosos; o a formar parte de una asociación delictuosa.
 (REFORMADO, P.O. 19 DE DICIEMBRE DE 2020)
 A quien cometa cualquiera de las conductas descritas se le impondrá de cinco a diez años de prisión y multa de quinientas a setecientas treinta veces el valor diario de la Unidad de Medida y Actualización.
 (ADICIONADO, P.O. 19 DE DICIEMBRE DE 2020)
