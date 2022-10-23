@@ -997,6 +997,8 @@ D) Otorgue, realice o contrate obras públicas, adquisiciones, arrendamientos, e
 E) Contrate deuda o realice colocaciones de fondos y valores con recursos públicos.
 (ADICIONADO, P.O. 9 DE NOVIEMBRE DE 2019)
 F) Consienta la operatividad, expida permiso o licencia dentro de su jurisdicción a las entidades financieras integrantes del Sistema Financiero Mexicano, que no estén reguladas por la Comisión Nacional Bancaria y de Valores, sin perjuicio de que se le aplique la sanción administrativa, civil o de cualquier otra índole, a la que se haga acreedor.
+(ADICIONADO, P.O. 22 DE OCTUBRE DE 2022)
+G) Otorgue permisos, licencias, adjudicaciones, autorizaciones o concesiones de prestación de servicio público en áreas naturales protegidas de jurisdicción estatal o municipal.
 II.- El servidor público que a sabiendas de la ilicitud del acto, y en perjuicio del patrimonio o del servicio público o de otra persona:
 A) Niegue el otorgamiento o contratación de las operaciones a que hacen referencia la presente fracción, existiendo todos los requisitos establecidos en la normatividad aplicable para su otorgamiento, o
 B) Siendo responsable de administrar y verificar directamente el cumplimiento de los términos de una concesión, permiso, asignación o contrato, se haya abstenido de cumplir con dicha obligación.
