@@ -837,9 +837,9 @@ Cuando la venta se realice cerca de escuelas, la pena se aumentará en un tercio
 Para efectos de este artículo, se entiende cerca de escuelas, cuando la venta sea realizada a una distancia de 500 metros o menos de esta.
 (ADICIONADO, P.O. 18 DE ABRIL DE 2015)
 193 Ter.- Además de las penas establecidas en el artículo anterior, en caso de reincidencia, se procederá a la cancelación del permiso o licencia.
-(REFORMADA SU DENOMINACIÓN, P.O. 24 DE AGOSTO DE 2019)
+(REFORMADA SU DENOMINACIÓN, P.O. 22 DE OCTUBRE DE 2022)
 TITULO SEXTO.
-Delitos contra la dignidad y el desarrollo de las personas Menores de edad o de quienes no tienen la capacidad Para comprender el significado del hecho.
+Delitos contra la dignidad y el desarrollo de las personas menores de edad o de quienes no tienen la capacidad para comprender el significado del hecho.
 (ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2008)
 CAPITULO UNICO.
 (REFORMADO, P.O. 21 DE NOVIEMBRE DE 2008)
@@ -860,6 +860,11 @@ IV. Quien ejecute o hiciere ejecutar a otra persona actos de exhibición sexual 
 V. Al que comercie, distribuya, exponga, haga circular u oferte, a menores de dieciocho años de edad, libros, escritos, grabaciones, filmes, fotografías, anuncios impresos, imágenes u objetos, de carácter pornográficos, reales o simulados, sea de manera física o a través de cualquier medio, se sancionará con prisión de uno a tres años y multa de cien a doscientos veces el valor de la Unidad de Medida y Actualización vigente.
 No se entenderá como material pornográfico, aquel que signifique o tenga como fin la divulgación científica, artística o técnica, o en su caso, la educación sexual, educación sobre la función reproductiva, la prevención de enfermedades de transmisión sexual y el embarazo, siempre que esté aprobado por la autoridad competente.
 Las anteriores sanciones se impondrán con independencia de otros delitos que se llegaren a configurar.
+(ADICIONADO, P.O. 22 DE OCTUBRE DE 2022)
+194 Bis.- Queda prohibido emplear a personas menores de dieciocho años de edad o a personas que no tienen capacidad para comprender el significado del hecho, en cantinas, tabernas, bares, antros, centros de vicio o cualquier otro lugar en donde se afecte de forma negativa su sano desarrollo físico, mental o emocional.
+La contravención a esta disposición se castigará con prisión de uno a tres años y de trescientos (sic) a setecientas veces el valor de la Unidad de Medida y Actualización vigente; en caso de reincidencia, se ordenará el cierre definitivo del establecimiento.
+Se les impondrá la misma pena a las madres, padres, tutores o curadores que acepten o promuevan que sus hijas o hijos menores de dieciocho años de edad, o personas menores de dieciocho años de edad o personas que estén bajo su guarda, custodia o tutela, sean empleados en los referidos establecimientos.
+Para los efectos de este precepto se considerará como empleado en la cantina, taberna, bar o centro de vicio, a la persona menor de dieciocho años que por un salario, por la sola comida, por comisión de cualquier índole o por cualquier otro estipendio o emolumento, o gratuitamente, preste sus servicios en tal lugar.
 (REFORMADO, P.O. 21 DE NOVIEMBRE DE 2008)
 195.- Comete el delito de pornografía infantil:
 (REFORMADA, P.O. 19 DE DICIEMBRE DE 2020)
