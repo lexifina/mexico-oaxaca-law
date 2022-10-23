@@ -1,0 +1,4 @@
+P.O. 22 DE OCTUBRE DE 2022.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 690.- MEDIANTE EL CUAL REFORMA EL PÁRRAFO PRIMERO Y SE ADICIONA LA FRACCIÓN VI AL ARTÍCULO 412 BIS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
