@@ -1,0 +1,4 @@
+P.O. 29 DE OCTUBRE DE 2022.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 694.- MEDIANTE EL CUAL REFORMAN EL PRIMER PÁRRAFO DEL ARTÍCULO 136; EL PRIMER PÁRRAFO DEL ARTÍCULO 137 Y EL ARTÍCULO 139; SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 136; LA FRACCIÓN IV Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 137 Y EL ARTÍCULO 139 BIS, TODO DEL CÓDIGO CIVIL PARA EL ESTADO DE OAXACA".]
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
