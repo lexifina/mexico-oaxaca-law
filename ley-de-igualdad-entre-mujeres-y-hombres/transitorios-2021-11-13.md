@@ -1,0 +1,4 @@
+P.O. 13 DE NOVIEMBRE DE 2021.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2813.- MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 2, Y LAS FRACCIONES VI Y VII DEL ARTÍCULO 28; Y SE ADICIONA LA FRACCIÓN XVI RECORRIÉNDOSE LA SUBSECUENTE AL ARTÍCULO 5, Y LA FRACCIÓN VIII AL ARTÍCULO 28 DE LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE OAXACA".]
+PRIMERO. - El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+SEGUNDO. - Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
