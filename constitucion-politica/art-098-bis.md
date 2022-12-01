@@ -1,5 +1,5 @@
-(ADICIONADO, P.O. 1 DE MAYO DE 2008)
-ARTICULO 98 BIS. La función de Consejero Jurídico del Gobierno del Estado estará a cargo de la dependencia del Ejecutivo que para tal efecto establezca la ley, ejerciendo la representación jurídica del Estado, del Titular del Poder Ejecutivo y de la Gubernatura, en los términos que señala la Ley Orgánica del Poder Ejecutivo del Estado, así como otorgar apoyo técnico jurídico en forma permanente y directa al Gobernador del Estado.
+(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2022)
+ARTICULO 98 Bis. La Consejería Jurídica y Asistencia Legal del Gobierno del Estado, ejercerá la representación jurídica del Estado; del Titular del Poder Ejecutivo y de la Gubernatura; brindará el apoyo técnico jurídico en forma permanente y directa al Gobernador del Estado y desarrollará las funciones administrativas necesarias en el ejercicio de su cargo, en los términos que señale la Ley Orgánica del Poder Ejecutivo del Estado.
 Como titular de la dependencia, estará una persona que se denominará Consejero Jurídico del Gobierno del Estado, quien para su nombramiento deberá cumplir con los requisitos establecidos en la Ley.
 CAPITULO IV
 Del Poder Judicial del Estado
