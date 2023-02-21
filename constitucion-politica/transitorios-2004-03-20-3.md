@@ -1,3 +1,0 @@
-P.O. 20 DE MARZO DE 2004.
-DECRETO NO. 421 QUE REFORMA EL ART. 59 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE OAXACA
-UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.

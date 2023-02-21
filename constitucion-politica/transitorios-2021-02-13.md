@@ -1,7 +1,0 @@
-P.O. 13 DE FEBRERO DE 2021.
-[N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1794.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN LXX DEL ARTÍCULO 59; LA FRACCIÓN XXVII DEL ARTÍCULO 79; LA FRACCIÓN XVI DEL ARTÍCULO 80; EL PRIMER PÁRRAFO DEL ARTÍCULO 99; EL PRIMER PÁRRAFO DEL ARTÍCULO 102; LA DENOMINACIÓN DE LA SECCIÓN QUINTA DE LOS JUZGADOS EN MATERIA LABORAL DEL CAPÍTULO IV DEL TÍTULO CUARTO; EL ARTÍCULO 111 BIS; SE ADICIONA EL ARTÍCULO 21 BIS; Y SE DEROGA EL APARTADO B DEL ARTÍCULO 114, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERAN DE OAXACA",]
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
-SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
-TERCERO.- Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
-CUARTO.- El Congreso del Estado, deberá realizar las reformas a las leyes secundarias en la materia dentro de los seis meses siguientes contados a partir de la publicación del presente Decreto.
-QUINTO.- La Secretaría General de Gobierno, El Congreso del Estado y el Tribunal Superior de Justicia, deberán establecer los mecanismos presupuestales y administrativos en el ámbito de sus respectivas competencias a efecto de instaurar el Centro Estatal de Conciliación Laboral de Oaxaca, los juzgados laborales, dentro de los plazos establecidos en el artículo quinto transitorio del decreto de fecha 29 de abril de 2019 por el que se reforma la Ley Federal del Trabajo publicado en el diario oficial de la federación con fecha 01 de mayo de 2019.

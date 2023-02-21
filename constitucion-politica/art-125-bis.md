@@ -1,2 +1,0 @@
-(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2005)
-ARTICULO 125 BIS.- El matrimonio es un contrato civil. El divorcio disuelve el vínculo del matrimonio y deja a los cónyuges en aptitud de contraer otro. El matrimonio y los demás actos del estado civil de las personas, son de la exclusiva competencia de los servidores públicos y autoridades del orden civil, en los términos prevenidos por las leyes y tendrán la fuerza y validez que las mismas les atribuyan.

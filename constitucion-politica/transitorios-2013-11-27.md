@@ -1,3 +1,0 @@
-P.O. 27 DE NOVIEMBRE DE 2013.
-PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
-SEGUNDO.- La obligatoriedad del Estado para garantizar la educación media superior, como deber del mismo de ofrecer un lugar para cursarla a quien teniendo la edad típica hubiera concluido la educación básica, se realizará de manera gradual y creciente a partir del ciclo escolar 2012-2013 y hasta lograr la cobertura total en sus diversas modalidades en el Estado a más tardar en el ciclo escolar 2021-2022, con la concurrencia presupuestal de la Federación y del Estado de Oaxaca, y en los términos establecidos en los instrumentos del Sistema Nacional y Estatal de Planeación Democrática del Desarrollo.

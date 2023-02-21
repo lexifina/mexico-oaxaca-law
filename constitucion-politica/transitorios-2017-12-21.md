@@ -1,0 +1,7 @@
+G.O. 21 DE DICIEMBRE DE 2017.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 378 QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS, ADMINISTRACIÓN Y ENAJENACIÓN DE BIENES MUEBLES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+Primero. El presente Decreto entrará en vigor el día primero de enero del año dos mil dieciocho, previa publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+Segundo. A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en la Ley de Adquisiciones, Arrendamientos, Administración y Enajenación de Bienes Muebles del Estado de Veracruz de Ignacio de la Llave, se entenderán referidas a la Unidad de Medida y Actualización.
+Tercero. Todos los procedimientos iniciados por probables responsabilidades administrativas de los servidores públicos o particulares, antes de la entrada en vigor de la normatividad en combate a la corrupción, continuarán su trámite y resolución de conformidad con la legislación vigente al momento de su inicio.
+Cuarto. Los Órganos Internos de Control contarán con un plazo de sesenta días hábiles, contado a partir de la entrada en vigor del presente Decreto, para que expidan la normatividad que regulará la figura de los testigos sociales, establecida en el artículo 29 Bis, de la presente Ley.
+Quinto. Se derogan todas las disposiciones que se opongan al presente Decreto.
