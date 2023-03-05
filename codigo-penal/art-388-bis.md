@@ -410,3 +410,28 @@ Los delitos previstos en este capítulo, también son punibles si se cometen en 
 El juez tomará en cuenta para la determinación del daño causado en materia ambiental el dictamen técnico o pericial emitido por la autoridad ambiental competente que precisará los elementos cuantificables del daño.
 (ADICIONADO, P.O. 22 DE OCTUBRE DE 2022)
 459.- Los delitos del presente Título podrán denunciarse por cualquier persona o por las mismas autoridades ambientales.
+(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE MARZO DE 2023)
+TITULO VIGESIMO NOVENO
+Delitos contra la libertad reproductiva
+(ADICIONADO LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE MARZO DE 2023)
+CAPITULO UNICO
+La esterilización forzada, procreación asistida e inseminación artificial sin consentimiento
+(ADICIONADO, P.O. 4 DE MARZO DE 2023)
+460.- A quien sin el consentimiento de persona mayor de dieciocho años realice en ella un procedimiento de esterilización, se le impondrán de cuatro a siete años de prisión.
+(ADICIONADO, P.O. 4 DE MARZO DE 2023)
+461.- A quien disponga de óvulos o espermas para fines distintos a los autorizados por sus donantes, se le impondrán de tres a seis años de prisión y de cincuenta a quinientos días multa.
+(ADICIONADO, P.O. 4 DE MARZO DE 2023)
+462.- A quien sin consentimiento, realice inseminación artificial en una mujer mayor de dieciocho años, se le impondrán de cuatro a siete años de prisión.
+(ADICIONADO, P.O. 4 DE MARZO DE 2023)
+463.- A quien implante a mujer mayor de dieciocho años un óvulo fecundado, cuando hubiere utilizado para ello un óvulo ajeno o esperma de donante no autorizado, sin el consentimiento expreso de la paciente o del donante, se le impondrá de cuatro a siete años de prisión.
+Si como consecuencia de este delito se produce un embarazo, la pena aplicable será de cinco a catorce años y si nacen hijas o hijos estará obligado al pago de la reparación del daño que comprenderá, además, el pago de alimentos para éstos y para la madre, en los términos que fija la legislación familiar.
+(ADICIONADO, P.O. 4 DE MARZO DE 2023)
+464.- En el caso de los delitos señalados en los artículos anteriores del presente Capítulo, se considerarán agravantes cuando concurran las siguientes circunstancias:
+I. Cuando la víctima sea menor de edad, tenga alguna discapacidad o se trate de persona incapaz para comprender el significado del hecho o para resistirlo, aún con su consentimiento o de quien detente la guarda, custodia, atención o cuidado, tutela o patria potestad de la víctima, la pena se aumentará hasta en dos terceras partes del delito básico.
+II. Cuando el delito se realice valiéndose de medios o circunstancias que le proporcione su empleo, cargo o comisión públicos, profesión, ministerio religioso o cualquier otra que implique subordinación por parte de la víctima, la pena se aumentará en una mitad de la señalada para el delito básico.
+III. En el supuesto de que el delito se realice con violencia física o moral o psicoemocional aprovechándose de la ignorancia, extrema pobreza o cualquier otra circunstancia que hiciera más vulnerable a la víctima, se impondrá de cinco a catorce años de prisión.
+(ADICIONADO, P.O. 4 DE MARZO DE 2023)
+465.- Además de las penas previstas en los artículos anteriores, se impondrá suspensión para ejercer la profesión a quien realice el procedimiento médico o, en caso de servidores públicos, inhabilitación para el desempeño del empleo, cargo o comisión públicos, por un tiempo igual al de la pena de prisión impuesta, así como la destitución.
+(ADICIONADO, P.O. 4 DE MARZO DE 2023)
+466.- Los delitos señalados en los artículos anteriores se perseguirán de oficio cuando la víctima sea menor de edad, tenga alguna discapacidad o sea incapaz para comprender el significado del hecho o para resistirlo.
+Cuando la víctima sea mayor de edad el delito se perseguirá por querella.
