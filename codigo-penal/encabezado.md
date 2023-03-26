@@ -1411,9 +1411,10 @@ V.- El hecho sea cometido a bordo de un vehículo de servicio público o especia
 (REFORMADA SU DENOMINACIÓN, P.O. 24 DE AGOSTO DE 2019)
 CAPÍTULO SEGUNDO.
 Delitos contra la intimidad sexual.
-(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE AGOSTO DE 2019)
-249.- Comete el delito de violación a la intimidad sexual quien por cualquier medio divulgue, comparta, distribuya, publique y/o solicite imágenes, audios o videos de una persona, de contenido íntimo, erótico o sexual, ya sea impreso, grabado o digital, sin el consentimiento de la víctima.
-Esta conducta se sancionará de cuatro a ocho años de prisión y multa de mil a dos mil veces el valor diario de la unidad de medida y actualización vigente al momento de que se cometa el delito. Este delito se perseguirá por querella.
+(REFORMADO, P.O. 25 DE MARZO DE 2023)
+249.- Comete el delito de violación a la intimidad sexual quien por cualquier medio divulgue, comparta, distribuya, publique, comercialice, intercambie y/o solicite imágenes, audios o videos de una persona, de contenido íntimo, erótico o sexual, ya sea impreso, grabado o digital, sin el consentimiento de la víctima.
+Así como quien videograbe, audiograbe, fotografíe, imprima o elabore imágenes, audios o videos reales o simulados con contenido íntimo sexual de una persona a través del engaño y/o sin su consentimiento.
+Esta conducta se sancionará de cuatro a ocho años de prisión y multa de mil a dos mil veces el valor diario de la unidad de medida y actualización vigente al omento (sic) de que se cometa el delito. Este delito se perseguirá por querella.
 Las mismas penas se aumentarán hasta en una mitad del máximo:
 I. A quien cometa el delito en contra de su cónyuge o en contra de la persona con la que esté, o haya estado unida por alguna relación de afectividad, aún sin convivencia.
 II. A quien mantenga una relación laboral, social, política con la víctima.
@@ -1423,7 +1424,8 @@ V. A quien cometa el delito contra menores de edad.
 VI. A quien con violencia obligue a la víctima a fabricar, hacer el contenido íntimo, sexual o erótico publicado.
 VII. A quien amenace con la publicación o bloqueo de la difusión del contenido a cambio de un nuevo intercambio sexual o económico.
 VIII. Al responsable del medio de comunicación impreso o digital que compile o reproduzca estos contenidos y/o los haga públicos.
-En los supuestos anteriores el delito se perseguirá de oficio.
+IX. Cuando a consecuencia de los efectos o impactos del delito, la víctima atente contra su integridad o contra su propia vida.
+En los supuestos anteriores el delito se p0erseguirá (sic) de oficio.
 (REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE AGOSTO DE 2019)
 250.- Para los efectos de las disposiciones anteriores, la autoridad competente ordenará a la empresa de prestación de servicios digitales o informáticos, servidor de internet, red social, administrador o titular de la plataforma digital, medio de comunicación o cualquier otro donde sea publicado o compilado el contenido intimo no autorizado, el retiro inmediato de la publicación que se realizó sin consentimiento de la víctima.
 251.- (DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2001)
