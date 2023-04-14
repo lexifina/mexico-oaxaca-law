@@ -1,0 +1,5 @@
+P.O. 18 DE SEPTIEMBRE DE 2021.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2666.- MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO SÉPTIMO DEL ARTÍCULO 12 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+TERCERO: El Honorable Congreso del Estado de Oaxaca deberá armonizar el marco jurídico en la materia para adecuarlo al contenido del presente Decreto en un plazo que no excederá de 365 días a partir de la entrada en vigor del mismo, debiendo incluir disposiciones que determinen los alcances y permitan dar cumplimiento gradual conforme a lo dispuesto en el presupuesto de egresos correspondiente y en los términos de la concurrencia de los tres órdenes de gobierno, para garantizar los derechos derivados del presente Decreto según corresponda y conforme al ámbito de sus respectivas facultades y competencias.

@@ -1,0 +1,5 @@
+P.O. 20 DE FEBRERO DE 2023.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 875.- MEDIANTE EL CUAL SE REFORMAN EL PÁRRAFO SEXTO DEL ARTÍCULO 21 BIS; EL PÁRRAFO DÉCIMO SEGUNDO DEL ARTÍCULO 65 BIS; LA FRACCIÓN IV DEL ARTÍCULO 101; EL PÁRRAFO TERCERO DEL APARTADO "A", EL PÁRRAFO CUARTO DEL APARTADO "D" DEL ARTÍCULO 114, EL PÁRRAFO SEGUNDO DEL ARTÍCULO 114 BIS; EL PÁRRAFO QUINTO DEL ARTÍCULO 114 TER; Y SE ADICIONAN: LA FRACCIÓN VIII AL ARTÍCULO 34; LA FRACCION IX AL ARTÍCULO 68; EL INCISO j) A LA FRACCIÓN I DEL ARTÍCULO 113; EL PÁRRAFO DÉCIMO PRIMERO AL APARTADO "C" DEL ARTÍCULO 114; LA FRACCIÓN VI AL INCISO A) DEL ARTÍCULO 114 QUÁTER, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+SEGUNDO. El Congreso del Estado tendrá 180 días naturales a partir de la entrada en vigor para reformar las leyes secundarias que correspondan de conformidad con el presente Decreto.
+TERCERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.

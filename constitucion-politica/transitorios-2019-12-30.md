@@ -1,0 +1,3 @@
+P.O. 30 DE DICIEMBRE DE 2019.
+[N. DE E. TRANSITORIO DEL "DECRETO NÚM. 845.- MEDIANTE EL CUAL REFORMA EL SEGUNDO PÁRRAFO DE LA FRACCIÓN I Y LAS FRACCIONES IV Y VI DEL ARTÍCULO 65 BIS, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+ÚNICO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.

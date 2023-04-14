@@ -1,0 +1,5 @@
+P.O. 15 DE ENERO DE 1983.
+ARTICULO 1o.- En cuanto a los catorce artículos transitorios de la Constitución que actualmente nos rige, se derogan en lo que se opongan a las presentes disposiciones.
+ARTICULO 2o.- En tanto se reestructura la división territorial del Estado, conforme a las reformas del artículo 59, Fracciones IV y V de esta Constitución, subsistirá la llamada "DIVISIÓN TERRITORIAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA", publicada en el Periódico Oficial de fecha 5 de Octubre de 1968.
+ARTICULO 3o.- Por esta única vez, los Concejales de los Ayuntamientos que deban ser electos en 1983, para tomar posesión el 1o. de Enero de 1984, durarán en funciones hasta el 14 de septiembre de 1986 y después de esta fecha, los Concejales de los siguientes Ayuntamientos durarán en funciones tres años a partir del 15 de septiembre del año que les corresponda.
+ARTICULO 4o.- Las reformas Constitucionales a que se refiere el presente Decreto, entrarán en vigor al mes siguiente de su publicación en el Periódico Oficial del Estado.

@@ -1,0 +1,4 @@
+P.O. 8 DE DICIEMBRE DE 2017.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 741.- MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+PRIMERO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+SEGUNDO. Inmediatamente después de entrado en vigor el presente Decreto, la Secretaría de Finanzas del Gobierno del Estado de Oaxaca cancelará cualquier prestación consistente en recursos económicos, materiales o humanos que estuviere otorgando a cualquiera de los ExGobernadores de Oaxaca, y dentro de los diez días siguientes, le remitirá a esta Honorable Legislatura un informe pormenorizado de las prestaciones concedidas a los ExGobernadores hasta la entrada en vigor del presente Decreto.

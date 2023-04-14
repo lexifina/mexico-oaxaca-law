@@ -1,0 +1,4 @@
+P.O. 13 DE NOVIEMBRE DE 2021.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2741.- MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO TRIGÉSIMO SEGUNDO DEL ARTÍCULO 12; Y EL PÁRRAFO NOVENO DEL ARTÍCULO 16 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.

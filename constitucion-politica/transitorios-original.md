@@ -1,14 +1,27 @@
 TRANSITORIOS
-Artículo Primero. La presente Ley entrará en vigor a los treinta días siguientes al de su publicación en la Gaceta Oficial del estado.
-Artículo Segundo. Se derogan la Ley de Adquisiciones, Arrendamientos y Administración de los Bienes Muebles del Poder Ejecutivo del Estado de Veracruz-Llave, publicada el 17 de diciembre de 1996 en la Gaceta Oficial, órgano del Gobierno del Estado, y todas las disposiciones que se opongan a lo previsto por la presente Ley.
-Artículo Tercero. Los actos o procedimientos que se encuentren en trámite a la entrada en vigor de la presente Ley, se concluirán de acuerdo con las disposiciones entonces vigentes.
-Artículo Cuarto. Las disposiciones administrativas expedidas en esta materia, vigentes al momento de la publicación de este ordenamiento, se seguirán aplicando en todo lo que no se opongan a la presente Ley, en tanto se expidan las que deban sustituirlas.
-Artículo Quinto. Dentro de los ciento veinte días siguientes a la entrada en vigor de esta Ley, las instituciones a las que la misma se refiere expedirán los reglamentos respectivos.
-Dada en el salón de sesiones de la H. LIX Legislatura del Congreso del Estado, en la ciudad de Xalapa-Enríquez, Veracruz, a los treinta días del mes de enero del año dos mil tres. Felipe Amadeo Flores Espinosa, diputado presidente.- Rúbrica. Natalio Alejandro Arrieta Castillo, diputado secretario.- Rúbrica.
-Por tanto, en atención a lo dispuesto por los artículos 35, párrafo segundo, y 49 fracción II de la Constitución Política del Estado, y en cumplimiento del oficio número 00249, de los diputados, presidente y secretario de la Quincuagésima Novena Legislatura del Honorable Congreso del Estado mando se publique, y se le dé cumplimiento. Residencia del Poder Ejecutivo Estatal, a los veintiún días del mes de febrero del año dos mil tres.
-Atentamente
-Sufragio efectivo. No reelección
-Licenciado Miguel Alemán Velazco
-Gobernador del Estado
-Rúbrica.
-N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+ARTICULO 1°. El período constitucional del actual Gobernador del Estado terminará a las diez de la mañana del día primero de diciembre de mil novecientos veinticuatro.
+ARTICULO 2°. Dentro del término de quince días, a partir de la fecha en que entre en vigor esta Constitución, la Legislatura del Estado procederá a la elección de los funcionarios que le incumbe, cesando los que hubieren sido nombrados en forma distinta, al siguiente día de la elección. Dentro del mismo plazo de quince días, la propia Legislatura ratificará los nombramientos de Secretario y del Subsecretario del Despacho.
+ARTICULO 3°. (DEROGADO, P.O. 28 DE DICIEMBRE DE 1940)
+(REFORMADO, P.O. 28 DE FEBRERO DE 1923)
+ARTICULO 4°. A falta de letrados, se nombrarán jueces y agentes del Ministerio Público, legos; pero para que los designados tomen posesión de su respectivo cargo, es necesario que acrediten previamente ante un jurado formado por tres letrados, nombrados por el Tribunal Superior de Justicia o por el Procurador, respectivamente, que tienen conocimientos aunque sólo sean elementales en Derecho Constitucional, Derecho Penal, Civil y Mercantil, y en los respectivos códigos de procedimientos.
+(DEROGADO SEGUNDO PÁRRAFO, P.O. 28 DE DICIEMBRE DE 1940)
+ARTICULO 5°. Entre tanto se expide la ley reglamentaria del artículo 149 de esta Constitución, entrará desde luego en vigor la Ley de Relaciones Familiares, expedida con fecha nueve de abril de mil novecientos diez y siete, por el Ciudadano Primer Jefe del Ejército Constitucionalista, Encargado del Poder Ejecutivo de la Unión.
+ARTICULO 6°. Desde la fecha en que entre en vigor esta Constitución, quedarán abolidos de pleno derecho todas las leyes, reglamentos, circulares y disposiciones de cualquier carácter y origen en cuanto se opongan a los preceptos de esta Constitución.
+Los negocios en que se hayan interpuesto los recursos de casación y súplica, deberán proseguirse y terminarse de oficio en el improrrogable plazo de sesenta días, a contar del día quince de abril, fecha de la abolición de esos recursos, aunque no promuevan las partes interesadas.
+ARTICULO 7°. La actual Legislatura, tan pronto como sea promulgada esta Constitución, se constituirá en el segundo y último período de sesiones ordinarias, conforme al artículo 45 de esta misma Constitución.
+ARTICULO 8°. Los Diputados que sean electos para integrar la XXIX Legislatura por los Distritos electorales de número par, durarán dos años en su encargo.
+ARTICULO 9°. Los Diputados que integran la actual XXVIII Legislatura no están comprendidos en la prohibición que establece el artículo 32. En consecuencia, por esta sola vez podrán ser reelectos.
+ARTICULO 10. Entre tanto se expidan las leyes orgánicas respectivas, continuarán en vigor las actuales en todo lo que no se opongan a la presente Constitución.
+ARTICULO 11. Por esta sola vez, el Presidente de la Legislatura protestará en los términos establecidos para el Gobernador en el artículo 163 de esta Constitución; los demás Diputados protestarán ante el Presidente.
+ARTICULO 12. El Estado se formará por ahora de los Municipios existentes a la fecha y agrupados en los distritos judiciales y rentísticos actuales. La Ley Orgánica sobre División Territorial del Estado, que se expida oportunamente, expresará cuáles de esos Municipios subsistirán, los límites de ellos y la forma en que deban agruparse para constituir distritos judiciales y rentísticos.
+ARTICULO 13. Esta Constitución se promulgará y entrará en vigor el día quince de abril de mil novecientos veintidós, en cuya fecha se protestará con toda solemnidad por todos los funcionarios y empleados públicos del Estado y de los Municipios.
+ARTICULO 14. La promulgación de la presente Constitución se hará por bando solemne.
+(ADICIONADO, P.O. 14 DE ABRIL DE 1989)
+ARTICULO 15. Los Concejales que se elijan el primer domingo de Agosto de 1989, tomarán posesión el 15 de Septiembre del mismo año y durarán en su encargo hasta el 31 de Diciembre de 1992.
+Lo tendrá entendido el C. Gobernador del Estado y dispondrá que se imprima, publique, circule y cumpla.
+Dado en el Salón de Sesiones del H. Congreso del Estado, a los cuatro días del mes de abril de mil novecientos veintidós. Herón Ruiz, Diputado Presidente por el 16°, Círculo Electoral.- Gaspar Allende, Diputado Vicepresidente por el 10° Círculo Electoral.- Emilio Álvarez, Diputado por el 1er. Círculo Electoral.- Emilio Díaz Ortiz, Diputado por el 3er. Círculo Electoral. Heraclio Ramírez, Diputado por el 7° Círculo Electoral.- Agustín R. Arenas, Diputado por el 8° Círculo Electoral.- R. Villegas Garzón, Diputado por el 9° Círculo Electoral.- Pedro Camacho, Diputado por el 12° Círculo Electoral.- Ángel Hernández, Diputado por el 13° Círculo Electoral.- Librado G. López, Diputado por el 14° Círculo Electoral.- Luis Meixueiro, Diputado por el 15° Círculo Electoral.- Agustín Castillo C., Diputado por el 17° Círculo Electoral.- M. Aguilar y Salazar, Diputado Secretario por el 6° Círculo Electoral.- Alfredo Calvo, Diputado Secretario por el 11° Círculo Electoral.
+Por tanto, mando que se imprima, publique por bando solemne, circule y se le dé el debido cumplimiento.
+Dado en el Palacio de los Poderes del Estado, en la ciudad de Oaxaca de Juárez, a los quince días del mes de abril de mil novecientos veintidós.- M. García Vigil. Al C. Licenciado Lino Ramón Campos Ortega, Oficial Mayor encargado de la Secretaría General del Despacho.- Presente.
+Y lo comunico a usted para su conocimiento y demás efectos.
+SUFRAGIO EFECTIVO NO REELECCION.- Oaxaca de Juárez, a quince de abril de mil novecientos veintidós.- Campos Ortega.- Al C...
+[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]
