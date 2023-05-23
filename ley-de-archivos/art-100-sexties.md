@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 22 DE MAYO DE 2023)
+Artículo 100 Sexties. El Archivo General contará con un Contralor y con una unidad encargada del control y vigilancia, de conformidad con lo dispuesto por la Ley Orgánica del Poder Ejecutivo del Estado de Oaxaca, la Ley de Entidades Paraestatales para el Estado de Oaxaca y su Reglamento; y ejercerá las facultades previstas en estos ordenamientos y los demás que le resulten aplicables.
