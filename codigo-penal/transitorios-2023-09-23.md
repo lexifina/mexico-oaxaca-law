@@ -1,0 +1,4 @@
+P.O. 23 DE SEPTIEMBRE DE 2023.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1530.- MEDIANTE EL CUAL SE ADICIONAN LOS ARTÍCULOS 369 TER; 369 QUATER, 369 QUINQUIES Y 369 SEXIES AL CAPÍTULO PRIMERO "ROBO", DEL TÍTULO DÉCIMO NOVENO "DELITOS EN CONTRA DE LAS PERSONAS EN SU PATRIMONIO" DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+PRIMERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.

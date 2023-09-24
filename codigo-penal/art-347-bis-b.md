@@ -174,6 +174,21 @@ XIII.- Cuando se cometa en vía pública utilizando cualquier medio de transport
 (ADICIONADA, P.O. 13 DE MARZO DE 2021)
 XIV.- Cuando se trate de insumos y medicamentos destinados a las instituciones de salud pública o privada o que se encuentren en sus instalaciones.
 369 Bis.- (DEROGADO, P.O. 3 DE OCTUBRE DE 1998)
+(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2023)
+369 Ter.- A quien robe una tapa de registro pluvial o tapa de alcantarilla del servicio público, se le impondrá de dos a seis años de prisión y multa de quinientas a dos mil veces el valor diario de la Unidad de Medida y Actualización.
+Si como consecuencia del delito de robo se producen daños al patrimonio, además de las penas señaladas en el párrafo que antecede, se aplicará al responsable el pago de los daños y perjuicios ocasionados.
+Si como consecuencia del delito de robo se producen lesiones de gravedad a una persona, además de las penas previstas en el primer párrafo, será responsable del pago de los gastos médicos originados por las lesiones que se causen y de los daños y perjuicios.
+Si como consecuencia del delito de robo una persona pierde la vida al caer en la alcantarilla o coladera sin tapa, la pena se incrementará hasta en dos terceras partes a la señalada en el primer párrafo de este artículo.
+(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2023)
+369 Quater.- A quien robe mobiliario o equipamiento urbano propiedad del Estado o del municipio se le impondrá conforme al monto de lo robado las sanciones establecidas en los artículos 353 al 355 de este Código.
+Se entiende por mobiliario urbano a los elementos complementarios al equipamiento urbano, ya sean fijos, móviles, permanentes o temporales, ubicados en la vía pública o en espacios públicos formando parte de la infraestructura urbana, los que, de acuerdo a su función , se aplican para el descanso, comunicación, información, necesidades fisiológicas, comercio, seguridad, higiene, servicio, jardinería, así como aquellos otros muebles que determinen las autoridades en materia de desarrollo urbano.
+Se entiende por equipamiento urbano al conjunto de inmuebles, instalaciones, construcciones y mobiliario urbano, destinados a prestar a la población servicios públicos, de administración pública, de educación y cultura; de comercio, de salud y asistencia; de deporte y de recreación, de traslado y de transporte y otros, para satisfacer sus necesidades y su bienestar.
+(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2023)
+369 Quinquies.- A quien adquiera, compre, venda, comercialice o transporte una o más tapas de registro o tapas de alcantarillas o equipamiento o mobiliario urbano propiedad del Estado, del Municipio o del titular de la concesión del servicio. público de que se trate, a sabiendas de que son producto de robo, se le impondrá las sanciones siguientes:
+I. Se aplicarán de 2 a 4 años de prisión y multa de 100 a 300 veces el valor diario de la Unidad de Medida y Actualización, así como el pago total de la reparación de los daños y perjuicios ocasionados, cuando el valor de la afectación patrimonial exceda de cien veces el valor diario de la Unidad de Medida y Actualización; y,
+II. De 6 meses a 2 años de prisión y multa de 50 a 150 veces el valor diario de la Unidad de Medida y Actualización, cuando el valor de la afectación patrimonial no exceda de cien veces el valor diario de la Unidad de Medida y Actualización.
+(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2023)
+369 Sexies.- Los delitos señalados de los artículos 369 Ter al 369 Quinquies se perseguirán de oficio.
 CAPITULO II.
 Abigeato.
 (REFORMADO, P.O. 3 DE AGOSTO DE 2019)
