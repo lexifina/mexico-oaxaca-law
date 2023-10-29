@@ -45,8 +45,8 @@ Delitos contra el derecho a una vida libre de violencia
 (REFORMADA SU DENOMINACIÓN, P.O. 30 DE ENERO DE 2016)
 CAPITULO I
 Violencia familiar
-(REFORMADO, P.O. 30 DE ENERO DE 2016)
-404.- Violencia familiar, es toda acción u omisión, dirigida a dominar, someter, controlar o agredir de manera física, verbal, psicológica, patrimonial, económica, sexual, o contra los derechos reproductivos, dentro o fuera del domicilio familiar, cuyo activo tenga o haya tenido relación de parentesco por consanguinidad, afinidad, legal, concubinato, noviazgo, relaciones de convivencia o mantenga o haya mantenido una relación similar con la víctima.
+(REFORMADO, P.O. 28 DE OCTUBRE DE 2023)
+404.- Violencia familiar, es toda acción u omisión, dirigida a dominar, someter, controlar o agredir de manera física, verbal, psicológica, patrimonial, económica, sexual, o contra los derechos reproductivos, cuyo activo tenga o haya tenido relación de parentesco por consanguinidad, afinidad, legal, concubinato, noviazgo, relaciones de convivencia o mantenga o haya mantenido una relación similar con la víctima.
 (ADICIONADO, P.O. 30 DE ENERO DE 2016)
 404 Bis.- Para los efectos del presente capítulo los tipos de violencia familiar son los siguientes:
 I. Violencia Física: Toda agresión en la que se utilice cualquier objeto o arma, o se haga uso de alguna parte del cuerpo, para sujetar o lesionar físicamente a otro; así como el uso de sustancias para inmovilizarle, atentando contra su integridad física, y que tienen por objeto lograr su sometimiento o control y con el resultado o riesgo de producir lesión física, interna, externa o ambas;
