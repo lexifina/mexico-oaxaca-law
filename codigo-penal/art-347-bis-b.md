@@ -107,20 +107,25 @@ III. (DEROGADA, P.O. 28 DE NOVIEMBRE DE 1998)
 357 Bis.- Se equipara al delito de robo de vehículo y se sancionará con pena de ocho a catorce años de prisión y multa de quinientos a mil veces el valor de la Unidad de Medida y Actualización vigente:
 (ADICIONADA, P.O. 28 DE NOVIEMBRE DE 1998)
 I.- Al que altere, modifique o cambie de cualquier forma los datos o partes de identificación de un vehículo, o de la documentación que lo identifique o acredite su propiedad;
-(REFORMADA, P.O. 26 DE FEBRERO DE 2000)
-II.- Al que enajene o trafique de cualquier forma un vehículo robado;
+(REFORMADA, P.O. 28 DE OCTUBRE DE 2023)
+II.- Al que enajene o trafique decualquier (sic) forma un vehículo robado que se encuentre alterado en sus numerales de identificación;
 (REFORMADA, P.O. 9 DE DICIEMBRE DE 2013) (REPUBLICADA, P.O. 20 DE DICIEMBRE DE 2013)
 III.- Al que desmantele algún vehículo robado o comercialice conjunta o separadamente sus partes, y
-(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2013) (REPUBLICADA, P.O. 20 DE DICIEMBRE DE 2013)
-IV.- A quien después de la ejecución del robo de un vehículo y sin haber participado en él, adquiera, posea, comercialice, pignore, reciba, traslade, use u oculte el vehículo o partes de éste, con conocimiento de esta circunstancia.
+(REFORMADA, P.O. 28 DE OCTUBRE DE 2023)
+IV.- Al que con intención adquiera, posea, comercialice, pignore, reciba, traslade, use u oculte un vehículo de motor que este alterado en sus numerales de identificación; y
+(ADICIONADA, P.O. 28 DE OCTUBRE DE 2023)
+V.- Al que con ánimo de apoderarse de un vehículo de motor por medio de la expedición u otorgamiento de un cheque sin fondos, realización de una transferencia rechazada o por cualquier otro medio de comercialización electrónica que no concrete el pago se apodere de este.
 (ADICIONADO, P.O. 9 DE DICIEMBRE DE 2013)
 Cuando los objetos o productos del delito de robo de vehículo se relacionan con el giro comercial del tenedor o receptor, si éste es comerciante o sin serlo se encuentra en posesión de dos o más de los mismos, se tendrá por acreditado que existe conocimiento de que provienen de un ilícito.
-(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2013)
-Si el que recibió en venta, prenda o bajo cualquier otro concepto el vehículo o partes de éste, sin haber participado en el delito de robo de vehículo y no adoptó las precauciones indispensables para cerciorarse de su procedencia o para asegurarse de que la persona de quien la recibió tenía derecho para disponer de ella, se le impondrán las penas previstas en el artículo anterior, en la proporción correspondiente al delito culposo.
+(DEROGADO TERCER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2023)
 (REFORMADO (N. DE E. REPUBLICADO], P.O. 26 DE FEBRERO DE 2000)
 En el caso de que cualquiera de las conductas anteriores se realice sobre dos o más vehículos robados, la pena se incrementará de una tercera parte de la mínima hasta una tercera parte de la máxima aplicable.
 (ADICIONADO, P.O. 16 DE AGOSTO DE 2008)
 Si el sujeto activo de los dos delitos anteriormente descritos perteneció o pertenece a instituciones de seguridad pública o privada, de procuración o impartición de justicia o simule serlo, se aumentará en una mitad del mínimo y máximo de las penas señaladas.
+(ADICIONADO, P.O. 28 DE OCTUBRE DE 2023)
+La pena se agravará en un tercio cuando además de lo establecido en las fracciones II y IV del presente numeral, el apoderamiento del vehículo devenga de actos ilícitos tipificados en el presente Código.
+(ADICIONADO, P.O. 28 DE OCTUBRE DE 2023)
+Se entenderá que un vehículo de motor está alterado en sus numerales de identificación cuando estos se encuentren remarcados, limados, injertados o se realicen desprendimientos de éstos para ocultar su número original o tratar de ocultarlo.
 (REFORMADO, P.O. 16 DE AGOSTO DE 2008)
 Si con alguna de las conductas previstas en este artículo resulta la comisión de otro ilícito, se aplicarán las reglas del concurso de delitos.
 (REFORMADO, P.O. 3 DE JUNIO DE 1995)
@@ -301,6 +306,8 @@ XI.- Al que por sorteos, rifas, loterías, promesas de venta, o por cualquier ot
 XII.- Al fabricante empresario, contratista constructor de una obra cualquiera, que emplee en la construcción de la misma, materiales, en cantidad o calidad inferiores a lo convenido, o mano de obra inferior a la estipulada siempre que haya recibido el precio convenido o parte de él;
 XIII.- Al vendedor de materiales de construcción o cualquiera especie que habiendo recibido el precio de los mismos no los entregare en la cantidad o en la calidad convenida;
 XIV.- Al fiador que enajene o grave los bienes raíces cuyas inscripciones de propiedad estén anotadas, conforme lo dispone el Código Civil, y de la operación resulta la insolvencia del citado fiador.
+(ADICIONADO, P.O. 28 DE OCTUBRE DE 2023)
+Se aplicará de ocho a catorce años de prisión y multa de treinta a ciento veinte días, al que acuda a cualquier tipo de negocio, centro de trabajo, tienda, casa u otro lugar para cobrar en dinero o especie, un interés excesivo para sí u otra persona, ya sea física o moral derivado de un préstamo, o lo realice por medios electrónicos, ejerciendo amenazas o cualquier tipo de violencia.
 (ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 1995)
 Asimismo se aplicará de tres a siete años de prisión y de treinta a ciento veinte días de multa al que, teniendo la obligación de cubrir alimentos conforme a la Ley, eluda proporcionarlos a sus ascendientes y descendientes en primer grado, o a su cónyuge, colocándose dolosamente en estado de insolvencia.
 (ADICIONADO, P.O. 13 DE MARZO DE 2021)
