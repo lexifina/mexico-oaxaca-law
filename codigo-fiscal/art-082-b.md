@@ -1,0 +1,9 @@
+(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2023)
+ARTÍCULO 82 B. El contador público registrado, dentro de los primeros tres meses de cada ejercicio fiscal, deberá presentar a la Secretaría lo siguiente:
+a) Constancia emitida por Colegio Profesional o Asociación de Contadores Públicos que acredite su calidad de miembro activo; y
+b) La que se refiere en el inciso h) del artículo 82 A de este Código, que acredite que cumple con la Norma de Educación Continua o de Actualización Académica, expedida por dicho Colegio Profesional o Asociación de Contadores Públicos reconocidos por la Secretaría de Educación Pública.
+Una vez concluida la vigencia de la certificación a que se refiere el inciso f) del articulo 82 A de este Código, el contador público inscrito deberá contar con el refrendo o recertificación de ésta.
+El contador público registrado que no dé cumplimiento a lo señalado en el presente artículo no podrá dictaminar contribuciones estatales, quedando suspendido su registro hasta que obtenga las constancias a que se refieren los incisos a) y b) de este artículo.
+El registro otorgado a los contadores públicos que formulen dictámenes de contribuciones estatales será dado de baja del registro de contadores públicos que lleve la Secretaría, en aquellos casos en que dichos contadores no formulen dictamen sobre contribuciones estatales, en un período de cinco años.
+El período de cinco años a que se refiere el párrafo anterior se computará a partir del día siguiente a aquél en que se presentó el último dictamen que haya formulado el contador público registrado.
+La baja del registro se dará a conocer al contador público mediante aviso, así como al Colegio Profesional o Asociación al que pertenezca el mismo. La Secretaría podrá dejar sin efectos la baja del registro, siempre que el contador público lo solicite por escrito en un plazo de 30 días hábiles posteriores a la fecha en que reciba el aviso, debiendo justificar dicha petición.
