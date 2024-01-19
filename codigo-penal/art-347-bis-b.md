@@ -107,12 +107,12 @@ III. (DEROGADA, P.O. 28 DE NOVIEMBRE DE 1998)
 357 Bis.- Se equipara al delito de robo de vehículo y se sancionará con pena de ocho a catorce años de prisión y multa de quinientos a mil veces el valor de la Unidad de Medida y Actualización vigente:
 (ADICIONADA, P.O. 28 DE NOVIEMBRE DE 1998)
 I.- Al que altere, modifique o cambie de cualquier forma los datos o partes de identificación de un vehículo, o de la documentación que lo identifique o acredite su propiedad;
-(REFORMADA, P.O. 28 DE OCTUBRE DE 2023)
-II.- Al que enajene o trafique decualquier (sic) forma un vehículo robado que se encuentre alterado en sus numerales de identificación;
+(REFORMADA, P.O. 28 DE OCTUBRE DE 2023) (F. DE E., P.O. 19 DE ENERO DE 2024)
+II.- Al que enajene o trafique de cualquier forma un vehículo robado o que se encuentre alterado en sus numerales de identificación;
 (REFORMADA, P.O. 9 DE DICIEMBRE DE 2013) (REPUBLICADA, P.O. 20 DE DICIEMBRE DE 2013)
 III.- Al que desmantele algún vehículo robado o comercialice conjunta o separadamente sus partes, y
-(REFORMADA, P.O. 28 DE OCTUBRE DE 2023)
-IV.- Al que con intención adquiera, posea, comercialice, pignore, reciba, traslade, use u oculte un vehículo de motor que este alterado en sus numerales de identificación; y
+(REFORMADA, P.O. 28 DE OCTUBRE DE 2023) (F. DE E., P.O. 19 DE ENERO DE 2024)
+IV.- Al que con intención adquiera, posea, comercialice, pignore, reciba, traslade, use u oculte un vehículo de motor robado o que este alterado en sus numerales de identificación; y
 (ADICIONADA, P.O. 28 DE OCTUBRE DE 2023)
 V.- Al que con ánimo de apoderarse de un vehículo de motor por medio de la expedición u otorgamiento de un cheque sin fondos, realización de una transferencia rechazada o por cualquier otro medio de comercialización electrónica que no concrete el pago se apodere de este.
 (ADICIONADO, P.O. 9 DE DICIEMBRE DE 2013)
