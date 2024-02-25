@@ -200,24 +200,17 @@ Abigeato.
 370.- Comete el delito de abigeato, quien por sí o por interpósita persona se apodere, posea, se encuentre destazando o seccionando una o más cabezas de ganado sin derecho y sin consentimiento de la persona que pueda disponer de ellas de acuerdo con la ley, tenga o no la calidad de ganadero.
 (REFORMADO, P.O. 3 DE AGOSTO DE 2019)
 371.- Para los efectos de este Capítulo, se considerará como ganado mayor: el bovino, caballar, asnal y mular y; como ganado menor: el ovino, caprino, porcino. Se equipara a ganado menor las colonias de abejas en un apiario y las especies de una granja acuícola.
-(REFORMADO, P.O. 31 DE AGOSTO DE 2015)
+(REFORMADO, P.O. 24 DE FEBRERO DE 2024)
 372.- El abigeato de ganado mayor se sancionará:
-(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)
-I.- Con prisión de cuatro a ocho años de prisión y multa de treinta a setenta veces el valor de la Unidad de Medida y Actualización cuando el apoderamiento, posesión, destazando o seccionando sea de una a dos cabezas;
-(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)
-II.- Con prisión de ocho a doce años de prisión y multa de setenta a ciento cincuenta veces el valor de la Unidad de Medida y Actualización, cuando el apoderamiento, posesión, destazando o seccionando sea de tres a cinco cabeza (sic);
-(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)
-III.- Con prisión de doce a dieciocho años de prisión y multa de ciento cincuenta a trescientas veces el valor de la Unidad de Medida y Actualización, cuando el apoderamiento, posesión, destazando o seccionando sea de seis a diez cabezas; y,
-(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2017)
-IV.- Con prisión de dieciocho a veinticinco años de prisión y multa de trescientas a seiscientas veces el valor de la Unidad de Medida y Actualización cuando el apoderamiento, posesión, destazando o seccionando sea de más de diez cabezas.
-(REFORMADO, P.O. 31 DE AGOSTO DE 2015)
-373.- El abigeato de ganado menor se sancionará:
-(REFORMADA, P.O. 28 DE AGOSTO DE 2021)
-I.- Con prisión de tres a cinco años y multa de cien a doscientas veces el valor de la Unidad de Medida y Actualización vigente, cuando el apoderamiento no exceda de cinco cabezas o de hasta cinco colonias de abejas en un apiario;
-(REFORMADA, P.O. 28 DE AGOSTO DE 2021)
-II.- Con prisión de cinco a ocho años y multa de doscientas a trescientas cincuenta veces el valor de la Unidad de Medida y Actualización vigente, cuando el apoderamiento exceda de cinco cabezas, pero no de quince o exceda de cinco pero no de quince colonias de abejas de un apiario, y
-(REFORMADA, P.O. 28 DE AGOSTO DE 2021)
-III.- Con prisión de ocho a diez años y multa de trescientas cincuenta a setecientas cincuenta veces el valor de la Unidad de Medida y Actualización, cuando el apoderamiento exceda de quince cabezas o quince colonias de abejas de un apiario.
+I. Con prisión de seis a diez años y multa de cuarenta o (sic) ochenta veces el valor diario de la Unidad de Medida y Actualización (UMA) cuando el apoderamiento, posesión, destace o seccionamiento sea de una a dos cabezas;
+II. Con prisión de diez a quince años y multa de ochenta a ciento ochenta veces el valor diario de la Unidad de Medida y Actualización (UMA), cuando el apoderamiento, posesión, destace o seccionamiento sea de tres a cinco cabezas;
+III. Con prisión de quince a veintidós años y multa de ciento ochenta a cuatrocientas veces el valor diario de la Unidad de Medida y Actualización (UMA), cuando el apoderamiento, posesión, destace o seccionamiento sea de seis a diez cabezas; y
+IV. Con prisión de veintidós a treinta años y multa de cuatrocientas a ochocientas veces el valor diario de la Unidad de Medida y Actualización (UMA), cuando el apoderamiento, posesión, destace o seccionamiento sea de más de diez cabezas.
+(REFORMADO, P.O. 24 DE FEBRERO DE 2024)
+372 (SIC).- El abigeato de ganado menor se sancionará:
+I.- Con prisión de cuatro a seis años y multa de doscientas a trescientas veces el valor diario de la Unidad de Medida y Actualización (UMA), cuando el apoderamiento no exceda de cinco cabezas o de hasta cinco colonias de abejas en un apiario;
+II.- Con prisión de seis a diez años y multa de trescientas a cuatrocientas cincuenta veces el valor diario de la Unidad de Medida y Actualización (UMA), cuando el apoderamiento exceda de cinco cabezas, pero no de quince o exceda de cinco, pero no de quince colonias de abejas de un apiario; y
+III.- Con prisión de diez a catorce años y multa de seiscientas a novecientas cincuenta veces el valor diario de la Unidad de Medida y Actualización (UMA), cuando el apoderamiento exceda de quince cabezas o quince colonias de abejas de un apiario.
 373 Bis.- (DEROGADO, P.O. 27 DE AGOSTO DE 1994)
 (REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2020)
 374.- Se equipara el Abigeato y se sancionará con prisión de dos a cuatro años y multa de diez a cincuenta veces el valor de la Unidad de Medida y Actualización vigente en el momento de cometerse el delito, a quienes:
