@@ -940,6 +940,13 @@ Estas penas se aplicarán sin perjuicio de las que correspondan por la comisión
 I. Si el sujeto activo se valiese de la función pública, la profesión u oficio que desempeña, aprovechándose de los medios o circunstancias que ellos le proporcionan. En este caso, además, se le destituirá del empleo, cargo o comisión públicos e inhabilitará para desempeñar otro, o se le suspenderá del ejercicio de la profesión u oficio por un tiempo igual al de la pena de prisión impuesta, que iniciará una vez (sic) haya compurgado la pena privativa de libertad.
 II. Si el sujeto activo del delito tiene parentesco por consanguinidad o afinidad hasta en el cuarto grado, o parentesco civil, o habite ocasional o permanentemente en el mismo domicilio con la víctima o tenga una relación sentimental o de confianza con el sujeto pasivo, o sea tutor o curador de la víctima. Además, en su caso, perderá la patria potestad, tutela, guarda y custodia, régimen de visitas y convivencias, el derecho de alimentos que le correspondiere por su relación con la víctima y el derecho que pudiere tener respecto de los bienes de ésta; y
 III. Si el sujeto activo es ministro de un culto religioso.
+(ADICIONADO CON EL CAPÍTULO QUE LO INTEGRA, P.O. 24 DE FEBRERO DE 2024)
+CAPITULO V.
+Cohabitación forzada.
+(ADICIONADO, P.O. 24 DE FEBRERO DE 2024)
+202 Quáter.- Comete el delito de cohabitación forzada de personas menores de 18 años de edad, o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, quien obligue, coaccione, induzca, solicite, gestione u oferte a una o varias de estas personas a unirse informal o consuetudinariamente, con o sin su consentimiento, con alguien de su misma condición o con persona mayor de dieciocho años de edad, con el fin de convivir en forma constante y equiparable a la de un matrimonio o concubinato.
+Al responsable de este delito se le impondrá pena de ocho a quince años de prisión y multa de mil a mil quinientas veces el valor diario de la Unidad de Medida y Actualización (UMA).
+La pena prevista en el párrafo anterior se aumentará hasta en una mitad, en su mínimo y en su máximo, si la víctima perteneciere a algún pueblo o comunidad indígena o afromexicana.
 TITULO SEPTIMO.
 Revelación de secretos.
 CAPITULO UNICO.
