@@ -176,6 +176,16 @@ Violencia Política
 Si la conducta descrita en el artículo anterior se comete en contra de una o varias mujeres, se agrava la pena de tres a ocho años de prisión y de ciento cincuenta a doscientas veces el valor diario de la unidad de medida y actualización.
 (ADICIONADO, P.O. 15 DE JUNIO DE 2019)
 Este delito se perseguirá de oficio.
+(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE MARZO DE 2024)
+CAPITULO VI
+De la Violencia en Contra de las Personas Adultas Mayores
+(ADICIONADO, P.O. 2 DE MARZO DE 2024)
+412 QUINQUIES.- A quién, sin tener una relación de parentesco cometa sobre una persona adulta mayor algún tipo de violencia, se le impondrá la pena de cuatro a ocho años de prisión y multa de cincuenta a ciento cincuenta veces el valor diario de la Unidad de Medida y Actualización. Además, la autoridad correspondiente lo sujetará a terapias psicológicas por el tiempo que se estime conveniente.
+Se considera violencia todo acto o admisión contra una persona adulta mayor, que ocurra de manera única o repetida, la cual puede ser física, psicológica o emocional, económica o patrimonial, sexual o que vulnere el goce de sus derechos humanos y libertades fundamentales.
+(ADICIONADO, P.O. 2 DE MARZO DE 2024)
+412 SEXIES.- A quien esté a cargo del cuidado de una persona adulta mayor y comenta (sic) sobre ella algún tipo de violencia, se le incrementará hasta en un tercio la sanción establecida en el artículo que antecede.
+(ADICIONADO, P.O. 2 DE MARZO DE 2024)
+412 SEPTIES.- El delito de violencia cometido en contra de una persona adulta mayor se perseguirá de oficio.
 (ADICIONADO CON EL CAPÍTULO QUE LO INTEGRA, P.O. 30 DE ENERO DE 2016)
 TÍTULO VIGÉSIMO TERCERO.
 Delitos que atentan contra la obligación alimentaria

@@ -1,3 +1,4 @@
+[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 25 DE MAYO DE 2024 EN EL P.O. DEL ESTADO DE OAXACA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 ELISEO JIMENEZ RUIZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA, A SUS HABITANTES HACE SABER:
@@ -201,8 +202,8 @@ Reparación del daño.
 27.- La reparación del daño debe ser oportuna, plena, diferenciada, transformadora, integral, adecuada, eficaz, efectiva, expedita, justa, proporcional a la gravedad del daño causado y a la afectación sufrida, como consecuencia de un delito o de las violaciones de derechos humanos que han sufrido, comprenderá cuando menos:
 (REFORMADA, P.O. 9 DE MARZO DE 2018)
 I. La restitución de la cosa obtenida por el delito y si no fuere posible, el pago del precio de la misma, a su valor actualizado;
-(REFORMADA, P.O. 9 DE MARZO DE 2018)
-II. La indemnización del daño material y moral causado, incluyendo la atención médica y psicológica, de los servicios sociales y de rehabilitación o tratamientos curativos necesarios para la recuperación de la salud, que hubiere requerido o requiera la víctima, como consecuencia del delito. En los casos de delitos contra el libre desarrollo de la personalidad, la libertad y el normal desarrollo psicosexual y en su salud mental, así como de violencia familiar, además comprenderá el pago de los tratamientos psicoterapéuticos que sean necesarios para la víctima;
+(REFORMADA, P.O. 2 DE MARZO DE 2024)
+II. La indemnización del daño material y moral causado, incluyendo la atención médica y psicológica, de los servicios sociales y de rehabilitación o tratamientos curativos necesarios para la recuperación de la salud, que hubiera requerido o requiera la víctima, como consecuencia del delito. En los casos de delitos contra el libre desarrollo de la personalidad, la libertad y el normal desarrollo psicosexual y en su salud mental, así como de violencia familiar y de violencia en contra de las personas adultas mayores, además comprenderá el pago de los tratamientos psicoterapéuticos que sean necesarios para la víctima;
 (REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)
 III. El resarcimiento de los perjuicios ocasionados o el lucro cesante, incluyendo el pago de los salarios o percepciones correspondientes, cuando por lesiones cause incapacidad temporal o permanente para trabajar en oficio, arte o profesión;
 (REFORMADA, P.O. 9 DE MARZO DE 2018)
