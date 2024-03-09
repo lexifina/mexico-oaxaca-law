@@ -56,6 +56,34 @@ IV. Violencia económica.- Privación intencionada y no justificada legalmente d
 V. Violencia sexual.- A toda acción u omisión que amenaza, pone en riesgo, lesiona o daña la libertad, seguridad, integridad y desarrollo psicosexual de cualquier persona. Se expresa a través de la inducción a presenciar o realizar prácticas sexuales no deseadas o que generen dolor, así como la celotipia para el control, manipulación o dominio de la pareja, entre otros y;
 (REFORMADA, P.O. 1 DE DICIEMBRE DE 2021)
 VI. Violencia contra los derechos reproductivos: A toda acción u omisión que limite o vulnere el derecho de las personas a decidir libre, responsable y voluntariamente sobre su función reproductiva, en relación con el número y espaciamiento de los hijos, acceso a métodos anticonceptivos de su elección, acceso a una maternidad elegida y segura, a servicios de atención prenatal, servicios obstétricos de emergencia y servicios de interrupción legal y segura del embarazo en los casos permitidos por la ley.
+(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE MARZO DE 2024)
+CAPITULO I BIS
+Violencia Vicaria
+(ADICIONADO, P.O. 8 DE MARZO DE 2024)
+404 Ter.- La violencia vicaria: Es cualquier acto u omisión que, con el objetivo de causar perjuicio o daño a las mujeres, se dirige contra las hijas y/o hijos, familiares o personas allegadas o ente sintiente significativo para ella, ya sea que se tenga o se haya tenido relación de matrimonio o concubinato; o mantenga o se haya mantenido una relación de hecho con la persona agresora; lo anterior aplica incluso cuando no se cohabite en el mismo domicilio.
+Se entenderá como violencia vicaria, entre otras:
+I.- Amenazar con causar daño a las hijas e hijos;
+II.- Amenazar con ocultar, retener, o sustraer a hijas e hijos fuera de su domicilio o de su lugar habitual de residencia;
+III.- Utilizar a hijas y/o hijos para obtener información respecto de la madre;
+IV.- Promover, incitar o fomentar actos de violencia física de hijas y/o hijos en contra de la madre;
+V.- Promover, incitar o fomentar actos de violencia psicológica que descalifiquen la figura materna afectando el vínculo materno filial;
+VI.- Ocultar, retener, sustraer, separar o alejar a hijas y/o hijos así como a familiares o personas allegadas;
+VII.- Interponer acciones legales con base en hechos falsos o inexistentes, en contra de las mujeres para obtener la guarda y custodia, cuidados y atenciones o pérdida de la patria potestad de las hijas y/o hijos en común;
+VIII.- Condicionar el cumplimiento de las obligaciones alimentarias a las mujeres y a sus hijas e hijos;
+IX.- Ejercer castigo corporal o humillante contra las hijas e hijos o personas significativas para la víctima, aunque no deje huella material en el cuerpo;
+X.- Obstaculizar a la mujer la convivencia con hijas, hijos, personas o entes sintientes significativos; y
+XI.- Sustraer, retener, ocultar, lastimar o privar de la vida a un ente sintiente significativo de la mujer o de sus hijas e hijos, como animales de compañía.
+(ADICIONADO, P.O. 8 DE MARZO DE 2024)
+404 Quater.- A quien cometa el delito de violencia vicaria se le impondrá de tres a nueve años de prisión, y sanción pecuniaria de cien a quinientos días el valor de la Unidad de Medida y Actualización, asimismo, se le sujetará a tratamiento psicológico especializado.
+Las penas previstas en el presente artículo, se incrementarán en una mitad de su mínimo y máximo, cuando:
+I.- El sujeto activo incurra en tráfico de influencias o corrupción de los servidores públicos que intervengan en los procedimientos administrativos y judiciales relacionados con el conflicto;
+II.- El sujeto activo se valga de su cargo público para ejercer la violencia;
+III.- Tenga como resultado el suicidio de la mujer;
+IV.- Las hijas, hijos o personas significativas se encuentren en una situación de discapacidad o cualquier otra situación de vulnerabilidad, que no le permita comprender el carácter ilícito del hecho u oponer resistencia;
+V.- Ejerza violencia física que deje huella material en el cuerpo contra las hijas e hijos o personas significativas para la mujer;
+VI.- Cuando les suministre a las hijas e hijos o personas allegadas para la mujer, sustancias inmovilizantes o que alteren los sentidos; y
+VII.- Por descuido se afecta la salud o integridad física de las hijas, hijos o personas significativas para la mujer.
+Si quien ejerza el servicio público entorpece los procedimientos públicos a favor del victimario hasta el punto de ejecutar la violencia vicaria, la sanción se dará en los mismos términos del presente artículo.
 (REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2020)
 405.- A quien cometa el delito de violencia familiar se le impondrá de tres a nueve años de prisión, multa de cincuenta a ciento cincuenta veces el valor diario de la Unidad de Medida y Actualización, pérdida de los derechos que tenga respecto de la víctima incluidos los de carácter sucesorio, patria potestad, tutela y alimentos, y se decretarán las medidas de protección conforme a lo establecido por la legislación en la materia; además se sujetará a tratamiento especializado en el Centro de Reeducación para Hombres que Ejercen Violencia contra las Mujeres, que para personas agresoras de violencia familiar establece la Ley Estatal de Acceso de las Mujeres a una Vida Libre de Violencia de Género.
 (REFORMADO, P.O. 1 DE DICIEMBRE DE 2021)
