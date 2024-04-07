@@ -10,12 +10,20 @@ Cuando el daño se cometa en bienes de dominio privado, este delito se perseguir
 389.- Los daños se perseguirán por querella, excepto los previstos en el artículo 388.
 TITULO VIGESIMO.
 Encubrimiento.
-390.- Se aplicarán de quince días a dos años de prisión y multa de veinte a quinientos pesos, al que:
+(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE ABRIL DE 2024)
+390.- Se aplicarán de quince días a dos años de prisión y multa de veinte a quinientas veces la unidad de medida y actualización vigente, al que:
 I.- No procure, por los medios lícitos que estén a su alcance, impedir la continuación de los delitos que sepa que van a cometerse, o que se están cometiendo, si son los que se persiguen de oficio;
 Quedan exceptuados de pena aquellos que no pueden cumplir tal obligación sin peligro de su persona o intereses, o de la persona o intereses del cónyuge, de algún pariente en línea recta o de la colateral dentro del segundo grado, y los que no puedan ser compelidos por las autoridades a revelar secretos que se le hubiesen confiado en el ejercicio de su profesión o encargo;
-II.- Requerido por las autoridades, no dé auxilio para la averiguación de los delitos o para la persecución de los delincuentes; salvo las excepciones consignadas en la Fracción anterior y cuando se trate del cónyuge o de parientes del requerido, o de personas a quienes éste debe respeto, gratitud o amistad;
-III.- Impida o dificulte la averiguación de los delitos y el castigo de los culpables, salvo los exceptuados en la fracción I de este Artículo;
-IV.- (DEROGADA, P.O. 3 DE OCTUBRE DE 1998)
+(REFORMADA, P.O. 6 DE ABRIL DE 2024)
+II.- Requerido por las autoridades, no dé auxilio para la investigación de los delitos o para la persecución de los delincuentes; salvo las excepciones consignadas en la fracción anterior y cuando se trate del cónyuge o pariente del requerido o de personas a quienes este debe respeto gratitud o amistad;
+(REFORMADA, P.O. 6 DE ABRIL DE 2024)
+III.- Impida o dificulte la investigación de los delitos y el castigo de los culpables, salvo los exceptuados en la fracción I de este artículo, o
+(ADICIONADA, P.O. 6 DE ABRIL DE 2024)
+IV.- Preste auxilio o cooperación de cualquier especie al autor del delito, con conocimiento de esta circunstancia, por acuerdo posterior a la ejecución del citado delito, salvo las personas exceptuadas en la fracción II de este artículo.
+(ADICIONADO, P.O. 6 DE ABRIL DE 2024)
+Las excusas absolutorias contenidas en las fracciones I, III y IV no serán aplicables cuando se trate de delitos de feminicidio u homicidio doloso de mujeres, la excusa absolutoria prevista en la fracción II no será aplicable en los mismos casos a los parientes por consanguinidad en línea recta ascendente o descendente después del cuarto grado y en la colateral por consanguinidad después del segundo grado, ni a las personas que deben respeto, gratitud o amistad al sujeto activo.
+(ADICIONADO, P.O. 6 DE ABRIL DE 2024)
+390 Bis.- La o el Juez teniendo en cuenta la naturaleza de la acción, las circunstancias personales del acusado y las demás que señala el artículo 74, podrán imponer en los casos de encubrimiento de delitos de feminicidio u homicidio doloso de mujeres, en lugar de las sanciones señaladas, hasta las dos terceras partes de las penas que correspondería al autor del delito; debiendo hacer constar en la sentencia las razones en que se funda para aplicar la sanción que autoriza este párrafo.
 (ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE JULIO DE 1995)
 TITULO VIGESIMO PRIMERO.
 (ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE JULIO DE 1995)
