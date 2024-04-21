@@ -53,8 +53,8 @@ Delitos contra el derecho a una vida libre de violencia
 (REFORMADA SU DENOMINACIÓN, P.O. 30 DE ENERO DE 2016)
 CAPITULO I
 Violencia familiar
-(REFORMADO, P.O. 28 DE OCTUBRE DE 2023)
-404.- Violencia familiar, es toda acción u omisión, dirigida a dominar, someter, controlar o agredir de manera física, verbal, psicológica, patrimonial, económica, sexual, o contra los derechos reproductivos, cuyo activo tenga o haya tenido relación de parentesco por consanguinidad, afinidad, legal, concubinato, noviazgo, relaciones de convivencia o mantenga o haya mantenido una relación similar con la víctima.
+(REFORMADO, P.O. 20 DE ABRIL DE 2024)
+404.- Violencia familiar, es toda acción u omisión, dirigida a dominar, someter, controlar o agredir de manera física, verbal, psicológica, patrimonial, económica, sexual, o contra los derechos reproductivos, dentro o fuera del domicilio familiar cuyo activo tenga o haya tenido relación de parentesco por consanguinidad, afinidad, legal, o concubinato con la víctima, tutela o curatela.
 (ADICIONADO, P.O. 30 DE ENERO DE 2016)
 404 Bis.- Para los efectos del presente capítulo los tipos de violencia familiar son los siguientes:
 I. Violencia Física: Toda agresión en la que se utilice cualquier objeto o arma, o se haga uso de alguna parte del cuerpo, para sujetar o lesionar físicamente a otro; así como el uso de sustancias para inmovilizarle, atentando contra su integridad física, y que tienen por objeto lograr su sometimiento o control y con el resultado o riesgo de producir lesión física, interna, externa o ambas;
@@ -222,6 +222,13 @@ Se considera violencia todo acto o admisión contra una persona adulta mayor, qu
 412 SEXIES.- A quien esté a cargo del cuidado de una persona adulta mayor y comenta (sic) sobre ella algún tipo de violencia, se le incrementará hasta en un tercio la sanción establecida en el artículo que antecede.
 (ADICIONADO, P.O. 2 DE MARZO DE 2024)
 412 SEPTIES.- El delito de violencia cometido en contra de una persona adulta mayor se perseguirá de oficio.
+(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 20 DE ABRIL DE 2024)
+CAPITULO VII
+Violencia de pareja
+(ADICIONADO, P.O. 20 DE ABRIL DE 2024)
+412 OCTIES.- Violencia de pareja, es el acto abusivo de poder, dirigido a dominar, someter, controlar, humillar, o agredir de manera física, verbal psicológica, patrimonial o contra los derechos sexuales a la víctima, cuyo activo tenga o haya tenido relación de noviazgo, sentimental, afectiva, intima o de hecho equiparable.
+Quien cometa el delito de violencia de pareja se le impondrá de uno a seis años de prisión y multa de cien a trescientas veces el valor diario de la Unidad de Medida y Actualización. Además, se sujetará a procesos reeducativos especializados y gratuitos, con perspectiva de género, para la reestructuración cognitiva de su pensamiento sobre las violencias.
+El ministerio público debe considerar la emisión de órdenes de protección a favor de las víctimas de conformidad con la Ley Estatal de Acceso de las Mujeres a una Vida Libre de Violencia de Género.
 (ADICIONADO CON EL CAPÍTULO QUE LO INTEGRA, P.O. 30 DE ENERO DE 2016)
 TÍTULO VIGÉSIMO TERCERO.
 Delitos que atentan contra la obligación alimentaria
