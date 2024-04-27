@@ -109,8 +109,8 @@ En caso de tratarse de que el ejercicio de la acción penal recaiga sobre un hom
 (ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE SEPTIEMBRE DE 2011)
 CAPITULO II
 De la Sustracción de Menores o Incapaces.
-(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2020)
-407.- Aquí sin causa justificada o sin orden de autoridad competente, sustraiga de la custodia y guarda a una persona menor de 18 años de edad o incapaz, con fines distintos a los contemplados en los artículos 348 y 348 BIS F del presente ordenamiento, se le impondrá de seis a doce años de prisión y multa de seiscientos a mil doscientas veces el valor de la Unidad de Medida y Actualización vigente.
+(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2020) (F. DE E., P.O. 24 DE ABRIL DE 2024)
+407.- A quien sin causa justificada o sin orden de autoridad competente, sustraiga de la custodia y guarda a una persona menor de 18 años de edad o incapaz, con fines distintos a los contemplados en los artículos 348 y 348 BIS F del presente ordenamiento, se le impondrá de seis a doce años de prisión y multa de seiscientos a mil doscientas veces el valor de la Unidad de Medida y Actualización vigente.
 (ADICIONADO, P.O. 9 DE DICIEMBRE DE 2013) (REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
 407 Bis.- Se impondrá de las tres cuartas partes de la mínima a las tres cuartas partes de la máxima de la pena del delito de sustracción de menores o incapaces previsto en el artículo anterior, a quien:
 I. Ejerciendo la patria potestad, realice dicha conducta; o
