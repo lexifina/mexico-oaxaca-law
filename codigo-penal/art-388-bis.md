@@ -217,7 +217,8 @@ CAPITULO VI
 De la Violencia en Contra de las Personas Adultas Mayores
 (ADICIONADO, P.O. 2 DE MARZO DE 2024)
 412 QUINQUIES.- A quién, sin tener una relación de parentesco cometa sobre una persona adulta mayor algún tipo de violencia, se le impondrá la pena de cuatro a ocho años de prisión y multa de cincuenta a ciento cincuenta veces el valor diario de la Unidad de Medida y Actualización. Además, la autoridad correspondiente lo sujetará a terapias psicológicas por el tiempo que se estime conveniente.
-Se considera violencia todo acto o admisión contra una persona adulta mayor, que ocurra de manera única o repetida, la cual puede ser física, psicológica o emocional, económica o patrimonial, sexual o que vulnere el goce de sus derechos humanos y libertades fundamentales.
+(F. DE E., P.O. 25 DE MAYO DE 2024)
+Se considera violencia todo acto u omisión contra una persona adulta mayor, que ocurra de manera única o repetida, la cual puede ser física, psicológica o emocional, económica o patrimonial, sexual o que vulnere el goce de sus derechos humanos y libertades fundamentales
 (ADICIONADO, P.O. 2 DE MARZO DE 2024)
 412 SEXIES.- A quien esté a cargo del cuidado de una persona adulta mayor y comenta (sic) sobre ella algún tipo de violencia, se le incrementará hasta en un tercio la sanción establecida en el artículo que antecede.
 (ADICIONADO, P.O. 2 DE MARZO DE 2024)
