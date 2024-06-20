@@ -1,5 +1,4 @@
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
-[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE OAXACA EL 25 DE MAYO DE 2024.]
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 ELISEO JIMENEZ RUIZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA, A SUS HABITANTES HACE SABER:
 QUE LA HONORABLE LEGISLATURA DEL ESTADO HA TENIDO A BIEN APROBAR LO SIGUIENTE:
@@ -1612,6 +1611,11 @@ La identidad de género, es la vivencia interna e individual del género tal com
 292 Ter.- A quien cometa el delito de homicidio por razones de identidad de género u orientación sexual, se le impondrá una sanción de cincuenta a sesenta años de prisión y multa de quinientos a mil veces el valor diario de la unidad de medida y actualización.
 Si entre el activo y la víctima existió una relación de parentesco por consanguinidad o afinidad, adopción, matrimonio, concubinato, relación de convivencia, noviazgo, amistad, laboral, docente, tutela, o cualquier otra que implique confianza, además de la pena que le corresponda, se le impondrá hasta un tercio más de la misma.
 Cuando el sujeto activo se encuentre en servicio o se haya desempeñado dentro de los cinco años anteriores a la comisión del delito, como servidor público integrante de las corporaciones de seguridad pública, de las instituciones de procuración e impartición de justicia o de las fuerzas armadas, se impondrá hasta dos tercios más de la pena impuesta.
+(ADICIONADO, P.O. 19 DE JUNIO DE 2024)
+292 Quater.- Comete delito de ejecución extrajudicial el integrante o miembro de cualquier corporación de seguridad pública estatal o municipal que, estando en ejercicio de su cargo, actuando arbitrariamente o con abuso o exceso de fuerza, prive de la vida a una o más personas; así como cualquier persona que con el consentimiento, aprobación, orden o apoyo de cualquier servidora o servidor público estatal o municipal, prive de la vida a una o más personas.
+A quién cometa tales hechos se le impondrá de cincuenta a setenta años de prisión y multa de mil a mil quinientas veces el valor de la Unidad de Medida y Actualización vigente en la fecha de los hechos, y en el caso de las y los servidores públicos se les inhabilitará para ejercer cualquier cargo público por el tiempo que dure la pena impuesta.
+Cuando se acredite que la víctima era una persona defensora de derechos humanos, la pena se incrementará en un tercio de la mínima y hasta un tercio de la máxima.
+Este delito es imprescriptible.
 CAPITULO IV.
 Reglas comunes para lesiones y homicidio.
 (REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE OCTUBRE DE 2015)
