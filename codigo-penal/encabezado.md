@@ -622,8 +622,8 @@ Prescripción.
 121.- Cuando la sanción correspondiente del delito de que se trate no sea privativa de libertad, la prescripción de la acción penal operará en dos años.
 (REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)
 122.- La acción penal prescribirá en un plazo igual al término medio aritmético de la pena privativa de la libertad que señala la ley para el delito de que se trate, pero en ningún caso será menor de tres años.
-(REFORMADO, P.O.22 DE MAYO DE 2021)
-122 BIS.- Cuando se trate de delitos cometidos en personas menores de edad, previstos en los artículos 194 fracciones II a V, 195, 196, 202, 241, 241 BIS, 246, 247, 248 BIS fracciones I a III, 255, 347 BIS y 348 BIS F, la acción penal será imprescriptible.
+(REFORMADO, P.O. 6 DE JULIO DE 2024)
+122 BIS.- Cuando se trate de delitos cometidos en personas menores de edad, previstos en los artículos 194 fracciones II a V, 195, 196, 202, 241, 241 BIS, 241 QUATER, 246, 247, 248 BIS fracciones I a III, 255, 347 BIS y 348 BIS F, la acción penal será imprescriptible.
 (REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE SEPTIEMBRE DE 2011)
 123.- Si el delito sólo mereciere destitución, suspensión de derechos o inhabilitación, la prescripción se consumará en dos años.
 124.- La acción penal que nazca de un delito que sólo puede perseguirse por queja de parte, prescribirá en un año, contado desde el día en que la parte ofendida tenga conocimiento del delito y del delincuente, y en tres, independientemente de esta circunstancia.
@@ -1398,6 +1398,8 @@ II.- Si además hubiese asedio, seguimiento o persecución; y
 III.- Si se comete contra una persona menor de dieciocho años de edad, o que no tenga la capacidad de comprender el significado del hecho o con alguna discapacidad o que por cualquier causa no pueda resistirlo.
 En el último supuesto, el delito se perseguirá de oficio. En los demás casos se procederá contra el responsable a petición de parte.
 Si el acosador es servidor público o con algún cargo honorario, además de la pena prevista en los párrafos anteriores, se le destituirá del cargo o empleo y se le inhabilitará para ejercer otro cargo público, por un tiempo igual al que dure la pena de prisión impuesta.
+(ADICIONADO, P.O. 6 DE JULIO DE 2024)
+241 Quater.- A quien cometa el delito de abuso sexual en una persona menor de quince años aún con su consentimiento, o la obligue a ejecutarlo en sí misma o en otra persona, se le impondrá una pena de seis a trece años de prisión y multa de doscientas a quinientas veces el valor diario de la Unidad de Medida y Actualización.
 (REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE DICIEMBRE DE 2021)
 242.- Comete el delito de ciberacoso sexual quien, utilizando las Tecnologías de la Información y la Comunicación (TIC), asedie, coaccione o intimide de manera reiterada a otra persona con fines sexuales, a pesar de su oposición manifiesta.
 A quien incurra en este delito, se le impondrá pena de seis meses a tres años de prisión y multa de cien a quinientas veces el valor diario de la Unidad de Medida y Actualización.
