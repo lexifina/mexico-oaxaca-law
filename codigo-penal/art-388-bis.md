@@ -256,17 +256,16 @@ Cuando no sean comprobables el salario o los ingresos del deudor, la Jueza o el 
 (ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE OCTUBRE DE 2015)
 TITULO VIGESIMO CUARTO
 De los Delitos cometidos contra la vida e integridad de los animales
-(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE OCTUBRE DE 2015)
+(REFORMADA SU DENOMINACIÓN, P.O. 6 DE JULIO DE 2024)
 CAPITULO PRIMERO
-De la Crueldad Animal y la Agonía
-(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2020)
-419.- Se castigará con cárcel de tres meses a dos años y con multa de 100 a 1000 veces el valor de la Unidad de Medida y Actualización vigente a quien:
-(ADICIONADA, P.O. 26 DE OCTUBRE DE 2015)
-I. Dolosamente realice actos de sufrimiento que no lleven a una muerte inmediata del animal vertebrado.
-(ADICIONADA, P.O. 26 DE OCTUBRE DE 2015)
-II. Cause lesiones que pongan en peligro la vida del animal vertebrado.
-(ADICIONADA, P.O. 26 DE OCTUBRE DE 2015)
-III. Cause lesiones y/o marcas de por vida que generen una agonía permanente para el animal vertebrado.
+Del Maltrato y la Crueldad Animal
+(REFORMADO, P.O. 6 DE JULIO DE 2024)
+419. Se impondrá pena de prisión de uno a cinco años y multa de cien a mil veces el valor diario de la Unidad de Medida y Actualización vigente a quien:
+I. Realice actos de maltrato en contra de un animal produciéndole dolor o afectando su salud, sin causa justificada;
+II. Causa lesiones a un animal produciéndole afectaciones físicas o ponga en riesgo su salud; y
+III. Abandone a un animal exponiéndolo a riesgos que amenacen su integridad física, la de otros animales o de las personas.
+(ADICIONADO, P.O. 6 DE JULIO DE 2024)
+Se considera maltrato a un animal cuando por cualquier medio se le causa dolor, lesiones o una afectación a su salud. El maltrato a un animal también implica privarlo de alimento, descuidar su higiene o salud, encerrarlo, dejarlo amarrado a la intemperie y cualquier otro que ponga en riesgo su bienestar físico.
 (ADICIONADO, P.O. 3 DE AGOSTO DE 2019)
 419 Bis.- Se impondrá pena de seis meses a cinco años de prisión y el equivalente de doscientos a dos mil Unidades de Medida y Actualización a quien:
 l. Críe o entrene a un perro con el propósito de hacerlo participar en cualquier exhibición, espectáculo o actividad que involucre una pelea entre dos o más perros para fines recreativos, de entretenimiento o de cualquier otra índole;
@@ -277,13 +276,24 @@ V. Ocasione que menores de edad asistan o presencien cualquier exhibición, espe
 VI. Realice con o sin fines de lucro cualquier acto con el objetivo de involucrar a perros en cualquier exhibición, espectáculo o actividad que implique una pelea entre dos o más perros.
 La sanción a que se hace mención en el párrafo anterior, se incrementará en una mitad cuando se trate de servidores públicos.
 Incurre en responsabilidad penal, asimismo, quien asista como espectador a cualquier exhibición, espectáculo o actividad que involucre una pelea entre dos o más perros, a sabiendas de esta circunstancia. En dichos casos se impondrá un tercio de la pena prevista en este artículo.
+(ADICIONADO, P.O. 6 DE JULIO DE 2024)
+419 TER. Las sanciones previstas en el artículo 419 se incrementarán en una mitad de su mínimo y máximo en los supuestos siguientes:
+I. Cuando se causen lesiones y/o marcas de por vida a un animal, sin causa justificada;
+II. Cuando se prolongue innecesariamente la agonía o el dolor de un animal;
+III. Cuando se realicen actos de crueldad en contra de un animal; y
+IV. Si además de realizar los actos de maltrato o crueldad en contra de cualquier animal, el sujeto activo los capta en imágenes, fotografía o videograba para difundirlos por cualquier medio.
+Se considera acto de crueldad cometido en contra de un animal cualquier acto de brutalidad, tortura y mutilación, sea por acción u omisión, o cuando se le causen lesiones de gravedad con armas, medios corrosivos o explosivos.
+Además de las sanciones señaladas en el presente artículo, las personas que sean responsables de maltrato o crueldad animal, perderán todo derecho sobre los animales que hayan tenido bajo su custodia o resguardo.
+Podrá aplicarse como medida alterna de la sanción pecuniaria, que el sujeto activo acuda a terapias psicológicas por el tiempo que la autoridad estime conveniente.
 (ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE OCTUBRE DE 2015)
 CAPITULO SEGUNDO
 De la Privación de la Vida
-(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2020)
-420.- Se castigará con cárcel de seis meses a cuatro años y con multa de 500 a 1500 veces el valor de la Unidad de Medida y Actualización vigente a quien:
-(ADICIONADA, P.O. 26 DE OCTUBRE DE 2015)
-I. Dolosamente prive de la vida a un animal vertebrado.
+(REFORMADO, P.O. 6 DE JULIO DE 2024)
+420. Se impondrá pena de prisión de tres a ocho años y multa de quinientas a mil quinientas veces el valor diario de la Unidad de Medida y Actualización vigente a quién:
+I. Dolosamente prive de la vida a un animal; y
+II. Además de privar de la vida un animal lo fotografíe, grabe o videograbe y lo difunda por cualquier medio.
+Se incrementará la sanción en un tercio a la señalada en el presente artículo, cuando la privación de la vida del animal sea cometida con medios violentos como armas, sustancias corrosivas o explosivos.
+Podrá aplicarse como medida alterna de la sanción pecuniaria, que el sujeto activo acuda a terapias psicológicas por el tiempo que la autoridad estime conveniente.
 (ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE OCTUBRE DE 2015)
 CAPÍTULO TERCERO
 Del Abuso Sexual a los Animales
@@ -300,8 +310,8 @@ I.- La muerte o mutilación de un animal vertebrado resultado de actividades lic
 II.- La muerte o mutilación de un animal vertebrado que constituya plaga.
 III.- La muerte o mutilación de un animal vertebrado por causa justificada ó cuidado de un especialista o persona debidamente autorizada y que cuente con conocimientos técnicos de la materia.
 IV.- El sacrificio de un animal vertebrado para consumo humano.
-(ADICIONADO, P.O. 26 DE OCTUBRE DE 2015)
-423.- Los delitos previstos en este título se perseguirán por querella, salvo que se cometan por el propietario, custodio o poseedor del animal o que el animal carezca de propietario, custodio o poseedor, casos en que se perseguirán de oficio.
+(REFORMADO, P.O. 6 DE JULIO DE 2024)
+423. Los delitos previstos en este título se perseguirán de oficio.
 (ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE OCTUBRE DE 2016)
 TITULO VIGESIMO QUINTO
 Delitos contra la Libertad de Expresión
