@@ -430,13 +430,15 @@ II. El derribo de uno o más árboles ubicados en la vía pública, predios part
 III. Desarrolle cualquier obra o actividad que destruya, amenace, dañe o afecte a los recursos naturales y altere los ecosistemas, en contravención a los criterios establecidos en los programas de ordenamiento ecológico aplicable.
 (ADICIONADO, P.O. 22 DE OCTUBRE DE 2022)
 450.- Se impondrá prisión de uno a nueve años y de quinientas a mil quinientas veces el valor diario de la Unidad de Medida y Actualización, al que, ilícitamente ejecute, autorice u ordene actividades que contravengan las disposiciones legales, reglamentarias, las declaratorias respectivas y demás disposiciones aplicables en áreas naturales protegidas, cuando:
-I. Provoque un incendio que dañe elementos naturales, la flora, la fauna, los ecosistemas o al ambiente;
+I. (DEROGADA, P.O. 6 DE JULIO DE 2024)
 II. Extraiga especies de flora y/o fauna silvestre, tierra y su cubierta vegetal;
 III. Realice extracción, explotación o aprovechamiento de recursos naturales;
 IV. Interrumpa, rellene, deseque o desvié flujos hidrológicos;
 V. Vierta o descargue contaminantes en el suelo, subsuelo y cualquier clase de cauce, vaso o acuífero;
 VI. Corte, arranque, derribe o tale uno o más árboles;
 VII. Ocupe, use, aproveche, o deteriore el área natural o el ecosistema del suelo de conservación.
+(ADICIONADO, P.O. 6 DE JULIO DE 2024)
+450 Bis.- Se impondrá una pena de diez a quince años de prisión y multa de mil cuatrocientas a mil quinientas veces el valor diario de la Unidad de Medida y Actualización vigente a quien, de manera dolosa o por omisión en el cumplimiento de normas, motive, promueva o provoque de manera intencionada un incendio en un bosque, selva, vegetación natural o terrenos forestales que dañe elementos naturales, flora, fauna, los ecosistemas y que ponga en peligro la vida, la economía y la integridad de las personas.
 (ADICIONADO, P.O. 22 DE OCTUBRE DE 2022)
 451.- Se impondrá prisión de seis meses a seis años y de trescientas a mil veces el valor diario de la Unidad de Medida y Actualización, al que realice cualquiera de las conductas que a continuación se señalan:
 I. Invada las áreas naturales protegidas, es decir, las zonas sujetas a conservación ecológica, los parques locales y urbanos establecidos en el Estado para la preservación, restauración y mejoramiento ambiental;
