@@ -337,15 +337,29 @@ II.- Que de propia autoridad ocupe un inmueble de su propiedad en los casos en l
 III.- Quien, con propósito de apropiarse de una fracción o de la totalidad del inmueble, altere términos o linderos de predios, o cualquier clase de señales o mojoneras, destinadas a fijar los límites de predios contiguos, tanto de dominio privado como de dominio público;
 IV.- Quien de propia autoridad ocupe uno o más predios que forman parte de la reserva territorial del Estado o de los Municipios, sin derecho ni autorización de autoridad competente, aun cuando con ello tipifiquen su acción en un asentamiento irregular;
 V.- Quien de propia autoridad ocupe un inmueble o las riveras que forman parte de la infraestructura o reserva territorial del Estado, o de los Municipios, sin derecho ni autorización de autoridad competente;
-VI.- Quien desvíe o haga uso de aguas propias o ajenas o impida su libre curso, en los casos en que la ley no lo permite, o haga uso de un derecho real sobre aguas que no le pertenezcan;
-VII.- Quien despoje de aguas del ámbito estatal o aguas nacionales asignadas al Estado o Municipios en beneficio colectivo de una comunidad urbana o rural ó para uso doméstico.
-El delito de despojo, se perseguirá a petición de parte ofendida, con excepción de las fracciones IV, V y VII, en cuyo caso se perseguirá de oficio.
-(REFORMADO, P.O. 13 DE OCTUBRE DE 2018)
-385.- Al responsable del delito de despojo se le aplicarán:
+VI. (DEROGADA, P.O. 20 DE JULIO DE 2024)
+VII. (DEROGADA, P.O. 20 DE JULIO DE 2024)
+(REFORMADO, P.O. 20 DE JULIO DE 2024)
+El delito de despojo se perseguirá a petición de parte ofendida, con excepción de las fracciones IV y V, en cuyo caso se perseguirá de oficio.
+(ADICIONADO, P.O. 20 DE JULIO DE 2024)
+384 Bis.- Comete el delito de despojo de aguas quien realice cualquiera de las siguientes conductas:
+I. Quien desvíe o haga uso de aguas propias o ajenas o impida su libre curso, en los casos en que la ley no lo permite, o haga uso de un derecho real sobre aguas que no le pertenezcan;
+II. Quien despoje de aguas del ámbito estatal o aguas nacionales asignadas al Estado o Municipios en beneficio colectivo de una comunidad urbana o rural o para uso doméstico, y;
+III. Quien obstaculice, disminuya o impida la precipitación de lluvias mediante la dispersión de nubes o la alteración de los ciclos hidrológicos naturales por vía química, sónica o cualquier otra.
+Este delito se perseguirá de oficio.
+(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2024)
+385.- Al responsable del delito de despojo de inmuebles o despojo de aguas se le aplicará:
+(REFORMADA, P.O. 13 DE OCTUBRE DE 2018)
 I. De tres a cinco años de prisión y multa de doscientos a cuatrocientas veces el valor de la Unidad de Medida y Actualización, cuando el valor de lo despojado no exceda de siete mil ochocientos cuarenta veces el valor de la Unidad de Medida y Actualización;
+(REFORMADA, P.O. 13 DE OCTUBRE DE 2018)
 II. De cinco a diez años de prisión y multa de cuatrocientos a seiscientas veces el valor de la Unidad de Medida y Actualización, cuando el valor de lo despojado exceda de siete mil ochocientos cuarenta veces el valor de la Unidad de Medida y Actualización;
+(REFORMADA, P.O. 13 DE OCTUBRE DE 2018)
 III. De diez a quince años de prisión y multa de seiscientos a ochocientas veces el valor de la Unidad de Medida y Actualización, cuando el valor de lo despojado exceda de veintitrés mil quinientos veintidós veces el valor de la Unidad de Medida y Actualización.
+(ADICIONADA, P.O. 20 DE JULIO DE 2024)
+IV. De veinte a veinticinco años de prisión y multa de mil a mil doscientas veces el valor de la Unidad de Medida y Actualización, cuando independientemente del valor de lo despojado, la conducta afecte las posibilidades de subsistencia de la o las personas afectadas.
+(REFORMADO, P.O. 13 DE OCTUBRE DE 2018)
 Cuando el delito se cometa en contra de los grupos vulnerables a que se refiere la fracción II del artículo 8° de la Ley de Desarrollo Social para el Estado de Oaxaca, las penas previstas, se incrementarán hasta en una mitad.
+(REFORMADO, P.O. 13 DE OCTUBRE DE 2018)
 La punibilidad será aplicable, aun cuando el derecho a la posesión del objeto material del despojo sea dudoso o esté en disputa.
 (REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2020)
 386.- Se aplicará la pena de quince a veinte años de prisión y multa de ochocientos a mil veces el valor de la Unidad de Medida y Actualización vigente, si el despojo se realiza por dos o más personas; al que planee, o induzca, o financie, o dirija o prop1c1e la acc1on de despojo; si el que lo ejecutare fuera servidor público en ejercicio de sus funciones o con motivo de ellas.
