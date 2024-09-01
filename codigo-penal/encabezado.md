@@ -1370,8 +1370,8 @@ La pena prevista en esté delito, se aumentará en una mitad en su mínimo y en 
 I.- Sea cometido por dos o más personas;
 (REFORMADA, P.O. 23 DE ENERO DE 2010)
 II.- Se hiciere uso de violencia física o moral; y
-(REFORMADA, P.O. 23 DE ENERO DE 2010)
-III.- Se hubiera administrado a la víctima alguna sustancia tóxica.
+(REFORMADA, P.O. 31 DE AGOSTO DE 2024)
+III.- Se utilice la sumisión química.
 (ADICIONADA, P.O.22 DE MAYO DE 2021)
 IV.- El delito fuere cometido en contra de una persona mayor de catorce años y menor de dieciocho años de edad o que no tenga la capacidad de comprender el significado del hecho o por cualquier causa no pueda resistirlo; o
 (ADICIONADA, P.O.22 DE MAYO DE 2021)
@@ -1384,8 +1384,8 @@ Cuando el delito fuere cometido por un servidor público, docente o ministro de 
 241 Bis.- Comete el delito de hostigamiento sexual el que valiéndose de su posición jerárquica o de poder derivada de la relación laboral, docente, doméstica, religiosa, familiar o cualquiera otra que genere subordinación, asedie a otra persona solicitándole favores o propuestas de naturaleza sexual para sí o para un tercero, o utilice lenguaje lascivo con ese fin, causando daño o sufrimiento psicoemocional que lesione su dignidad. Al responsable, se le impondrá prisión de dos a cuatro años, multa de doscientas a cuatrocientas veces el valor de la unidad de medida y actualización. Este delito se perseguirá por querella de parte ofendida.
 (REFORMADO, P.O. 30 DE ENERO DE 2016)
 Si la persona hostigadora fuese servidor público, docente o ministro de culto y utilizare los medios o circunstancias que el encargo le proporcione, además de la pena prevista en el párrafo anterior, se le destituirá de su empleo, encargo o comisión y se le inhabilitará para desempeñar otro por un lapso igual al de la pena de prisión impuesta, que iniciará una vez que haya compurgado la pena privativa de la libertad.
-(REFORMADO, P.O. 30 DE ENERO DE 2016)
-Cuando el hostigamiento se cometa contra una persona menor de dieciocho años de edad, o con alguna discapacidad, o por cualquier causa no pueda resistirlo, la pena de prisión se aumentara hasta en una tercera parte de la prevista y en este caso se perseguirá de oficio.
+(REFORMADO, P.O. 31 DE AGOSTO DE 2024)
+Cuando el hostigamiento se cometa contra una persona menor de dieciocho años de edad, o con alguna discapacidad, mediante el uso de la sumisión química o por cualquier causa no pueda resistirlo, la pena de prisión se aumentará hasta en una tercera parte de la prevista y en este caso se perseguirá de oficio.
 (REFORMADO, P.O. 30 DE ENERO DE 2016)
 Si a consecuencia del hostigamiento sexual la víctima pierde o se le obliga a abandonar su trabajo, por esta causa, la reparación del daño consistirá en la indemnización por despido injustificado, teniendo en cuenta su antigüedad laboral, al doble de lo previsto en la Ley Federal del Trabajo o del contrato respectivo.
 (REFORMADO, P.O. 30 DE ENERO DE 2016)
@@ -1395,7 +1395,8 @@ Al servidor público, docente o ministro de culto que reincidiere en la comisió
 La pena de prisión se aumentará hasta en una tercera parte del mínimo y una tercera parte del máximo de la prevista, cuando concurran cualquiera de los casos siguientes:
 I.- Si el delito se comete en conjunto por dos o más personas;
 II.- Si además hubiese asedio, seguimiento o persecución; y
-III.- Si se comete contra una persona menor de dieciocho años de edad, o que no tenga la capacidad de comprender el significado del hecho o con alguna discapacidad o que por cualquier causa no pueda resistirlo.
+(REFORMADA, P.O. 31 DE AGOSTO DE 2024)
+III.- Si se comete contra una persona menor de dieciocho años de edad, o que no tenga la capacidad de comprender el significado del hecho, o con alguna discapacidad, mediante el uso de la sumisión química o que por cualquier causa no pueda resistirlo.
 En el último supuesto, el delito se perseguirá de oficio. En los demás casos se procederá contra el responsable a petición de parte.
 Si el acosador es servidor público o con algún cargo honorario, además de la pena prevista en los párrafos anteriores, se le destituirá del cargo o empleo y se le inhabilitará para ejercer otro cargo público, por un tiempo igual al que dure la pena de prisión impuesta.
 (ADICIONADO, P.O. 6 DE JULIO DE 2024)
@@ -1416,8 +1417,8 @@ Para los efectos de este artículo, se entiende por cópula, la introducción de
 (REFORMADO, P.O. 18 DE ABRIL DE 2020)
 246 BIS.- Se equipara a la violación y se sancionará de catorce á veinte años de prisión y multa de seiscientos a un mil doscientas veces el valor de la unidad de medida y actualización, a quien tenga cópula con persona mayor de doce años y menor de dieciocho, obteniendo su consentimiento por medio de la seducción y el engaño.
 (DEROGADO SEGUNDO PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2021)
-(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2018)
-247.- Se equipara la violación, la cópula con persona menor de doce años de edad, aun cuando se hubiere obtenido su consentimiento, sea cual fuere su sexo; con persona privada de razón o sentido, o cuando por enfermedad o cualquiera otra causa no pudiere oponer resistencia. En tales casos, la pena será de diecisiete a veintisiete años de prisión y multa de mil seiscientos a dos mil cien el valor de la unidad de medida y actualización.
+(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2024)
+247.- Se equipara la violación, la cópula con persona menor de doce años de edad, aun cuando se hubiere obtenido su consentimiento, sea cual fuere su sexo; con persona privada de razón o sentido, mediante el uso de la sumisión química o cuando por enfermedad o cualquiera otra causa no pudiere oponer resistencia. En tales casos, la pena será de diecisiete a veintisiete años de prisión y multa de mil seiscientos a dos mil cien el valor de la unidad de medida y actualización.
 (ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2001)
 Se equipara a la violación y se sanciona con la misma pena, al que introduzca por vía vaginal o anal, cualquier elemento o instrumento distinto del miembro viril, por medio de la violencia física o moral, sea cual fuere el sexo del ofendido.
 (REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)
@@ -1449,7 +1450,8 @@ II. A quien mantenga una relación laboral, social, política con la víctima.
 III. A quien cometa el delito en contra de una persona que por su situación de discapacidad no comprenda el significado del hecho.
 IV. A quien cometa el delito en contra de una persona en situación de vulnerabilidad social, por su condición cultural, étnica y/o su pertenencia a algún pueblo originario.
 V. A quien cometa el delito contra menores de edad.
-VI. A quien con violencia obligue a la víctima a fabricar, hacer el contenido íntimo, sexual o erótico publicado.
+(REFORMADA, P.O. 31 DE AGOSTO DE 2024)
+VI. A quien con violencia obligue a la víctima a fabricar, hacer el contenido íntimo, sexual o erótico publicado o utilice la sumisión química para el mismo fin.
 VII. A quien amenace con la publicación o bloqueo de la difusión del contenido a cambio de un nuevo intercambio sexual o económico.
 VIII. Al responsable del medio de comunicación impreso o digital que compile o reproduzca estos contenidos y/o los haga públicos.
 IX. Cuando a consecuencia de los efectos o impactos del delito, la víctima atente contra su integridad o contra su propia vida.
@@ -1707,6 +1709,19 @@ Abandono de personas.
 Tampoco integran los elementos del cuerpo del delito previstos en el párrafo anterior, las conductas realizadas conforme a las disposiciones establecidas en la Ley de los Cuidados Paliativos para los Enfermos no Curables o en Situación Terminal del Estado de Oaxaca y la Ley de Voluntad Anticipada para el Estado de Oaxaca, suscritas y realizadas por el solicitante o representante, en el documento de voluntad anticipada para los efectos legales a que haya lugar.
 324.- Al que exponga en una casa de expósitos a un niño menor de siete años que se le hubiere confiado o lo entregue en otro establecimiento de beneficencia o a cualquiera persona, sin anuencia de la que se lo confió o de la autoridad en su defecto, se le aplicarán de un mes a un año de prisión y multa de cien a mil pesos.
 325.- Los ascendientes o tutores que entreguen en una casa de expósitos a un niño que esté bajo su potestad, perderán por ese sólo hecho los derechos que tengan sobre la persona y bienes del expósito.
+(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE AGOSTO DE 2024)
+CAPITULO IX.
+Sumisión química.
+(ADICIONADO, P.O. 31 DE AGOSTO DE 2024)
+325 Bis.- Comete el delito de sumisión química quién sin consentimiento de la víctima o mediante intimidación o engaño obligue, procure, facilite, induzca, propicie o favorezca el consumo de narcóticos, fármacos o cualquier otra sustancia natural o química, con uno o varios de los siguientes propósitos:
+I. Manipular, anular o disminuir la voluntad de la víctima;
+II. Generar una disminución del grado de vigilancia de la víctima;
+III. Vulnerar la capacidad de discernimiento de la víctima, o;
+IV. Provocar la completa inconsciencia de la víctima.
+(ADICIONADO, P.O. 31 DE AGOSTO DE 2024)
+325 Ter.- A quién cometa el delito de sumisión química se le aplicará de cinco a die (sic) años de prisión y multa de cincuenta a doscientas cincuenta veces el valor diario de la Unidad de Medida y Actualización. Lo anterior, sin perjuicio de las penas que correspondan a otros delitos que se cometiesen sobre la víctima de sumisión química.
+Si el autor del delito fuese persona empleada o colaboradora del establecimiento destinado a la venta y consumo de bebidas alcohólicas en donde se cometió el delito de sumisión química, o se tratase de un proveedor de servicios de dicho establecimiento, la pena se aumentará en una mitad.
+Si algún empleado o colaborador de un establecimiento destinado a la venta y consumo de bebidas alcohólicas o de un proveedor de servicios de dicho establecimiento, prestare ayuda al autor, coautor o cómplice del delito de sumisión química, la pena se aumentará en una tercera parte.
 TITULO DECIMOSEPTIMO.
 Delitos contra el honor.
 CAPITULO I.
