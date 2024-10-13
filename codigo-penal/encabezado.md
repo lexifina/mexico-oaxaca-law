@@ -1562,7 +1562,11 @@ Los delitos previstos en este artículo se perseguirán por querella.
 Decretado auto de vinculación a proceso en contra del agresor, se le suspenderá en el ejercicio de la patria potestad, de la tutela o de la guarda del menor.
 (REFORMADO, P.O. 19 DE ABRIL DE 1997)
 En lo aplicable y conducente, se sancionará con las mismas penas al que ejerza la tutela o la guarda de una persona privada de razón o sujeta a estado de interdicción por las lesiones que cause a ésta.
-282.- De las lesiones que a una persona cause algún animal bravío, será responsable el que con esa intención lo azuce, lo suelte o haga ésto último por descuido.
+(REFORMADO, P.O. 12 DE OCTUBRE DE 2024)
+282.- De las lesiones que a una persona cause algún animal, será responsable la persona que con esa intención lo azuce, lo suelte o haga esto último por descuido.
+En lo aplicable y conducente, se sancionará con las mismas penas que establecen los artículos 272 al 277 de este Código según la lesión que se haya inferido.
+Si la víctima fuera persona menor de edad, adulta mayor o persona con discapacidad, la pena correspondiente aumentará en un tercio.
+Conforme a lo establecido en el primer párrafo, se entenderá por animales a los animales domésticos, que son especies criadas, reproducidas y que conviven con las personas pero que no pertenecen a la fauna salvaje; animales de compañía, al animal feroz, por el que se entenderá al animal que no es ordinariamente domesticable o es peligrosos (sic) para los seres humanos por su agresividad, costumbres, tamaño o fuerza.
 283.- (DEROGADO, P.O. 19 DE ABRIL DE 1997)
 CAPITULO II.
 Disparo de arma de fuego y ataque peligroso.
@@ -1650,6 +1654,10 @@ La ventaja no se tomará en consideración en los tres primeros casos, si el que
 305.- Además de las sanciones que señalan los dos capítulos anteriores, los Jueces podrán, si lo creyeren conveniente:
 I.- Declarar a los infractores sujetos a la vigilancia de la policía; y
 II.- Prohibirles ir a determinado lugar o municipio o residir en él.
+(ADICIONADO, P.O. 12 DE OCTUBRE DE 2024)
+305 Bis.- De la muerte que a una persona cause algún animal será responsable el que con esa intención lo azuce, lo suelte o haga esto último por descuido.
+En el caso señalado en el párrafo anterior, al responsable del animal se le aplicarán las penas que correspondan conforme al capítulo de homicidio y conforme a la clasificación que para tal efecto hace este Código en los Capítulos correspondientes tratándose de delito doloso o culposo según corresponda.
+Si la víctima fuera persona menor de edad, adulta mayor o persona con discapacidad, la pena correspondiente aumentará en un tercio.
 CAPITULO V.
 Parricidio.
 306.- Se da el nombre de parricidio: al homicidio del padre, de la madre o de cualquier otro ascendiente consanguíneo y en línea recta, sean legítimos o naturales, sabiendo el infractor este parentesco.
