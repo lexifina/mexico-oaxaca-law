@@ -1199,6 +1199,15 @@ Delitos de abogados, patronos y litigantes.
 I.- Por patrocinar o ayudar a diversos contendientes o partes, con intereses opuestos en un mismo negocio o en negocios conexos; o cuando se acepte el patrocinio de alguno y se admita después el de la parte contraria;
 II.- Por abandonar la defensa de un cliente o negocio, sin motivo justificado y causando daño;
 III.- Al defensor de un inculpado, sea particular o de oficio, que sólo se concrete a aceptar el cargo y a solicitar la libertad caucional que menciona la fracción I del artículo 20 de la Constitución Federal, sin promover más pruebas ni dirigirlo en su defensa.
+(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 19 DE OCTUBRE DE 2024)
+CAPITULO III.
+Responsabilidad profesional.
+(ADICIONADO, P.O. 19 DE OCTUBRE DE 2024)
+223 Bis.- Se impondrán de tres meses a dos años de prisión, multa de hasta cien veces el valor diario vigente de la Unidad de Medida y Actualización y suspensión de tres meses a un año para ejercer la profesión a los directores, encargados, administradores o empleados de cualquier lugar donde se preste atención médica o instituciones de salud que:
+I. Impidan la salida de un paciente, aduciendo adeudos de cualquier índole;
+II. Impidan la entrega de un recién nacido, por el mismo motivo a que se refiere la parte final de la fracción anterior; y
+III. Retarden o nieguen la entrega de un cadáver, excepto cuando se requiera orden de autoridad competente.
+La misma pena se impondrá a los directores, encargados o administradores de agencias funerarias que retarden o nieguen indebidamente la entrega de un cadáver.
 TITULO DECIMO.
 Falsedad.
 CAPITULO I.
