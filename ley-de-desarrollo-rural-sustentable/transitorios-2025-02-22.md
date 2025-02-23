@@ -1,0 +1,5 @@
+P.O. 22 DE FEBRERO DE 2025.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 141.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN IV DEL ARTÍCULO 4, LA FRACCIÓN XII DEL ARTÍCULO 16; LAS FRACCIONES VII, XI Y XII DEL ARTÍCULO 39, LA FRACCIÓN IV DEL ARTÍCULO 61, EL ARTÍCULO 128, Y LA FRACCIÓN X DEL ARTÍCULO 151; Y SE ADICIONA LA FRACCIÓN XII AL ARTÍCULO 3 RECORRIÉNDOSE LA SUBSECUENTE, TODOS DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE OAXACA".]
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+TERCERO. Quedan sin efecto todas aquellas disposiciones contrarias al presente Decreto.
