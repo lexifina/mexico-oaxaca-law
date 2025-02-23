@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 28 DE JUNIO DE 2023)
+Artículo 9 Septies. Los Ayuntamientos podrán apoyar y sustentar su solicitud de solución de conflictos por límites territoriales, que presenten al Congreso del Estado, con los elementos técnicos de identificación de límites, incluyendo un listado de vértices en el que cada uno contenga un sistema de coordenadas métricas y cartográficas, y demás información oficial que expida el Instituto Nacional de Estadística y Geografía u otra institución oficial.

@@ -1,0 +1,6 @@
+P.O. 8 DE MARZO DE 2025.
+[N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 165 POR EL QUE "SE ADICIONA UN SEGUNDO Y TERCER PÁRRAFO AL ARTÍCULO 127 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+SEGUNDO. El Congreso del Estado, tendrá un plazo improrrogable de 180 días hábiles a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones normativas correspondientes a efecto de dar cumplimiento al mismo.
+TERCERO. Los Ayuntamientos y el Ejecutivo del Estado, deberán realizar las adecuaciones normativas, orgánicas y administrativas conducentes para cumplimiento de lo establecido en el presente Decreto en un periodo no mayor a 180 días hábiles, a partir de la entrada en vigor del mismo.
+CUARTO. El Poder Judicial del Estado de Michoacán de Ocampo, deberá realizar las adecuaciones normativas, orgánicas y administrativas conducentes en un periodo no mayor a 180 días hábiles, a partir de la entrada en vigor del presente Decreto, a efecto de dar cumplimiento a establecido al mismo, así como a lo establecido en los Lineamientos para Regular el Registro Nacional de Obligaciones Alimentarias.

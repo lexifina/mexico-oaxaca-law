@@ -1,0 +1,2 @@
+(ADICIONADO, P.O. 28 DE JUNIO DE 2023)
+Artículo 9 Bis. Para la solución de conflictos por límites territoriales entre los municipios del Estado de Michoacán de Ocampo, será el Congreso del Estado de Michoacán de Ocampo, la autoridad competente para conocer y resolver los conflictos que se susciten entre los municipios del Estado, de conformidad con lo establecido en la fracción X-B bis del artículo 44, de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.

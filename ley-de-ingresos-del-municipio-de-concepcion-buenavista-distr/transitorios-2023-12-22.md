@@ -1,0 +1,5 @@
+P.O. 22 DE DICIEMBRE DE 2023.
+[N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 481.- ARTÍCULO PRIMERO.- SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 48, EL ARTÍCULO 51 Y LA FRACCIÓN I DEL ARTÍCULO 55, TODOS DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO SEGUNDO.- SE REFORMAN LAS FRACCIONES VI, VIII Y XI Y SE ADICIONA LA FRACCIÓN XII RECORRIÉNDOSE LA SIGUIENTE EN SU ORDEN SUBSECUENTE, DEL ARTÍCULO 58; Y, SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 61 Y LA FRACCIÓN IX DEL ARTÍCULO 79, TODOS DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+PRIMERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+SEGUNDO. Notifíquese al Gobernador Constitucional del Estado de Michoacán de Ocampo, para que se sirva ordenar su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+TERCERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.

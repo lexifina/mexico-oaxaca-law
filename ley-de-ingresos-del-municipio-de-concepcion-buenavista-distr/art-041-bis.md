@@ -1,0 +1,3 @@
+(ADICIONADO, P.O. 13 DE JUNIO DE 2023)
+Artículo 41 bis. Los ayuntamientos deberán instalar y operar en un máximo de cuarenta y cinco días hábiles, a partir del inicio de sus funciones, su consejo municipal de seguridad pública, el cual tendrá las atribuciones y obligaciones que le confiere la Ley del Sistema Estatal de Seguridad Pública de Michoacán de Ocampo, mismas que deberán de estar incluidas en su reglamento correspondiente.
+Se dará por instalado el consejo municipal de seguridad pública, cuando el Ayuntamiento publique de manera oficial en el Periódico oficial del Estado su acta de instalación.
