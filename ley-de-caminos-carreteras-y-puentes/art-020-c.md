@@ -1,1 +1,0 @@
-Artículo 20.- C.A.O llevará un registro de las sociedades que se presenten a los concursos que convoque para otorgar las concesiones, así como de concesionarios y permisionarios a que se refiere esta ley.
