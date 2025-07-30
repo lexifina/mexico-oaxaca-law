@@ -1,6 +1,2 @@
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.
-(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)
-ARTÍCULO 64 Ñ.- Procederá la cancelación definitiva del registro, por:
-I. Haber obtenido el registro con información y/o documentación falsa;
-II. Reincidencia en la realización de los supuestos previstos en el artículo 64 J de esta Ley o cualquier otra disposición legal aplicable; y
-III. Ser condenado por delito intencional con motivo del ejercicio de sus funciones, mediante sentencia ejecutoriada que amerite pena corporal o que por la misma sea suspendido del ejercicio profesional.
+(REFORMADO, P.O. 29 DE JULIO DE 2025)
+ARTÍCULO 64 Ñ.- El Valuador Catastral y el analista valuador, deberán aplicar lo establecido en el Instructivo Técnico de Valuación, las tablas de valores de usos de suelo y de construcción que establezcan las Leyes de Ingresos de los Municipios del Estado, por lo que se encuentran impedidos para interpretar la zonificación que ya se encuentra determinada, en los instrumentos antes citados.

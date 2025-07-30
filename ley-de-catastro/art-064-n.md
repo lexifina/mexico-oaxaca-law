@@ -1,3 +1,2 @@
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.
-(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)
-ARTÍCULO 64 N.- Son causas de suspensión realizar cualquiera de los supuestos previstos en el artículo 64 J de esta ley.
+(REFORMADO, P.O. 29 DE JULIO DE 2025)
+ARTÍCULO 64 N.- El Valuador Catastral y el analista valuador, son el personal de apoyo del titular del área encargada de emitir los avalúos catastrales, que refiere el Reglamento de esta Ley.

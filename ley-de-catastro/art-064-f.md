@@ -1,9 +1,2 @@
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.
-(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)
-ARTÍCULO 64 F.- Para renovar el registro en el Padrón se deberá cumplir con los siguientes requisitos:
-I. Presentar la solicitud que para el caso publique el Instituto Catastral del Estado de Oaxaca;
-II. Comprobante de pago por concepto de renovación;
-III. (DEROGADA, P.O. 22 DE DICIEMBRE DE 2012)
-(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)
-IV. Acreditar un mínimo de cuarenta horas de capacitación sobre valuación catastral, impartida por el Instituto Catastral del Estado de Oaxaca o institución reconocida por la Secretaría de Educación Pública o la Secretaría del Trabajo y Previsión Social, durante el año inmediato anterior, y
-V. No encontrarse en los supuestos previstos en los artículos 64 N y Ñ de esta Ley.
+(REFORMADO, P.O. 29 DE JULIO DE 2025)
+ARTÍCULO 64 F.- De toda acta circunstanciada se dejará copia a la persona con quien se entendió la diligencia, aunque se hubiere negado a firmar, lo que no afectará la validez de la diligencia ni del documento de que se trate, siempre y cuando el verificador haga constar tal circunstancia en la propia acta.

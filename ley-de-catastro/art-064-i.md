@@ -1,3 +1,2 @@
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.
-(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)
-ARTÍCULO 64 I.- La función de Perito Valuador es incompatible con el servicio en la función y fe públicas, empleos, cargos de elección popular federal, estatal o municipal.
+(REFORMADO, P.O. 29 DE JULIO DE 2025)
+ARTÍCULO 64 I.- Los propietarios, poseedores, responsables, encargados u ocupantes de (sic) predio objeto del acta de verificación física, podrán formular observaciones en el acto de la diligencia y ofrecer pruebas en relación a los hechos contenidos en ella, o bien, por escrito, así como hacer uso de tal derecho dentro del término de cinco días hábiles siguientes a la fecha en que se hubiere levantado el acta respectiva.

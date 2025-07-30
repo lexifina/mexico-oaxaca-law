@@ -1,8 +1,2 @@
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.
-(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)
-ARTÍCULO 64 J.- Los Peritos Valuadores no podrán:
-I. Transmitir total o parcialmente, bajo cualquier título, los efectos que deriven del registro;
-II. Intervenir en asuntos que tengan interés directo o indirecto;
-III. Imponer condiciones, prestaciones u obligaciones a los particulares que no estén previstos en esta Ley y su Reglamento;
-IV. Alterar los datos de los avalúos que se practiquen y de los autorizados por el Instituto Catastral del Estado de Oaxaca; y
-V. Presentar un avalúo con uso de suelo distinto al que está destinado el inmueble.
+(REFORMADO, P.O. 29 DE JULIO DE 2025)
+ARTÍCULO 64 J.- Con la información recabada por los verificadores y los analistas valuadores del Instituto Catastral del Estado de Oaxaca, se procederá a realizar la Valuación Catastral, que es el procedimiento de valoración de los datos del predio, aplicando el Instructivo Técnico de Valuación, las tablas de valores de usos de suelo y de construcción, elaborando el documento oficial denominado Avalúo Catastral.

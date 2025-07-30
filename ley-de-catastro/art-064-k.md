@@ -1,8 +1,2 @@
-N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.
-(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)
-ARTÍCULO 64 K.- Los Peritos Valuadores que incumplan con las obligaciones establecidas en la presente Ley, se harán acreedores a la imposición de las siguientes sanciones:
-I. Amonestación por escrito;
-(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)
-II. Multa por el equivalente de quinientas a mil veces el valor de la Unidad de Medida y Actualización vigente;
-III. Suspensión temporal del registro de uno a seis meses; y
-IV. Cancelación definitiva del registro de Perito Valuador.
+(REFORMADO, P.O. 29 DE JULIO DE 2025)
+ARTÍCULO 64 K.- El Avaluó Catastral es el documento oficial por el cual se fija el valor de la base catastral de un bien Inmueble, que es el resultado de la suma del valor total del terreno, más y el valor total de la construcción, derivado del proceso de valoración que refiere el artículo anterior.
