@@ -1364,12 +1364,12 @@ CAPITULO VI.
 De la prestación irregular de servicios educativos.
 (ADICIONADO, P.O. 19 DE MAYO DE 2015)
 240 Quater.- Se impondrá prisión de seis meses a ocho años y multa de cinco mil a diez mil pesos al prestador de servicios educativos particulares que a sabiendas de que no tiene autorización o reconocimiento de validez oficial de estudios conforme a la ley aplicable, manifieste en su publicidad ó documentación tenerlo, no lo manifieste ó argumente que se encuentra en proceso de reconocimiento o autorización. La sanción prevista en esta fracción se impondrá sin perjuicio de las medidas que disponga la legislación administrativa y las sanciones que correspondan en su caso.
-(REFORMADA SU DENOMINACIÓN, P.O. 3 DE JUNIO DE 1995)
-TITULO DECIMOSEGUNDO.
-Delitos contra la libertad, la seguridad y el normal desarrollo psicosexual.
-(REFORMADA SU DENOMINACIÓN, P.O. 30 DE ENERO DE 2016)
-CAPITULO I.
-Abuso, hostigamiento y acoso sexual, estupro y violación.
+(REFORMADA SU DENOMINACIÓN, P.O. 13 DE SEPTIEMBRE DE 2025)
+TÍTULO DECIMOSEGUNDO.
+Delitos contra la libertad, la seguridad, el normal desarrollo psicosexual y la autonomía sexual.
+(REFORMADA SU DENOMINACIÓN, P.O. 13 DE SEPTIEMBRE DE 2025)
+CAPÍTULO I.
+Abuso, hostigamiento y acoso sexual, y violación.
 (REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2018)
 241.- Comete el delito de abuso sexual, quien sin consentimiento de una persona ejecute en ella o la haga ejecutar un acto sexual, que no sea la cópula, o la obligue a observar cualquier acto sexual aun a través de medios electrónicos. Al responsable de tal hecho, se le impondrá de tres a seis años de prisión y multa de cien a doscientas veces el valor de la unidad de medida y actualización.
 [N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO 1529, PUBLICADO EN EL P.O. DE 23 DE ENERO DE 2010, SE MODIFICO LA ESTRUCTURA DEL PRESENTE PÁRRAFO, PARA QUEDAR CONFORMADO POR TRES FRACCIONES.]
@@ -1419,33 +1419,43 @@ Si el acosador es servidor público o con algún cargo honorario, además de la 
 En este supuesto, el delito se perseguirá de oficio. En los demás casos se procederá contra el responsable a petición de parte.
 244.- (DEROGADO, P.O. 10 DE NOVIEMBRE DE 2018)
 245.- (DEROGADO, P.O. 10 DE NOVIEMBRE DE 2018)
-(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2018)
-246.- Al que por medio de la violencia física o moral tenga cópula con una persona sin la voluntad de ésta, sea cual fuere su sexo, se le impondrá prisión de catorce a veinte años y multa de seiscientos a un mil doscientas veces el valor de la Unidad de Medida y Actualización.
-(ADICIONADO, P.O. 7 DE FEBRERO DE 1998)
-Para los efectos de este artículo, se entiende por cópula, la introducción del miembro viril en el cuerpo de la víctima por vía vaginal, anal u oral, independientemente de su sexo.
-(REFORMADO, P.O. 18 DE ABRIL DE 2020)
-246 BIS.- Se equipara a la violación y se sancionará de catorce á veinte años de prisión y multa de seiscientos a un mil doscientas veces el valor de la unidad de medida y actualización, a quien tenga cópula con persona mayor de doce años y menor de dieciocho, obteniendo su consentimiento por medio de la seducción y el engaño.
-(DEROGADO SEGUNDO PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2021)
-(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2024)
-247.- Se equipara la violación, la cópula con persona menor de doce años de edad, aun cuando se hubiere obtenido su consentimiento, sea cual fuere su sexo; con persona privada de razón o sentido, mediante el uso de la sumisión química o cuando por enfermedad o cualquiera otra causa no pudiere oponer resistencia. En tales casos, la pena será de diecisiete a veintisiete años de prisión y multa de mil seiscientos a dos mil cien el valor de la unidad de medida y actualización.
-(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2001)
-Se equipara a la violación y se sanciona con la misma pena, al que introduzca por vía vaginal o anal, cualquier elemento o instrumento distinto del miembro viril, por medio de la violencia física o moral, sea cual fuere el sexo del ofendido.
+(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2025)
+246.- Se impondrá prisión de catorce a veinte años y multa de seiscientos a un mil doscientas veces el valor de la unidad de medida y actualización a quien, sin el consentimiento libre y voluntario o bajo el consentimiento en un contexto coercitivo de la víctima:
+I.- Penetre, total o parcialmente, con una parte del cuerpo, objeto u animal, la vagina o el ano de la víctima;
+II.- Penetre con el órgano sexual la cavidad bucal de la víctima; o
+III.- Cause que una tercera persona cometa el delito contra la víctima;
+IV.- Haga que la víctima se realice una penetración vaginal, anal u oral no consentida de carácter sexual, total o parcial.
+Se entenderá como contexto coercitivo aquella actividad sexual no deseada que se produce bajo presión no física sobre la víctima, para convencerla de que participe en un acto sexual con el que no está de acuerdo.
+246 BIS.- (DEROGADO, P.O. 13 DE SEPTIEMBRE DE 2025)
+(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2025)
+247.- Se equipara a la violación y se sancionará con pena de diecisiete a veintisiete años de prisión y multa de mil seiscientos a dos mil cien el valor de la unidad de medida de actualización, a quien cometa los actos sexuales descritos en el artículo 246 contra una persona menor de dieciocho años, aun cuando el sujeto activo alegue haber obtenido su consentimiento; o considerando el grado y contexto de la discapacidad de la víctima que no le permita consentir, o cuando por enfermedad o cualquier otra causa no pueda consentir válidamente el acto sexual de que se trate.
+En el caso de que la víctima sea persona menor de edad, no aplicará la prescripción de este delito.
+No serán punibles los adolescentes, que consientan en una relación sexual, siempre y cuando no medie entre ellos una diferencia mayor de dos años de edad, no exista un puesto o relación de confianza o autoridad hacia la víctima, ni esta está ligada a aquel mediante una relación de dependencia o explotación de la vulnerabilidad de la víctima.
+No están comprendidos en esta excepción los casos en que exista prevalimiento, o cuando una persona con discapacidad, considerando el grado y su contexto, no pueda consentir, así como, aquellos que excedan la diferencia de edad antes señalada.
+Se entenderá por prevalimiento cuando el sujeto activo lleva a cabo un hecho delictivo aprovechándose de la situación ventajosa de superioridad respecto de la víctima, que le dé la posibilidad de cometer el delito de manera más fácil y exitosa.
 (REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)
 248.- Cuando la violación fuere cometida con intervención directa o indirecta de dos o más personas, la pena será de diecisiete a veintisiete años de prisión y la multa de ochocientas a mil seiscientas veces el valor de la unidad de medida y actualización.
 Se impondrá sanción de veinte a treinta y dos años de prisión y multa de mil doscientas a mil setecientas veces el valor de la unidad de medida y actualización, cuando el sujeto pasivo sea menor de 18 años de edad, mayor de sesenta años, se encuentre privado de razón o sentido, o cuando por enfermedad o por cualquier otra causa no pudiese resistir el delito.
-(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ABRIL DE 2020)
-248 BIS.- Las penas que corresponden a los delitos de abuso sexual previsto por el artículo 241, violación, previsto por el artículo 246, violación equiparada, previsto por los artículos 246 BIS y 247, y violación tumultuaria, previsto por el artículo 248, se aumentarán hasta en una mitad en su mínimo y máximo cuando:
-(ADICIONADA, P.O. 7 DE FEBRERO DE 1998)
-I.- El delito fuere cometido por un pariente de la víctima sin limitación de grado en línea recta ascendente o descendente, o hasta el cuarto grado en línea colateral; por el tutor contra su pupilo, por el padrastro o madrastra en contra el hijastro o hijastra, por el amante del padre o de la madre del ofendido o por la persona que vive en concubinato con el padre o la madre del pasivo. En estos casos, además el culpable perderá todos los derechos familiares y hereditarios que le puedan corresponder por su vínculo con la víctima;
-(ADICIONADA, P.O. 7 DE FEBRERO DE 1998)
-II.- El hecho sea cometido por quien desempeñe un cargo o empleo público o ejerza una profesión utilizando los medios o las circunstancias que ellos le proporcione (sic). Además de la pena de prisión el condenado será destituido del cargo o empleo o suspendido por el término de cinco años en el ejercicio profesional;
-(ADICIONADA, P.O. 7 DE FEBRERO DE 1998)
-III.- El delito sea cometido por persona que tenga al ofendido bajo su custodia, tutela, guarda o educación, o que aproveche la confianza en él depositada;
-(ADICIONADA, P.O. 7 DE FEBRERO DE 1998)
-IV.- Tratándose del delito de violación, el hecho sea cometido por el cónyuge, concubina o concubino de la víctima.
-(ADICIONADA, P.O. 15 DE MAYO DE 2021)
-V.- El hecho sea cometido a bordo de un vehículo de servicio público o especial de transporte y el sujeto activo aproveche esa circunstancia para cometer el delito. Si el responsable fuere concesionario, además de la pena de prisión impuesta se le revocará la autorización respectiva.
-(DEROGADO ÚLTIMO PÁRRAFO, P.O. 30 DE ENERO DE 2016)
+(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2025)
+248 BIS.- Las penas que corresponden a los delitos sexuales previstos en los artículos 241, 246, 247 y 248, se aumentarán hasta en una mitad en su mínimo y máximo cuando:
+I.- El delito haya sido cometido contra el cónyuge o pareja, anterior o actual o por una persona con quien ha convivido o cohabitado la víctima. Para estos efectos, no se hará diferencia de la orientación sexual o la identidad de género de las parejas;
+II.- El sujeto activo tome ventaja de cualquier tipo de relación de confianza, autoridad, de poder o de subordinación con la víctima;
+III.- Los delitos de naturaleza sexual, se hayan cometido de forma reiterada;
+IV.- Se haya cometido en presencia de familiares de la víctima o de cualquier persona menor de edad;
+V.- El delito haya estado precedido o acompañado de niveles graves de violencia;
+VI.- El delito se haya cometido con el uso o amenaza de armas blancas o de fuego;
+VII.- Para la comisión del delito se haya suministrado a la víctima, drogas, medicamentos, alcohol u otras sustancias psicoactivas o el sujeto activo se aprovechare de que la víctima se encontraba en tal estado;
+VIII.- La víctima estaba inconsciente mientras se cometía el delito;
+IX.- El delito se haya cometido contra una víctima que estuviera privada de la libertad o en un centro de detención;
+X.- El delito se haya cometido contra una persona adulta mayor;
+XI.- El delito se haya cometido mediando una circunstancia discriminatoria contra la víctima por la raza, género, orientación sexual, religión, discapacidad y edad;
+XII.- Si el delito se haya cometido contra una persona durante la gestación;
+XIII.- Si el delito causó que la víctima contrajera alguna enfermedad de transmisión sexual o se embarazara;
+XIV.- Se aproveche de una persona en un contexto de vulnerabilidad social;
+Se entenderá por contexto de vulnerabilidad social como la situación de aquellas personas, grupos o familias que han visto deteriorada sus condiciones de vida social y personal. Está relacionado no solo con la situación social, sino también con la cultural, política y económica, debiendo ser: tiempos de conflicto armado, violencia política, disturbios sociales, desplazamiento interno forzado, situación migratoria o contexto de protección internacional, desastres naturales y explotación laboral y sexual;
+XV.- El sujeto activo sea un agente del Estado, o bien, cuente con la autorización, apoyo o aquiescencia de uno o más Agentes del Estado;
+XVI.- El hecho sea cometido a bordo de un vehículo de servicio público o especial de transporte y el sujeto activo aproveche esa circunstancia para cometer el delito. Si el responsable fuere concesionario o permisionario, además de la pena de prisión impuesta se le revocará el permiso o concesión respectiva;
+XVII.- El hecho sea cometido por quien desempeñe un cargo o empleo público o ejerza una profesión utilizando los medios o las circunstancias que le proporcione. Además de la pena de prisión el condenado será destituido del cargo o empleo o suspendido por el término de cinco años en el ejercicio profesional.
 (REFORMADA SU DENOMINACIÓN, P.O. 24 DE AGOSTO DE 2019)
 CAPÍTULO SEGUNDO.
 Delitos contra la intimidad sexual.
@@ -1471,13 +1481,49 @@ En los supuestos anteriores el delito se p0erseguirá (sic) de oficio.
 252.- (DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2001)
 253.- (DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2001)
 254.- (DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2001)
-CAPITULO III.
-Incesto.
-(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2018)
-255.- Se impondrá de dos a ocho años de prisión a los ascendientes que tengan relaciones sexuales con sus descendientes.
-(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)
-Los descendientes mayores de dieciséis años que voluntariamente tengan relaciones sexuales con sus ascendientes, serán sancionados con la pena de uno a cuatro años de prisión.
-Se aplicará esta misma pena en caso de incesto entre hermanos.
+(REFORMADA SU DENOMINACIÓN, P.O. 13 DE SEPTIEMBRE DE 2025)
+CAPÍTULO III.
+Violación sexual incestuosa contra menores de edad.
+(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2025)
+255.- Comete violación sexual incestuosa, quien viole a un niño, niña o adolescente, en su calidad de ascendiente o pariente hasta el cuarto grado de consanguinidad o segundo de afinidad o a quien se integre y forme parte del grupo familiar, se le impondrá prisión de catorce a veinticinco años.
+(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE SEPTIEMBRE DE 2025)
+CAPÍTULO III BIS.
+Del consentimiento en los delitos sexuales.
+(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2025)
+255 BIS.- En materia de delitos sexuales se entenderá por consentimiento:
+Cuando la voluntad se haya manifestado libremente mediante actos que, en atención a las circunstancias del contexto, expresen de manera clara la voluntad de la persona, y no sea retirado en ningún momento, ya sea mediante la anuencia verbal, o sea porque dicho consentimiento se deriva de un comportamiento evidentemente identificable con una participación voluntaria.
+(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2025)
+255 TER.- Para los efectos de este capítulo, el consentimiento libre y voluntario debe ser entendido afirmativamente por todas las partes y puede expresarse a través de palabras, acciones, conductas, movimientos, gestos o de otra forma que no deje duda de la aceptación.
+Dicho consentimiento libre y voluntario, no puede ni debe inferirse de:
+I.- El silencio de la víctima;
+II.- La no resistencia, verbal o física, por parte de la víctima;
+III.- Únicamente a partir de la sugerencia, solicitud o comunicación de la víctima con respecto al uso de un condón u otros métodos anticonceptivos;
+IV.- El comportamiento sexual pasado de la víctima;
+V.- La relación pasada o presente de la víctima, sexual o de otro tipo, con la presunta persona agresora;
+(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2025)
+255 QUATER. - Se considera que el consentimiento no es válido cuando:
+I.- La víctima sea una persona menor de 16 años de edad;
+II.- La víctima se encuentre inconsciente, dormida o intoxicada por el consumo de drogas, alcohol u otra substancia psicoactiva de manera voluntaria, involuntaria o inconscientemente;
+III.- La víctima esté enferma, sufra de una herida, o se encuentre especialmente vulnerable;
+IV.- La víctima considerando el grado y contexto, no tiene la capacidad de otorgar el consentimiento debido a un impedimento o discapacidad;
+V.- El consentimiento de la víctima sea obtenido a consecuencia de circunstancias coercitivas en el que se encuentra;
+(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2025)
+255 QUINQUIES.- Existen circunstancias coercitivas y el consentimiento no puede considerarse libre y voluntario, cuando:
+I.- La víctima fue objeto de violencia o abuso físico o emocional, engaño u opresión psicológica que contribuyó a su sometimiento;
+II.- La víctima fue privada de su libertad;
+III.- La víctima fue objeto de coacción, intimidación o amenazas respecto de daños presentes o futuros hacia ella o hacia terceras personas;
+IV.- Quien agrede se encuentra en una posición o relación de poder o autoridad sobre la víctima. Para estos efectos se consideran relaciones de poder o de autoridad las que se presentan:
+a) En un establecimiento educativo, centro de salud, centro religioso, centro de detención o bajo medidas de seguridad, o servicio de atención entre el personal a cargo y las personas que obtienen los servicios;
+b) En una relación jerárquica dada en un entorno profesional u ocupacional;
+c) Entre las personas encargadas de un centro de atención residencial, hogar comunitario, hogar voluntario, hogar infantil, albergue u orfanato y quienes reciben los servicios;
+d) Cuando se proporcione a la víctima apoyo o tratamiento médico, psiquiátrico, psicológico o psicosocial;
+e) En una relación de tutor, tutora, pupilo o pupila;
+f) Cuando el sujeto activo se aproveche del impedimento o discapacidad física, psicológica, mental o intelectual de la víctima;
+g) Cuando el sujeto activo tenga ocupaciones de trabajo social, oficial de libertad condicional, entrenamiento, instrucción, ministerio religioso, o persona cuidadora de niñas, niños, adolescentes o adultos mayores, o cualquier otro puesto de bienestar social en relación con la víctima;
+h) Cuando la persona autora participe o esté involucrada en el cuidado, vigilancia o tenga responsabilidad por la atención, entrenamiento o supervisión de la víctima;
+i) Cuando el sujeto activo sea un adulto y la víctima una persona menor de edad relacionada con aquel por vínculos de parentesco consanguíneo o por afinidad, jurídica o de hecho, hasta el tercer grado y el sujeto activo esté en posición de garante; por matrimonio, relación de noviazgo, unión de hecho, adopción o cuidado temporal.
+Se entenderá que se está en un supuesto de circunstancias coercitivas cuando:
+Exista (sic) situaciones en las que una persona o grupo ejerce presión, amenaza, intimidación u otros abusos para controlar o manipular a otra persona o grupo, restringiendo su libertad y autonomía. En estos contextos, se buscan obtener un comportamiento o decisión específica a través de la fuerza o el temor, en lugar de la persuasión o el acuerdo mutuo.
 CAPITULO IV.
 Adulterio.
 256.- (DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2001)
