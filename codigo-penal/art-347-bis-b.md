@@ -221,8 +221,8 @@ IV.- Marquen o señalen animales orejanos, a sabiendas de ser ajenos, aún en ca
 V.- Contramarquen o contraseñen animales ajenos, en cualquier parte, sin derecho para ello;
 VI.- Expidan certificados falsos para obtener guías, simulando ventas, o hagan conducir animales que no son de su propiedad, sin estar debidamente autorizados para ello, o se valgan de certificados o guías falsificadas para cualquier negociación sobre ganados o cueros;
 VII.- Siendo autoridades expidan guías falsas;
-(ADICIONADA, P.O. 5 DE ENERO DE 1985)
-VIII.- Sin tomar las medidas indispensables para cerciorarse de la procedencia legítima de los animales, adquieran ganado producto del abigeato;
+(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2025)
+VIII.- Sin tomar las medidas indispensables para cerciorarse de la procedencia legítima de los animales, transporten, resguarden, retengan, custodien o adquieran ganado producto del abigeato;
 (ADICIONADA, P.O. 5 DE ENERO DE 1985)
 IX.- Sin verificar su procedencia legítima, comercien, de primera mano, con pieles, carnes u otros derivados de los animales producto del abigeato.
 (ADICIONADO, P.O. 31 DE AGOSTO DE 2015)
