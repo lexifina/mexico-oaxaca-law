@@ -194,6 +194,9 @@ I. Se aplicarán de 2 a 4 años de prisión y multa de 100 a 300 veces el valor 
 II. De 6 meses a 2 años de prisión y multa de 50 a 150 veces el valor diario de la Unidad de Medida y Actualización, cuando el valor de la afectación patrimonial no exceda de cien veces el valor diario de la Unidad de Medida y Actualización.
 (ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2023)
 369 Sexies.- Los delitos señalados de los artículos 369 Ter al 369 Quinquies se perseguirán de oficio.
+(ADICIONADO, P.O. 4 DE OCTUBRE DE 2025)
+369 Septies. A quien sin derecho y sin consentimiento de la persona que pueda disponer de ella con arreglo a la ley, se apodere, transporte, comercialice o almacene cualquier especie de agave, desde su etapa de plantación, crecimiento y hasta su aprovechamiento, se le impondrán las penas y sanciones que prevén los artículos 353, 354 Y 355 de este Código.
+Este delito se perseguirá por querella.
 CAPITULO II.
 Abigeato.
 (REFORMADO, P.O. 3 DE AGOSTO DE 2019)
