@@ -733,8 +733,10 @@ Si con alguna de las conductas previstas en este artículo resulta la comisión 
 (ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 21 DE NOVIEMBRE DE 2008)
 CAPITULO VI
 Provocación de un delito y apología de éste.
-(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2020)
-165 Bis.- Al que provoque públicamente a cometer un delito, o haga la apología de éste, se le aplicará prisión de tres días a un año y multa de veinte a cien veces el valor de la Unidad de Medida y Actualización vigente, si el delito no se ejecutare. En caso contrario, se aplicará al provocador la sanción que le corresponda por su participación en el delito cometido.
+(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2025)
+165 Bis. Al que provoque o motive públicamente a cometer un delito, o haga la apología de éste, se le aplicará prisión de tres días a un año y multa de veinte a cien veces el valor de la Unidad de Medida y Actualización vigente, si el delito no se ejecutare. En caso de que se cometa el delito, se aplicará a la persona que motivó o provocó su realización, la sanción que le corresponda por su participación en el delito cometido.
+(ADICIONADO, P.O. 11 DE OCTUBRE DE 2025)
+Cuando la realización de la conducta descrita en el párrafo que antecede se realice a través de videojuegos, medios electrónicos o digitales, redes sociales o cualquier otro medio que utilice una red pública o privada de telecomunicaciones, involucrando a una o varias personas menores de dieciocho años de edad o a una o varias personas que no tienen la capacidad para comprender el significado del hecho o para resistirlo, la pena de prisión y sanción pecuniaria que corresponda por el delito cometido, se impondrá al doble a la persona que motivó o provocó su realización.
 (ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)
 CAPITULO VII
 Del Sistema de Seguridad Pública.
@@ -859,8 +861,9 @@ Para efectos de este artículo, se entiende cerca de escuelas, cuando la venta s
 (REFORMADA SU DENOMINACIÓN, P.O. 22 DE OCTUBRE DE 2022)
 TITULO SEXTO.
 Delitos contra la dignidad y el desarrollo de las personas menores de edad o de quienes no tienen la capacidad para comprender el significado del hecho.
-(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2008)
-CAPITULO UNICO.
+(REFORMADO, P.O. 11 DE OCTUBRE DE 2025)
+CAPITULO I
+Delitos cometidos contra el libre desarrollo de la personalidad
 (REFORMADO, P.O. 21 DE NOVIEMBRE DE 2008)
 194.- Comete el delito de corrupción de personas menores de dieciocho años de edad o personas que no tienen la capacidad para comprender el significado del hecho:
 (REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE OCTUBRE DE 2022)
@@ -884,6 +887,8 @@ Las anteriores sanciones se impondrán con independencia de otros delitos que se
 La contravención a esta disposición se castigará con prisión de uno a tres años y de trescientos (sic) a setecientas veces el valor de la Unidad de Medida y Actualización vigente; en caso de reincidencia, se ordenará el cierre definitivo del establecimiento.
 Se les impondrá la misma pena a las madres, padres, tutores o curadores que acepten o promuevan que sus hijas o hijos menores de dieciocho años de edad, o personas menores de dieciocho años de edad o personas que estén bajo su guarda, custodia o tutela, sean empleados en los referidos establecimientos.
 Para los efectos de este precepto se considerará como empleado en la cantina, taberna, bar o centro de vicio, a la persona menor de dieciocho años que por un salario, por la sola comida, por comisión de cualquier índole o por cualquier otro estipendio o emolumento, o gratuitamente, preste sus servicios en tal lugar.
+(ADICIONADO, P.O. 11 DE OCTUBRE DE 2025)
+194 Ter.- A quién a través de videojuegos, medios electrónicos o digitales, redes sociales o cualquier otro medio que utilice una red pública o privada de telecomunicaciones, motive, induzca, manipule, amenace u obligue a una o más personas menores de dieciocho años o personas que no tengan la capacidad para comprender el significado del hecho o para resistirlo, a realizar alguna actividad ilícita o atentar contra su salud, integridad física y su vida o la de otra persona, se le sancionará con pena de siete a doce años de prisión y multa de seiscientos a ochocientos cuarenta veces el valor de la Unidad de Medida y Actualización vigente.
 (REFORMADO, P.O. 21 DE NOVIEMBRE DE 2008)
 195.- Comete el delito de pornografía infantil:
 (REFORMADA, P.O. 19 DE DICIEMBRE DE 2020)

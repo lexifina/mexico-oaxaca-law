@@ -61,6 +61,16 @@ Al particular que comete el delito de desaparición forzada de personas, se le i
 La pena de prisión podrá ser disminuida hasta en una tercera parte en beneficio de aquel que hubiere participado en la comisión del delito, cuando administre información que permita esclarecer los hechos; y hasta en una mitad, cuando contribuya a lograr la aparición con vida de la víctima.
 (ADICIONADO, P.O. 1 DE ABRIL DE 2002)
 El Estado y los municipios serán solidariamente responsables del pago de los daños y perjuicios causados por sus servidores públicos.
+(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 11 DE OCTUBRE DE 2025)
+CAPITULO IV BIS
+Reclutamiento ilegal de personas.
+(ADICIONADO, P.O. 11 DE OCTUBRE DE 2025)
+348 Ter.- Comete el delito de reclutamiento ilegal, la persona física o moral que, utilizando medios electrónicos, digitales, redes sociales, redes públicas o privadas de telecomunicaciones o cualquier otro medio, reclute, emplee, obligue, o coaccione a una o varias personas con la finalidad de cometer uno o varios delitos establecidos en este Código o en alguna Ley especial.
+A quien cometa este delito se le impondrá una pena de seis a diez años de prisión y multa de mil a mil quinientas Unidades de Medida y Actualización.
+La pena se incrementará hasta en una mitad de la mínima y una mitad de la máxima, en los siguientes casos:
+I. Cuando se cometa en contra de menores de edad o personas que no tienen la capacidad para comprender el significado del hecho;
+II. Cuando se emplee violencia física o moral, y
+III. Cuando se aproveche de la condición de pobreza o exclusión del sistema educativo de la víctima.
 (DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO CUARTO DE LA LEY PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VICTIMAS DE ESTOS DELITOS EN EL ESTADO DE OAXACA, P.O. 22 DE JUNIO DE 2012) (REPUBLICADA SU DEROGACIÓN, P.O. 12 DE MAYO DE 2018)
 CAPITULO V.
 Trata de personas.
