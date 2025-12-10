@@ -1,10 +1,13 @@
-(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2019)
-ARTICULO 8 B.- El Estado a través de la Secretaría constituirá un Fideicomiso de Administración y Pago, con las subcuentas que sean necesarias para identificar los recursos de Participaciones y Aportaciones que correspondan a los Municipios, siempre que exista alguna de las causas que se citan a continuación, y que subsista por un período de tiempo mayor a sesenta días hábiles, y fuera imposible ministrar los recursos que por disposición legal les corresponda.
-(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 31 DE DICIEMBRE DE 2015)
-Son causales que imposibilitan la ministración de recursos de Participaciones y Aportaciones, entre otras:
-I. La declaración de nulidad de elecciones de autoridades municipales declarada por el órgano electoral competente;
-(REFORMADA, P.O. 21 DE DICIEMBRE DE 2024)
-II. La ausencia legalmente notificada de concejos municipales y/o comisionados municipales provisionales, y
-III. Cualquier otra que impida tener certeza jurídica de quien o quienes son los servidores públicos municipales responsables de la administración de la hacienda pública municipal.
-(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)
-Una vez superado (sic) las causales de imposibilidad la Secretaría de Finanzas ordenará al Fiduciario la transferencia de recursos a las cuentas bancarias productivas específicas que señalen las autoridades municipales, incluidas en ellas los rendimientos financieros que se hayan generado en las cuentas del Fideicomiso a que se refiere el presente Artículo.
+(REFORMADO, P.O. 10 DE DICIEMBRE DE 2025)
+ARTICULO 8 B.- El Ejecutivo Estatal, a través de la Secretaría, transferirá los recursos de Participaciones y Aportaciones que correspondan a los Municipios, a las cuentas de controversias que ésta aperture, por un período no mayor a sesenta días hábiles, cuando no se pueda dar cumplimiento a lo establecido en el artículo 8 de esta Ley.
+Son causales que imposibilitan el cumplimiento de lo dispuesto en el artículo 8 de esta Ley, entre otras:
+I. La notificación de la resolución judicial en donde se determine la suspensión de los derechos políticos electorales de uno o varios integrantes del ayuntamiento, que impidan el funcionamiento de éste, el ejercicio de sus atribuciones y/o el nombramiento del tesorero municipal;
+II. La declaratoria de revocación de mandato y/o sustitución de concejales determinada por el Congreso, que impidan el funcionamiento o el ejercicio de las atribuciones del ayuntamiento, o el nombramiento del tesorero municipal;
+III. La declaración de nulidad de elecciones de autoridades municipales, emitida por el órgano electoral competente;
+IV. El rechazo al momento del pago de las Participaciones y Aportaciones que correspondan a los Municipios por cuenta bloqueada, suspendida o cancelada por la institución bancaria, o por cualquier circunstancia que dependa directamente del Municipio y/o la institución financiera correspondiente, siempre que los hechos no sean imputables a la Secretaría.
+En este caso, los recursos serán transferidos a la cuenta de controversias en el plazo de tres días hábiles contados a partir de que se genere el rechazo respectivo, y
+V. Cualquier otra que impida tener certeza jurídica de quién o quiénes son los servidores públicos municipales responsables de la administración de la hacienda pública municipal.
+Una vez superadas las causales de imposibilidad establecidas en este artículo, la Secretaría realizará la transferencia de los recursos de Participaciones y Aportaciones a las cuentas bancarias productivas específicas notificadas por los Municipios, en un plazo máximo de cinco días hábiles.
+Asimismo, la Secretaría a más tardar en el mes siguiente a aquel en que sean transferidos los recursos previstos en el párrafo anterior, realizará la transferencia de los rendimientos financieros que se hayan generado conforme a la tasa bruta anual reflejada en el estado de cuenta del mes inmediato anterior al que se realice el pago, a las cuentas bancarias productivas específicas notificadas por los Municipios.
+Cuando exista la causal de imposibilidad prevista en la fracción III del párrafo segundo del artículo 8 A de esta Ley, los recursos permanecerán en las cuentas de los Fondos de Participaciones y de Aportaciones aperturadas por la Secretaría, por un plazo de hasta sesenta días hábiles; una vez que el Municipio notifique a la Secretaría sus cuentas bancarias productivas específicas, los recursos de Participaciones y Aportaciones que les correspondan les serán entregados incluyendo los rendimientos financieros que se hayan generado, en un plazo máximo de cinco días hábiles.
+Lo anterior sin perjuicio de la normatividad aplicable.
