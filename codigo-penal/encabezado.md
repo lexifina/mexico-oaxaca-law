@@ -430,6 +430,12 @@ Reincidencia y habitualidad.
 71.- Si el reincidente en el mismo género de infracciones comete un nuevo delito procedente de la misma pasión o inclinación viciosa, será considerado como delincuente habitual, siempre que las tres infracciones se hayan cometido en un período que no exceda de diez años.
 (REFORMADO, P.O. 3 DE OCTUBRE DE 1998)
 72.- En las prevenciones de los dos artículos anteriores, se comprenden los casos en que uno solo de los delitos, o todos, queden en cualquier momento de la tentativa, sea cual fuere el carácter con que intervenga el responsable.
+(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 13 DE DICIEMBRE DE 2025)
+CAPITULO X.
+Inteligencia Artificial
+(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2025)
+72 BIS.- Cuando se emplee la inteligencia artificial como medio comisivo en la ejecución de conductas típicas previstas en la presente legislación, la pena se incrementará en un tercio de la mínima y hasta un tercio de la máxima para cada delito.
+Para efectos del párrafo anterior, se entenderá por inteligencia artificial a la capacidad de los sistemas tecnológicos, informáticos, softwares o aplicaciones basadas en algoritmos, para simular o realizar tareas que requieran capacidades humanas como el razonamiento, el aprendizaje, la creatividad, la capacidad de planear y procesar datos para la realización de tareas específicas y autónomas.
 (REFORMADO, P.O. 3 DE OCTUBRE DE 1998)
 TITULO QUINTO.
 Aplicación de sanciones.
@@ -1468,6 +1474,8 @@ Delitos contra la intimidad sexual.
 249.- Comete el delito de violación a la intimidad sexual quien por cualquier medio divulgue, comparta, distribuya, publique, comercialice, intercambie y/o solicite imágenes, audios o videos de una persona, de contenido íntimo, erótico o sexual, ya sea impreso, grabado o digital, sin el consentimiento de la víctima.
 Así como quien videograbe, audiograbe, fotografíe, imprima o elabore imágenes, audios o videos reales o simulados con contenido íntimo sexual de una persona a través del engaño y/o sin su consentimiento.
 Esta conducta se sancionará de cuatro a ocho años de prisión y multa de mil a dos mil veces el valor diario de la unidad de medida y actualización vigente al omento (sic) de que se cometa el delito. Este delito se perseguirá por querella.
+(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2025)
+Se impondrán las mismas penas previstas en el tercer párrafo del presente artículo, a quien haciendo uso de la Inteligencia Artificial, manipule imágenes, audios o videos, de contenido íntimo sexual de una persona, para crear, hechos falsos con apariencia real, con el propósito de exponer, distribuir, difundir, exhibir, reproducir, transmitir, comercializar, ofertar, intercambiar y/o compartir a través de materiales impresos, correo electrónico, mensajes telefónicos, redes sociales o cualquier otro medio tecnológico, sin su consentimiento expreso, voluntario, genuino y deseado.
 Las mismas penas se aumentarán hasta en una mitad del máximo:
 I. A quien cometa el delito en contra de su cónyuge o en contra de la persona con la que esté, o haya estado unida por alguna relación de afectividad, aún sin convivencia.
 II. A quien mantenga una relación laboral, social, política con la víctima.
