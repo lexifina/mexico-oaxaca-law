@@ -2,5 +2,8 @@
 Artículo 137 Bis.- Se entiende por identidad de género a toda aquella convicción personal e interna, tal como cada persona se percibe así (sic) misma, la cual puede corresponder o no, a su sexo al nacer y asignado en el acta primigenía. En ningún caso será requisito acreditar intervención quirúrgica alguna, terapias u otro diagnóstico o procedimiento para el reconocimiento de la identidad de género.
 Las personas que requieran el reconocimiento de su identidad de género, deberán solicitar una nueva acta de nacimiento, previa la anotación correspondiente en su acta de nacimiento primigenia.
 Los efectos de la nueva acta de nacimiento para la identidad de género realizados, serán oponibles a terceros desde su levantamiento.
-El reconocimiento respectivo se llevará a cabo ante la Oficialía del Registro Civil que corresponda, cumpliendo todas las formalidades que exige el Reglamento.
+(REFORMADO, P.O. 13 DE DICIEMBRE DE 2025)
+El reconocimiento respectivo se llevará a cabo ante la Oficialía del Registro Civil que corresponda, cumpliendo todas las formalidades que exigen las disposiciones normativas aplicables.
 Los derechos y obligaciones contraídos con anterioridad al proceso para el reconocimiento de identidad de género y a la expedición de la nueva acta, no se modifican ni se extinguen con la nueva identidad jurídica de la persona, incluidos los provenientes de las relaciones propias del derecho de familia en todos sus órdenes y grados, los que se mantendrán inmodificables.
+(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2025)
+La reversión del reconocimiento de identidad de género, se substanciará mediante procedimiento formal y materialmente administrativo ante la dirección del registro civil. La resolución del procedimiento no modificará, extinguirá ni suspenderá relaciones jurídicas, obligaciones, derechos o responsabilidades previamente adquiridas por la persona.
