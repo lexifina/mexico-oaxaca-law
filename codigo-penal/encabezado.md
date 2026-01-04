@@ -872,8 +872,8 @@ CAPITULO I
 Delitos cometidos contra el libre desarrollo de la personalidad
 (REFORMADO, P.O. 21 DE NOVIEMBRE DE 2008)
 194.- Comete el delito de corrupción de personas menores de dieciocho años de edad o personas que no tienen la capacidad para comprender el significado del hecho:
-(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE OCTUBRE DE 2022)
-I. Al que por cualquier medio induzca, procure, facilite u obligue a una de las personas antes señaladas al consumo reiterado de bebidas embriagantes o tabaco, en cualquiera de sus presentaciones; al consumo de sustancias tóxicas o narcóticos; a cometer hechos delictuosos; o a formar parte de una asociación delictuosa.
+(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE ENERO DE 2026)
+I. Al que por cualquier medio induzca, procure, facilite u obligue a una de las personas antes señaladas al consumo reiterado de bebidas embriagantes, tabaco, cigarrillos electrónicos, vapeadores, al consumo de sustancias tóxicas, narcóticos, precursores químicos, fentanilo en cualquiera de sus presentaciones y demás drogas sintéticas; a cometer hechos delictuosos; o a formar parte de una asociación delictuosa.
 (REFORMADO, P.O. 19 DE DICIEMBRE DE 2020)
 A quien cometa cualquiera de las conductas descritas se le impondrá de cinco a diez años de prisión y multa de quinientas a setecientas treinta veces el valor diario de la Unidad de Medida y Actualización.
 (ADICIONADO, P.O. 19 DE DICIEMBRE DE 2020)
