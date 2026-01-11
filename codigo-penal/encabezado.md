@@ -1381,8 +1381,8 @@ Delitos contra la libertad, la seguridad, el normal desarrollo psicosexual y la 
 (REFORMADA SU DENOMINACIÓN, P.O. 13 DE SEPTIEMBRE DE 2025)
 CAPÍTULO I.
 Abuso, hostigamiento y acoso sexual, y violación.
-(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2018)
-241.- Comete el delito de abuso sexual, quien sin consentimiento de una persona ejecute en ella o la haga ejecutar un acto sexual, que no sea la cópula, o la obligue a observar cualquier acto sexual aun a través de medios electrónicos. Al responsable de tal hecho, se le impondrá de tres a seis años de prisión y multa de cien a doscientas veces el valor de la unidad de medida y actualización.
+(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ENERO DE 2026)
+241.- Comete el delito de abuso sexual, quien, sin el consentimiento de la víctima, ejecute en ella o la haga ejecutar, en el ámbito público o privado, sin el propósito de llegar a la cópula, cualquier acto de naturaleza sexual, la obligue a observarlo o la haga ejecutarlo sobre sí, para un tercero o para el propio sujeto activo, o bien se obligue a la víctima a exhibir su cuerpo, a través de cualquier medio electrónico. Se entenderá por actos de naturaleza sexual, los tocamientos, caricias, roces corporales, manoseos, exhibiciones o representaciones sexuales explícitas. Al responsable de tal hecho, se le impondrá de seis a diez años de prisión y multa de doscientas a quinientas veces el valor de la Unidad de Medida y Actualización.
 [N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO 1529, PUBLICADO EN EL P.O. DE 23 DE ENERO DE 2010, SE MODIFICO LA ESTRUCTURA DEL PRESENTE PÁRRAFO, PARA QUEDAR CONFORMADO POR TRES FRACCIONES.]
 (REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 15 DE SEPTIEMBRE DE 2001)
 La pena prevista en esté delito, se aumentará en una mitad en su mínimo y en su máximo cuando:
@@ -1392,14 +1392,20 @@ I.- Sea cometido por dos o más personas;
 II.- Se hiciere uso de violencia física o moral; y
 (REFORMADA, P.O. 31 DE AGOSTO DE 2024)
 III.- Se utilice la sumisión química.
-(ADICIONADA, P.O.22 DE MAYO DE 2021)
-IV.- El delito fuere cometido en contra de una persona mayor de catorce años y menor de dieciocho años de edad o que no tenga la capacidad de comprender el significado del hecho o por cualquier causa no pueda resistirlo; o
-(ADICIONADA, P.O.22 DE MAYO DE 2021)
-V.- Sea cometido dentro de centros educativos, culturales, deportivos, religiosos o de trabajo;
+(REFORMADA, P.O. 10 DE ENERO DE 2026)
+IV.- El delito fuere cometido en contra de una persona mayor de catorce años y menor de dieciocho años de edad o que no tenga la capacidad de comprender el significado del hecho o por cualquier causa no pueda resistirlo;
+(REFORMADA, P.O. 10 DE ENERO DE 2026)
+V.- Sea cometido dentro de centros educativos, culturales, deportivos, religiosos o de trabajo; o
+(ADICIONADA, P.O. 10 DE ENERO DE 2026)
+VI.- Fuera cometido en la vía pública; en los medios de transporte u oficinas gubernamentales.
 (DEROGADO TERCER PÁRRAFO, P.O.22 DE MAYO DE 2021)
 (REFORMADO, P.O.22 DE MAYO DE 2021)
 Cuando el delito fuere cometido por un servidor público, docente o ministro de culto y utilizare los medios o circunstancias que el encargo le proporcione, además de la pena de prisión impuesta, será inhabilitado, destituido o suspendido, de su empleo público o profesión, por un tiempo igual al que dure la pena de prisión impuesta. A los autores y. participes del delito previsto en este artículo no se les concederá ningún beneficio preliberacional en ejecución de sentencia.
 (DEROGADO QUINTO PÁRRAFO, P.O.22 DE MAYO DE 2021)
+(ADICIONADO, P.O. 10 DE ENERO DE 2026)
+Además, se le impondrá la obligación de asistir a los programas de reeducación integral que brindan los Centros de Reeducación para Agresores y/o prestar servicio social en favor del Estado o de instituciones de beneficencia pública como medidas de no repetición que promuevan un cambio cultural a favor de la igualdad sustantiva entre mujeres y hombres.
+(ADICIONADO, P.O. 10 DE ENERO DE 2026)
+Este delito se perseguirá de oficio.
 (REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2018)
 241 Bis.- Comete el delito de hostigamiento sexual el que valiéndose de su posición jerárquica o de poder derivada de la relación laboral, docente, doméstica, religiosa, familiar o cualquiera otra que genere subordinación, asedie a otra persona solicitándole favores o propuestas de naturaleza sexual para sí o para un tercero, o utilice lenguaje lascivo con ese fin, causando daño o sufrimiento psicoemocional que lesione su dignidad. Al responsable, se le impondrá prisión de dos a cuatro años, multa de doscientas a cuatrocientas veces el valor de la unidad de medida y actualización. Este delito se perseguirá por querella de parte ofendida.
 (REFORMADO, P.O. 30 DE ENERO DE 2016)
