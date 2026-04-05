@@ -6,3 +6,4 @@ Oaxaca de Juárez, a 12 de diciembre de 1950.- Lic. Guillermo Candiani.- El Subs
 Y lo comunico a usted para su conocimiento y fines consiguientes.
 Sufragio Efectivo. No Reelección.- El Respeto al Derecho Ajeno es la Paz.- Oaxaca de Juárez, a 12 de diciembre de 1950.- El Subsecretario Enc. del Despacho, Lic. Rodolfo Alavez Flores.- Rúbrica.
 Al C. . . . . . .
+N. DE E. A CONTINUACIÓN, SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
