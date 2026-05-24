@@ -1,0 +1,4 @@
+P.O. 23 DE MAYO DE 2026.
+[N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1496.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN I DEL ARTÍCULO 6, LAS FRACCIONES XIX, XXI Y LX DEL ARTICULO 22, Y LAS FRACCIONES IV Y VII DEL ARTICULO 63; Y SE ADICIONA LA FRACCION VIII RECORRIENDOSE LAS SUBSECUENTES AL ARTICULO 16, TODOS DE LA LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE OAXACA ".]
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.

@@ -1653,12 +1653,14 @@ Si con los actos a que se refiere este artículo se causare algún daño, se apl
 CAPITULO III.
 Homicidio.
 285.- Comete el delito de homicidio el que priva de la vida a otro.
-286.- Para la aplicación de las sanciones que correspondan al que infrinja el artículo anterior, no se tendrá como mortal una lesión sino cuando se verifiquen las tres circunstancias siguientes:
+(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MAYO DE 2026)
+286.- Para la aplicación de las sanciones que correspondan al que infrinja el artículo anterior, no se tendrá como mortal una lesión sino cuando se verifiquen las circunstancias siguientes:
 I.- Que la muerte se deba a las alteraciones causadas por la lesión en el órgano u órganos interesados, a alguna de sus consecuencias inmediatas o alguna complicación determinada por la misma lesión y que no pudo combatirse, ya sea por ser incurable, ya por no tenerse al alcance los recursos necesarios;
-II.- Que la muerte del ofendido se verifique dentro de sesenta días contados desde que fue lesionado;
+II.- (DEROGADA, P.O. 23 DE MAYO DE 2026)
 III.- Que si se encuentra el cadáver del occiso declaren los peritos, después de hacer la autopsia que la lesión fue mortal, sujetándose para ello a las reglas contenidas en este Artículo, en los dos siguientes y en el Código de Procedimientos Penales.
 Cuando el cadáver no se encuentre, o por otro motivo no se haga la autopsia, bastará que los peritos en vista de los datos que obran en la causa, declaren que la muerte fue resultado de las lesiones inferidas.
-287.- Siempre que se verifiquen las tres circunstancias del artículo anterior, se tendrá como mortal una lesión, aunque se pruebe:
+(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MAYO DE 2026)
+287.- Siempre que se verifiquen las circunstancias del artículo anterior, se tendrá como mortal una lesión, aunque se pruebe:
 I.- Que se habría evitado la muerte con auxilios oportunos;
 II.- Que la lesión no habría sido mortal en otra persona;
 III.- Que fué a causa de la constitución física de la víctima o de las circunstancias en que recibió la lesión.
