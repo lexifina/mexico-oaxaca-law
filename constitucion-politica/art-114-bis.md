@@ -14,9 +14,12 @@ a) Se exceda el gasto de campaña en un cinco por ciento del monto total autoriz
 b) Se compre o adquiera cobertura informativa o tiempos en radio y televisión, fuera de los supuestos previstos en la Ley.
 (REFORMADO, P.O. 30 DE MAYO DE 2020)
 c) Se reciban o utilicen recursos de procedencia ilícita o recursos públicos en las campañas;
-(ADICIONADO, P.O. 30 DE MAYO DE 2020)
-d) Se acredite violencia política contra las mujeres en razón de género, y
-e) Las demás causas previstas en esta Constitución y por las causas expresamente establecidas en la Ley.
+(REFORMADO, P.O. 27 DE JUNIO DE 2026)
+d) Se acredite violencia política contra las mujeres en razón de género;
+(ADICIONADO, P.O. 27 DE JUNIO DE 2026)
+e) Se acrediten actos de intervención o injerencia extranjera que influyan en los resultados electorales; y
+(REFORMADO, P.O. 27 DE JUNIO DE 2026)
+f) Las demás causas previstas en esta Constitución y las causas expresamente establecidas en la Ley.
 VII. Dichas violaciones deberán acreditarse de manera objetiva y material. Se presumirá que las violaciones son determinantes cuando la diferencia entre la votación obtenida entre el primero y el segundo lugar sea menor al cinco por ciento. En caso de nulidad de la elección, se convocará a una elección extraordinaria, en la que no podrá participar la persona sancionada.
 (REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)
 VIII. Resolver los medios de impugnación que se presenten para controvertir los resultados de los procesos de revocación de mandato, así como las determinaciones del Instituto Estatal Electoral y de Participación Ciudadana de Oaxaca, sobre la misma materia, de acuerdo con lo previsto en los artículos. 25 apartado D, y 114 BIS fracción I, de esta Constitución; realizar el cómputo final de la votación del proceso de revocación de mandato, una vez resueltas todas las impugnaciones que se hubieren interpuesto; emitir la declaratoria de validez de la revocación de mandato, y las demás que disponga la ley de la materia; y
