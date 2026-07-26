@@ -1048,6 +1048,20 @@ Al que cometa el delito a que se refiere el presente artículo, se le impondrán
 I.- Genere y utilice información falsa o alterada, respecto de los rendimientos o beneficios que obtenga, y
 II.- Cuando estando legalmente obligado a entregar a una autoridad información sobre los rendimientos o beneficios que obtenga, la oculte.
 Al que cometa el delito a que se refiere el presente artículo, se le impondrán de tres meses a nueve años de prisión y de treinta a cien días multa.
+(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE JULIO DE 2026)
+CAPÍTULO II BIS
+Corrupción Inmobiliaria
+(ADICIONADO, P.O. 25 DE JULIO DE 2026)
+208 Ter.- Comete el delito de corrupción inmobiliaria la persona servidora pública que, aprovechándose de las facultades o funciones de su cargo, realice cualquiera de las siguientes conductas:
+I. Por acción u omisión, autorice o tolere la construcción de inmuebles, sin el cumplimiento de todos los requisitos establecidos en las leyes, reglamentos y normas, que así lo exijan, en materia de desarrollo urbano, construcción, uso de suelo, impacto ambiental o protección civil;
+II. Autorice, tolere o permita la construcción de niveles o superficie de construcción superiores a los permitidos en la licencia o autorización correspondiente, o sin que exista licencia alguna;
+III. Omita realizar las visitas de verificación, inspección o supervisión que le corresponden legalmente para la construcción de inmuebles en materia de obra pública, o bien, falsifique o altere los resultados de dichas visitas con el objeto de permitir o encubrir las conductas señaladas en las fracciones anteriores.
+Por las conductas descritas en este artículo, se impondrán una pena de cinco a diez años de prisión y multa de quinientas a mil veces el valor diario de la Unidad de Medida y Actualización vigente al momento de cometerse el delito. Así mismo se destituirá e inhabilitará a la persona servidora pública para desempeñar cualquier empleo, cargo o comisión públicos por tiempo igual al de la pena de prisión impuesta.
+(ADICIONADO, P.O. 25 DE JULIO DE 2026)
+208 Quáter.- La pena establecida en el artículo anterior se incrementará en una mitad de su mínimo y hasta una mitad de su máximo, cuando.
+I. Se genere un daño o perjuicio al medio ambiente;
+II. Se afecte al patrimonio de personas en situación de vulnerabilidad;
+III. Se genere un beneficio económico directo o indirecto, al servidor público o a su cónyuge, descendientes o ascendientes, parientes por consanguinidad, o afinidad hasta el cuarto grado; concubina o concubino.
 (REFORMADA SU DENOMINACIÓN, P.O. 15 DE DICIEMBRE DE 2017)
 CAPITULO III.
 Abuso de Autoridad.
