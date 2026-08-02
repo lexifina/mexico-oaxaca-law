@@ -6,8 +6,8 @@ La Auditoría Superior de Fiscalización del Estado de Oaxaca, realizará la rev
 La Auditoría Superior de Fiscalización del Estado de Oaxaca, podrá iniciar el procedimiento de fiscalización a partir del primer día hábil del año siguiente al cierre del ejercicio fiscal, sin perjuicio de que las observaciones o recomendaciones que, en su caso, realice se refieran a la información definitiva presentada en las Cuentas Públicas.
 (ADICIONADO, P.O. 15 DE DICIEMBRE DE 2022)
 Asimismo, por lo que corresponde a los trabajos de planeación de las auditorías, la Auditoría Superior de Fiscalización del Estado de Oaxaca, podrá solicitar información del ejercicio en curso, respecto de procesos concluidos.
-(REFORMADO, P.O. 15 DE DICIEMBRE DE 2022)
-En el desempeño de sus funciones, la Auditoría Superior de Fiscalización del Estado de Oaxaca, contará con plena autonomía técnica, de gestión, presupuestal y financiera para decidir sobre su organización interna, funcionamiento y resoluciones. La función de fiscalización se desarrollará conforme a los principios de legalidad, definitividad, imparcialidad y confiabilidad.
+(REFORMADO, P.O. 1 DE AGOSTO DE 2026)
+En el desempeño de sus funciones, la Auditoría Superior de Fiscalización del Estado de Oaxaca, contará con plena autonomía técnica, de gestión, presupuestal y financiera para decidir sobre su organización interna, funcionamiento y resoluciones. La función de fiscalización se desarrollará conforme a los principios de legalidad, definitividad, imparcialidad y confiabilidad. No obstante, cumplirá sus obligaciones en materia de Transparencia ante la Autoridad Garante del Poder Legislativo.
 (REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2017)
 La revisión de la cuenta pública tendrá por objeto evaluar los resultados de la gestión financiera, comprobar si se ha ajustado a los criterios señalados en el presupuesto aprobado, así como verificar el cumplimiento de los objetivos contenidos en los planes y programas. Los procedimientos para llevar a cabo su cometido estarán determinados por la ley reglamentaria.
 (ADICIONADO, P.O. 15 DE DICIEMBRE DE 2022)
