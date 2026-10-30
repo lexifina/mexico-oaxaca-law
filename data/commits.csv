@@ -1,0 +1,756 @@
+day,kind,law,acts,files,branch
+1922-04-04,start,constitucion-1922-04-04-edicion-comercial,constitucion-politica,167,main
+1923-02-28,law,decreto-1923-02-28-1,constitucion-politica,17,main
+1933-02-11,law,decreto-1933-02-11-6,constitucion-politica,4,main
+1934-12-01,law,decreto-1934-11-03-44,constitucion-politica,4,main
+1936-09-19,law,decreto-1936-09-19-38,constitucion-politica,2,main
+1936-09-19,law,decreto-1936-09-19-38-2,constitucion-politica,4,main
+1936-12-14,law,decreto-1936-12-14-alcance-al-51,constitucion-politica,2,main
+1938-10-29,law,decreto-1938-10-29-supl-44,constitucion-politica,2,main
+1938-10-29,law,decreto-1938-10-29-supl-44-2,constitucion-politica,4,main
+1938-10-29,law,decreto-1938-10-29-suplemento-al-44,constitucion-politica,4,main
+1939-04-15,law,decreto-1939-04-15-15,constitucion-politica,4,main
+1940-12-21,law,decreto-1940-12-21-51,constitucion-politica,3,main
+1940-12-28,law,decreto-1940-12-28-52,constitucion-politica,12,main
+1941-02-01,law,decreto-1941-02-01-5,constitucion-politica,6,main
+1943-05-22,law,decreto-1943-05-22-21,constitucion-politica,3,main
+1944-06-17,law,decreto-1944-06-17-alcance-al-25,constitucion-politica,9,main
+1944-11-30,start,codigo-1944-11-30-edicion-comercial,codigo-civil,2923,main
+1944-11-30,start,codigo-1944-11-30-48-suplemento,codigo-de-procedimientos-civiles,963,main
+1944-12-16,law,decreto-1944-12-16-alcance-al-51,constitucion-politica,2,main
+1946-01-01,law,decreto-1945-12-17-extra,codigo-civil,11,main
+1948-11-27,law,decreto-1948-11-27-48,constitucion-politica,6,main
+1948-11-27,law,decreto-1948-11-27-48-2,constitucion-politica,6,main
+1949-02-05,law,decreto-1949-02-05-6,constitucion-politica,3,main
+1949-07-23,law,decreto-1949-07-23-30,constitucion-politica,2,main
+1949-07-30,law,decreto-1949-07-30-31,constitucion-politica,2,main
+1949-12-31,law,decreto-1949-12-31-53,codigo-de-procedimientos-civiles,4,main
+1950-01-07,law,decreto-1950-01-07-1,constitucion-politica,2,main
+1950-07-14,law,decreto-1950-07-14-extra,codigo-civil codigo-de-procedimientos-civiles,13,main
+1950-11-04,law,decreto-1950-11-04-44,constitucion-politica,7,main
+1950-12-30,start,ley-1950-12-30-52,ley-de-expropiacion,24,main
+1951-07-07,law,decreto-1951-07-07-27,constitucion-politica,2,main
+1951-12-15,start,ley-1951-12-15-50,ley-de-bienes-pertenecientes-al-estado-de-oaxaca,21,main
+1951-12-15,law,ley-1951-12-15-50,codigo-civil,4,main
+1952-01-05,law,decreto-1952-01-05-1,constitucion-politica,4,main
+1956-11-17,law,decreto-1956-11-17-46,constitucion-politica,4,main
+1958-12-27,law,decreto-1958-12-27-52,constitucion-politica,2,main
+1958-12-27,law,decreto-1958-12-27-52-2,constitucion-politica,4,main
+1959-11-14,law,decreto-1959-11-14-46,constitucion-politica,5,main
+1961-11-11,law,decreto-1961-11-11-45,codigo-de-procedimientos-civiles,3,main
+1962-07-21,start,ley-1962-07-21-29,ley-de-estimulos-y-recompensas-a-los-funcionarios-y-empleado,18,main
+1962-12-29,law,decreto-1962-12-29-52,constitucion-politica,3,main
+1963-07-06,law,decreto-1963-07-06-27,constitucion-politica,5,main
+1966-07-16,law,decreto-1966-07-16-29,codigo-de-procedimientos-civiles,2,main
+1969-04-26,law,decreto-1969-04-26-17,constitucion-politica,4,main
+1969-05-31,law,decreto-1969-05-31-22,constitucion-politica,5,main
+1971-07-03,law,decreto-1971-07-03-27,codigo-civil codigo-de-procedimientos-civiles,7,main
+1971-07-17,law,decreto-1971-07-17-29,codigo-civil,5,main
+1971-11-20,law,decreto-1971-11-20-47,constitucion-politica,2,main
+1972-07-15,law,decreto-1972-07-15-29,constitucion-politica,2,main
+1972-09-30,law,decreto-1972-09-30-40,constitucion-politica,2,main
+1973-12-22,law,decreto-1973-12-22-51,constitucion-politica,4,main
+1974-01-26,law,decreto-1974-01-26-4,constitucion-politica,5,main
+1978-10-07,law,decreto-1978-10-07-40,constitucion-politica,3,main
+1978-10-07,law,decreto-1978-10-07-40-2,constitucion-politica,14,main
+1979-01-02,law,decreto-1978-12-23-51,codigo-de-procedimientos-civiles,20,main
+1979-07-22,law,decreto-1979-07-21-29-seccion-primera,codigo-civil,2,main
+1980-11-07,start,codigo-1980-08-09-32-segunda-seccion,codigo-penal,4,main
+1982-02-21,law,decreto-1982-02-20-8,codigo-civil,113,main
+1982-10-31,law,decreto-1982-10-30-44,codigo-penal,3,main
+1982-11-28,law,decreto-1982-11-27-48,codigo-penal,2,main
+1983-01-15,law,decreto-1983-01-15-3,constitucion-politica,39,main
+1984-01-22,law,decreto-1984-01-21-3,constitucion-politica,9,main
+1984-06-09,law,decreto-1984-06-09-23,codigo-de-procedimientos-civiles,16,main
+1984-11-10,law,decreto-1984-11-10-45,constitucion-politica,4,main
+1984-11-24,law,decreto-1984-11-24-47,ley-de-estimulos-y-recompensas-a-los-funcionarios-y-empleado,3,main
+1985-01-05,law,decreto-1985-01-05-1,codigo-penal,2,main
+1985-03-19,law,decreto-1985-03-18-alcance-al-12,constitucion-politica,2,main
+1985-05-25,law,decreto-1985-05-25-21,constitucion-politica,5,main
+1985-08-18,law,decreto-1985-08-17-33,constitucion-politica,2,main
+1985-11-19,law,decreto-1985-11-18-alcance-al-47,constitucion-politica,28,main
+1985-12-07,law,decreto-1985-12-07-49,constitucion-politica,11,main
+1986-01-19,law,decreto-1986-01-18-3,codigo-de-procedimientos-civiles,3,main
+1986-01-19,law,decreto-1986-01-18-3-2,codigo-de-procedimientos-civiles,5,main
+1986-01-19,law,decreto-1986-01-18-3-3,codigo-de-procedimientos-civiles,3,main
+1986-01-19,law,decreto-1986-01-18-3-4,codigo-de-procedimientos-civiles,6,main
+1987-12-23,law,decreto-1987-12-22-alcance-al-52,codigo-penal,2,main
+1988-07-02,law,decreto-1988-07-02-27,codigo-penal,2,main
+1988-07-03,law,decreto-1988-07-02-27,constitucion-politica,3,main
+1988-11-06,law,decreto-1988-11-05-extra,codigo-civil,2,main
+1989-04-15,law,decreto-1989-04-14-extra,constitucion-politica,6,main
+1989-05-28,start,ley-1989-05-27-21,ley-de-caminos-y-aeropistas-de-oaxaca,22,main
+1990-09-02,start,ley-1990-09-01-35-seccion-ii,ley-de-hacienda-municipal,166,main
+1990-10-30,law,decreto-1990-10-29-extra,constitucion-politica,29,main
+1991-06-29,law,decreto-1991-06-28-26-alcance,ley-de-hacienda-municipal,6,main
+1991-12-29,law,decreto-1991-12-28-52,ley-de-hacienda-municipal,7,main
+1992-02-11,law,decreto-1992-02-10-extra,constitucion-politica,10,main
+1992-07-05,law,decreto-1992-07-04-27,ley-de-hacienda-municipal,4,main
+1993-01-28,law,decreto-1993-01-28-alcance-al-5,constitucion-politica,5,main
+1993-02-14,start,ley-1993-02-13-7-seccion-ii,ley-de-agua-potable-y-alcantarillado,172,main
+1993-02-14,law,decreto-1993-02-13-7-seccion-i,ley-de-hacienda-municipal,2,main
+1993-10-03,law,decreto-1993-10-02-40,constitucion-politica,2,main
+1993-10-17,law,decreto-1993-10-02-40,codigo-civil codigo-de-procedimientos-civiles,21,main
+1994-01-02,law,decreto-1994-01-01-1,codigo-civil,9,main
+1994-02-26,law,decreto-1994-02-26-9,constitucion-politica,7,main
+1994-07-10,law,decreto-1994-07-09-28,constitucion-politica,12,main
+1994-08-27,law,decreto-1994-08-27-35,codigo-penal,2,main
+1994-08-28,law,decreto-1994-08-27-35,constitucion-politica,2,main
+1994-09-25,law,decreto-1994-09-24-39,ley-de-hacienda-municipal,3,main
+1995-05-14,law,decreto-1995-05-13-19-segunda-seccion,constitucion-politica,17,main
+1995-05-24,law,decreto-1995-05-24-extra,constitucion-politica,4,main
+1995-06-13,law,decreto-1995-06-03-22-seccion-ii,codigo-penal,2,main
+1995-07-16,law,decreto-1995-07-15-28,codigo-penal,2,main
+1995-09-14,law,decreto-1995-09-14-37-alcance,ley-de-hacienda-municipal,2,main
+1995-09-14,law,decreto-1995-09-14-alcance-al-37,constitucion-politica,5,main
+1995-10-01,law,decreto-1995-09-30-39,codigo-civil codigo-penal,17,main
+1996-12-17,start,ley-1996-12-16-extra,ley-de-catastro,87,main
+1996-12-27,law,decreto-1996-12-26-extra,ley-de-hacienda-municipal,8,main
+1997-02-16,law,decreto-1997-02-15-7,ley-de-hacienda-municipal,3,main
+1997-03-09,law,decreto-1997-03-08-10,constitucion-politica,8,main
+1997-04-20,law,decreto-1997-04-19-16,codigo-penal,2,main
+1997-06-01,law,decreto-1997-05-31-22,codigo-civil,8,main
+1997-09-30,law,decreto-1997-09-29-extra,constitucion-politica,11,main
+1997-10-09,law,decreto-1997-10-09-extra,codigo-penal,2,main
+1997-11-16,law,decreto-1997-11-15-46,codigo-civil codigo-de-procedimientos-civiles,33,main
+1997-11-16,law,decreto-1997-11-15-46-2,codigo-civil,18,main
+1997-11-16,law,decreto-1997-11-15-46-3,codigo-civil,10,main
+1998-01-18,law,decreto-1998-01-17-3,codigo-civil,5,main
+1998-02-07,law,decreto-1998-02-07-6,codigo-civil,59,main
+1998-02-22,law,decreto-1998-02-21-8,codigo-civil,21,main
+1998-03-01,start,ley-1998-02-28-9,ley-de-entidades-paraestatales,56,main
+1998-03-09,law,decreto-1998-02-07-6,codigo-de-procedimientos-civiles codigo-penal,31,main
+1998-06-07,law,decreto-1998-06-06-23-segunda-seccion,constitucion-politica,8,main
+1998-06-20,start,ley-1998-06-19-extra,ley-de-derechos-de-los-pueblos-y-comunidades-indigenas-y-afr,65,main
+1998-07-09,law,decreto-1998-07-08-extra,constitucion-politica,4,main
+1998-07-19,law,decreto-1998-07-18-29,codigo-de-procedimientos-civiles,4,main
+1998-08-09,law,decreto-1998-08-08-32,constitucion-politica,29,main
+1998-10-13,law,decreto-1998-10-03-40-seccion-ii,codigo-penal,2,main
+1998-11-29,law,decreto-1998-11-28-48-segunda-seccion,codigo-penal,2,main
+1999-05-23,law,decreto-1999-05-22-21,constitucion-politica,4,main
+1999-08-22,law,decreto-1999-08-21-34,constitucion-politica,4,main
+1999-09-21,law,decreto-1999-09-20-extra,constitucion-politica,13,main
+1999-09-21,law,decreto-1999-09-20-extra-2,constitucion-politica,4,main
+1999-09-26,law,decreto-1999-09-25-39,constitucion-politica,7,main
+1999-12-12,law,decreto-1999-12-11-50-seccion-segunda,codigo-civil,18,main
+1999-12-12,law,decreto-1999-12-11-50-segunda-seccion,codigo-de-procedimientos-civiles,2,main
+2000-01-01,law,decreto-1999-12-30-extra,ley-de-catastro ley-de-hacienda-municipal,48,main
+2000-02-25,law,decreto-2000-02-24-extra,constitucion-politica,5,main
+2000-02-27,law,decreto-2000-02-26-9,codigo-penal,3,main
+2000-09-24,law,decreto-2000-09-23-39-seccion-ii,codigo-penal,2,main
+2000-12-09,start,ley-2000-12-08-extra,ley-de-amnistia,8,main
+2000-12-09,law,decreto-2000-12-08-extra,constitucion-politica,88,main
+2001-01-01,start,ley-2000-12-30-53-seccion-iii,ley-de-coordinacion-fiscal,28,main
+2001-01-01,law,decreto-2000-12-30-53-seccion-ii,ley-de-hacienda-municipal,52,main
+2001-03-15,law,decreto-2001-03-15-extra,ley-de-bienes-pertenecientes-al-estado-de-oaxaca,4,main
+2001-03-31,law,decreto-2001-03-31-13-seccion-iii,ley-de-derechos-de-los-pueblos-y-comunidades-indigenas-y-afr,11,main
+2001-04-01,law,decreto-2001-03-31-13-tercera-seccion,ley-de-amnistia,3,main
+2001-04-21,law,decreto-2001-04-20-extra,codigo-civil,86,main
+2001-05-20,law,decreto-2001-04-20-extra,codigo-de-procedimientos-civiles,226,main
+2001-07-20,law,decreto-2001-07-20-extra,codigo-civil,5,main
+2001-07-20,law,decreto-2001-07-20-extra-2,codigo-civil,4,main
+2001-07-21,law,decreto-2001-07-20-extra,codigo-de-procedimientos-civiles,4,main
+2001-09-15,law,decreto-2001-09-15-37-seccion-ii,ley-de-derechos-de-los-pueblos-y-comunidades-indigenas-y-afr,18,main
+2001-09-16,law,decreto-2001-09-15-37-seccion-ii,codigo-penal,2,main
+2001-09-16,law,decreto-2001-09-15-37-segunda-seccion,codigo-civil codigo-de-procedimientos-civiles,23,main
+2002-01-01,law,decreto-2001-09-01-35,ley-de-entidades-paraestatales,4,main
+2002-01-01,law,decreto-2001-12-30-extra,ley-de-coordinacion-fiscal,3,main
+2002-04-02,law,decreto-2002-04-01-extra,codigo-penal,2,main
+2002-04-28,law,decreto-2002-04-27-17-seccion-ii,constitucion-politica,5,main
+2002-08-25,law,decreto-2002-08-24-34,constitucion-politica,5,main
+2002-08-25,law,reforma-2002-08-24-34,codigo-de-procedimientos-civiles,2,main
+2003-01-01,law,decreto-2002-12-31-extra,ley-de-coordinacion-fiscal ley-de-hacienda-municipal,5,main
+2003-12-21,law,decreto-2003-12-20-51,codigo-penal,2,main
+2004-01-01,law,ley-2003-12-30-extra,ley-de-coordinacion-fiscal,5,main
+2004-03-21,law,decreto-2004-03-20-12-cuarta-seccion,constitucion-politica,3,main
+2004-03-21,law,decreto-2004-03-20-12-cuarta-seccion-2,constitucion-politica,7,main
+2004-03-21,law,decreto-2004-03-20-12-cuarta-seccion-3,constitucion-politica,5,main
+2004-04-04,law,decreto-2004-04-03-14-tercera-seccion,constitucion-politica,7,main
+2004-04-04,law,decreto-2004-04-03-14-tercera-seccion-2,constitucion-politica,8,main
+2004-04-13,law,decreto-2004-04-12-extra,codigo-de-procedimientos-civiles codigo-penal,5,main
+2004-06-13,law,decreto-2004-06-12-24-tercera-seccion,codigo-penal,2,main
+2004-07-24,law,codigo-2004-07-24-30-segunda-seccion,codigo-civil,2,main
+2004-08-22,law,codigo-2004-08-21-34,codigo-de-procedimientos-civiles,4,main
+2004-12-04,law,decreto-2004-12-04-49,ley-de-agua-potable-y-alcantarillado,44,main
+2005-01-01,law,decreto-2004-12-30-extra,ley-de-coordinacion-fiscal,2,main
+2005-01-12,law,decreto-2005-01-12-extra,ley-de-agua-potable-y-alcantarillado,2,main
+2005-03-22,law,decreto-2005-03-22-extra,ley-de-agua-potable-y-alcantarillado ley-de-catastro ley-de-coordinacion-fiscal ley-de-entidades-paraestatales,19,main
+2005-04-03,law,decreto-2005-04-02-14-tercera-seccion,ley-de-caminos-y-aeropistas-de-oaxaca,13,main
+2005-09-04,law,decreto-2005-09-03-36-segunda-seccion,constitucion-politica,6,main
+2005-09-06,law,decreto-2005-09-06-extra,constitucion-politica,2,main
+2006-01-01,law,decreto-2005-12-26-extra,ley-de-catastro ley-de-coordinacion-fiscal,43,main
+2006-01-01,law,decreto-2005-12-31-53-segunda-seccion,constitucion-politica,7,main
+2006-01-21,law,fe-de-erratas-2006-01-21-3,constitucion-politica,3,main
+2006-03-19,law,decreto-2006-03-18-11-tercera-seccion,codigo-penal,2,main
+2006-09-09,law,decreto-2006-09-09-36-tercera-seccion,constitucion-politica codigo-penal,7,main
+2006-09-28,law,decreto-2006-09-28-extra,constitucion-politica,13,main
+2006-10-08,law,decreto-2006-10-07-40,ley-de-bienes-pertenecientes-al-estado-de-oaxaca ley-de-entidades-paraestatales,5,main
+2007-01-01,law,decreto-2006-12-30-52-segunda-seccion,ley-de-catastro ley-de-coordinacion-fiscal,6,main
+2007-04-15,start,ley-2007-04-14-15,ley-de-caminos-carreteras-y-puentes,43,main
+2007-04-15,law,decreto-2007-04-14-15,constitucion-politica,3,main
+2007-09-15,law,decreto-2007-09-14-extra,constitucion-politica,3,main
+2007-11-11,law,decreto-2007-11-10-45-tercera-seccion,constitucion-politica,4,main
+2007-11-11,law,decreto-2007-11-10-45-tercera-seccion-2,constitucion-politica,7,main
+2008-01-01,law,decreto-2007-12-29-52-segunda-seccion,ley-de-catastro ley-de-coordinacion-fiscal,25,main
+2008-04-13,start,ley-2008-04-12-15-segunda-seccion,ley-de-ciencia-tecnologia-e-innovacion,58,main
+2008-04-13,law,decreto-2008-04-12-15-segunda-seccion,codigo-civil,2,main
+2008-04-19,law,decreto-2008-04-18-extra,constitucion-politica,4,main
+2008-04-19,law,decreto-2008-04-18-extra-2,constitucion-politica,11,main
+2008-05-02,law,decreto-2008-05-01-extra,constitucion-politica,7,main
+2008-07-27,law,decreto-2008-07-26-30,constitucion-politica,3,main
+2008-08-17,law,decreto-2008-08-16-33-tercera-seccion,codigo-penal,2,main
+2008-08-17,law,decreto-2008-08-16-33-cuarta-seccion,codigo-civil,3,main
+2008-08-17,law,fe-de-erratas-2008-08-16-33,constitucion-politica,7,main
+2008-11-02,law,decreto-2008-11-01-44-segunda-seccion,constitucion-politica,7,main
+2008-11-16,law,decreto-2008-11-15-46,constitucion-politica,4,main
+2008-11-22,law,decreto-2008-11-21-extra,codigo-penal,2,main
+2008-12-29,law,decreto-2008-12-29-extra,ley-de-catastro,57,main
+2009-01-01,law,decreto-2008-12-29-extra,ley-de-coordinacion-fiscal,8,main
+2009-01-01,law,decreto-2008-12-31-extra,ley-de-hacienda-municipal,4,main
+2009-02-15,law,decreto-2009-02-14-7,ley-de-entidades-paraestatales,59,main
+2009-02-28,law,decreto-2008-12-30-extra,codigo-civil,20,main
+2009-04-19,law,decreto-2009-04-18-16,codigo-penal,2,main
+2009-04-26,start,ley-2009-04-25-17,ley-de-igualdad-entre-mujeres-y-hombres,39,main
+2009-05-08,law,decreto-2009-05-07-extra,constitucion-politica,5,main
+2009-08-05,law,decreto-2009-08-04-extra,constitucion-politica,5,main
+2009-08-08,law,decreto-2009-08-07-extra,ley-de-entidades-paraestatales,66,main
+2009-09-12,law,decreto-2009-09-11-extra,constitucion-politica,3,main
+2009-09-15,law,decreto-2009-09-14-extra,constitucion-politica codigo-penal,8,main
+2009-09-22,law,decreto-2009-09-21-extra,constitucion-politica,15,main
+2010-01-01,law,decreto-2009-12-30-extra,ley-de-catastro ley-de-coordinacion-fiscal,67,main
+2010-01-24,law,decreto-2010-01-23-4-tercera-seccion,codigo-penal,2,main
+2010-02-07,law,decreto-2010-02-06-6-cuarta-seccion,codigo-penal,2,main
+2010-03-05,law,decreto-2010-03-04-extra,ley-de-bienes-pertenecientes-al-estado-de-oaxaca ley-de-ciencia-tecnologia-e-innovacion,15,main
+2010-04-04,start,ley-2010-04-03-14-quinta-seccion,ley-de-coordinacion-para-el-fomento-del-aprovechamiento-sust,22,main
+2010-08-29,start,ley-2010-08-28-35-tercera-seccion,ley-de-desarrollo-cultural,54,main
+2010-10-03,law,decreto-2010-10-02-40-segunda-seccion,constitucion-politica codigo-penal,8,main
+2010-11-14,law,decreto-2010-11-13-46-septima-seccion,codigo-civil codigo-de-procedimientos-civiles,67,main
+2010-12-30,law,constitucion-2010-12-29-extra,constitucion-politica,5,main
+2011-01-01,law,decreto-2010-12-29-extra,ley-de-coordinacion-fiscal,6,main
+2011-04-08,law,decreto-2011-04-07-extra,codigo-de-procedimientos-civiles codigo-penal ley-de-bienes-pertenecientes-al-estado-de-oaxaca,43,main
+2011-04-16,law,decreto-2011-04-15-extra,constitucion-politica,43,main
+2011-06-17,law,decreto-2011-06-16-extra,constitucion-politica codigo-penal,6,main
+2011-09-24,law,decreto-2011-09-23-extra,codigo-penal,2,main
+2011-09-24,law,decreto-2011-09-23-extra-2,codigo-penal,2,main
+2011-09-28,law,fe-de-erratas-2011-09-28-extra,constitucion-politica,4,main
+2011-10-13,law,decreto-2011-10-12-extra,constitucion-politica,4,main
+2011-12-18,start,ley-2011-12-17-51-tercera-seccion,ley-de-coordinacion-para-el-desarrollo-metropolitano-sustent,64,main
+2011-12-18,law,decreto-2011-12-17-51-quinta-seccion,ley-de-entidades-paraestatales,2,main
+2011-12-18,law,decreto-2011-12-17-51-tercera-seccion,constitucion-politica ley-de-coordinacion-fiscal,8,main
+2012-01-01,law,decreto-2011-12-17-51-tercera-seccion,ley-de-catastro,24,main
+2012-03-11,law,decreto-2012-03-10-10-onceava-seccion,codigo-de-procedimientos-civiles,7,main
+2012-03-24,law,decreto-2012-03-23-extra,constitucion-politica,67,main
+2012-04-03,law,decreto-2012-04-02-extra,constitucion-politica,5,main
+2012-04-03,law,decreto-2012-04-02-extra-2,constitucion-politica,10,main
+2012-04-10,start,ley-2012-04-09-extra,ley-de-desarrollo-rural-sustentable,158,main
+2012-05-31,law,decreto-2012-05-30-extra,codigo-penal,7,main
+2012-06-23,law,decreto-2012-06-22-extraordinario,codigo-penal,2,main
+2012-06-30,law,decreto-2012-06-29-extraordinario,codigo-penal,2,main
+2012-07-05,law,decreto-2012-07-04-extra,constitucion-politica,4,main
+2012-10-05,law,decreto-2012-10-04-extra,codigo-penal,3,main
+2012-11-23,law,decreto-2012-11-23-extra,codigo-penal,2,main
+2012-12-15,law,decreto-2012-12-15-50-quinta-seccion,ley-de-agua-potable-y-alcantarillado,2,main
+2012-12-22,start,codigo-2012-12-22-51-cuarta-seccion,codigo-fiscal,290,main
+2012-12-23,law,decreto-2012-12-22-51-cuarta-seccion,ley-de-catastro ley-de-coordinacion-fiscal,30,main
+2013-02-10,law,decreto-2013-02-09-6-novena-seccion,constitucion-politica,3,main
+2013-02-15,law,fe-de-erratas-2013-02-15-extra,codigo-penal,1,main
+2013-05-19,law,decreto-2013-05-18-20-segunda-seccion,codigo-civil codigo-de-procedimientos-civiles,4,main
+2013-06-12,start,ley-2013-06-11-extra,ley-de-desarrollo-forestal-sustentable,122,main
+2013-08-10,law,decreto-2013-08-10-32-segunda-seccion,constitucion-politica,5,main
+2013-08-27,law,decreto-2013-08-26-extra,constitucion-politica,6,main
+2013-08-31,law,decreto-2013-08-30-extra,constitucion-politica,6,main
+2013-09-07,law,decreto-2013-09-06-extra,constitucion-politica,2,main
+2013-09-07,law,decreto-2013-09-06-extra-2,constitucion-politica,2,main
+2013-09-07,law,decreto-2013-09-06-extra-3,constitucion-politica,3,main
+2013-11-28,law,decreto-2013-11-27-extra,constitucion-politica,8,main
+2013-11-29,start,ley-2013-11-28-extra,ley-de-cambio-climatico,87,main
+2013-11-29,law,decreto-2013-11-28-extra,ley-de-coordinacion-para-el-desarrollo-metropolitano-sustent,20,main
+2013-12-10,law,decreto-2013-12-09-extra,codigo-penal,2,main
+2013-12-21,law,decreto-2013-12-20-extra,constitucion-politica codigo-civil codigo-penal,16,main
+2013-12-28,law,decreto-2013-12-27-extra,constitucion-politica,2,main
+2013-12-31,law,decreto-2013-12-31-extra,codigo-fiscal ley-de-coordinacion-fiscal,75,main
+2014-04-27,start,ley-2013-04-27-17-quinta-seccion,ley-de-fomento-a-las-actividades-artesanales,42,main
+2014-05-01,law,decreto-2014-04-12-15-cuarta-seccion,constitucion-politica,3,main
+2014-12-27,law,decreto-2014-12-27-52-octava-seccion,ley-de-entidades-paraestatales,7,main
+2014-12-27,law,decreto-2014-12-27-52-sexta-seccion,codigo-fiscal ley-de-coordinacion-fiscal,20,main
+2014-12-27,law,ley-2014-12-27-no-52-quinta-seccion,ley-de-catastro,15,main
+2014-12-31,law,fe-de-erratas-2014-12-31-extraordinario,ley-de-catastro,3,main
+2015-01-03,law,decreto-2015-01-02-extraordinaria,codigo-de-procedimientos-civiles,13,main
+2015-01-29,law,decreto-2015-01-28-extraordinario,codigo-civil,4,main
+2015-03-11,start,ley-2015-02-09-extraordinario,ley-contra-la-violencia-y-acoso-entre-iguales,100,main
+2015-04-19,law,decreto-2015-04-18-16-catorceava-seccion,codigo-penal,2,main
+2015-04-23,law,decreto-2015-04-22-extraordinario,ley-de-entidades-paraestatales,2,main
+2015-05-07,law,decreto-2015-05-07-extraordinario,codigo-penal,2,main
+2015-05-10,start,codigo-2015-05-09-19,codigo-fiscal-municipal,205,main
+2015-05-10,law,decreto-2015-05-09-19,codigo-civil,8,main
+2015-05-10,law,decreto-2015-05-09-19-octava-seccion,codigo-de-procedimientos-civiles,5,main
+2015-05-10,law,decreto-2015-05-09-19-septima-seccion,ley-de-hacienda-municipal,27,main
+2015-05-20,law,decreto-2015-05-19-extraordinario,codigo-penal,2,main
+2015-07-01,law,decreto-2015-06-30-extra,constitucion-politica,61,main
+2015-08-06,law,decreto-2015-08-05-extraordinario,codigo-fiscal,3,main
+2015-08-25,law,decreto-2015-08-24-extraordinario,codigo-civil,2,main
+2015-08-26,law,decreto-2015-08-26-extraordinario,codigo-civil,2,main
+2015-09-01,law,decreto-2015-08-31-extra,codigo-penal,2,main
+2015-10-09,law,decreto-2015-10-09-extraordinario,codigo-penal,2,main
+2015-10-16,law,decreto-2015-10-15-extra,ley-de-igualdad-entre-mujeres-y-hombres,22,main
+2015-10-27,law,decreto-2015-10-26-extra,codigo-penal,2,main
+2015-12-31,law,decreto-2015-12-31-extraordinario,constitucion-politica codigo-fiscal ley-de-catastro ley-de-coordinacion-fiscal ley-de-entidades-paraestatales,43,main
+2016-01-01,law,decreto-2015-12-31-extraordinario,codigo-civil,7,main
+2016-01-03,law,decreto-2016-01-02-1,codigo-civil,7,main
+2016-01-31,law,decreto-2016-01-30-5-cuarta-seccion,codigo-de-procedimientos-civiles codigo-penal,4,main
+2016-03-01,law,decreto-2016-02-29-extra,ley-de-agua-potable-y-alcantarillado ley-de-caminos-y-aeropistas-de-oaxaca ley-de-fomento-a-las-actividades-artesanales,34,main
+2016-03-27,law,decreto-2016-03-26-13-novena-seccion,codigo-penal,2,main
+2016-04-09,law,decreto-2016-04-08-extra,ley-de-desarrollo-forestal-sustentable,3,main
+2016-04-12,start,ley-2016-04-11-extra,ley-de-educacion,109,main
+2016-08-13,law,decreto-2016-08-12-extra,constitucion-politica,5,main
+2016-09-30,law,decreto-2016-09-30-extra,codigo-civil ley-de-bienes-pertenecientes-al-estado-de-oaxaca,9,main
+2016-10-01,law,decreto-2016-09-30-extra-2,codigo-civil,3,main
+2016-10-04,law,decreto-2016-10-03-extra,constitucion-politica codigo-penal,7,main
+2016-10-04,law,decreto-2016-10-03-extra-2,codigo-penal,2,main
+2016-10-15,start,ley-2016-10-15-no-42-segunda-seccion,ley-de-firma-electronica-avanzada,62,main
+2016-10-15,law,decreto-2016-10-15-no-42-segunda-seccion,constitucion-politica,3,main
+2016-10-18,start,ley-2016-10-17-extra,ley-de-coordinacion-estatal-de-las-zonas-economicas-especial,28,main
+2016-10-18,law,decreto-2016-10-17-extra,constitucion-politica,7,main
+2016-10-22,law,decreto-2016-10-22-no-43-decima-segunda-seccion,codigo-civil,2,main
+2016-10-23,law,decreto-2016-10-22-no-43-decima-segunda-seccion,ley-de-agua-potable-y-alcantarillado ley-de-desarrollo-cultural,23,main
+2016-11-12,start,ley-2016-11-12-46-septima-seccion,ley-de-adquisiciones-enajenaciones-arrendamientos-prestacion,111,main
+2016-11-12,law,decreto-2016-11-12-46-septima-seccion,ley-de-catastro ley-de-coordinacion-para-el-fomento-del-aprovechamiento-sust,14,main
+2016-12-31,law,decreto-2016-12-31-53-cuarta-seccion,codigo-fiscal-municipal codigo-fiscal ley-de-catastro,42,main
+2016-12-31,law,decreto-2016-12-31-53-quinta-seccion,ley-de-hacienda-municipal,9,main
+2016-12-31,law,decreto-2016-12-31-53-tercera-seccion,constitucion-politica,3,main
+2016-12-31,law,decreto-2016-12-31-53-tercera-seccion-2,constitucion-politica,3,main
+2017-01-28,law,decreto-2017-01-28-4-cuarta-seccion,ley-de-adquisiciones-enajenaciones-arrendamientos-prestacion,4,main
+2017-03-04,law,decreto-2017-03-03-extra,codigo-civil codigo-penal,8,main
+2017-03-18,law,decreto-2017-03-18-11-sexta-seccion,ley-de-adquisiciones-enajenaciones-arrendamientos-prestacion,3,main
+2017-03-19,law,decreto-2017-03-18-11-sexta-seccion,constitucion-politica,2,main
+2017-04-08,law,decreto-2017-04-07-extra,ley-de-adquisiciones-enajenaciones-arrendamientos-prestacion,3,main
+2017-04-15,law,decreto-2017-04-14-extra,codigo-civil,5,main
+2017-04-18,law,decreto-2017-04-17-extra,codigo-civil ley-de-ciencia-tecnologia-e-innovacion,7,main
+2017-04-26,law,decreto-2017-04-26-extra,codigo-penal,2,main
+2017-05-04,law,decreto-2017-05-03-extra,constitucion-politica,5,main
+2017-05-12,law,decreto-2017-05-12,codigo-penal,2,main
+2017-05-12,law,decreto-2017-05-12-extra,constitucion-politica,6,main
+2017-05-13,start,ley-2017-05-12-extra,ley-de-adopciones,51,main
+2017-05-13,start,ley-2017-05-12-extra,ley-de-fomento-a-la-lactancia-materna-en-el-estado-de-oaxaca,29,main
+2017-05-13,law,decreto-2017-05-12-extra,codigo-civil codigo-de-procedimientos-civiles,68,main
+2017-05-13,law,decreto-2017-05-12-extra-2,codigo-de-procedimientos-civiles,2,main
+2017-05-21,law,decreto-2017-05-20-20-decima-seccion,ley-de-ciencia-tecnologia-e-innovacion,42,main
+2017-08-11,law,decreto-2017-08-10-extra,ley-de-desarrollo-cultural,35,main
+2017-08-12,law,decreto-2017-08-11-extra,constitucion-politica,8,main
+2017-09-02,law,decreto-2017-09-01-extra,codigo-civil codigo-de-procedimientos-civiles,22,main
+2017-09-03,law,decreto-2017-09-02-35-septima-seccion,codigo-penal,2,main
+2017-09-09,law,decreto-2017-09-09-36-segunda-seccion,ley-de-coordinacion-fiscal,4,main
+2017-09-22,law,decreto-2017-09-21-extra,constitucion-politica,16,main
+2017-09-29,law,decreto-2017-09-28-extra,constitucion-politica,8,main
+2017-10-08,law,decreto-2017-10-07-40-segunda-seccion,ley-de-coordinacion-estatal-de-las-zonas-economicas-especial,3,main
+2017-10-19,law,decreto-2017-10-18-extra,constitucion-politica,2,main
+2017-10-21,start,ley-2017-10-20-extra,ley-de-entrega-recepcion-de-los-recursos-y-bienes,39,main
+2017-10-28,law,decreto-2017-10-27-extra,constitucion-politica,2,main
+2017-12-01,start,ley-2017-11-30-extra,ley-de-deuda-publica,52,main
+2017-12-01,law,decreto-2017-11-30-extra,constitucion-politica,4,main
+2017-12-01,law,decreto-2017-11-30-extra-2,constitucion-politica,3,main
+2017-12-09,start,ley-2017-12-08-extra,ley-de-asistencia-y-prevencion-de-la-violencia-familiar,34,main
+2017-12-09,start,ley-2017-12-08-extra,ley-de-encierros-y-depositos-de-vehiculos,53,main
+2017-12-09,start,ley-2017-12-08-extra,ley-de-fomento-al-primer-empleo,38,main
+2017-12-09,law,decreto-2017-12-08-extra,constitucion-politica,2,main
+2017-12-09,law,decreto-2017-12-08-extra-2,constitucion-politica,2,main
+2017-12-12,law,decreto-2017-12-11-extra,ley-de-bienes-pertenecientes-al-estado-de-oaxaca,2,main
+2017-12-16,law,decreto-2017-12-15-extra,codigo-penal,2,main
+2017-12-20,law,decreto-2017-12-20-extra,codigo-fiscal ley-de-coordinacion-fiscal,53,main
+2017-12-27,law,decreto-2017-12-26-extra,codigo-penal,2,main
+2018-01-17,law,decreto-2018-01-16-extra,constitucion-politica,21,main
+2018-01-21,law,decreto-2018-01-20-3-tercera-seccion,ley-de-adquisiciones-enajenaciones-arrendamientos-prestacion,5,main
+2018-01-25,law,decreto-2018-01-24-extra,ley-de-fomento-a-las-actividades-artesanales,4,main
+2018-02-07,law,fe-de-erratas-2018-02-07-extra,ley-de-ciencia-tecnologia-e-innovacion,2,main
+2018-02-16,law,decreto-2018-02-16-extra,codigo-penal,2,main
+2018-02-28,law,decreto-2018-02-28-extra,codigo-civil,10,main
+2018-03-01,law,decreto-2018-02-28-extra,ley-de-hacienda-municipal,2,main
+2018-03-10,law,decreto-2018-03-09-extra,codigo-civil codigo-de-procedimientos-civiles codigo-penal,18,main
+2018-03-10,law,decreto-2018-03-09-extra-2,codigo-de-procedimientos-civiles,3,main
+2018-03-13,law,decreto-2018-03-12-extra,codigo-penal,2,main
+2018-03-23,law,decreto-2018-03-23-extra,constitucion-politica,4,main
+2018-03-24,law,decreto-2018-03-23-extra-2,constitucion-politica,3,main
+2018-04-06,law,decreto-2018-04-05-extra,codigo-penal,2,main
+2018-04-14,law,decreto-2018-04-13-extra,codigo-civil,6,main
+2018-04-28,law,decreto-2018-04-28-17-segunda-seccion,codigo-de-procedimientos-civiles,2,main
+2018-04-29,law,decreto-2018-04-28-17-segunda-seccion-2,codigo-de-procedimientos-civiles,3,main
+2018-05-12,law,decreto-2018-05-11-extra,codigo-civil,5,main
+2018-05-13,law,decreto-2018-05-12-19-decima-octava-seccion,codigo-penal,2,main
+2018-06-17,law,decreto-2018-06-16-24-segunda-seccion,codigo-civil codigo-de-procedimientos-civiles codigo-penal,61,main
+2018-06-17,law,decreto-2018-06-16-24-segunda-seccion-2,codigo-civil codigo-penal,4,main
+2018-06-17,law,decreto-2018-06-16-24-segunda-seccion-3,codigo-civil,2,main
+2018-06-24,law,decreto-2018-06-23-25-decima-segunda-seccion,codigo-civil codigo-penal,12,main
+2018-08-02,law,decreto-2018-08-01-extraordinario,constitucion-politica,8,main
+2018-09-16,law,decreto-2018-09-15-37-cuarta-seccion,codigo-civil codigo-penal ley-de-cambio-climatico ley-de-fomento-a-las-actividades-artesanales,104,main
+2018-09-29,law,decreto-2018-09-29-39-decima-seccion,ley-de-ciencia-tecnologia-e-innovacion,4,main
+2018-09-30,law,decreto-2018-09-29-39-decima-seccion,codigo-civil,4,main
+2018-09-30,law,decreto-2018-09-29-39-decima-seccion-2,codigo-civil,6,main
+2018-10-14,law,decreto-2018-10-13-41-septima-seccion,codigo-penal,2,main
+2018-11-10,law,decreto-2018-11-10-45-decima-seccion,ley-de-cambio-climatico,99,main
+2018-11-10,law,decreto-2018-11-10-45-decima-cuarta-seccion,ley-de-entidades-paraestatales,7,main
+2018-11-10,law,decreto-2018-11-10-45-decima-segunda-seccion,ley-de-educacion,9,main
+2018-11-11,law,decreto-2018-11-10-45-septima-seccion,codigo-civil codigo-penal,5,main
+2018-11-11,law,decreto-2018-11-10-45-octava-seccion,constitucion-politica codigo-de-procedimientos-civiles ley-de-desarrollo-cultural ley-de-desarrollo-rural-sustentable,33,main
+2018-11-11,law,decreto-2018-11-10-45-decima-seccion,ley-de-coordinacion-para-el-fomento-del-aprovechamiento-sust ley-de-igualdad-entre-mujeres-y-hombres,31,main
+2018-11-11,law,decreto-2018-11-10-45-novena-seccion,codigo-fiscal,2,main
+2018-11-11,law,decreto-2018-11-10-45-septima-seccion-2,codigo-civil codigo-penal,4,main
+2018-11-11,law,decreto-2018-11-10-45-octava-seccion-2,constitucion-politica,2,main
+2018-11-11,law,decreto-2018-11-10-45-decima-segunda-seccion,ley-de-igualdad-entre-mujeres-y-hombres,9,main
+2018-11-11,law,decreto-2018-11-10-45-septima-seccion-3,codigo-civil,9,main
+2018-11-11,law,decreto-2018-11-10-45-octava-seccion-3,constitucion-politica,3,main
+2018-11-11,law,decreto-2018-11-10-45-novena-seccion,codigo-penal,2,main
+2018-11-11,law,decreto-2018-11-10-45-octava-seccion,codigo-civil,2,main
+2018-11-11,law,decreto-2018-11-10-45-octava-seccion-4,constitucion-politica,3,main
+2018-11-11,law,decreto-2018-11-10-45-novena-seccion-2,codigo-penal,2,main
+2018-11-11,law,decreto-2018-11-10-45-octava-seccion-2,codigo-civil,4,main
+2018-11-11,law,decreto-2018-11-10-45-octava-seccion-5,constitucion-politica,2,main
+2018-11-11,law,decreto-2018-11-10-45-novena-seccion-3,codigo-penal,2,main
+2018-11-11,law,decreto-2018-11-10-45-octava-seccion-6,constitucion-politica,2,main
+2018-11-11,law,decreto-2018-11-10-45-novena-seccion,codigo-civil,2,main
+2018-11-11,law,decreto-2018-11-10-45-novena-seccion-4,codigo-penal,2,main
+2018-11-11,law,decreto-2018-11-10-45-octava-seccion-7,constitucion-politica,4,main
+2018-11-11,law,decreto-2018-11-10-45-novena-seccion-2,codigo-civil,2,main
+2018-11-11,law,decreto-2018-11-10-45-novena-seccion-5,codigo-penal,7,main
+2018-11-11,law,decreto-2018-11-10-45-novena-seccion-6,codigo-penal,4,main
+2018-11-11,law,decreto-2018-11-10-45-decima-segunda-seccion,codigo-civil,8,main
+2018-11-11,law,decreto-2018-11-10-45-decima-seccion,codigo-penal,3,main
+2018-11-11,law,decreto-2018-11-10-45-decima-seccion-2,codigo-penal,2,main
+2018-12-29,law,decreto-2018-12-29-52-cuarta-seccion,codigo-fiscal ley-de-coordinacion-fiscal ley-de-deuda-publica ley-de-hacienda-municipal,48,main
+2019-04-06,law,decreto-2019-04-06-14-decima-cuarta-seccion,constitucion-politica,2,main
+2019-04-13,law,decreto-2019-04-13-15-decima-octava-seccion,constitucion-politica,2,main
+2019-04-21,law,decreto-2019-04-20-16-quinta-seccion,ley-de-desarrollo-cultural,3,main
+2019-05-04,law,decreto-2019-05-04-18-cuarta-seccion,constitucion-politica,9,main
+2019-05-16,law,decreto-2019-05-15-extra,constitucion-politica codigo-civil codigo-penal ley-de-desarrollo-rural-sustentable,15,main
+2019-05-30,law,decreto-2019-05-29-extra,codigo-civil codigo-de-procedimientos-civiles,11,main
+2019-06-16,law,decreto-2019-06-15-24-decima-tercera-seccion,codigo-penal,2,main
+2019-06-16,law,decreto-2019-06-15-24-decima-tercera-seccion-2,codigo-penal,2,main
+2019-08-04,law,decreto-2019-08-03-31-cuarta-seccion,ley-de-fomento-al-primer-empleo ley-de-hacienda-municipal,5,main
+2019-08-04,law,decreto-2019-08-03-31-quinta-seccion,ley-de-agua-potable-y-alcantarillado,3,main
+2019-08-04,law,decreto-2019-08-03-31-tercera-seccion,constitucion-politica codigo-civil codigo-penal,7,main
+2019-08-04,law,decreto-2019-08-03-31-cuarta-seccion,codigo-penal,2,main
+2019-08-04,law,decreto-2019-08-03-31-tercera-seccion-2,constitucion-politica codigo-civil,4,main
+2019-08-04,law,decreto-2019-08-03-31-tercera-seccion-3,constitucion-politica codigo-civil,4,main
+2019-08-04,law,decreto-2019-08-03-31-tercera-seccion-4,constitucion-politica codigo-civil,4,main
+2019-08-04,law,decreto-2019-08-03-31-tercera-seccion-5,constitucion-politica,2,main
+2019-08-04,law,decreto-2019-08-03-31-tercera-seccion-6,constitucion-politica,2,main
+2019-08-04,law,decreto-2019-08-03-31-cuarta-seccion,constitucion-politica,2,main
+2019-08-04,law,decreto-2019-08-03-31-cuarta-seccion-2,constitucion-politica,2,main
+2019-08-17,law,decreto-2019-08-17-33-cuarta-seccion,codigo-penal,2,main
+2019-08-18,law,decreto-2019-08-17-33-quinta-seccion,codigo-de-procedimientos-civiles ley-de-igualdad-entre-mujeres-y-hombres,4,main
+2019-08-18,law,decreto-2019-08-17-33-cuarta-seccion,constitucion-politica codigo-civil ley-de-ciencia-tecnologia-e-innovacion,12,main
+2019-08-18,law,decreto-2019-08-17-33-quinta-seccion,constitucion-politica codigo-civil,4,main
+2019-08-25,law,decreto-2019-08-24-34-segunda-seccion,constitucion-politica codigo-de-procedimientos-civiles codigo-penal,7,main
+2019-08-25,law,decreto-2019-08-24-34-segunda-seccion-2,constitucion-politica codigo-penal,5,main
+2019-08-25,law,decreto-2019-08-24-34-octava-seccion,codigo-penal,2,main
+2019-08-25,law,decreto-2019-08-24-34-segunda-seccion-3,constitucion-politica,2,main
+2019-09-01,law,decreto-2019-08-31-35-quinta-seccion,constitucion-politica,2,main
+2019-09-08,law,decreto-2019-09-07-36-cuarta-seccion,constitucion-politica codigo-fiscal-municipal codigo-penal ley-de-hacienda-municipal,19,main
+2019-09-08,law,decreto-2019-09-07-36-cuarta-seccion-2,codigo-penal,2,main
+2019-09-08,law,decreto-2019-09-07-63-cuarta-seccion,constitucion-politica,2,main
+2019-10-06,law,decreto-2019-10-05-40-segunda-seccion,codigo-civil codigo-penal,23,main
+2019-10-06,law,decreto-2019-10-05-40-segunda-seccion-2,codigo-civil codigo-penal,4,main
+2019-10-23,start,ley-2019-10-22-extra,ley-de-cultura-fisica-y-deporte,227,main
+2019-10-25,law,decreto-2019-10-24-extra,codigo-penal,2,main
+2019-11-03,law,decreto-2019-11-02-44-tercera-seccion,constitucion-politica codigo-penal,4,main
+2019-11-03,law,decreto-2019-11-02-44-tercera-seccion-2,constitucion-politica,2,main
+2019-11-03,law,decreto-2019-11-02-44-tercera-seccion-3,constitucion-politica,2,main
+2019-11-10,law,decreto-2019-11-09-45-tercera-seccion,constitucion-politica codigo-penal,19,main
+2019-11-23,law,decreto-2019-11-23-47-tercera-seccion,ley-de-desarrollo-forestal-sustentable,3,main
+2019-11-24,law,decreto-2019-11-23-47-tercera-seccion,codigo-penal ley-de-desarrollo-rural-sustentable,5,main
+2019-11-24,law,decreto-2019-11-23-47-tercera-seccion-2,ley-de-desarrollo-rural-sustentable,2,main
+2019-12-24,law,decreto-2019-12-24-extra,codigo-fiscal ley-de-coordinacion-fiscal ley-de-deuda-publica,42,main
+2019-12-29,law,decreto-2019-12-28-52-tercera-seccion,constitucion-politica,3,main
+2019-12-31,law,decreto-2019-12-30-extra,constitucion-politica,3,main
+2019-12-31,law,decreto-2019-12-30-extra-2,constitucion-politica,2,main
+2019-12-31,law,decreto-2019-12-30-extra-3,constitucion-politica,2,main
+2019-12-31,law,decreto-2019-12-30-extra-4,constitucion-politica,2,main
+2020-01-19,law,decreto-2020-01-18-3-cuarta-seccion,constitucion-politica ley-de-ciencia-tecnologia-e-innovacion,4,main
+2020-02-15,law,decreto-2020-02-15-7-vigesima-septima-seccion,codigo-penal,3,main
+2020-02-16,start,ley-2020-02-15-7-vigesima-sexta-seccion,ley-de-archivos,108,main
+2020-02-16,law,decreto-2020-02-15-7-vigesima-septima-seccion,codigo-civil codigo-de-procedimientos-civiles,7,main
+2020-02-16,law,decreto-2020-02-15-7-vigesima-septima-seccion-2,codigo-de-procedimientos-civiles,2,main
+2020-02-23,start,ley-2020-02-22-8-cuarta-seccion,ley-de-consulta-previa-libre-e-informada-de-los-pueblos-y-co,82,main
+2020-03-01,law,decreto-2020-02-29-9-septima-seccion,ley-de-fomento-a-las-actividades-artesanales,4,main
+2020-03-01,law,decreto-2020-02-29-9-octava-seccion,constitucion-politica codigo-de-procedimientos-civiles codigo-penal,6,main
+2020-03-01,law,decreto-2020-02-29-9-novena-seccion,ley-de-desarrollo-cultural,4,main
+2020-03-01,law,decreto-2020-02-29-9-novena-seccion,constitucion-politica codigo-penal,6,main
+2020-03-03,law,fe-de-erratas-2020-03-03-extra,ley-de-consulta-previa-libre-e-informada-de-los-pueblos-y-co,2,main
+2020-03-22,law,decreto-2020-03-21-12-novena-seccion,constitucion-politica codigo-de-procedimientos-civiles ley-de-fomento-a-las-actividades-artesanales,18,main
+2020-04-18,law,decreto-2020-04-17-extra,codigo-penal,3,main
+2020-04-19,law,decreto-2020-04-18-16,codigo-penal ley-de-desarrollo-rural-sustentable,4,main
+2020-04-19,law,decreto-2020-04-18-16-2,codigo-penal,2,main
+2020-04-21,law,decreto-2020-04-20-extra,constitucion-politica,2,main
+2020-05-10,law,decreto-2020-05-09-19-decima-segunda-seccion,constitucion-politica,2,main
+2020-05-10,law,decreto-2020-05-09-19-decima-segunda-seccion-2,constitucion-politica,2,main
+2020-05-10,law,decreto-2020-05-09-19-decima-segunda-seccion-3,constitucion-politica,3,main
+2020-05-31,law,decreto-2020-05-30-22-cuarta-seccion,constitucion-politica,2,main
+2020-07-26,law,decreto-2020-07-25-30-octava-seccion,constitucion-politica,2,main
+2020-08-09,law,decreto-2020-08-08-32-sexta-seccion,constitucion-politica,2,main
+2020-08-29,law,decreto-2020-08-29-35-quinta-seccion,constitucion-politica,2,main
+2020-08-30,law,decreto-2020-08-29-35-quinta-seccion,codigo-civil codigo-penal ley-de-desarrollo-rural-sustentable,9,main
+2020-08-30,law,decreto-2020-08-29-35-quinta-seccion-2,codigo-civil codigo-penal ley-de-desarrollo-rural-sustentable,11,main
+2020-09-06,law,decreto-2020-09-05-36-decima-primera-seccion,constitucion-politica,3,main
+2020-09-13,law,decreto-2020-09-12-37-sexta-seccion,codigo-civil codigo-penal ley-de-entrega-recepcion-de-los-recursos-y-bienes,31,main
+2020-09-27,law,decreto-2020-09-26-39-septima-seccion,codigo-penal,5,main
+2020-10-04,law,decreto-2020-10-03-40-sexta-seccion,constitucion-politica codigo-civil codigo-penal ley-de-agua-potable-y-alcantarillado ley-de-catastro ley-de-desarrollo-rural-sustentable,22,main
+2020-10-18,law,decreto-2020-10-17-42-decima-seccion,codigo-civil codigo-de-procedimientos-civiles ley-de-adopciones,13,main
+2020-10-18,law,decreto-2020-10-17-42-decima-tercera-seccion,codigo-civil codigo-de-procedimientos-civiles,16,main
+2020-10-25,law,decreto-2020-10-24-43-cuarta-seccion,codigo-penal ley-de-desarrollo-forestal-sustentable ley-de-desarrollo-rural-sustentable,16,main
+2020-11-01,law,decreto-2020-10-31-44-novena-seccion,codigo-penal ley-de-agua-potable-y-alcantarillado ley-de-fomento-al-primer-empleo,6,main
+2020-12-20,law,decreto-2020-12-19-51-novena-seccion,codigo-de-procedimientos-civiles codigo-penal ley-de-derechos-de-los-pueblos-y-comunidades-indigenas-y-afr,6,main
+2020-12-20,law,decreto-2020-12-19-51-novena-seccion-2,codigo-penal,2,main
+2020-12-26,law,decreto-2020-12-26-52-segunda-seccion,codigo-fiscal ley-de-coordinacion-fiscal ley-de-deuda-publica,33,main
+2021-02-14,law,decreto-2021-02-13-7-segunda-seccion,constitucion-politica,10,main
+2021-03-14,law,decreto-2021-03-13-11-decima-octava-seccion,codigo-de-procedimientos-civiles codigo-penal ley-de-desarrollo-cultural ley-de-deuda-publica,9,main
+2021-03-14,law,decreto-2021-03-13-11-decima-octava-seccion-2,codigo-penal,2,main
+2021-03-14,law,decreto-2021-03-13-11-decima-octava-seccion-3,codigo-penal,2,main
+2021-03-28,law,decreto-2021-03-27-13-novena-seccion,codigo-penal,2,main
+2021-05-16,law,decreto-2021-05-15-20-octava-seccion,constitucion-politica codigo-civil codigo-penal,8,main
+2021-05-23,law,decreto-2021-05-22-21-octava-seccion,constitucion-politica codigo-civil codigo-penal ley-de-hacienda-municipal,20,main
+2021-05-23,law,decreto-2021-05-22-21-octava-seccion-2,constitucion-politica codigo-civil codigo-penal,11,main
+2021-05-23,law,decreto-2021-05-22-21-octava-seccion-3,constitucion-politica codigo-penal,5,main
+2021-05-23,law,decreto-2021-05-22-21-octava-seccion-4,constitucion-politica,4,main
+2021-06-02,law,decreto-2021-06-01-extra,constitucion-politica,4,main
+2021-06-02,law,decreto-2021-06-01-extra-2,constitucion-politica,3,main
+2021-06-05,law,decreto-2021-06-05-23-cuarta-seccion,ley-de-encierros-y-depositos-de-vehiculos,21,main
+2021-06-06,law,decreto-2021-06-05-23-cuarta-seccion,codigo-penal,2,main
+2021-06-13,law,decreto-2021-06-12-24-sexta-seccion,ley-de-desarrollo-cultural,5,main
+2021-08-08,law,decreto-2021-08-07-32-sexta-seccion,constitucion-politica codigo-civil,8,main
+2021-08-08,law,decreto-2021-08-07-32-sexta-seccion-2,constitucion-politica codigo-civil,7,main
+2021-08-08,law,decreto-2021-08-07-32-sexta-seccion-3,codigo-civil,4,main
+2021-08-08,law,decreto-2021-08-07-32-sexta-seccion-4,codigo-civil,2,main
+2021-08-29,law,decreto-2021-08-28-35-octava-seccion,codigo-penal,3,main
+2021-08-29,law,decreto-2021-08-28-35-tercera-seccion,constitucion-politica,6,main
+2021-08-29,law,decreto-2021-08-28-35-novena-seccion,codigo-penal,2,main
+2021-09-19,law,decreto-2021-09-18-38-octava-seccion,constitucion-politica ley-de-deuda-publica,4,main
+2021-09-19,law,decreto-2021-09-18-38-decima-primera-seccion,codigo-fiscal ley-de-fomento-a-las-actividades-artesanales,4,main
+2021-09-19,law,decreto-2021-09-18-38-octava-seccion-2,constitucion-politica,2,main
+2021-09-19,law,decreto-2021-09-18-38-decima-primera-seccion,ley-de-deuda-publica,3,main
+2021-09-19,law,decreto-2021-09-18-38-octava-seccion-3,constitucion-politica,3,main
+2021-09-19,law,decreto-2021-09-18-38-octava-seccion-4,constitucion-politica,2,main
+2021-09-19,law,decreto-2021-09-18-38-novena-seccion,constitucion-politica,2,main
+2021-09-19,law,decreto-2021-09-18-38-decima-primera-seccion,constitucion-politica,2,main
+2021-09-19,law,decreto-2021-09-18-38-decima-primera-seccion-2,constitucion-politica,2,main
+2021-09-19,law,decreto-2021-09-18-38-decima-primera-seccion-3,constitucion-politica,2,main
+2021-09-19,law,decreto-2021-09-18-38-decima-primera-seccion-4,constitucion-politica,2,main
+2021-09-19,law,decreto-2021-09-18-38-decima-primera-seccion-5,constitucion-politica,2,main
+2021-09-19,law,decreto-2021-09-18-38-decima-primera-seccion-6,constitucion-politica,3,main
+2021-09-19,law,decreto-2021-09-18-38-decima-primera-seccion-7,constitucion-politica,3,main
+2021-09-19,law,decreto-2021-09-18-38-decima-primera-seccion-8,constitucion-politica,2,main
+2021-09-23,law,decreto-2021-09-22-extra,constitucion-politica,3,main
+2021-09-26,law,decreto-2021-09-25-39-tercera-seccion,constitucion-politica,5,main
+2021-09-26,law,decreto-2021-09-25-39-tercera-seccion-2,constitucion-politica,3,main
+2021-09-26,law,decreto-2021-09-25-39-tercera-seccion-3,constitucion-politica,2,main
+2021-10-10,law,decreto-2021-10-09-41-cuarta-seccion,constitucion-politica codigo-civil codigo-penal,7,main
+2021-10-10,law,decreto-2021-10-09-41-octava-seccion,ley-de-entrega-recepcion-de-los-recursos-y-bienes,4,main
+2021-10-10,law,decreto-2021-10-09-41-cuarta-seccion-2,constitucion-politica,4,main
+2021-10-10,law,decreto-2021-10-09-41-cuarta-seccion-3,constitucion-politica,2,main
+2021-10-10,law,decreto-2021-10-09-41-cuarta-seccion-4,constitucion-politica,3,main
+2021-10-10,law,decreto-2021-10-09-41-cuarta-seccion-5,constitucion-politica,3,main
+2021-10-17,law,decreto-2021-10-16-42-segunda-seccion,constitucion-politica ley-de-coordinacion-fiscal ley-de-cultura-fisica-y-deporte,12,main
+2021-10-17,law,decreto-2021-10-16-42-tercera-seccion,ley-de-ciencia-tecnologia-e-innovacion,6,main
+2021-10-17,law,decreto-2021-10-16-42-cuarta-seccion,codigo-civil codigo-penal ley-de-derechos-de-los-pueblos-y-comunidades-indigenas-y-afr ley-de-hacienda-municipal,17,main
+2021-10-17,law,decreto-2021-10-16-42-quinta-seccion,codigo-fiscal-municipal ley-de-cambio-climatico ley-de-caminos-carreteras-y-puentes,9,main
+2021-10-17,law,decreto-2021-10-16-42-segunda-seccion-2,constitucion-politica,3,main
+2021-10-17,law,decreto-2021-10-16-42-cuarta-seccion-2,codigo-civil ley-de-derechos-de-los-pueblos-y-comunidades-indigenas-y-afr,6,main
+2021-10-17,law,decreto-2021-10-16-42-tercera-seccion,constitucion-politica,9,main
+2021-10-17,law,decreto-2021-10-16-42-cuarta-seccion-3,codigo-civil,2,main
+2021-10-17,law,decreto-2021-10-16-42-cuarta-seccion,constitucion-politica,2,main
+2021-10-17,law,decreto-2021-10-16-42-quinta-seccion,constitucion-politica,2,main
+2021-10-17,law,decreto-2021-10-16-42-quinta-seccion-2,constitucion-politica,2,main
+2021-10-24,law,decreto-2021-10-23-43-octava-seccion,constitucion-politica codigo-civil,5,main
+2021-10-24,law,decreto-2021-10-23-43-octava-seccion-2,constitucion-politica codigo-civil,7,main
+2021-10-24,law,decreto-2021-10-23-43-octava-seccion-3,constitucion-politica,2,main
+2021-10-24,law,decreto-2021-10-23-43-octava-seccion-4,constitucion-politica,2,main
+2021-10-24,law,decreto-2021-10-23-43-novena-seccion,constitucion-politica,3,main
+2021-10-24,law,decreto-2021-10-23-43-novena-seccion-2,constitucion-politica,2,main
+2021-10-24,law,decreto-2021-10-23-43-novena-seccion-3,constitucion-politica,2,main
+2021-10-24,law,decreto-2021-10-23-43-decima-seccion,constitucion-politica,2,main
+2021-11-14,law,decreto-2021-11-13-46-quinta-seccion,constitucion-politica ley-de-derechos-de-los-pueblos-y-comunidades-indigenas-y-afr ley-de-desarrollo-forestal-sustentable ley-de-desarrollo-rural-sustentable ley-de-fomento-a-las-actividades-artesanales,12,main
+2021-11-14,law,decreto-2021-11-13-46-quinta-seccion-2,constitucion-politica ley-de-desarrollo-forestal-sustentable,5,main
+2021-11-14,law,decreto-2021-11-13-46-quinta-seccion-3,constitucion-politica,2,main
+2021-11-14,law,decreto-2021-11-13-46-sexta-seccion,constitucion-politica,4,main
+2021-11-14,law,decreto-2021-11-13-46-sexta-seccion-2,constitucion-politica,3,main
+2021-11-21,law,decreto-2021-11-20-47-quinta-seccion,ley-de-encierros-y-depositos-de-vehiculos,2,main
+2021-12-02,law,decreto-2021-12-01-extra,codigo-civil codigo-penal,3102,main
+2021-12-05,start,codigo-2021-12-04-49-decima-primera-seccion,codigo-familiar,1078,main
+2021-12-05,start,ley-2021-12-04-49-septima-seccion,ley-de-fomento-para-la-lectura-la-escritura-el-acceso-al-lib,48,main
+2021-12-05,law,decreto-2021-12-04-49-cuarta-seccion,codigo-civil codigo-penal,3104,main
+2021-12-05,law,decreto-2021-12-04-49-octava-seccion,ley-de-deuda-publica,3,main
+2021-12-05,law,decreto-2021-12-04-49-septima-seccion,ley-de-adopciones ley-de-fomento-a-las-actividades-artesanales,7,main
+2021-12-05,law,decreto-2021-12-04-49-cuarta-seccion-2,codigo-civil codigo-penal,5,main
+2021-12-05,law,decreto-2021-12-04-49-cuarta-seccion-3,codigo-penal,2,main
+2021-12-05,law,decreto-2021-12-04-49-sexta-seccion,codigo-civil,5,main
+2021-12-05,law,decreto-2021-12-04-49-sexta-seccion,codigo-penal,2,main
+2021-12-05,law,decreto-2021-12-04-49-decima-primera-seccion,codigo-civil,1092,main
+2021-12-05,law,decreto-2021-12-04-49-sexta-seccion-2,codigo-penal,2,main
+2021-12-05,law,decreto-2021-12-04-49-sexta-seccion-3,codigo-penal,2,main
+2021-12-05,law,decreto-2021-12-04-49-sexta-seccion-4,codigo-penal,2,main
+2021-12-12,law,decreto-2021-12-11-50-octava-seccion,constitucion-politica ley-de-derechos-de-los-pueblos-y-comunidades-indigenas-y-afr,74,main
+2021-12-18,law,decreto-2021-12-18-51-decima-sexta-seccion,codigo-fiscal ley-de-deuda-publica,5,main
+2021-12-19,law,decreto-2021-12-18-51-tercera-seccion,codigo-penal,2,main
+2021-12-19,law,decreto-2021-12-18-51-tercera-seccion-2,codigo-penal,2,main
+2022-04-03,law,decreto-2022-04-02-14-octava-seccion,ley-de-educacion,2,main
+2022-04-10,law,decreto-2022-04-09-15-decima-quinta-seccion,constitucion-politica,2,main
+2022-05-15,law,decreto-2022-05-14-20-cuarta-seccion,ley-de-fomento-a-las-actividades-artesanales,2,main
+2022-07-31,law,decreto-2022-07-30-31-novena-seccion,ley-de-adopciones ley-de-fomento-a-las-actividades-artesanales,5,main
+2022-08-07,law,decreto-2022-08-06-32-octava-seccion,constitucion-politica,2,main
+2022-08-21,law,decreto-2022-08-20-34-cuarta-seccion,ley-de-ciencia-tecnologia-e-innovacion,9,main
+2022-09-04,law,decreto-2022-09-03-36-octava-seccion,codigo-familiar,3,main
+2022-10-16,law,decreto-2022-10-15-42-octava-seccion,ley-de-agua-potable-y-alcantarillado ley-de-desarrollo-forestal-sustentable ley-de-fomento-a-las-actividades-artesanales,9,main
+2022-10-23,law,decreto-2022-10-22-43-tercera-seccion,codigo-civil codigo-penal ley-de-cambio-climatico,10,main
+2022-10-23,law,decreto-2022-10-22-43-tercera-seccion-2,codigo-civil codigo-penal,4,main
+2022-10-23,law,decreto-2022-10-22-43-tercera-seccion-3,codigo-penal,2,main
+2022-10-23,law,decreto-2022-10-22-43-tercera-seccion-4,codigo-penal,2,main
+2022-10-23,law,decreto-2022-10-22-43-cuarta-seccion,codigo-penal,3,main
+2022-10-30,law,decreto-2022-10-29-44-septima-seccion,codigo-civil,5,main
+2022-11-20,law,decreto-2022-11-19-47-tercera-seccion,constitucion-politica,2,main
+2022-12-01,law,decreto-2021-03-13-11-decima-octava-seccion,ley-de-igualdad-entre-mujeres-y-hombres,3,main
+2022-12-01,law,decreto-2022-11-30-extra,constitucion-politica,3,main
+2022-12-01,law,decreto-2021-06-12-24-sexta-seccion,ley-de-igualdad-entre-mujeres-y-hombres,6,main
+2022-12-01,law,decreto-2022-11-30-extra-2,constitucion-politica,2,main
+2022-12-01,law,decreto-2021-11-13-46-sexta-seccion,ley-de-igualdad-entre-mujeres-y-hombres,4,main
+2022-12-01,law,decreto-2021-11-13-46-septima-seccion,ley-de-igualdad-entre-mujeres-y-hombres,4,main
+2022-12-01,law,decreto-2021-11-13-46-septima-seccion-2,ley-de-igualdad-entre-mujeres-y-hombres,3,main
+2022-12-01,law,decreto-2022-08-20-34-cuarta-seccion,ley-de-igualdad-entre-mujeres-y-hombres,2,main
+2022-12-04,law,decreto-2022-12-03-49-octava-seccion,ley-de-agua-potable-y-alcantarillado,2,main
+2022-12-15,law,decreto-2022-12-15-extra,ley-de-coordinacion-fiscal,3,main
+2022-12-16,law,decreto-2022-12-15-extra,constitucion-politica,11,main
+2022-12-28,law,decreto-2022-12-27-extra,constitucion-politica,5,main
+2023-01-06,law,decreto-2023-01-05-extra,ley-de-agua-potable-y-alcantarillado ley-de-caminos-y-aeropistas-de-oaxaca ley-de-cultura-fisica-y-deporte,60,main
+2023-01-08,law,decreto-2023-01-07-1-cuarta-seccion,ley-de-desarrollo-rural-sustentable,5,main
+2023-01-29,law,decreto-2023-01-28-4-segunda-seccion,ley-de-derechos-de-los-pueblos-y-comunidades-indigenas-y-afr,2,main
+2023-02-11,law,decreto-2023-02-10-extra,ley-de-entrega-recepcion-de-los-recursos-y-bienes,4,main
+2023-02-21,law,decreto-2023-02-20-extra,constitucion-politica,424,main
+2023-02-26,law,decreto-2023-02-25-8-vigesima-primera-seccion,ley-de-cultura-fisica-y-deporte ley-de-deuda-publica,4,main
+2023-03-05,law,decreto-2023-03-04-9-decima-octava-seccion,codigo-penal ley-de-igualdad-entre-mujeres-y-hombres,9,main
+2023-03-19,law,decreto-2023-03-18-11-decima-septima-seccion,ley-de-desarrollo-rural-sustentable,8,main
+2023-03-26,law,decreto-2023-03-25-12-vigesima-cuarta-seccion,codigo-penal,2,main
+2023-03-26,law,decreto-2023-03-25-12-vigesima-quinta-seccion,ley-de-fomento-a-las-actividades-artesanales,5,main
+2023-04-02,law,decreto-2023-04-01-13-trigesima-primera-seccion,ley-de-fomento-a-las-actividades-artesanales,4,main
+2023-04-02,law,decreto-2023-04-01-13-vigesima-sexta-seccion,codigo-familiar ley-de-agua-potable-y-alcantarillado,9,main
+2023-04-08,law,fe-de-erratas-2023-04-08-14-octava-seccion,ley-de-fomento-a-las-actividades-artesanales,5,main
+2023-04-14,law,decreto-2023-04-13-extra,constitucion-politica,426,main
+2023-05-13,law,decreto-2023-05-12-extra,ley-de-desarrollo-cultural,5,main
+2023-05-23,law,decreto-2023-05-22-extra,ley-de-archivos,24,main
+2023-06-24,law,fe-de-erratas-2023-06-24-25-septima-seccion,ley-de-archivos,2,main
+2023-07-16,law,decreto-2023-07-15-28-septima-seccion,ley-de-hacienda-municipal,6,main
+2023-07-22,law,decreto-2023-07-22-29-tercera-seccion,constitucion-politica,10,main
+2023-07-30,law,decreto-2023-07-29-30-novena-seccion,ley-de-coordinacion-fiscal,5,main
+2023-07-30,law,decreto-2023-07-29-30-octava-seccion,ley-de-adquisiciones-enajenaciones-arrendamientos-prestacion ley-de-archivos ley-de-entrega-recepcion-de-los-recursos-y-bienes ley-de-fomento-a-las-actividades-artesanales,35,main
+2023-08-06,law,decreto-2023-08-05-31-octava-seccion,ley-de-desarrollo-rural-sustentable,17,main
+2023-08-18,law,decreto-2023-08-17-extra,ley-de-entidades-paraestatales,2,main
+2023-09-24,law,decreto-2023-09-23-38-sexta-seccion,codigo-penal,2,main
+2023-10-01,start,ley-2023-09-30-39-decima-tercera-seccion,ley-de-fiscalizacion-superior-y-rendicion-de-cuentas,120,main
+2023-10-15,law,decreto-2023-10-14-41-octava-seccion,ley-de-fomento-al-primer-empleo ley-de-igualdad-entre-mujeres-y-hombres,4,main
+2023-10-15,law,decreto-2023-10-14-41-octava-seccion-2,ley-de-igualdad-entre-mujeres-y-hombres,2,main
+2023-10-29,law,decreto-2023-10-28-43-quinta-seccion,constitucion-politica codigo-penal,5,main
+2023-10-29,law,decreto-2023-10-28-43-quinta-seccion-2,constitucion-politica codigo-penal,7,main
+2023-10-29,law,decreto-2023-10-28-43-quinta-seccion-3,constitucion-politica codigo-penal,5,main
+2023-10-29,law,decreto-2023-10-28-43-quinta-seccion-4,constitucion-politica,2,main
+2023-10-29,law,decreto-2023-10-28-43-quinta-seccion-5,constitucion-politica,2,main
+2023-10-29,law,decreto-2023-10-28-43-quinta-seccion-6,constitucion-politica,2,main
+2023-10-29,law,decreto-2023-10-28-43-quinta-seccion-7,constitucion-politica,3,main
+2023-10-29,law,decreto-2023-10-28-43-quinta-seccion-8,constitucion-politica,3,main
+2023-10-29,law,decreto-2023-10-28-43-quinta-seccion-9,constitucion-politica,15,main
+2023-11-25,law,fe-de-erratas-2023-11-25-47-septima-seccion,ley-de-fiscalizacion-superior-y-rendicion-de-cuentas,2,main
+2023-12-14,law,decreto-2023-12-13-extra,constitucion-politica,2,main
+2023-12-16,law,decreto-2023-12-16-50-sexta-seccion,codigo-fiscal ley-de-coordinacion-fiscal ley-de-deuda-publica,43,main
+2023-12-17,law,decreto-2023-12-16-50-vigesima-quinta-seccion,ley-de-agua-potable-y-alcantarillado,3,main
+2023-12-31,law,decreto-2023-12-30-52-novena-seccion,ley-de-cultura-fisica-y-deporte,6,main
+2024-01-19,law,fe-de-erratas-2024-01-19-extra,codigo-penal,3,main
+2024-02-11,law,decreto-2024-02-10-6-septima-seccion,ley-de-archivos,3,main
+2024-02-17,start,ley-2024-02-17-7-decima-tercera-seccion,ley-de-ingresos-del-municipio-de-heroica-ciudad-de-juchitan,3,main
+2024-02-25,law,decreto-2024-02-24-8-decima-primera-seccion,codigo-penal,3,main
+2024-02-25,law,decreto-2024-02-24-8-decima-segunda-seccion,codigo-penal,2,main
+2024-03-03,law,decreto-2024-03-02-9-decima-quinta-seccion,codigo-penal,3,main
+2024-03-09,law,decreto-2024-03-08-extra,codigo-familiar codigo-penal ley-de-asistencia-y-prevencion-de-la-violencia-familiar,8,main
+2024-03-17,law,decreto-2024-03-16-11-decima-seccion,ley-de-adquisiciones-enajenaciones-arrendamientos-prestacion,2,main
+2024-04-07,law,decreto-2024-04-06-14-decima-segunda-seccion,codigo-penal,2,main
+2024-04-07,law,decreto-2024-04-06-14-decima-tercera-seccion,codigo-familiar ley-de-cambio-climatico,5,main
+2024-04-07,law,decreto-2024-04-06-14-decima-tercera-seccion-2,ley-de-cambio-climatico,2,main
+2024-04-21,law,decreto-2024-04-20-16-trigesima-tercera-seccion,codigo-penal,3,main
+2024-04-27,law,fe-de-erratas-2024-04-27-17-cuarta-seccion,codigo-penal,2,main
+2024-05-01,law,decreto-2024-04-30-extra,ley-de-caminos-y-aeropistas-de-oaxaca,2,main
+2024-05-25,law,fe-de-erratas-2024-05-25-21-decima-cuarta-seccion,codigo-penal,2,main
+2024-06-20,law,decreto-2024-06-19-extra,codigo-penal,2,main
+2024-07-04,law,decreto-2024-07-03-extra,ley-de-caminos-y-aeropistas-de-oaxaca,2,main
+2024-07-07,law,decreto-2024-07-06-27-decima-primera-seccion,codigo-penal ley-de-agua-potable-y-alcantarillado,4,main
+2024-07-07,law,decreto-2024-07-06-27-decima-primera-seccion-2,codigo-penal ley-de-agua-potable-y-alcantarillado,4,main
+2024-07-07,law,decreto-2024-07-06-27-decima-primera-seccion-3,codigo-penal,2,main
+2024-07-21,law,decreto-2024-07-20-29-novena-seccion,codigo-penal,2,main
+2024-07-28,law,decreto-2024-07-27-30-quinta-seccion,ley-de-desarrollo-rural-sustentable,2,main
+2024-08-25,law,decreto-2024-08-24-34-decima-tercera-seccion,ley-de-igualdad-entre-mujeres-y-hombres,2,main
+2024-08-25,law,decreto-2024-08-24-34-decima-cuarta-seccion,ley-de-desarrollo-cultural ley-de-encierros-y-depositos-de-vehiculos ley-de-fomento-para-la-lectura-la-escritura-el-acceso-al-lib,21,main
+2024-08-25,law,decreto-2024-08-24-34-decima-cuarta-seccion,ley-de-igualdad-entre-mujeres-y-hombres,2,main
+2024-08-29,law,decreto-2024-08-28-extra,ley-de-fomento-a-la-lactancia-materna-en-el-estado-de-oaxaca,6,main
+2024-09-01,law,decreto-2024-08-31-35-novena-seccion,codigo-penal,2,main
+2024-10-13,law,decreto-2024-10-12-41-decima-cuarta-seccion,codigo-penal ley-de-igualdad-entre-mujeres-y-hombres,5,main
+2024-10-20,law,decreto-2024-10-19-42-decima-seccion,codigo-penal,2,main
+2024-11-10,law,decreto-2024-11-09-45-decima-segunda-seccion,ley-de-desarrollo-cultural,2,main
+2024-11-16,law,decreto-2024-11-15-extra,ley-de-firma-electronica-avanzada,13,main
+2024-12-21,law,decreto-2024-12-21-51-septima-seccion,codigo-fiscal ley-de-coordinacion-fiscal,21,main
+2025-01-01,law,decreto-2023-12-30-52-septima-seccion,constitucion-politica,2,main
+2025-01-01,law,decreto-2024-04-30-extra,constitucion-politica,2,main
+2025-01-01,law,decreto-2024-07-03-extra,constitucion-politica,2,main
+2025-01-01,law,decreto-2024-07-06-27-decima-primera-seccion,constitucion-politica,3,main
+2025-01-01,law,decreto-2024-09-10-extra,constitucion-politica,5,main
+2025-01-01,law,decreto-2024-10-12-41-decima-cuarta-seccion,constitucion-politica,2,main
+2025-01-01,law,decreto-2024-11-02-44-decima-quinta-seccion,constitucion-politica,2,main
+2025-01-01,law,decreto-2024-11-12-extra,constitucion-politica,6,main
+2025-02-11,law,decreto-2025-02-10-extra,ley-de-fiscalizacion-superior-y-rendicion-de-cuentas,9,main
+2025-02-23,start,,ley-de-ingresos-del-municipio-de-concepcion-buenavista-distr,252,main
+2025-02-23,law,decreto-2025-02-22-8-trigesima-quinta-seccion,ley-de-desarrollo-rural-sustentable,8,main
+2025-03-09,start,ley-2025-03-08-10-septima-seccion,ley-de-ingresos-del-municipio-de-miahuatlan-de-porfirio-diaz,3,main
+2025-03-15,law,decreto-2025-03-14-extra,constitucion-politica,21,main
+2025-03-16,start,ley-2025-03-15-11-decima-tercera-seccion,ley-de-ingresos-del-municipio-de-magdalena-zahuatlan-distrit,3,main
+2025-03-16,start,ley-2025-03-15-11-decima-segunda-seccion,ley-de-ingresos-del-municipio-de-san-dionisio-del-mar-distri,2,main
+2025-03-23,start,ley-2025-03-22-12-cuarta-seccion,ley-de-ingresos-del-municipio-de-san-antonino-monte-verde-di,2,main
+2025-03-29,start,ley-2025-03-29-13-trigesima-primera-seccion,ley-de-ingresos-del-municipio-de-san-bartolome-quialana-dist,2,main
+2025-04-01,law,decreto-2025-03-31-extra,ley-de-cambio-climatico,4,main
+2025-04-13,law,decreto-2025-04-12-15-vigesima-sexta-seccion,ley-de-desarrollo-cultural,4,main
+2025-04-20,start,ley-2025-04-19-16-octava-seccion,ley-de-ingresos-del-municipio-de-salina-cruz-distrito-de-teh,3,main
+2025-04-27,law,decreto-2025-04-26-17-octava-seccion,ley-de-derechos-de-los-pueblos-y-comunidades-indigenas-y-afr,3,main
+2025-06-15,law,decreto-2025-06-14-24-octava-seccion,ley-de-cultura-fisica-y-deporte,2,main
+2025-07-10,law,decreto-2025-07-09-extra,ley-de-fiscalizacion-superior-y-rendicion-de-cuentas,7,main
+2025-07-13,law,decreto-2025-07-12-28-decima-quinta-seccion,ley-de-caminos-carreteras-y-puentes,34,main
+2025-07-30,law,decreto-2025-07-29-extra,ley-de-catastro,90,main
+2025-08-02,law,decreto-2025-08-01-extra,constitucion-politica,5,main
+2025-08-10,law,decreto-2025-08-09-32-novena-seccion,ley-de-cambio-climatico,9,main
+2025-08-10,law,decreto-2025-08-09-32-decima-primera-seccion,ley-de-fomento-a-la-lactancia-materna-en-el-estado-de-oaxaca,2,main
+2025-08-31,law,decreto-2025-08-30-35-novena-seccion,ley-de-cambio-climatico,2,main
+2025-09-07,law,decreto-2025-09-06-36-decima-primera-seccion,ley-de-desarrollo-forestal-sustentable,10,main
+2025-09-11,law,decreto-2025-09-10-extra,constitucion-politica,2,main
+2025-09-14,law,decreto-2025-09-13-37-decima-seccion,codigo-penal,2,main
+2025-09-21,law,decreto-2025-09-20-38-octava-seccion,codigo-penal ley-de-desarrollo-cultural ley-de-encierros-y-depositos-de-vehiculos,7,main
+2025-10-05,law,decreto-2025-10-04-40-sexta-seccion,codigo-penal,2,main
+2025-10-05,law,decreto-2025-10-04-40-novena-seccion,constitucion-politica,2,main
+2025-10-05,law,decreto-2025-10-04-40-sexta-seccion-2,codigo-penal,2,main
+2025-10-12,law,decreto-2025-10-11-41-octava-seccion,codigo-penal,3,main
+2025-10-26,law,decreto-2025-10-25-43-decima-seccion,ley-de-cultura-fisica-y-deporte,2,main
+2025-12-10,start,ley-2025-12-10-extra,ley-de-ingresos,42,main
+2025-12-10,law,decreto-2025-12-10-extra,codigo-fiscal ley-de-coordinacion-fiscal,29,main
+2025-12-14,law,decreto-2025-12-13-50-decima-octava-seccion,codigo-penal,2,main
+2025-12-14,law,decreto-2025-12-13-50-decima-sexta-seccion,codigo-civil codigo-familiar,36,main
+2026-01-04,law,decreto-2026-01-03-1-tercera-seccion,codigo-penal ley-de-cambio-climatico ley-de-cultura-fisica-y-deporte ley-de-derechos-de-los-pueblos-y-comunidades-indigenas-y-afr,9,main
+2026-01-11,law,decreto-2026-01-10-2-decima-primera-seccion,constitucion-politica codigo-familiar,5,main
+2026-01-11,law,decreto-2026-01-10-2-decima-segunda-seccion,codigo-penal,2,main
+2026-01-11,law,decreto-2026-01-10-2-decima-tercera-seccion,ley-de-fomento-para-la-lectura-la-escritura-el-acceso-al-lib,5,main
+2026-01-11,law,decreto-2026-01-10-2-decima-primera-seccion-2,constitucion-politica,3,main
+2026-01-11,law,decreto-2026-01-10-2-decima-tercera-seccion,codigo-familiar,2,main
+2026-01-11,law,decreto-2026-01-10-2-decima-primera-seccion-3,constitucion-politica,2,main
+2026-01-17,start,ley-2026-01-17-3-octava-seccion,ley-de-ingresos-del-municipio-de-oaxaca-de-juarez-distrito-d,4,main
+2026-01-18,start,ley-2026-01-17-3-decima-quinta-seccion,ley-de-ingresos-del-municipio-de-san-antonino-el-alto-distri,2,main
+2026-01-18,start,ley-2026-01-17-3-decima-seccion,ley-de-ingresos-del-municipio-de-san-dionisio-ocotlan-distri,2,main
+2026-02-01,start,ley-2026-01-31-5-vigesima-sexta-seccion,ley-de-ingresos-del-municipio-de-san-bartolome-loxicha-distr,2,main
+2026-02-01,law,decreto-2026-01-31-5-vigesima-octava-seccion,ley-de-adquisiciones-enajenaciones-arrendamientos-prestacion,11,main
+2026-03-22,law,decreto-2026-03-21-12-decima-cuarta-seccion,constitucion-politica ley-de-fomento-para-la-lectura-la-escritura-el-acceso-al-lib,6,main
+2026-03-29,law,decreto-2026-03-28-13-decima-cuarta-seccion,ley-de-ingresos-del-municipio-de-oaxaca-de-juarez-distrito-d,1,main
+2026-04-05,law,ley-2026-04-04-14-vigesima-septima-seccion,ley-de-expropiacion,3,main
+2026-05-21,law,decreto-2026-05-21-extra,constitucion-politica,4,main
+2026-05-24,law,decreto-2026-05-23-21-decima-segunda-seccion,codigo-penal ley-de-cultura-fisica-y-deporte,7,main
+2026-06-27,law,decreto-2026-06-27-26-decima-cuarta-seccion,constitucion-politica,2,main
+2026-07-26,law,decreto-2026-07-25-30-decima-tercera-seccion,codigo-familiar codigo-penal,4,main
+2026-07-26,law,decreto-2026-07-25-30-decima-segunda-seccion,constitucion-politica,2,main
+2026-08-02,law,decreto-2026-08-01-31-decima-seccion,constitucion-politica codigo-civil codigo-familiar,6,main
+2026-08-02,law,decreto-2026-08-01-31-decima-primera-seccion,constitucion-politica,3,main

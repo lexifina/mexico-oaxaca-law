@@ -1,0 +1,11 @@
+{
+  "path": "mx-oax",
+  "code": "MX-OAX",
+  "name": "Oaxaca",
+  "level": "state",
+  "parent": "mx",
+  "repo": "https://github.com/lexifina/mexico-oaxaca-law",
+  "build": "built: constitution, codes and laws (58 ordenamientos, 961 versions) from SCJN Legislación",
+  "language": "es",
+  "sources": 1
+}
