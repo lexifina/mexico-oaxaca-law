@@ -6230,6 +6230,76 @@
      "sha256": "f279309a0b3eac9ff8079f44ba57227dbfe3efe5b7e84cff733d255f792c1767"
     }
    ]
+  },
+  {
+   "slug": "ley-de-la-casa-de-la-cultura-oaxaquena",
+   "short": "Ley de la Casa de la Cultura Oaxaqueña",
+   "title": "Ley de la Casa de la Cultura Oaxaqueña",
+   "url": "https://www.congresooaxaca.gob.mx/docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_la_Casa_de_la_Cultura_Oaxaqueña_(Ref_dto_733_aprob_LXVI_Legis_5_ago_2025_PO_Extra_1_sep_2025).pdf",
+   "versions": [
+    {
+     "from": "2025-09-02",
+     "units": 23,
+     "source_url": "https://www.congresooaxaca.gob.mx/docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_la_Casa_de_la_Cultura_Oaxaqueña_(Ref_dto_733_aprob_LXVI_Legis_5_ago_2025_PO_Extra_1_sep_2025).pdf",
+     "sha256": "f2c956c31dda50c71db69c64c21ac1086b4d266f70a3108e9313383fcf4f39de"
+    }
+   ]
+  },
+  {
+   "slug": "ley-de-la-corporacion-oaxaquena-de-radio-y-television",
+   "short": "Ley de la Corporación Oaxaqueña de Radio y Televisión",
+   "title": "Ley de la Corporación Oaxaqueña de Radio y Televisión",
+   "url": "https://www.congresooaxaca.gob.mx/docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_la_Corporacion_Oaxaqueña_de_Radio_y_Television_(Dto_Ref_735_Aprob_LXVI_Legis_5_agosto_2025_PO_36_11a_secc_6_septiembre_2025).pdf",
+   "versions": [
+    {
+     "from": "2025-09-07",
+     "units": 34,
+     "source_url": "https://www.congresooaxaca.gob.mx/docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_la_Corporacion_Oaxaqueña_de_Radio_y_Television_(Dto_Ref_735_Aprob_LXVI_Legis_5_agosto_2025_PO_36_11a_secc_6_septiembre_2025).pdf",
+     "sha256": "190fd820fe5622f7adedc1a3799c45daff2ed90a58fcf557df69eaeeb41ceace"
+    }
+   ]
+  },
+  {
+   "slug": "ley-de-software-libre-y-codigo-abierto",
+   "short": "Ley de Software Libre y Código Abierto del Estado de Oaxaca",
+   "title": "Ley de Software Libre y Código Abierto del Estado de Oaxaca",
+   "url": "https://www.congresooaxaca.gob.mx/docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_Software_libre_y_C%c3%b3digo_Abierto_del_Estado_de_Oaxaca..pdf",
+   "versions": [
+    {
+     "from": "2017-05-13",
+     "units": 21,
+     "source_url": "https://www.congresooaxaca.gob.mx/docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_Software_libre_y_C%c3%b3digo_Abierto_del_Estado_de_Oaxaca..pdf",
+     "sha256": "2bfddc45df93d18eb0e1e9103c6f57f225ce0608d2cffdcbfc02f4d09c7fedda"
+    }
+   ]
+  },
+  {
+   "slug": "ley-de-voluntad-anticipada",
+   "short": "Ley de Voluntad Anticipada para el Estado de Oaxaca",
+   "title": "Ley de Voluntad Anticipada para el Estado de Oaxaca",
+   "url": "https://www.congresooaxaca.gob.mx/docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_Voluntad_anticipada_para_el_Estado_de_Oaxaca..pdf",
+   "versions": [
+    {
+     "from": "2015-10-10",
+     "units": 40,
+     "source_url": "https://www.congresooaxaca.gob.mx/docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_de_Voluntad_anticipada_para_el_Estado_de_Oaxaca..pdf",
+     "sha256": "7f779b3a0a064c7799d5e187b3ed21bda8182d933bb1a5cc51fc8f6d2a77a2b8"
+    }
+   ]
+  },
+  {
+   "slug": "ley-del-observatorio-turistico",
+   "short": "Ley que Crea el Observatorio Turístico del Estado de Oaxaca",
+   "title": "Ley que Crea el Observatorio Turístico del Estado de Oaxaca",
+   "url": "https://www.congresooaxaca.gob.mx/docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_del_Observatorio_Turistico_del_Estado_de_Oaxaca_(txt_orig_dto_1534_aprob_LXV_Legis_6_sep_2023_PO_38_6a_secc_23_sep_2023).pdf",
+   "versions": [
+    {
+     "from": "2023-09-24",
+     "units": 21,
+     "source_url": "https://www.congresooaxaca.gob.mx/docs66.congresooaxaca.gob.mx/legislacion_estatal/Ley_del_Observatorio_Turistico_del_Estado_de_Oaxaca_(txt_orig_dto_1534_aprob_LXV_Legis_6_sep_2023_PO_38_6a_secc_23_sep_2023).pdf",
+     "sha256": "60e95d55377c5c7455c55a6c09d729284dfac3ce499d7bf96c3659781c32d88a"
+    }
+   ]
   }
  ]
 }

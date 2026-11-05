@@ -87,6 +87,16 @@
     "ley-de-ingresos-del-municipio-de-san-dionisio-ocotlan-distri"
    ],
    "sha256": "93ca8c4c9dbd269a5ab639f5ae429ebb868a8390a43b2461d6f43969cb588ccb"
+  },
+  "90-congreso-breadth-01.json": {
+   "acts": [
+    "ley-de-la-casa-de-la-cultura-oaxaquena",
+    "ley-de-la-corporacion-oaxaquena-de-radio-y-television",
+    "ley-de-software-libre-y-codigo-abierto",
+    "ley-de-voluntad-anticipada",
+    "ley-del-observatorio-turistico"
+   ],
+   "sha256": "73c017da50408cecac411fd6ea22bc42e3e591905057959dbfdd99707adc8578"
   }
  },
  "schema": 1

@@ -7,6 +7,7 @@ This file is written by the build on 2026-11-05, the day the source data was ret
 | Source | Address | Retrieved | Licence |
 | --- | --- | --- | --- |
 | Suprema Corte de Justicia de la Nación: Legislación (state compilation) | <https://legislacion.scjn.gob.mx/> | 2026-10-30 | Ley Federal del Derecho de Autor, art. 14, fr. VIII: legislative texts are not protected. SCJN terms: copying for informative and academic purposes, with no commercial use. |
+| H. Congreso del Estado Libre y Soberano de Oaxaca, legislación estatal | <https://www.congresooaxaca.gob.mx/legislaciones/legislacion_estatal.html> | 2026-11-05 | Legislative texts excluded from copyright by Ley Federal del Derecho de Autor, art. 14 fr. VIII; site footer: Todos los derechos reservados. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -72,12 +73,17 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ley-de-ingresos-del-municipio-de-san-bartolome-quialana-dist` | LEY DE INGRESOS DEL MUNICIPIO DE SAN BARTOLOME QUIALANA, DISTRITO DE TLACOLULA, OAXACA, PARA EL EJERCICIO FISCAL 2025 | 1 | 2025-03-29 to 2025-03-29 |
 | `ley-de-ingresos-del-municipio-de-san-dionisio-del-mar-distri` | LEY DE INGRESOS DEL MUNICIPIO DE SAN DIONISIO DEL MAR, DISTRITO DE JUCHITAN, OAXACA, PARA EL EJERCICIO FISCAL 2025 | 1 | 2025-03-16 to 2025-03-16 |
 | `ley-de-ingresos-del-municipio-de-san-dionisio-ocotlan-distri` | LEY DE INGRESOS DEL MUNICIPIO DE SAN DIONISIO OCOTLAN, DISTRITO DE OCOTLAN, OAXACA, PARA EL EJERCICIO FISCAL 2026 | 1 | 2026-01-18 to 2026-01-18 |
+| `ley-de-la-casa-de-la-cultura-oaxaquena` | Ley de la Casa de la Cultura Oaxaqueña | 1 | 2025-09-02 to 2025-09-02 |
+| `ley-de-la-corporacion-oaxaquena-de-radio-y-television` | Ley de la Corporación Oaxaqueña de Radio y Televisión | 1 | 2025-09-07 to 2025-09-07 |
+| `ley-de-software-libre-y-codigo-abierto` | Ley de Software Libre y Código Abierto del Estado de Oaxaca | 1 | 2017-05-13 to 2017-05-13 |
+| `ley-de-voluntad-anticipada` | Ley de Voluntad Anticipada para el Estado de Oaxaca | 1 | 2015-10-10 to 2015-10-10 |
+| `ley-del-observatorio-turistico` | Ley que Crea el Observatorio Turístico del Estado de Oaxaca | 1 | 2023-09-24 to 2023-09-24 |
 
-The build made 755 commits:
+The build made 760 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 58 | first version of an act |
+| 63 | first version of an act |
 | 697 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
@@ -85,7 +91,7 @@ Other counts:
 - 0 commits on the branch `futuro`: laws not yet in force on 2026-11-05.
 - 45 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 727 laws in the record.
-- 1462 tags.
+- 1467 tags.
 
 ## Dates
 
@@ -97,15 +103,15 @@ When a law gives no date of its own, the default rule applies: Decrees take effe
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `6bb246ddce78b4b572f915ea82b514f610b3e5087223f74f56301b4fd112a593` (58258940 bytes).
+- Corpus: sha256 `bf575bebdf2f342d3f9a82ff1cf2bd952b7505a3be5fb2d3f9999d04748cfd26` (58371669 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-961 versions of 58 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
-No second build of this corpus has been compared yet.
+A second build from the same corpus into an empty folder gave identical hashes for all 760 history commits and 1467 tags (history tip `8f84dc6ef1757be5bddde6d72f6f1d946b0e2d5a`).
 
 ## Decisions made by hand
 
@@ -115,6 +121,11 @@ No second build of this corpus has been compared yet.
 - Units: the heading and preamble (encabezado), one file per article (with the headings and editor's notes printed just before it), the original transitorios, and the transitorios of each reform decree under its publication date. The banner "ÚLTIMA REFORMA PUBLICADA ..." / "TEXTO ORIGINAL" is left out; editor's notes ("(REFORMADO, P.O. ...)", "N. DE E.") stay as printed.
 - An act's first commit is its first publication only when SCJN's oldest record is the act itself and its text is marked "TEXTO ORIGINAL"; otherwise it is the oldest version available, naming the publications before it.
 - Codes of conduct and ethics are left out; only ordenamientos SCJN marks as in force are included.
+- Ley de la Casa de la Cultura Oaxaqueña: Última reforma: Decreto 733, P.O. Extra 1 septiembre 2025; transitorio segundo: día siguiente. Article units are split from the official PDF text layer; separately labelled transitory units retain operative clauses. Appended amendment articles and recurring page furniture are excluded. Normative images: 0 (page header logos only).
+- Ley de la Corporación Oaxaqueña de Radio y Televisión: Última reforma: Decreto 735, P.O. 36, décima primera sección, 6 septiembre 2025; transitorio primero: día siguiente. Article units are split from the official PDF text layer; separately labelled transitory units retain operative clauses. Appended amendment articles and recurring page furniture are excluded. Normative images: 0 (page header logos only).
+- Ley de Software Libre y Código Abierto del Estado de Oaxaca: Texto original: Decreto 593, P.O. Extra 12 mayo 2017; transitorio primero: día siguiente. Article units are split from the official PDF text layer; separately labelled transitory units retain operative clauses. Appended amendment articles and recurring page furniture are excluded. Normative images: 0 (page header logos only).
+- Ley de Voluntad Anticipada para el Estado de Oaxaca: Texto original: Decreto 1328, P.O. Extra 9 octubre 2015; transitorio primero: día siguiente. Article units are split from the official PDF text layer; separately labelled transitory units retain operative clauses. Appended amendment articles and recurring page furniture are excluded. Normative images: 0 (page header logos only).
+- Ley que Crea el Observatorio Turístico del Estado de Oaxaca: Texto original: Decreto 1534, P.O. 38, sexta sección, 23 septiembre 2023; transitorio primero: día siguiente. Article units are split from the official PDF text layer; separately labelled transitory units retain operative clauses. Appended amendment articles and recurring page furniture are excluded. Normative images: 0 (page header logos only).
 
 ## What AI did and did not do
 
@@ -126,3 +137,4 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - A model (Claude) wrote the fetch and parse code and chose which ordenamientos to include; it wrote no law text. Every word of law comes from the SCJN compilation's consolidated texts.
+- A model selected acts and read publication and vigencia clauses; all law text was extracted programmatically from the official PDF text layer without edits.
