@@ -80,7 +80,7 @@ The text is in Spanish, exactly as the source prints it.
 
 The legislation compilation of Mexico's Supreme Court, the Suprema Corte de Justicia de la Nación (SCJN), at <https://legislacion.scjn.gob.mx/>. For each ordenamiento it lists every publication in the state's official gazette (Periódico Oficial) that changed it (decree, erratum, ruling), with the date of publication, the decree's extract and the whole consolidated text as it stood after that publication. The first 58 ordenamientos listed above use those texts.
 
-The five additional current texts come from PDFs published on the [H. Congreso del Estado de Oaxaca legislation page](https://www.congresooaxaca.gob.mx/legislaciones/legislacion_estatal.html). Each is a single-file text of the official PDF text layer, including page headers and footers. Their dates follow the publication and commencement clauses printed in those PDFs. The source images in those five PDFs are recurring page-header logos; no normative images were found.
+The five additional current texts come from PDFs published on the [H. Congreso del Estado de Oaxaca legislation page](https://www.congresooaxaca.gob.mx/legislaciones/legislacion_estatal.html). Each has article files and separately labelled transitory files taken from the official PDF text layer. Repeated page headers and footers and appended amendment articles are excluded. Their dates follow the publication and commencement clauses printed in those PDFs. The source images in those five PDFs are recurring page-header logos; no normative images were found.
 
 ## Dates
 
@@ -91,12 +91,12 @@ The five additional current texts come from PDFs published on the [H. Congreso d
 
 ## Files
 
-`<act>/art-005.md` is Artículo 5, `art-005-bis.md` Artículo 5 Bis; `encabezado.md` holds the title, the promulgation and preamble; `transitorios-original.md` the original transitory articles and `transitorios-<date>.md` those of the reform published that day. Section headings and editor's notes such as "(REFORMADO, P.O. ...)" stay in the file of the article they stand before. One paragraph per line.
+`<act>/art-005.md` is Artículo 5, `art-005-bis.md` Artículo 5 Bis; `encabezado.md` holds the title, the promulgation and preamble; `transitorios-original.md` the original transitory articles and `transitorios-<date>.md` those of the reform published that day. Section headings and editor's notes such as "(REFORMADO, P.O. ...)" stay in the file of the article they stand before. The first 58 acts have one paragraph per line. PDF line breaks are preserved in the five congressional acts.
 
 ## How it is checked
 
 - Every version of every act is read back from git on the day it took effect and on the day before (`tools/check_repo.py`); both must match `corpus.json`.
-- For the first 58 ordenamientos, the letters and digits of every version equal SCJN's own text, checked with an independent reader. For the five congressional PDFs, the text layer's letters and digits equal an independent PDF extraction with none missing or added.
+- For the first 58 ordenamientos, the letters and digits of every version equal SCJN's own text, checked with an independent reader. For the five congressional PDFs, every included line was checked in source order against the official text layer; article counts and excluded decree material were checked separately.
 - Health checks: no merge commits, commit dates never go backwards, nothing dated in the future, and every commit's trailers parse.
 
 ## What "author" means
