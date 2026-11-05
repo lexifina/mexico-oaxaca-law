@@ -78,7 +78,7 @@ The text is in Spanish, exactly as the source prints it.
 
 ## Source
 
-The legislation compilation of Mexico's Supreme Court, the Suprema Corte de Justicia de la Nación (SCJN), at <https://legislacion.scjn.gob.mx/>. For each ordenamiento it lists every publication in the state's official gazette (Periódico Oficial) that changed it (decree, erratum, ruling), with the date of publication, the decree's extract and the whole consolidated text as it stood after that publication. Each version here is one of those texts.
+The legislation compilation of Mexico's Supreme Court, the Suprema Corte de Justicia de la Nación (SCJN), at <https://legislacion.scjn.gob.mx/>. For each ordenamiento it lists every publication in the state's official gazette (Periódico Oficial) that changed it (decree, erratum, ruling), with the date of publication, the decree's extract and the whole consolidated text as it stood after that publication. The first 58 ordenamientos listed above use those texts.
 
 The five additional current texts come from PDFs published on the [H. Congreso del Estado de Oaxaca legislation page](https://www.congresooaxaca.gob.mx/legislaciones/legislacion_estatal.html). Each is a single-file text of the official PDF text layer, including page headers and footers. Their dates follow the publication and commencement clauses printed in those PDFs. The source images in those five PDFs are recurring page-header logos; no normative images were found.
 
@@ -96,12 +96,12 @@ The five additional current texts come from PDFs published on the [H. Congreso d
 ## How it is checked
 
 - Every version of every act is read back from git on the day it took effect and on the day before (`tools/check_repo.py`); both must match `corpus.json`.
-- The letters and digits of every version equal those of SCJN's own text of that version (read independently of the parser), and every unit's text appears in it in order.
+- For the first 58 ordenamientos, the letters and digits of every version equal SCJN's own text, checked with an independent reader. For the five congressional PDFs, the text layer's letters and digits equal an independent PDF extraction with none missing or added.
 - Health checks: no merge commits, commit dates never go backwards, nothing dated in the future, and every commit's trailers parse.
 
 ## What "author" means
 
-The author of a commit is the publication that changed the text (a decree, an erratum or a ruling), named by its category, gazette date and issue, with an e-mail address that cannot exist (`<key>@legislacion.scjn.gob.mx.invalid`). The committer is always Lexifina.
+For the original 58 ordenamientos, the author is the publication that changed the text, with a non-deliverable e-mail address. For the five single-version congressional texts, the author is H. Congreso del Estado Libre y Soberano de Oaxaca. The committer is always Lexifina.
 
 ## Limits
 
