@@ -5,7 +5,7 @@
   "level": "state",
   "parent": "mx",
   "repo": "https://github.com/lexifina/mexico-oaxaca-law",
-  "build": "built: constitution, codes and laws (58 ordenamientos, 961 versions) from SCJN Legislación",
+  "build": "built: constitution, codes and laws (63 ordenamientos, 966 versions) from SCJN Legislación and H. Congreso del Estado de Oaxaca",
   "language": "es",
-  "sources": 1
+  "sources": 2
 }

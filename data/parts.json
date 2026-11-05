@@ -1,0 +1,93 @@
+{
+ "parts": {
+  "10-constitucion.json": {
+   "acts": [
+    "constitucion-politica"
+   ],
+   "sha256": "915059e110e94c0075fe26e975984ff91bd5768b64465dfc12ef8637548a9ff2"
+  },
+  "20-codigos-1.json": {
+   "acts": [
+    "codigo-civil",
+    "codigo-de-procedimientos-civiles",
+    "codigo-familiar",
+    "codigo-fiscal",
+    "codigo-fiscal-municipal",
+    "codigo-penal"
+   ],
+   "sha256": "213f9126317b18832e8d130394106936f70388cc0e7f897c093396b8f95f562f"
+  },
+  "30-leyes-01.json": {
+   "acts": [
+    "ley-contra-la-violencia-y-acoso-entre-iguales",
+    "ley-de-adopciones",
+    "ley-de-adquisiciones-enajenaciones-arrendamientos-prestacion",
+    "ley-de-agua-potable-y-alcantarillado",
+    "ley-de-amnistia",
+    "ley-de-archivos",
+    "ley-de-asistencia-y-prevencion-de-la-violencia-familiar",
+    "ley-de-bienes-pertenecientes-al-estado-de-oaxaca",
+    "ley-de-cambio-climatico",
+    "ley-de-caminos-carreteras-y-puentes",
+    "ley-de-caminos-y-aeropistas-de-oaxaca",
+    "ley-de-catastro",
+    "ley-de-ciencia-tecnologia-e-innovacion",
+    "ley-de-consulta-previa-libre-e-informada-de-los-pueblos-y-co",
+    "ley-de-coordinacion-estatal-de-las-zonas-economicas-especial",
+    "ley-de-coordinacion-fiscal",
+    "ley-de-coordinacion-para-el-desarrollo-metropolitano-sustent",
+    "ley-de-coordinacion-para-el-fomento-del-aprovechamiento-sust",
+    "ley-de-cultura-fisica-y-deporte",
+    "ley-de-derechos-de-los-pueblos-y-comunidades-indigenas-y-afr",
+    "ley-de-desarrollo-cultural",
+    "ley-de-desarrollo-forestal-sustentable",
+    "ley-de-desarrollo-rural-sustentable",
+    "ley-de-deuda-publica",
+    "ley-de-educacion",
+    "ley-de-encierros-y-depositos-de-vehiculos",
+    "ley-de-entidades-paraestatales",
+    "ley-de-entrega-recepcion-de-los-recursos-y-bienes",
+    "ley-de-estimulos-y-recompensas-a-los-funcionarios-y-empleado",
+    "ley-de-expropiacion",
+    "ley-de-firma-electronica-avanzada",
+    "ley-de-fiscalizacion-superior-y-rendicion-de-cuentas",
+    "ley-de-fomento-a-la-lactancia-materna-en-el-estado-de-oaxaca",
+    "ley-de-fomento-a-las-actividades-artesanales",
+    "ley-de-fomento-al-primer-empleo",
+    "ley-de-fomento-para-la-lectura-la-escritura-el-acceso-al-lib",
+    "ley-de-hacienda-municipal",
+    "ley-de-igualdad-entre-mujeres-y-hombres",
+    "ley-de-ingresos"
+   ],
+   "sha256": "e51db930e2d1fba602800576b16780cf72f76ecca9341a92e16d50683702ac80"
+  },
+  "31-leyes-02.json": {
+   "acts": [
+    "ley-de-ingresos-del-municipio-de-concepcion-buenavista-distr",
+    "ley-de-ingresos-del-municipio-de-heroica-ciudad-de-juchitan"
+   ],
+   "sha256": "6529eeeefacfeddecef0ce1b25ac9d0d3328900bc3e2691a6bb84df021b78051"
+  },
+  "32-leyes-03.json": {
+   "acts": [
+    "ley-de-ingresos-del-municipio-de-magdalena-zahuatlan-distrit",
+    "ley-de-ingresos-del-municipio-de-miahuatlan-de-porfirio-diaz",
+    "ley-de-ingresos-del-municipio-de-oaxaca-de-juarez-distrito-d",
+    "ley-de-ingresos-del-municipio-de-salina-cruz-distrito-de-teh",
+    "ley-de-ingresos-del-municipio-de-san-antonino-el-alto-distri",
+    "ley-de-ingresos-del-municipio-de-san-antonino-monte-verde-di"
+   ],
+   "sha256": "1eac30daf6e74a54fd90546a6e4c2e042bfc9ec9287f2197bb5f7203393a5adf"
+  },
+  "33-leyes-04.json": {
+   "acts": [
+    "ley-de-ingresos-del-municipio-de-san-bartolome-loxicha-distr",
+    "ley-de-ingresos-del-municipio-de-san-bartolome-quialana-dist",
+    "ley-de-ingresos-del-municipio-de-san-dionisio-del-mar-distri",
+    "ley-de-ingresos-del-municipio-de-san-dionisio-ocotlan-distri"
+   ],
+   "sha256": "93ca8c4c9dbd269a5ab639f5ae429ebb868a8390a43b2461d6f43969cb588ccb"
+  }
+ },
+ "schema": 1
+}

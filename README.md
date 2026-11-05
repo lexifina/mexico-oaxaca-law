@@ -8,7 +8,7 @@ The text is in Spanish, exactly as the source prints it.
 
 ## What this repository holds
 
-58 ordenamientos with 961 versions so far: the constitution first, then the codes and laws in force, added in parts. Regulations, decrees and repealed laws are not included yet.
+63 ordenamientos with 966 versions so far: the constitution first, then the codes and laws in force, added in parts. Regulations, decrees and repealed laws are not included yet.
 
 | Folder | Ordenamiento | Versions | History |
 | --- | --- | ---: | --- |
@@ -70,10 +70,17 @@ The text is in Spanish, exactly as the source prints it.
 | `ley-de-ingresos-del-municipio-de-san-bartolome-quialana-dist/` | LEY DE INGRESOS DEL MUNICIPIO DE SAN BARTOLOME QUIALANA, DISTRITO DE TLACOLULA, OAXACA, PARA EL EJERCICIO FISCAL 2025 | 1 | as first published: 29 March 2025 |
 | `ley-de-ingresos-del-municipio-de-san-dionisio-del-mar-distri/` | LEY DE INGRESOS DEL MUNICIPIO DE SAN DIONISIO DEL MAR, DISTRITO DE JUCHITAN, OAXACA, PARA EL EJERCICIO FISCAL 2025 | 1 | as first published: 16 March 2025 |
 | `ley-de-ingresos-del-municipio-de-san-dionisio-ocotlan-distri/` | LEY DE INGRESOS DEL MUNICIPIO DE SAN DIONISIO OCOTLAN, DISTRITO DE OCOTLAN, OAXACA, PARA EL EJERCICIO FISCAL 2026 | 1 | as first published: 18 January 2026 |
+| `ley-de-la-casa-de-la-cultura-oaxaquena/` | Ley de la Casa de la Cultura Oaxaqueña | 1 | current text, last reform effective 2 September 2025 |
+| `ley-de-la-corporacion-oaxaquena-de-radio-y-television/` | Ley de la Corporación Oaxaqueña de Radio y Televisión | 1 | current text, last reform effective 7 September 2025 |
+| `ley-de-software-libre-y-codigo-abierto/` | Ley de Software Libre y Código Abierto del Estado de Oaxaca | 1 | text effective 13 May 2017 |
+| `ley-de-voluntad-anticipada/` | Ley de Voluntad Anticipada para el Estado de Oaxaca | 1 | text effective 10 October 2015 |
+| `ley-del-observatorio-turistico/` | Ley que Crea el Observatorio Turístico del Estado de Oaxaca | 1 | text effective 24 September 2023 |
 
 ## Source
 
 The legislation compilation of Mexico's Supreme Court, the Suprema Corte de Justicia de la Nación (SCJN), at <https://legislacion.scjn.gob.mx/>. For each ordenamiento it lists every publication in the state's official gazette (Periódico Oficial) that changed it (decree, erratum, ruling), with the date of publication, the decree's extract and the whole consolidated text as it stood after that publication. Each version here is one of those texts.
+
+The five additional current texts come from PDFs published on the [H. Congreso del Estado de Oaxaca legislation page](https://www.congresooaxaca.gob.mx/legislaciones/legislacion_estatal.html). Each is a single-file text of the official PDF text layer, including page headers and footers. Their dates follow the publication and commencement clauses printed in those PDFs. The source images in those five PDFs are recurring page-header logos; no normative images were found.
 
 ## Dates
 
@@ -98,4 +105,4 @@ The author of a commit is the publication that changed the text (a decree, an er
 
 ## Limits
 
-This is not an official publication. The binding text is the one published in the state's official gazette (Periódico Oficial). The history starts with the oldest text SCJN holds for each ordenamiento, which for many is later than its enactment. Only the ordenamientos listed above are included.
+This is not an official publication. The binding text is the one published in the state's official gazette (Periódico Oficial). The history starts with the oldest text SCJN holds for each ordenamiento, which for many is later than its enactment. Only the ordenamientos listed above are included. The five congressional PDFs are current texts or original texts as specified in the table; they do not add amendment histories.
